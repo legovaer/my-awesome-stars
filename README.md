@@ -117,6 +117,7 @@
 - [joewalnes/websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
 - [aquasecurity/tfsec-pr-commenter-action](https://github.com/aquasecurity/tfsec-pr-commenter-action) - Add comments to pull requests where tfsec checks have failed
 - [terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs) - Generate documentation from Terraform modules in various output formats
+- [env0/terratag](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources
 - [accurics/terrascan](https://github.com/accurics/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 - [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
 - [pcasteran/terraform-graph-beautifier](https://github.com/pcasteran/terraform-graph-beautifier) - Terraform graph beautifier
@@ -166,7 +167,6 @@
 - [sjevs/terraform-static-website-s3-cloudfront](https://github.com/sjevs/terraform-static-website-s3-cloudfront) - Terraform template to create static website on AWS S3 & Cloudfront based on variables
 - [pagopa/terraform-infrastructure-template](https://github.com/pagopa/terraform-infrastructure-template) - Terraform template repository for infrastructures projects
 - [fergusmacd/template-repo-terraform](https://github.com/fergusmacd/template-repo-terraform) - Repo that can be used as a baseline to terraform projects
-- [env0/terratag](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources
 - [davoclock/aws-cicd-pipeline](https://github.com/davoclock/aws-cicd-pipeline) - 
 - [gruntwork-io/terragrunt-infrastructure-modules-example](https://github.com/gruntwork-io/terragrunt-infrastructure-modules-example) - A repo used to show examples file/folder structures you can use with Terragrunt and Terraform
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - A Terraform module for configuring GKE clusters.
@@ -202,6 +202,7 @@
 
 ## JavaScript 
 
+- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [Mariusthvdb/custom-ui](https://github.com/Mariusthvdb/custom-ui) - Adapted Custom-ui for HA 110+ / HA 2021.6
 - [alexarch21/history-explorer-card](https://github.com/alexarch21/history-explorer-card) - A card for Home Assistant Lovelace for exploring the history of your entities interactively and in real time.
@@ -313,6 +314,9 @@
 
 ## Others 
 
+- [best-of-lists/best-of](https://github.com/best-of-lists/best-of) - 🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.
+- [ml-tooling/best-of-jupyter](https://github.com/ml-tooling/best-of-jupyter) - 🏆 A ranked list of awesome Jupyter Notebook, Hub and Lab projects (extensions, kernels, tools). Updated weekly.
+- [markusschanta/awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) - A curated list of awesome Jupyter projects, libraries and resources
 - [Madelena/Metrology-for-Kustom](https://github.com/Madelena/Metrology-for-Kustom) - Transform your Android phone into a classic Windows Phone with a series of widgets and lock screens for Android based on Kustom KWGT and KWLP
 - [geerlingguy/ansible-role-apache-php-fpm](https://github.com/geerlingguy/ansible-role-apache-php-fpm) - Apache FastCGI support for PHP-FPM
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
@@ -328,6 +332,7 @@
 - [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) - Awesome Logseq resources created by the community &lt;3
 - [PhilipSchmid/k8s-home-lab](https://github.com/PhilipSchmid/k8s-home-lab) - Setup for a K8s home lab running on a single host (e.g. Intel NUC)
 - [hmmbob/HomeAssistantConfig](https://github.com/hmmbob/HomeAssistantConfig) - My Home Assistant configuration. More info at www.home-assistant.io or in the readme below.
+- [TheFes/HA-configuration](https://github.com/TheFes/HA-configuration) - My Home Assistant config
 - [aFFekopp/homeassistant](https://github.com/aFFekopp/homeassistant) - aFFekopps Home Assistant Configuration
 - [dwainscheeren/dwains-dashboard-blueprints](https://github.com/dwainscheeren/dwains-dashboard-blueprints) - Dwains Dashboard Blueprints
 - [Aregluss/Docker-Swarm-DDOS](https://github.com/Aregluss/Docker-Swarm-DDOS) - How to create a Denial of Service Attack through Docker Swarm.
@@ -443,7 +448,6 @@
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [pinkywafer/Home-Assistant_Config](https://github.com/pinkywafer/Home-Assistant_Config) - 
 - [arsaboo/homeassistant-config](https://github.com/arsaboo/homeassistant-config) - 🏡 My Home Assistant Configs. Be sure to :star2: my repo to follow the updates!
-- [TheFes/HA-configuration](https://github.com/TheFes/HA-configuration) - My Home Assistant config
 - [dchesterton/amcrest2mqtt](https://github.com/dchesterton/amcrest2mqtt) - Expose all events from an Amcrest device to an MQTT broker
 - [lwestenberg/bold_smart_lock](https://github.com/lwestenberg/bold_smart_lock) - This package implements the Bold Smart Lock API to authenticate and unlock a Bold smart lock. Usage of this API requires a Bold Connect.
 - [sonicwu/alfred-rgb2hex](https://github.com/sonicwu/alfred-rgb2hex) - Alfred workflow to convert RGB values of a color to a hexadecimal string
@@ -524,6 +528,7 @@
 
 ## Shell 
 
+- [cloudposse/geodesic](https://github.com/cloudposse/geodesic) - 🚀 Geodesic is a DevOps Linux Toolbox in Docker. We use it as an interactive cloud automation shell. It's the fastest way to get up and running with a rock solid Open Source toolchain.  ★ this repo! ht
 - [islerfab/wiki-sync-action](https://github.com/islerfab/wiki-sync-action) - A GitHub Action that synchronizes the contents of a directory to the repository's Wiki.
 - [fsaintjacques/semver-tool](https://github.com/fsaintjacques/semver-tool) - semver bash implementation
 - [geekofweek/homeassistant](https://github.com/geekofweek/homeassistant) - Example Home Assistant Configs
@@ -572,7 +577,6 @@
 - [home-assistant/alerts.home-assistant.io](https://github.com/home-assistant/alerts.home-assistant.io) - Home Assistant Alerts
 - [google/wireit](https://github.com/google/wireit) - Wireit upgrades your npm scripts to make them smarter and more efficient.
 - [jsonhero-io/jsonhero-web](https://github.com/jsonhero-io/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
-- [MindFreeze/ha-sankey-chart](https://github.com/MindFreeze/ha-sankey-chart) - A Home Assistant lovelace card to display a sankey chart. For example for power consumption
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
