@@ -894,7 +894,6 @@
 
 ## others 
 
-- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [apollocreed/ansible-autodoc](https://github.com/apollocreed/ansible-autodoc) - ansible-autodoc generates documentation from annotated Ansible Playbooks and Roles.
 - [AndresBott/ansible-autodoc](https://github.com/AndresBott/ansible-autodoc) - ansible-autodoc generates documentation from annotated Ansible Playbooks and Roles.
 - [murphypetercl/ansible-mdgen](https://github.com/murphypetercl/ansible-mdgen) - Python package to automate documentation generation for Ansible
