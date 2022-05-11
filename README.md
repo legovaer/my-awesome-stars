@@ -202,7 +202,6 @@
 
 ## JavaScript 
 
-- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [Mariusthvdb/custom-ui](https://github.com/Mariusthvdb/custom-ui) - Adapted Custom-ui for HA 110+ / HA 2021.6
 - [alexarch21/history-explorer-card](https://github.com/alexarch21/history-explorer-card) - A card for Home Assistant Lovelace for exploring the history of your entities interactively and in real time.
