@@ -118,7 +118,7 @@
 - [aquasecurity/tfsec-pr-commenter-action](https://github.com/aquasecurity/tfsec-pr-commenter-action) - Add comments to pull requests where tfsec checks have failed
 - [terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs) - Generate documentation from Terraform modules in various output formats
 - [env0/terratag](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources
-- [accurics/terrascan](https://github.com/accurics/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
+- [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 - [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
 - [pcasteran/terraform-graph-beautifier](https://github.com/pcasteran/terraform-graph-beautifier) - Terraform graph beautifier
 - [im2nguyen/rover](https://github.com/im2nguyen/rover) - Interactive Terraform visualization. State and configuration explorer.
