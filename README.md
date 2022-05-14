@@ -596,7 +596,7 @@
 - [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive) - Custom calendar card for Home Assistant with Lovelace
 - [DBuit/sidebar-card](https://github.com/DBuit/sidebar-card) - 
 - [DBuit/Homekit-panel-card](https://github.com/DBuit/Homekit-panel-card) - Homekit panel card for home assistant
-- [emqx/MQTTX](https://github.com/emqx/MQTTX) - Elegant Cross-platform MQTT 5.0 Desktop Client
+- [emqx/MQTTX](https://github.com/emqx/MQTTX) - Elegant cross-platform MQTT 5.0 desktop client
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [SvanBoxel/organization-workflows](https://github.com/SvanBoxel/organization-workflows) - Need to centrally manage and run Actions workflows across multiple repositories? This app does it for you.
