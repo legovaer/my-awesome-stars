@@ -202,6 +202,7 @@
 
 ## JavaScript 
 
+- [pottava/docker-webui](https://github.com/pottava/docker-webui) - Dockerized docker-webui -&gt;
 - [piitaya/lovelace-mushroom-themes](https://github.com/piitaya/lovelace-mushroom-themes) - Additional themes for Lovelace Mushroom Cards 🍄
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [Mariusthvdb/custom-ui](https://github.com/Mariusthvdb/custom-ui) - Adapted Custom-ui for HA 110+ / HA 2021.6
