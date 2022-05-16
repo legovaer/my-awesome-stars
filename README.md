@@ -202,6 +202,7 @@
 
 ## JavaScript 
 
+- [espruino/TinyDash](https://github.com/espruino/TinyDash) - A Tiny IoT Dashboard, small enough to serve from embedded devices
 - [pottava/docker-webui](https://github.com/pottava/docker-webui) - Dockerized docker-webui -&gt;
 - [piitaya/lovelace-mushroom-themes](https://github.com/piitaya/lovelace-mushroom-themes) - Additional themes for Lovelace Mushroom Cards 🍄
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
@@ -338,7 +339,7 @@
 - [dwainscheeren/dwains-dashboard-blueprints](https://github.com/dwainscheeren/dwains-dashboard-blueprints) - Dwains Dashboard Blueprints
 - [Aregluss/Docker-Swarm-DDOS](https://github.com/Aregluss/Docker-Swarm-DDOS) - How to create a Denial of Service Attack through Docker Swarm.
 - [dimagoltsman/generic-remote-control-card](https://github.com/dimagoltsman/generic-remote-control-card) - Generic Remote control card for HACS
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - 🤓 Build your own (insert technology here)
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [ACJUK/NSPanel](https://github.com/ACJUK/NSPanel) - 
 - [jimz011/hass-custom-light-popup-card](https://github.com/jimz011/hass-custom-light-popup-card) - Popup lovelace card with brightness slider and optional scene selection. Use in combination with thomas loven browser_mod or custom pop-up card
 - [Astogems/Darkboard](https://github.com/Astogems/Darkboard) - This repository contains all the YAML Codes required to recreate https://github.com/matt8707/hass-config entirely on the UI Editor
