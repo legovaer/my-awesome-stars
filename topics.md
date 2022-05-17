@@ -898,6 +898,7 @@
 
 ## others 
 
+- [Aohzan/hass-blueprints](https://github.com/Aohzan/hass-blueprints) - My personnal collection of Home-Assistant's blueprints
 - [espruino/TinyDash](https://github.com/espruino/TinyDash) - A Tiny IoT Dashboard, small enough to serve from embedded devices
 - [piitaya/lovelace-mushroom-themes](https://github.com/piitaya/lovelace-mushroom-themes) - Additional themes for Lovelace Mushroom Cards 🍄
 - [apollocreed/ansible-autodoc](https://github.com/apollocreed/ansible-autodoc) - ansible-autodoc generates documentation from annotated Ansible Playbooks and Roles.
