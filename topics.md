@@ -188,6 +188,7 @@
 
 ## automation 
 
+- [asosnovsky/Shortumation](https://github.com/asosnovsky/Shortumation) - A better way to write automations in home-assistant without having to install and run a seperate automation engine!
 - [geekofweek/homeassistant](https://github.com/geekofweek/homeassistant) - Example Home Assistant Configs
 - [skalavala/mysmarthome](https://github.com/skalavala/mysmarthome) - :star: ALIVE Again! :star: SmartHome - Nothing but smarthome stuff here! Have fun browsing through my home automation setup... ping me on Discord with any questions! :thumbsup:
 - [thegeeklab/ansible-doctor](https://github.com/thegeeklab/ansible-doctor) - Annotation based documentation for your Ansible roles
@@ -260,6 +261,7 @@
 
 ## aws 
 
+- [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [cloudposse/geodesic](https://github.com/cloudposse/geodesic) - 🚀 Geodesic is a DevOps Linux Toolbox in Docker. We use it as an interactive cloud automation shell. It's the fastest way to get up and running with a rock solid Open Source toolchain.  ★ this repo! ht
 - [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
 - [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
@@ -433,6 +435,7 @@
 
 ## devops 
 
+- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [cloudposse/geodesic](https://github.com/cloudposse/geodesic) - 🚀 Geodesic is a DevOps Linux Toolbox in Docker. We use it as an interactive cloud automation shell. It's the fastest way to get up and running with a rock solid Open Source toolchain.  ★ this repo! ht
 - [sumup-oss/terraform-provider-vaulted](https://github.com/sumup-oss/terraform-provider-vaulted) - Encrypted HashiCorp Vault secrets via Terraform that can be stored in SCM such as Git
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 750+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDA
@@ -455,6 +458,9 @@
 
 ## docker 
 
+- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
+- [asosnovsky/Shortumation](https://github.com/asosnovsky/Shortumation) - A better way to write automations in home-assistant without having to install and run a seperate automation engine!
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [pottava/docker-webui](https://github.com/pottava/docker-webui) - Dockerized docker-webui -&gt;
 - [cloudposse/geodesic](https://github.com/cloudposse/geodesic) - 🚀 Geodesic is a DevOps Linux Toolbox in Docker. We use it as an interactive cloud automation shell. It's the fastest way to get up and running with a rock solid Open Source toolchain.  ★ this repo! ht
 - [r7wx/easy-gate](https://github.com/r7wx/easy-gate) - A gate to your self hosted infrastructure
@@ -544,6 +550,8 @@
 
 ## github 
 
+- [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a set of tools and guides for beautifying your github profile. 🚩
+- [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 750+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDA
@@ -556,6 +564,7 @@
 
 ## go 
 
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [sumup-oss/terraform-provider-vaulted](https://github.com/sumup-oss/terraform-provider-vaulted) - Encrypted HashiCorp Vault secrets via Terraform that can be stored in SCM such as Git
 - [r7wx/easy-gate](https://github.com/r7wx/easy-gate) - A gate to your self hosted infrastructure
 - [hadenlabs/terraform-grafana-dashboard](https://github.com/hadenlabs/terraform-grafana-dashboard) - Grafana dashboard Terraform module
@@ -572,6 +581,7 @@
 
 ## golang 
 
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [sumup-oss/terraform-provider-vaulted](https://github.com/sumup-oss/terraform-provider-vaulted) - Encrypted HashiCorp Vault secrets via Terraform that can be stored in SCM such as Git
 - [cloudposse/build-harness](https://github.com/cloudposse/build-harness) - 🤖Collection of Makefiles to facilitate building Golang projects, Dockerfiles, Helm charts, and more
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
@@ -597,6 +607,7 @@
 
 ## hacktoberfest 
 
+- [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 2
@@ -739,6 +750,8 @@
 
 ## kubernetes 
 
+- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [cloudposse/geodesic](https://github.com/cloudposse/geodesic) - 🚀 Geodesic is a DevOps Linux Toolbox in Docker. We use it as an interactive cloud automation shell. It's the fastest way to get up and running with a rock solid Open Source toolchain.  ★ this repo! ht
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 750+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDA
@@ -898,6 +911,7 @@
 
 ## others 
 
+- [RohanSreerama5/Naive-Bayes-Classifier-Flux](https://github.com/RohanSreerama5/Naive-Bayes-Classifier-Flux) - Implementation of Naive Bayes Classifier in Flux
 - [Aohzan/hass-blueprints](https://github.com/Aohzan/hass-blueprints) - My personnal collection of Home-Assistant's blueprints
 - [espruino/TinyDash](https://github.com/espruino/TinyDash) - A Tiny IoT Dashboard, small enough to serve from embedded devices
 - [piitaya/lovelace-mushroom-themes](https://github.com/piitaya/lovelace-mushroom-themes) - Additional themes for Lovelace Mushroom Cards 🍄
@@ -1249,6 +1263,7 @@
 
 ## reactjs 
 
+- [asosnovsky/Shortumation](https://github.com/asosnovsky/Shortumation) - A better way to write automations in home-assistant without having to install and run a seperate automation engine!
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
 
 ## rest-api 
@@ -1306,6 +1321,7 @@
 
 ## serverless 
 
+- [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
@@ -1354,6 +1370,7 @@
 
 ## terraform 
 
+- [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [cloudposse/geodesic](https://github.com/cloudposse/geodesic) - 🚀 Geodesic is a DevOps Linux Toolbox in Docker. We use it as an interactive cloud automation shell. It's the fastest way to get up and running with a rock solid Open Source toolchain.  ★ this repo! ht
 - [sumup-oss/terraform-provider-vaulted](https://github.com/sumup-oss/terraform-provider-vaulted) - Encrypted HashiCorp Vault secrets via Terraform that can be stored in SCM such as Git
 - [rohullah-ayoub/awslightsail-wordpress-terraform-](https://github.com/rohullah-ayoub/awslightsail-wordpress-terraform-) - Terraform configuration needed to setup a Wordpress site in Amazon Web Services(AWS) Lightsail.
