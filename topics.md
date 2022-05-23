@@ -938,6 +938,7 @@
 
 ## others 
 
+- [brianhanifin/Home-Assistant-Config](https://github.com/brianhanifin/Home-Assistant-Config) - 
 - [jlmcgehee21/smart_hass](https://github.com/jlmcgehee21/smart_hass) - 
 - [SAVE-POlNT/goodcontainers](https://github.com/SAVE-POlNT/goodcontainers) - this is a collections of good docker contaienrs iv collected over the time , if you have portainer installed i have an app template that you can use to install them
 - [etsy/411](https://github.com/etsy/411) - An Alert Management Web Application
