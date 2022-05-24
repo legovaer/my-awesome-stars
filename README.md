@@ -493,7 +493,7 @@
 - [GrandMoff100/HomeAssistantAPI](https://github.com/GrandMoff100/HomeAssistantAPI) - Python Wrapper for Homeassistant's REST API
 - [dwainscheeren/dwains-lovelace-dashboard](https://github.com/dwainscheeren/dwains-lovelace-dashboard) - An fully auto generating Home Assistant UI dashboard for desktop, tablet and mobile by Dwains for desktop, tablet, mobile
 - [ysde/grafana-backup-tool](https://github.com/ysde/grafana-backup-tool) - A Python-based application to backup Grafana settings using the Grafana API
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations during build-time for Terraform, CloudFormation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [eifinger/appdaemon-scripts](https://github.com/eifinger/appdaemon-scripts) - Scripts running in Appdaemon for Homeassistant Automations
 - [robmarkcole/HASS-Deepstack-object](https://github.com/robmarkcole/HASS-Deepstack-object) - Home Assistant custom component for using Deepstack object detection
