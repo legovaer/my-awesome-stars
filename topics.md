@@ -938,6 +938,8 @@
 
 ## others 
 
+- [bacco007/HomeAssistantConfig](https://github.com/bacco007/HomeAssistantConfig) - My Home Assistant Configuration
+- [bieniu/home-assistant-config](https://github.com/bieniu/home-assistant-config) - Home Assistant Config
 - [brianhanifin/Home-Assistant-Config](https://github.com/brianhanifin/Home-Assistant-Config) - 
 - [jlmcgehee21/smart_hass](https://github.com/jlmcgehee21/smart_hass) - 
 - [SAVE-POlNT/goodcontainers](https://github.com/SAVE-POlNT/goodcontainers) - this is a collections of good docker contaienrs iv collected over the time , if you have portainer installed i have an app template that you can use to install them
@@ -1258,6 +1260,7 @@
 
 ## python3 
 
+- [izebit/slack-notify-app-daemon](https://github.com/izebit/slack-notify-app-daemon) - daemon for notify slack application
 - [P0cL4bs/wifipumpkin3](https://github.com/P0cL4bs/wifipumpkin3) - Powerful framework for rogue access point attack.
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 
