@@ -193,14 +193,12 @@
 - [DeanCording/node-red-contrib-config](https://github.com/DeanCording/node-red-contrib-config) - A Node Red node for setting global and flow context data at startup
 - [niklaswall/node-red-contrib-light-scheduler](https://github.com/niklaswall/node-red-contrib-light-scheduler) - Light Scheduler is a node-red node that provides a weekly schedule mainly focused on controlling light in home automation scenarios.
 - [DubhAd/Home-AssistantConfig](https://github.com/DubhAd/Home-AssistantConfig) - My Home Assistant configuration files
-- [stanvx/Home-Assistant-Configuration](https://github.com/stanvx/Home-Assistant-Configuration) - 🏡 My Home Assistant Configuration Files. Be sure to ⭐️ my repo!
 - [JamesMcCarthy79/Home-Assistant-Config](https://github.com/JamesMcCarthy79/Home-Assistant-Config) - Home Assistant Configuration & Documentation for my Smart House.
 - [joBr99/nspanel-lovelace-ui](https://github.com/joBr99/nspanel-lovelace-ui) - Custom Firmware for NsPanel with the design of HomeAssistant's lovelace UI in mind, works with Tasmota.
 - [gijsje/ns-panel](https://github.com/gijsje/ns-panel) - ESPhome on my Sonoff NS Panel
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 - [jareware/chilipie-kiosk](https://github.com/jareware/chilipie-kiosk) - Easy-to-use Raspberry Pi image for booting directly into full-screen Chrome, with built-in convenience features for unattended operation. Perfect for dashboards and build monitors.
 - [ericlbarnes/gulp-bower-bootstrap-fontawesome](https://github.com/ericlbarnes/gulp-bower-bootstrap-fontawesome) - Example repo for the tutorial
-- [google/WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
 - [isocra/TableDnD](https://github.com/isocra/TableDnD) - jQuery plug-in to drag and drop rows in HTML tables
 
 ## Java 
@@ -284,6 +282,7 @@
 - [borisson/composer-ui](https://github.com/borisson/composer-ui) - UI for composer things
 - [rethinkdb/horizon](https://github.com/rethinkdb/horizon) - Horizon is a realtime, open-source backend for JavaScript apps.
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
+- [google/WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
 - [ajaxorg/ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
 - [nock/nock](https://github.com/nock/nock) - HTTP server mocking and expectations library for Node.js
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
@@ -332,6 +331,9 @@
 
 ## Others 
 
+- [Madelena/hass-config-public](https://github.com/Madelena/hass-config-public) - 
+- [MrAstra96/Mytools](https://github.com/MrAstra96/Mytools) - #TOOL INSTALLER V.1.0 #CODED BY : Mr.Astra96 #CODENAME : DheMell bi='\033[34;1m' #biru ij='\033[32;1m' #ijo pr='\033[35;1m' #purple cy='\033[36;1m' #cyan me='\033[31;1m' #merah pu='\033[37;1m' #putih 
+- [payloadbox/sql-injection-payload-list](https://github.com/payloadbox/sql-injection-payload-list) - 🎯 SQL Injection Payload List
 - [PiotrMachowski/Home-Assistant-Lovelace-HTML-Jinja2-Template-card](https://github.com/PiotrMachowski/Home-Assistant-Lovelace-HTML-Jinja2-Template-card) - This card displays provided Jinja2 template as an HTML content of a card. It uses exactly the same engine as Home Assistant in Developer tools.
 - [PiotrMachowski/Home-Assistant-Lovelace-Local-Conditional-card](https://github.com/PiotrMachowski/Home-Assistant-Lovelace-Local-Conditional-card) - This card can show and hide a specific card on current device while not affecting other windows. It does not require any integration to run.
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
@@ -442,6 +444,12 @@
 
 ## Python 
 
+- [sweetsoftware/Ares](https://github.com/sweetsoftware/Ares) - Python botnet and backdoor
+- [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) - vulnx 🕷️ an intelligent Bot, Shell can achieve automatic injection, and help researchers detect security vulnerabilities CMS system. It can perform a quick CMS security detection, information collecti
+- [utkusen/leviathan](https://github.com/utkusen/leviathan) - wide range mass audit toolkit
+- [telekom-security/explo](https://github.com/telekom-security/explo) - Human and machine readable web vulnerability testing format
+- [stamparm/DSSS](https://github.com/stamparm/DSSS) - Damn Small SQLi Scanner
+- [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
