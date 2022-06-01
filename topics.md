@@ -958,6 +958,9 @@
 
 ## others 
 
+- [scstraus/home-assistant-config](https://github.com/scstraus/home-assistant-config) - My HomeAssistant Configuration (Home Assistant Supervised, Debian 10)
+- [SeLLeRoNe/HA-Config](https://github.com/SeLLeRoNe/HA-Config) - Home Assistant Configuration
+- [lcmchris/thesillyhome](https://github.com/lcmchris/thesillyhome) - The silly home
 - [lcmchris/thesillyhome-addon-repo](https://github.com/lcmchris/thesillyhome-addon-repo) - add on repo for thesillyhome
 - [Madelena/hass-config-public](https://github.com/Madelena/hass-config-public) - 
 - [sweetsoftware/Ares](https://github.com/sweetsoftware/Ares) - Python botnet and backdoor
