@@ -197,6 +197,7 @@
 - [JamesMcCarthy79/Home-Assistant-Config](https://github.com/JamesMcCarthy79/Home-Assistant-Config) - Home Assistant Configuration & Documentation for my Smart House.
 - [joBr99/nspanel-lovelace-ui](https://github.com/joBr99/nspanel-lovelace-ui) - Custom Firmware for NsPanel with the design of HomeAssistant's lovelace UI in mind, works with Tasmota.
 - [gijsje/ns-panel](https://github.com/gijsje/ns-panel) - ESPhome on my Sonoff NS Panel
+- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 - [jareware/chilipie-kiosk](https://github.com/jareware/chilipie-kiosk) - Easy-to-use Raspberry Pi image for booting directly into full-screen Chrome, with built-in convenience features for unattended operation. Perfect for dashboards and build monitors.
 - [ericlbarnes/gulp-bower-bootstrap-fontawesome](https://github.com/ericlbarnes/gulp-bower-bootstrap-fontawesome) - Example repo for the tutorial
@@ -554,7 +555,6 @@
 - [mirakui/ec2ssh](https://github.com/mirakui/ec2ssh) - A ssh_config manager for AWS EC2
 - [coinbase/terraform-landscape](https://github.com/coinbase/terraform-landscape) - Improve Terraform's plan output to be easier to read and understand
 - [discourse/logster](https://github.com/discourse/logster) - Log viewer UI and framework for rack
-- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [Homebrew/linuxbrew-core](https://github.com/Homebrew/linuxbrew-core) - 💀Formerly the core formulae for the Homebrew package manager on Linux
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [railsware/capistrano-multiconfig](https://github.com/railsware/capistrano-multiconfig) - Capistrano extension that allows to use multiple configurations
