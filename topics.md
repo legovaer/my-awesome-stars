@@ -100,6 +100,7 @@
 - [php](#php)
 - [postgresql](#postgresql)
 - [programming](#programming)
+- [pwa](#pwa)
 - [python](#python)
 - [python3](#python3)
 - [pytorch](#pytorch)
@@ -233,7 +234,7 @@
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) - Curated list of resources on HashiCorp's Terraform
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
@@ -501,7 +502,7 @@
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
 - [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science.
 - [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [Aregluss/Docker-Swarm-DDOS](https://github.com/Aregluss/Docker-Swarm-DDOS) - How to create a Denial of Service Attack through Docker Swarm.
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is a low-code platform for creating internal apps, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
 - [cloud66-oss/habitus](https://github.com/cloud66-oss/habitus) - A build flow tool for Docker.
@@ -661,7 +662,7 @@
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
 - [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [kootenpv/whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [custom-components/remote_homeassistant](https://github.com/custom-components/remote_homeassistant) - Links multiple home-assistant instances together
@@ -938,7 +939,7 @@
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
 - [Icesofty/Digital-Currency](https://github.com/Icesofty/Digital-Currency) - Create your own Digital Currency with this self-hosted Web App. Check out the Demo website
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [mKeRix/room-assistant](https://github.com/mKeRix/room-assistant) - Presence tracking and more for automation on the room-level
 - [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built by Salesforce.
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
@@ -1258,6 +1259,10 @@
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [braydie/HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer) - A guide on how to be a Programmer - originally published by Robert L Read
 
+## pwa 
+
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+
 ## python 
 
 - [utkusen/leviathan](https://github.com/utkusen/leviathan) - wide range mass audit toolkit
@@ -1552,7 +1557,7 @@
 ## vue 
 
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
 - [emqx/MQTTX](https://github.com/emqx/MQTTX) - Elegant cross-platform MQTT 5.0 desktop client
 
