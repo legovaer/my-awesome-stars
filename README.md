@@ -363,6 +363,7 @@
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
 - [nagyrobi/home-assistant-configuration-examples](https://github.com/nagyrobi/home-assistant-configuration-examples) - Some of my Home Assistant configurations shared to the community
+- [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) - Awesome Logseq resources created by the community &lt;3
@@ -489,7 +490,6 @@
 - [finity69x2/nws_alerts](https://github.com/finity69x2/nws_alerts) - An updated version of the nws_alerts custom integration for Home Assistant
 - [k8s-at-home/awesome-home-kubernetes](https://github.com/k8s-at-home/awesome-home-kubernetes) - Awesome projects involving running Kubernetes at home
 - [octodns/octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
-- [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - [guardicore/monkey](https://github.com/guardicore/monkey) - Infection Monkey - An automated pentest tool
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -586,7 +586,7 @@
 - [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [brianhanifin/Home-Assistant-Config](https://github.com/brianhanifin/Home-Assistant-Config) - 
 - [toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
-- [SAVE-POlNT/goodcontainers](https://github.com/SAVE-POlNT/goodcontainers) - this is a collections of good docker contaienrs iv collected over the time , if you have portainer installed i have an app template that you can use to install them
+- [Mehdi-YC/goodcontainers](https://github.com/Mehdi-YC/goodcontainers) - this is a collections of good docker contaienrs iv collected over the time , if you have portainer installed i have an app template that you can use to install them
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [cloudposse/geodesic](https://github.com/cloudposse/geodesic) - 🚀 Geodesic is a DevOps Linux Toolbox in Docker. We use it as an interactive cloud automation shell. It's the fastest way to get up and running with a rock solid Open Source toolchain.  ★ this repo! ht
 - [islerfab/wiki-sync-action](https://github.com/islerfab/wiki-sync-action) - A GitHub Action that synchronizes the contents of a directory to the repository's Wiki.
