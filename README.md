@@ -55,6 +55,7 @@
 
 - [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
+- [TheFes/HA-configuration](https://github.com/TheFes/HA-configuration) - My Home Assistant config
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full docum
 - [clsync/lrsync](https://github.com/clsync/lrsync) - rsync-like clsync wrapper for live syncing (based on inotify)
 - [berdav/CVE-2021-4034](https://github.com/berdav/CVE-2021-4034) - CVE-2021-4034 1day
@@ -369,7 +370,6 @@
 - [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) - Awesome Logseq resources created by the community &lt;3
 - [PhilipSchmid/k8s-home-lab](https://github.com/PhilipSchmid/k8s-home-lab) - Setup for a K8s home lab running on a single host (e.g. Intel NUC)
 - [hmmbob/HomeAssistantConfig](https://github.com/hmmbob/HomeAssistantConfig) - My Home Assistant configuration. More info at www.home-assistant.io or in the readme below.
-- [TheFes/HA-configuration](https://github.com/TheFes/HA-configuration) - My Home Assistant config
 - [aFFekopp/homeassistant](https://github.com/aFFekopp/homeassistant) - aFFekopps Home Assistant Configuration
 - [dwainscheeren/dwains-dashboard-blueprints](https://github.com/dwainscheeren/dwains-dashboard-blueprints) - Dwains Dashboard Blueprints
 - [Aregluss/Docker-Swarm-DDOS](https://github.com/Aregluss/Docker-Swarm-DDOS) - How to create a Denial of Service Attack through Docker Swarm.
