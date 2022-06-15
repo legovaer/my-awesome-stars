@@ -519,7 +519,7 @@
 - [thedavidwhiteside/ansible-docgen](https://github.com/thedavidwhiteside/ansible-docgen) - Generate documentation from annotated Ansible Playbooks and Roles
 - [thegeeklab/ansible-doctor](https://github.com/thegeeklab/ansible-doctor) - Annotation based documentation for your Ansible roles
 - [terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs) - Generate documentation from Terraform modules in various output formats
-- [AmoebeLabs/swiss-army-knife](https://github.com/AmoebeLabs/swiss-army-knife) - The documentation repository for the Swiss Army Knife custom card for Home Assistant.
+- [AmoebeLabs/swiss-army-knife-card-manual](https://github.com/AmoebeLabs/swiss-army-knife-card-manual) - The documentation repository for the Swiss Army Knife custom card for Home Assistant.
 - [documize/community](https://github.com/documize/community) - Modern Confluence alternative designed for internal & external docs, built with Go + EmberJS
 - [octo-technology/kubernetes-icons](https://github.com/octo-technology/kubernetes-icons) - [obsolete] Set of icons for Kubernetes diagrams, has been merged into official k8s repo!!
 
