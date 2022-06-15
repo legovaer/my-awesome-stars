@@ -102,6 +102,7 @@
 
 ## Dockerfile 
 
+- [lcmchris/thesillyhome-addon-repo](https://github.com/lcmchris/thesillyhome-addon-repo) - add on repo for thesillyhome
 - [vulhub/vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
 - [bertbaron/hassio-addons](https://github.com/bertbaron/hassio-addons) - My Home Assistant addons
 - [nolte/vscode-devcontainers](https://github.com/nolte/vscode-devcontainers) - 
@@ -195,7 +196,7 @@
 
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [fastender/blob](https://github.com/fastender/blob) - The Blob - Documentation
-- [AmoebeLabs/swiss-army-knife](https://github.com/AmoebeLabs/swiss-army-knife) - The documentation repository for the Swiss Army Knife custom card for Home Assistant.
+- [AmoebeLabs/swiss-army-knife-card-manual](https://github.com/AmoebeLabs/swiss-army-knife-card-manual) - The documentation repository for the Swiss Army Knife custom card for Home Assistant.
 - [DeanCording/node-red-contrib-config](https://github.com/DeanCording/node-red-contrib-config) - A Node Red node for setting global and flow context data at startup
 - [niklaswall/node-red-contrib-light-scheduler](https://github.com/niklaswall/node-red-contrib-light-scheduler) - Light Scheduler is a node-red node that provides a weekly schedule mainly focused on controlling light in home automation scenarios.
 - [DubhAd/Home-AssistantConfig](https://github.com/DubhAd/Home-AssistantConfig) - My Home Assistant configuration files
@@ -460,7 +461,6 @@
 - [scstraus/home-assistant-config](https://github.com/scstraus/home-assistant-config) - My HomeAssistant Configuration (Home Assistant Supervised, Debian 10)
 - [SeLLeRoNe/HA-Config](https://github.com/SeLLeRoNe/HA-Config) - Home Assistant Configuration
 - [lcmchris/thesillyhome](https://github.com/lcmchris/thesillyhome) - The silly home
-- [lcmchris/thesillyhome-addon-repo](https://github.com/lcmchris/thesillyhome-addon-repo) - add on repo for thesillyhome
 - [sweetsoftware/Ares](https://github.com/sweetsoftware/Ares) - Python botnet and backdoor
 - [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) - vulnx 🕷️ an intelligent Bot, Shell can achieve automatic injection, and help researchers detect security vulnerabilities CMS system. It can perform a quick CMS security detection, information collecti
 - [utkusen/leviathan](https://github.com/utkusen/leviathan) - wide range mass audit toolkit
