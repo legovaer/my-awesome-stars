@@ -607,7 +607,7 @@
 - [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
-- [Zockerwolf76/Zockbot-Instagram](https://github.com/Zockerwolf76/Zockbot-Instagram) - a. powerful bot who increase your Instagram followers
+- [Zockerwolf76/Zockbot-Instagram](https://github.com/Zockerwolf76/Zockbot-Instagram) - a powerful bot which increase your Instagram followers
 - [scylladb/scylla-monitoring](https://github.com/scylladb/scylla-monitoring) - Simple monitoring of Scylla with Grafana
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations 🇺🇦
 - [stylemistake/runner](https://github.com/stylemistake/runner) - Simple, lightweight task runner for Bash.
