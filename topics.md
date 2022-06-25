@@ -1021,7 +1021,7 @@
 - [bertbaron/hassio-addons](https://github.com/bertbaron/hassio-addons) - My Home Assistant addons
 - [hmsdao/bootstrap-rsyslog-ui](https://github.com/hmsdao/bootstrap-rsyslog-ui) - Syslog web frontend using php, json, and bootstrap
 - [joewalnes/websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
-- [boostchicken-dev/udm-utilities](https://github.com/boostchicken-dev/udm-utilities) - A collection of things I have made to make the Unifi Dream Machine more useful
+- [unifi-utilities/unifios-utilities](https://github.com/unifi-utilities/unifios-utilities) - A collection of  enhancements for UnifiOS based devices
 - [xcad2k/boilerplates](https://github.com/xcad2k/boilerplates) - Templates and configurations for various projects and deployment scenarios
 - [sjevs/terraform-static-website-s3-cloudfront](https://github.com/sjevs/terraform-static-website-s3-cloudfront) - Terraform template to create static website on AWS S3 & Cloudfront based on variables
 - [nolte/vscode-devcontainers](https://github.com/nolte/vscode-devcontainers) - 
