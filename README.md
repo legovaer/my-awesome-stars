@@ -281,7 +281,6 @@
 - [legovaer/jsonnunit](https://github.com/legovaer/jsonnunit) - 🚦 a BDD assertion style unit testing framework for JSONNET through an 'expect' interface
 - [documize/community](https://github.com/documize/community) - Modern Confluence alternative designed for internal & external docs, built with Go + EmberJS
 - [bollewolle/delijn-card](https://github.com/bollewolle/delijn-card) - Home Assistant custom card for De Lijn sensor
-- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [rfxcom/node-rfxcom](https://github.com/rfxcom/node-rfxcom) - Node.js client for talking to an RFXtrx433 device
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [shipitjs/shipit](https://github.com/shipitjs/shipit) - Universal automation and deployment tool ⛵️
@@ -668,6 +667,7 @@
 - [atlassian/github-for-jira](https://github.com/atlassian/github-for-jira) - Connect your code with your project management in Jira
 - [NarrativeScience/log.io](https://github.com/NarrativeScience/log.io) - Real-time log monitoring in your browser
 - [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built by Salesforce.
+- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [uselagoon/lagoon](https://github.com/uselagoon/lagoon) - Lagoon, the developer-focused application delivery platform
 
 ## Vim script 
