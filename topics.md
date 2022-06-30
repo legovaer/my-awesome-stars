@@ -965,7 +965,7 @@
 - [SeLLeRoNe/HA-Config](https://github.com/SeLLeRoNe/HA-Config) - Home Assistant Configuration
 - [lcmchris/thesillyhome](https://github.com/lcmchris/thesillyhome) - The silly home
 - [lcmchris/thesillyhome-addon-repo](https://github.com/lcmchris/thesillyhome-addon-repo) - add on repo for thesillyhome
-- [Madelena/hass-config-public](https://github.com/Madelena/hass-config-public) - Madelena's Maximalist Dashboard for Home Assistant
+- [Madelena/hass-config-public](https://github.com/Madelena/hass-config-public) - Maximalist Dashboards for Home Assistant with complex data visualizations and a responsive design in a neat Metro Live Tile layout
 - [sweetsoftware/Ares](https://github.com/sweetsoftware/Ares) - Python botnet and backdoor
 - [MrAstra96/Mytools](https://github.com/MrAstra96/Mytools) - #TOOL INSTALLER V.1.0 #CODED BY : Mr.Astra96 #CODENAME : DheMell bi='\033[34;1m' #biru ij='\033[32;1m' #ijo pr='\033[35;1m' #purple cy='\033[36;1m' #cyan me='\033[31;1m' #merah pu='\033[37;1m' #putih 
 - [stamparm/DSSS](https://github.com/stamparm/DSSS) - Damn Small SQLi Scanner
