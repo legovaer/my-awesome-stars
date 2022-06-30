@@ -75,7 +75,7 @@
 
 ## CSS 
 
-- [Madelena/hass-config-public](https://github.com/Madelena/hass-config-public) - Madelena's Maximalist Dashboard for Home Assistant
+- [Madelena/hass-config-public](https://github.com/Madelena/hass-config-public) - Maximalist Dashboards for Home Assistant with complex data visualizations and a responsive design in a neat Metro Live Tile layout
 - [Madelena/Metrology-for-Hass](https://github.com/Madelena/Metrology-for-Hass) - 🎨 Give your Home Assistant a modern and clean facelift. 🟥🟧🟩🟦 4 Color Themes (Magenta Red / Orange / Green / Blue) + 🌞 Light and 🌚 Dark modes included. Based on Metro and Fluent UI Design Systems from 
 - [dracula/logseq](https://github.com/dracula/logseq) - 🧛🏻‍♂️ Dark theme for Logseq
 - [node-red-contrib-themes/solarized-dark-grey](https://github.com/node-red-contrib-themes/solarized-dark-grey) - A dark theme for Node-RED inspired by the Solarized color palette
