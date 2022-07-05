@@ -219,6 +219,7 @@
 
 ## JavaScript 
 
+- [kalkih/mini-graph-card](https://github.com/kalkih/mini-graph-card) - Minimalistic graph card for Home Assistant Lovelace UI
 - [lcmchris/thesillyhome-container](https://github.com/lcmchris/thesillyhome-container) - containerized version
 - [thomasloven/lovelace-flower-card](https://github.com/thomasloven/lovelace-flower-card) - 
 - [bacco007/HomeAssistantConfig](https://github.com/bacco007/HomeAssistantConfig) - My Home Assistant Configuration
@@ -585,6 +586,7 @@
 
 ## Shell 
 
+- [solvaholic/octodns-sync](https://github.com/solvaholic/octodns-sync) - GitHub Action to test and deploy DNS settings with OctoDNS
 - [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [brianhanifin/Home-Assistant-Config](https://github.com/brianhanifin/Home-Assistant-Config) - 
 - [toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
@@ -635,6 +637,7 @@
 
 ## TypeScript 
 
+- [thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) - 🔹Automatically populate the entities-list of lovelace cards
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
 - [asosnovsky/Shortumation](https://github.com/asosnovsky/Shortumation) - A better way to write automations in home-assistant without having to install and run a seperate automation engine!
 - [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
