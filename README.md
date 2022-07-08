@@ -76,8 +76,8 @@
 
 ## CSS 
 
-- [Madelena/hass-config-public](https://github.com/Madelena/hass-config-public) - Maximalist Dashboards for Home Assistant with complex data visualizations and a responsive design in a neat Metro Live Tile layout
-- [Madelena/Metrology-for-Hass](https://github.com/Madelena/Metrology-for-Hass) - 🎨 Give your Home Assistant a modern and clean facelift. 🟥🟧🟩🟦 4 Color Themes (Magenta Red / Orange / Green / Blue) + 🌞 Light and 🌚 Dark modes included. Based on Metro and Fluent UI Design Systems from 
+- [Madelena/hass-config-public](https://github.com/Madelena/hass-config-public) - My Maximalist Dashboards for Home Assistant - Advanced data visualizations, responsive design, and a neat Metro Live Tile layout
+- [Madelena/Metrology-for-Hass](https://github.com/Madelena/Metrology-for-Hass) - 🎨 Give your Home Assistant a modern and clean facelift. 🟥🟧🟩🟦🟪 24 Variations with 2 Styles + 6 Colors (Magenta Red / Orange / Green / Blue / Purple) + 🌞 Light and 🌚 Dark modes included. Based on Metro 
 - [dracula/logseq](https://github.com/dracula/logseq) - 🧛🏻‍♂️ Dark theme for Logseq
 - [node-red-contrib-themes/solarized-dark-grey](https://github.com/node-red-contrib-themes/solarized-dark-grey) - A dark theme for Node-RED inspired by the Solarized color palette
 - [AZSupra/HADashboard-Blur-Theme-Light](https://github.com/AZSupra/HADashboard-Blur-Theme-Light) - A skin for Home Assistant HADashboard that looks a little like the iOS Home app
@@ -462,6 +462,7 @@
 
 ## Python 
 
+- [jeremietharaud/elasticbeanstalk-exporter](https://github.com/jeremietharaud/elasticbeanstalk-exporter) - Simple AWS Elastic Beanstalk exporter
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [relliky/Tais_Home_Assistant_Config](https://github.com/relliky/Tais_Home_Assistant_Config) - My Home Assistant Automation Configuration
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
