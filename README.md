@@ -223,6 +223,7 @@
 
 ## JavaScript 
 
+- [algenty/grafana-flowcharting](https://github.com/algenty/grafana-flowcharting) - Flowcharting, plugin for Grafana to create complexe visio's draws style like technical architectures, floorplan, diagrams, hierarchical schema based on draw.io
 - [PagerDuty/pagerduty-change-events-action](https://github.com/PagerDuty/pagerduty-change-events-action) - A GitHub action that creates a PagerDuty change event.
 - [sergiitk/pagerbeauty](https://github.com/sergiitk/pagerbeauty) - :pager::sparkles: PagerDuty on-call widget for monitoring dashboard. Datadog and Grafana compatible
 - [thegreenrobot/pagerduty_dashing](https://github.com/thegreenrobot/pagerduty_dashing) - A Dashing dashboard for PagerDuty Services & Schedules
@@ -271,6 +272,7 @@
 - [atomic7777/atomic_calendar](https://github.com/atomic7777/atomic_calendar) - Custom calendar card for Home Assistant with Lovelace
 - [daspn/private-actions-checkout](https://github.com/daspn/private-actions-checkout) - GitHub Action to make custom private actions easily available to any workflow
 - [jayz28/Slashbot](https://github.com/jayz28/Slashbot) - The game bot.
+- [dwainscheeren/dwains-lovelace-dashboard](https://github.com/dwainscheeren/dwains-lovelace-dashboard) - An fully auto generating Home Assistant UI dashboard for desktop, tablet and mobile by Dwains for desktop, tablet, mobile
 - [iann0036/former2](https://github.com/iann0036/former2) - Generate CloudFormation / Terraform / Troposphere templates from your existing AWS resources.
 - [28mm/blast-radius](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs using d3.js
 - [supermamon/scriptable-scripts](https://github.com/supermamon/scriptable-scripts) - My scripts for the Scriptable app. https://scriptable.app/
@@ -359,6 +361,7 @@
 - [MrAstra96/Mytools](https://github.com/MrAstra96/Mytools) - #TOOL INSTALLER V.1.0 #CODED BY : Mr.Astra96 #CODENAME : DheMell bi='\033[34;1m' #biru ij='\033[32;1m' #ijo pr='\033[35;1m' #purple cy='\033[36;1m' #cyan me='\033[31;1m' #merah pu='\033[37;1m' #putih 
 - [payloadbox/sql-injection-payload-list](https://github.com/payloadbox/sql-injection-payload-list) - 🎯 SQL Injection Payload List
 - [PiotrMachowski/Home-Assistant-Lovelace-HTML-Jinja2-Template-card](https://github.com/PiotrMachowski/Home-Assistant-Lovelace-HTML-Jinja2-Template-card) - This card displays provided Jinja2 template as an HTML content of a card. It uses exactly the same engine as Home Assistant in Developer tools.
+- [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [PiotrMachowski/Home-Assistant-Lovelace-Local-Conditional-card](https://github.com/PiotrMachowski/Home-Assistant-Lovelace-Local-Conditional-card) - This card can show and hide a specific card on current device while not affecting other windows. It does not require any integration to run.
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
 - [Aohzan/hass-blueprints](https://github.com/Aohzan/hass-blueprints) - My personnal collection of Home-Assistant's blueprints
@@ -469,6 +472,7 @@
 
 ## Python 
 
+- [line/promgen](https://github.com/line/promgen) - Promgen is a configuration file generator for Prometheus
 - [GamehunterKaan/AutoPWN-Suite](https://github.com/GamehunterKaan/AutoPWN-Suite) - AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically.
 - [jeremietharaud/elasticbeanstalk-exporter](https://github.com/jeremietharaud/elasticbeanstalk-exporter) - Simple AWS Elastic Beanstalk exporter
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
@@ -483,7 +487,6 @@
 - [telekom-security/explo](https://github.com/telekom-security/explo) - Human and machine readable web vulnerability testing format
 - [stamparm/DSSS](https://github.com/stamparm/DSSS) - Damn Small SQLi Scanner
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
-- [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
 - [bacco007/HomeAssistantConfig](https://github.com/bacco007/HomeAssistantConfig) - My Home Assistant Configuration
@@ -541,7 +544,6 @@
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [custom-components/remote_homeassistant](https://github.com/custom-components/remote_homeassistant) - Links multiple home-assistant instances together
 - [GrandMoff100/HomeAssistantAPI](https://github.com/GrandMoff100/HomeAssistantAPI) - Python Wrapper for Homeassistant's REST API
-- [dwainscheeren/dwains-lovelace-dashboard](https://github.com/dwainscheeren/dwains-lovelace-dashboard) - An fully auto generating Home Assistant UI dashboard for desktop, tablet and mobile by Dwains for desktop, tablet, mobile
 - [ysde/grafana-backup-tool](https://github.com/ysde/grafana-backup-tool) - A Python-based application to backup Grafana settings using the Grafana API
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
@@ -650,6 +652,7 @@
 
 ## TypeScript 
 
+- [prymitive/karma](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [jdbranham/grafana-diagram](https://github.com/jdbranham/grafana-diagram) - A Grafana plugin to visualize metrics in a diagram using flow charts, gantt charts, sequence diagrams, or class diagrams
 - [thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) - 🔹Automatically populate the entities-list of lovelace cards
