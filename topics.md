@@ -130,12 +130,14 @@
 - [terminal](#terminal)
 - [terraform](#terraform)
 - [testing](#testing)
+- [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [vagrant](#vagrant)
 - [visual-studio-code](#visual-studio-code)
 - [vue](#vue)
 - [web](#web)
+- [webapp](#webapp)
 - [windows](#windows)
 - [wordpress](#wordpress)
 
@@ -184,6 +186,7 @@
 
 ## api 
 
+- [slanatech/swagger-stats](https://github.com/slanatech/swagger-stats) - API Observability. Trace API calls and Monitor API performance, health and usage statistics in Node.js Microservices.
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 800+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDA
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
@@ -464,6 +467,7 @@
 
 ## devops 
 
+- [slanatech/swagger-stats](https://github.com/slanatech/swagger-stats) - API Observability. Trace API calls and Monitor API performance, health and usage statistics in Node.js Microservices.
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [cloudposse/geodesic](https://github.com/cloudposse/geodesic) - 🚀 Geodesic is a DevOps Linux Toolbox in Docker. We use it as an interactive cloud automation shell. It's the fastest way to get up and running with a rock solid Open Source toolchain.  ★ this repo! ht
 - [sumup-oss/terraform-provider-vaulted](https://github.com/sumup-oss/terraform-provider-vaulted) - Encrypted HashiCorp Vault secrets via Terraform that can be stored in SCM such as Git
@@ -491,6 +495,8 @@
 
 ## docker 
 
+- [vegasbrianc/prometheus](https://github.com/vegasbrianc/prometheus) - A docker-compose stack for Prometheus monitoring
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [sergiitk/pagerbeauty](https://github.com/sergiitk/pagerbeauty) - :pager::sparkles: PagerDuty on-call widget for monitoring dashboard. Datadog and Grafana compatible
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [almarklein/mypaas](https://github.com/almarklein/mypaas) - Run your own PaaS using Docker, Traefik, and great analytics
@@ -860,6 +866,7 @@
 
 ## machine-learning 
 
+- [ThoughtfulDev/EagleEye](https://github.com/ThoughtfulDev/EagleEye) - Stalk your Friends. Find their Instagram, FB and Twitter Profiles using Image Recognition and Reverse Image Search.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
 - [ml-tooling/best-of-jupyter](https://github.com/ml-tooling/best-of-jupyter) - 🏆 A ranked list of awesome Jupyter Notebook, Hub and Lab projects (extensions, kernels, tools). Updated weekly.
@@ -910,6 +917,8 @@
 
 ## monitoring 
 
+- [slanatech/swagger-stats](https://github.com/slanatech/swagger-stats) - API Observability. Trace API calls and Monitor API performance, health and usage statistics in Node.js Microservices.
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [algenty/grafana-flowcharting](https://github.com/algenty/grafana-flowcharting) - Flowcharting, plugin for Grafana to create complexe visio's draws style like technical architectures, floorplan, diagrams, hierarchical schema based on draw.io
 - [prymitive/karma](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager
 - [line/promgen](https://github.com/line/promgen) - Promgen is a configuration file generator for Prometheus
@@ -955,6 +964,7 @@
 
 ## nodejs 
 
+- [slanatech/swagger-stats](https://github.com/slanatech/swagger-stats) - API Observability. Trace API calls and Monitor API performance, health and usage statistics in Node.js Microservices.
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [tecfu/tty-table](https://github.com/tecfu/tty-table) - Terminal table for Windows, Linux, and MacOS. Written in nodejs. Also works in browser console. Word wrap, padding, alignment, colors, Asian character support, per-column callbacks, and you can pass r
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
@@ -983,6 +993,8 @@
 
 ## others 
 
+- [teltec/teltec-social-wall](https://github.com/teltec/teltec-social-wall) - A web application that shows live Tweets and Instagram photos that contain a specified hashtag.
+- [dachcom-digital/pimcore-social-data](https://github.com/dachcom-digital/pimcore-social-data) - Provide social data from different networks like facebook instagram or youtube.
 - [Vonage/Grafana_Status_panel](https://github.com/Vonage/Grafana_Status_panel) - A panel plugin for Grafana to monitor multiple parameters at once
 - [jdbranham/grafana-diagram](https://github.com/jdbranham/grafana-diagram) - A Grafana plugin to visualize metrics in a diagram using flow charts, gantt charts, sequence diagrams, or class diagrams
 - [PagerDuty/pagerduty-change-events-action](https://github.com/PagerDuty/pagerduty-change-events-action) - A GitHub action that creates a PagerDuty change event.
@@ -1338,6 +1350,7 @@
 
 ## python3 
 
+- [ThoughtfulDev/EagleEye](https://github.com/ThoughtfulDev/EagleEye) - Stalk your Friends. Find their Instagram, FB and Twitter Profiles using Image Recognition and Reverse Image Search.
 - [GamehunterKaan/AutoPWN-Suite](https://github.com/GamehunterKaan/AutoPWN-Suite) - AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [izebit/slack-notify-app-daemon](https://github.com/izebit/slack-notify-app-daemon) - daemon for notify slack application
@@ -1474,6 +1487,7 @@
 
 ## statistics 
 
+- [slanatech/swagger-stats](https://github.com/slanatech/swagger-stats) - API Observability. Trace API calls and Monitor API performance, health and usage statistics in Node.js Microservices.
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 
 ## swift 
@@ -1567,6 +1581,10 @@
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [legovaer/jsonnunit](https://github.com/legovaer/jsonnunit) - 🚦 a BDD assertion style unit testing framework for JSONNET through an 'expect' interface
 
+## twitter 
+
+- [Krisseck/Hashtag-Wall-Server](https://github.com/Krisseck/Hashtag-Wall-Server) - Hashtag wall that displays posts from social media
+
 ## typescript 
 
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
@@ -1610,6 +1628,10 @@
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [google/WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
+
+## webapp 
+
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 
 ## windows 
 
