@@ -1104,7 +1104,7 @@
 - [TheFes/HA-configuration](https://github.com/TheFes/HA-configuration) - My Home Assistant config
 - [DeanCording/node-red-contrib-config](https://github.com/DeanCording/node-red-contrib-config) - A Node Red node for setting global and flow context data at startup
 - [niklaswall/node-red-contrib-light-scheduler](https://github.com/niklaswall/node-red-contrib-light-scheduler) - Light Scheduler is a node-red node that provides a weekly schedule mainly focused on controlling light in home automation scenarios.
-- [node-red-contrib-themes/solarized-dark-grey](https://github.com/node-red-contrib-themes/solarized-dark-grey) - A dark theme for Node-RED inspired by the Solarized color palette
+- [node-red-contrib-themes/solarized-dark-grey](https://github.com/node-red-contrib-themes/solarized-dark-grey) - DEPRECATED REPOSITORY
 - [dchesterton/amcrest2mqtt](https://github.com/dchesterton/amcrest2mqtt) - Expose all events from an Amcrest device to an MQTT broker
 - [lwestenberg/bold_smart_lock](https://github.com/lwestenberg/bold_smart_lock) - This package implements the Bold Smart Lock API to authenticate and unlock a Bold smart lock. Usage of this API requires a Bold Connect.
 - [Zockerwolf76/Zockbot-Instagram](https://github.com/Zockerwolf76/Zockbot-Instagram) - a powerful bot which increase your Instagram followers
