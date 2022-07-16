@@ -79,7 +79,7 @@
 - [Madelena/hass-config-public](https://github.com/Madelena/hass-config-public) - My Maximalist Dashboards for Home Assistant - Advanced data visualizations, responsive design, and a neat Metro Live Tile layout
 - [Madelena/Metrology-for-Hass](https://github.com/Madelena/Metrology-for-Hass) - 🎨 Give your Home Assistant a modern and clean facelift. 🟥🟧🟩🟦🟪 24 Variations with 2 Styles + 6 Colors (Magenta Red / Orange / Green / Blue / Purple) + 🌞 Light and 🌚 Dark modes included. Based on Metro 
 - [dracula/logseq](https://github.com/dracula/logseq) - 🧛🏻‍♂️ Dark theme for Logseq
-- [node-red-contrib-themes/solarized-dark-grey](https://github.com/node-red-contrib-themes/solarized-dark-grey) - A dark theme for Node-RED inspired by the Solarized color palette
+- [node-red-contrib-themes/solarized-dark-grey](https://github.com/node-red-contrib-themes/solarized-dark-grey) - DEPRECATED REPOSITORY
 - [AZSupra/HADashboard-Blur-Theme-Light](https://github.com/AZSupra/HADashboard-Blur-Theme-Light) - A skin for Home Assistant HADashboard that looks a little like the iOS Home app
 - [mortendk/eleven](https://github.com/mortendk/eleven) - Drupal 8 admin theme that goes to 11
 - [elipapa/markdown-cv](https://github.com/elipapa/markdown-cv) - a simple template to write your CV in a readable markdown file and use CSS to publish/print it.
