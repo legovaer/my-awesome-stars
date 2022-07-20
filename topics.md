@@ -1037,7 +1037,7 @@
 - [espruino/TinyDash](https://github.com/espruino/TinyDash) - A Tiny IoT Dashboard, small enough to serve from embedded devices
 - [piitaya/lovelace-mushroom-themes](https://github.com/piitaya/lovelace-mushroom-themes) - Additional themes for Lovelace Mushroom Cards 🍄
 - [apollocreed/ansible-autodoc](https://github.com/apollocreed/ansible-autodoc) - ansible-autodoc generates documentation from annotated Ansible Playbooks and Roles.
-- [AndresBott/ansible-autodoc](https://github.com/AndresBott/ansible-autodoc) - ansible-autodoc generates documentation from annotated Ansible Playbooks and Roles.
+- [andresbott/ansible-autodoc](https://github.com/andresbott/ansible-autodoc) - ansible-autodoc generates documentation from annotated Ansible Playbooks and Roles.
 - [murphypetercl/ansible-mdgen](https://github.com/murphypetercl/ansible-mdgen) - Python package to automate documentation generation for Ansible
 - [thomasloven/lovelace-template-entity-row](https://github.com/thomasloven/lovelace-template-entity-row) - 🔹 Display whatever you want in an entities card row.
 - [Madelena/Metrology-for-Kustom](https://github.com/Madelena/Metrology-for-Kustom) - Transform your Android phone into a classic Windows Phone with a series of widgets and lock screens for Android based on Kustom KWGT and KWLP
