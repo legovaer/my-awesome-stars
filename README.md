@@ -504,7 +504,7 @@
 - [almarklein/mypaas](https://github.com/almarklein/mypaas) - Run your own PaaS using Docker, Traefik, and great analytics
 - [angadsingh/argos](https://github.com/angadsingh/argos) - a spacial-temporal pattern detection system for home automation
 - [apollocreed/ansible-autodoc](https://github.com/apollocreed/ansible-autodoc) - ansible-autodoc generates documentation from annotated Ansible Playbooks and Roles.
-- [AndresBott/ansible-autodoc](https://github.com/AndresBott/ansible-autodoc) - ansible-autodoc generates documentation from annotated Ansible Playbooks and Roles.
+- [andresbott/ansible-autodoc](https://github.com/andresbott/ansible-autodoc) - ansible-autodoc generates documentation from annotated Ansible Playbooks and Roles.
 - [thedavidwhiteside/ansible-docgen](https://github.com/thedavidwhiteside/ansible-docgen) - Generate documentation from annotated Ansible Playbooks and Roles
 - [murphypetercl/ansible-mdgen](https://github.com/murphypetercl/ansible-mdgen) - Python package to automate documentation generation for Ansible
 - [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
