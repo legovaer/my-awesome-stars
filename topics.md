@@ -326,6 +326,7 @@
 
 ## bitcoin 
 
+- [LePetitBloc/bitcoind-exporter](https://github.com/LePetitBloc/bitcoind-exporter) - :bar_chart: Bitcoind metrics Prometheus exporter in node js
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 
 ## bot 
@@ -929,6 +930,9 @@
 
 ## monitoring 
 
+- [LePetitBloc/bitcoind-exporter](https://github.com/LePetitBloc/bitcoind-exporter) - :bar_chart: Bitcoind metrics Prometheus exporter in node js
+- [RisingStack/example-prometheus-nodejs](https://github.com/RisingStack/example-prometheus-nodejs) - Prometheus monitoring example with Node.js
+- [siimon/prom-client](https://github.com/siimon/prom-client) - Prometheus client for node.js
 - [slanatech/swagger-stats](https://github.com/slanatech/swagger-stats) - API Observability. Trace API calls and Monitor API performance, health and usage statistics in Node.js Microservices.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [algenty/grafana-flowcharting](https://github.com/algenty/grafana-flowcharting) - Flowcharting, plugin for Grafana to create complexe visio's draws style like technical architectures, floorplan, diagrams, hierarchical schema based on draw.io
@@ -969,6 +973,7 @@
 
 ## node 
 
+- [RisingStack/example-prometheus-nodejs](https://github.com/RisingStack/example-prometheus-nodejs) - Prometheus monitoring example with Node.js
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
@@ -976,6 +981,8 @@
 
 ## nodejs 
 
+- [RisingStack/example-prometheus-nodejs](https://github.com/RisingStack/example-prometheus-nodejs) - Prometheus monitoring example with Node.js
+- [siimon/prom-client](https://github.com/siimon/prom-client) - Prometheus client for node.js
 - [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - 💬 🤖  The most reliable WhatsApp tool for chatbots with advanced features. Be sure to 🌟 this repository for updates!
 - [slanatech/swagger-stats](https://github.com/slanatech/swagger-stats) - API Observability. Trace API calls and Monitor API performance, health and usage statistics in Node.js Microservices.
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
@@ -1006,6 +1013,8 @@
 
 ## others 
 
+- [jamesvidler/stackpath-metrics](https://github.com/jamesvidler/stackpath-metrics) - 
+- [PagerDuty-Samples/event-orchestration-with-terraform](https://github.com/PagerDuty-Samples/event-orchestration-with-terraform) - Sample code for configuring Event Orchestration with Terraform
 - [TehloWasTaken/HomeDashboardv3](https://github.com/TehloWasTaken/HomeDashboardv3) - Github Repo explaining what services I run on my Homelab Grafana Dashboard
 - [teltec/teltec-social-wall](https://github.com/teltec/teltec-social-wall) - A web application that shows live Tweets and Instagram photos that contain a specified hashtag.
 - [dachcom-digital/pimcore-social-data](https://github.com/dachcom-digital/pimcore-social-data) - Provide social data from different networks like facebook instagram or youtube.
