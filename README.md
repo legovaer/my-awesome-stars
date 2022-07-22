@@ -163,6 +163,7 @@
 
 ## HCL 
 
+- [PagerDuty-Samples/event-orchestration-with-terraform](https://github.com/PagerDuty-Samples/event-orchestration-with-terraform) - Sample code for configuring Event Orchestration with Terraform
 - [rohullah-ayoub/awslightsail-wordpress-terraform-](https://github.com/rohullah-ayoub/awslightsail-wordpress-terraform-) - Terraform configuration needed to setup a Wordpress site in Amazon Web Services(AWS) Lightsail.
 - [ishajain140/terraform_ansible_integration](https://github.com/ishajain140/terraform_ansible_integration) - Demonstration on how to integrate Terraform with Ansible
 - [joatmon08/terraform-aws-listenerrule-nia](https://github.com/joatmon08/terraform-aws-listenerrule-nia) - Consul-Terraform-Sync Module for AWS Application Load Balancer Listener Rules
@@ -224,6 +225,10 @@
 
 ## JavaScript 
 
+- [LePetitBloc/bitcoind-exporter](https://github.com/LePetitBloc/bitcoind-exporter) - :bar_chart: Bitcoind metrics Prometheus exporter in node js
+- [jamesvidler/stackpath-metrics](https://github.com/jamesvidler/stackpath-metrics) - 
+- [RisingStack/example-prometheus-nodejs](https://github.com/RisingStack/example-prometheus-nodejs) - Prometheus monitoring example with Node.js
+- [siimon/prom-client](https://github.com/siimon/prom-client) - Prometheus client for node.js
 - [slanatech/swagger-stats](https://github.com/slanatech/swagger-stats) - API Observability. Trace API calls and Monitor API performance, health and usage statistics in Node.js Microservices.
 - [Krisseck/Hashtag-Wall-Server](https://github.com/Krisseck/Hashtag-Wall-Server) - Hashtag wall that displays posts from social media
 - [teltec/teltec-social-wall](https://github.com/teltec/teltec-social-wall) - A web application that shows live Tweets and Instagram photos that contain a specified hashtag.
