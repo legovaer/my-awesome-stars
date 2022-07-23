@@ -346,6 +346,7 @@
 
 ## Makefile 
 
+- [HariSekhon/GitHub-Actions](https://github.com/HariSekhon/GitHub-Actions) - GitHub Actions master template and GitHub Actions Reusable Workflows
 - [waveaccounting/terraform-aws-chatbot-slack-configuration](https://github.com/waveaccounting/terraform-aws-chatbot-slack-configuration) - Module to enable Chatbot Slack channel configuration in Terraform
 - [cloudposse/build-harness](https://github.com/cloudposse/build-harness) - 🤖Collection of Makefiles to facilitate building Golang projects, Dockerfiles, Helm charts, and more
 - [jx3-gitops-repositories/jx3-gke-gsm-gitea](https://github.com/jx3-gitops-repositories/jx3-gke-gsm-gitea) - Jenkins X 3.x Cluster Git Template for managing Kubernetes resources in a cluster using Google Secret Manager and using Gitea as the git provider
