@@ -1074,6 +1074,7 @@
 
 ## others 
 
+- [admiraltyio/admiralty](https://github.com/admiraltyio/admiralty) - A system of Kubernetes controllers that intelligently schedules workloads across clusters.
 - [jamesvidler/stackpath-metrics](https://github.com/jamesvidler/stackpath-metrics) - 
 - [PagerDuty-Samples/event-orchestration-with-terraform](https://github.com/PagerDuty-Samples/event-orchestration-with-terraform) - Sample code for configuring Event Orchestration with Terraform
 - [TehloWasTaken/HomeDashboardv3](https://github.com/TehloWasTaken/HomeDashboardv3) - Github Repo explaining what services I run on my Homelab Grafana Dashboard
