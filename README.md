@@ -82,6 +82,7 @@
 - [dracula/logseq](https://github.com/dracula/logseq) - 🧛🏻‍♂️ Dark theme for Logseq
 - [node-red-contrib-themes/solarized-dark-grey](https://github.com/node-red-contrib-themes/solarized-dark-grey) - DEPRECATED REPOSITORY
 - [AZSupra/HADashboard-Blur-Theme-Light](https://github.com/AZSupra/HADashboard-Blur-Theme-Light) - A skin for Home Assistant HADashboard that looks a little like the iOS Home app
+- [matt8707/hass-config](https://github.com/matt8707/hass-config) - A different take on designing a Lovelace UI
 - [mortendk/eleven](https://github.com/mortendk/eleven) - Drupal 8 admin theme that goes to 11
 - [elipapa/markdown-cv](https://github.com/elipapa/markdown-cv) - a simple template to write your CV in a readable markdown file and use CSS to publish/print it.
 - [Behat/docs](https://github.com/Behat/docs) - Behat documentation repository
@@ -306,7 +307,6 @@
 - [jakowenko/double-take](https://github.com/jakowenko/double-take) - Unified UI and API for processing and training images for facial recognition.
 - [Burningstone91/smart-home-setup](https://github.com/Burningstone91/smart-home-setup) - Installation and Configuration of my Smart Home Setup
 - [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
-- [matt8707/hass-config](https://github.com/matt8707/hass-config) - A different take on designing a Lovelace UI
 - [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [matt-kruse/find-my-iphone](https://github.com/matt-kruse/find-my-iphone) - A Node module to trigger the "Find My iPhone" feature from iCloud, to play a sound on the phone
 - [legovaer/be.lgit.bayesian](https://github.com/legovaer/be.lgit.bayesian) - 
