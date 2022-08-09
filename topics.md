@@ -167,6 +167,8 @@
 
 ## ansible 
 
+- [nginxinc/ansible-role-nginx-config](https://github.com/nginxinc/ansible-role-nginx-config) - Ansible role for configuring NGINX
+- [wluisaraujo/ansible-role-nginx](https://github.com/wluisaraujo/ansible-role-nginx) - Infrastructure as Code (IaC) with Ansible for NGINX
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [thedavidwhiteside/ansible-docgen](https://github.com/thedavidwhiteside/ansible-docgen) - Generate documentation from annotated Ansible Playbooks and Roles
 - [geerlingguy/ansible-role-php](https://github.com/geerlingguy/ansible-role-php) - Ansible Role - PHP
@@ -726,6 +728,7 @@
 
 ## hacktoberfest 
 
+- [tontonsb/NGINX-snippets](https://github.com/tontonsb/NGINX-snippets) - Nginx snippets and examples
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
