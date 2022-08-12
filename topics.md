@@ -1129,6 +1129,9 @@
 
 ## others 
 
+- [almibarss/build-alfred-workflow](https://github.com/almibarss/build-alfred-workflow) - A GitHub Action to package Alfred workflows
+- [TTNomi/awpark](https://github.com/TTNomi/awpark) - Alfred Workflow Store
+- [sciyoshi/redmine-slack](https://github.com/sciyoshi/redmine-slack) - Slack notification plugin for Redmine
 - [Bhasfe/babur](https://github.com/Bhasfe/babur) - Babur is an open-source ML-Based Slack Bot application.
 - [ansible/ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applica
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
