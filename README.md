@@ -124,6 +124,7 @@
 
 ## Go 
 
+- [TTNomi/awpark](https://github.com/TTNomi/awpark) - Alfred Workflow Store
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Gatus - Automated service health dashboard
 - [ahoy-cli/ahoy](https://github.com/ahoy-cli/ahoy) - Create self-documenting cli programs from YAML files. Easily wrap bash, grunt, npm, docker, (anything) to standardize your processes and make the lives of the people working on your project better.
 - [submariner-io/submariner](https://github.com/submariner-io/submariner) - Connect all your Kubernetes clusters, no matter where they are in the world.
@@ -530,6 +531,7 @@
 
 ## Python 
 
+- [almibarss/build-alfred-workflow](https://github.com/almibarss/build-alfred-workflow) - A GitHub Action to package Alfred workflows
 - [Netflix/hubcommander](https://github.com/Netflix/hubcommander) - A Slack bot for GitHub organization management -- and other things too
 - [Bhasfe/babur](https://github.com/Bhasfe/babur) - Babur is an open-source ML-Based Slack Bot application.
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
@@ -645,6 +647,7 @@
 
 ## Ruby 
 
+- [sciyoshi/redmine-slack](https://github.com/sciyoshi/redmine-slack) - Slack notification plugin for Redmine
 - [MarioRuiz/slack-smart-bot](https://github.com/MarioRuiz/slack-smart-bot) - Create a Slack bot that is smart and so easy to expand, create new bots on demand, run ruby code on chat, create shortcuts...    The main scope of this gem is to be used internally in the company so t
 - [litaio/lita](https://github.com/litaio/lita) - ChatOps for Ruby.
 - [mirakui/ec2ssh](https://github.com/mirakui/ec2ssh) - A ssh_config manager for AWS EC2
