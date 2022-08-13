@@ -1129,6 +1129,13 @@
 
 ## others 
 
+- [mozilla/kitsune](https://github.com/mozilla/kitsune) - Platform for Mozilla Support
+- [spotify/web-scripts](https://github.com/spotify/web-scripts) - A collection of base configs and CLI wrappers used to speed up development @ Spotify.
+- [spotify/git-test](https://github.com/spotify/git-test) - test your commits
+- [crowsec-edtech/larasploit](https://github.com/crowsec-edtech/larasploit) - Laravel Automated Vulnerability Scanner
+- [astir13/bugzilla-docker](https://github.com/astir13/bugzilla-docker) - Dockerfiles for generating a bugzilla docker based on Ubuntu 20.04 & Apache2, configurable Mysql/MariaDb database
+- [devent/redmine_oauth2_login](https://github.com/devent/redmine_oauth2_login) - This plugin is used to authenticate Redmine users using OAuth2 provider such as GitHub
+- [gpstogis/redmine_oauth2_login](https://github.com/gpstogis/redmine_oauth2_login) - This plugin is used to authenticate Redmine users using OAuth2 provider such as GitHub
 - [almibarss/build-alfred-workflow](https://github.com/almibarss/build-alfred-workflow) - A GitHub Action to package Alfred workflows
 - [TTNomi/awpark](https://github.com/TTNomi/awpark) - Alfred Workflow Store
 - [sciyoshi/redmine-slack](https://github.com/sciyoshi/redmine-slack) - Slack notification plugin for Redmine
