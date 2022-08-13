@@ -111,6 +111,7 @@
 
 ## Dockerfile 
 
+- [astir13/bugzilla-docker](https://github.com/astir13/bugzilla-docker) - Dockerfiles for generating a bugzilla docker based on Ubuntu 20.04 & Apache2, configurable Mysql/MariaDb database
 - [XaviTorello/kali-full-docker](https://github.com/XaviTorello/kali-full-docker) - A ready to work Kali Linux full metapackage Docker container
 - [wluisaraujo/ansible-role-nginx](https://github.com/wluisaraujo/ansible-role-nginx) - Infrastructure as Code (IaC) with Ansible for NGINX
 - [PagerDuty/full-service-ownership-docs](https://github.com/PagerDuty/full-service-ownership-docs) - PagerDuty's Full Service Ownership Documentation
@@ -482,6 +483,7 @@
 
 ## PHP 
 
+- [crowsec-edtech/larasploit](https://github.com/crowsec-edtech/larasploit) - Laravel Automated Vulnerability Scanner
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 - [dachcom-digital/pimcore-social-data](https://github.com/dachcom-digital/pimcore-social-data) - Provide social data from different networks like facebook instagram or youtube.
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
@@ -531,6 +533,7 @@
 
 ## Python 
 
+- [mozilla/kitsune](https://github.com/mozilla/kitsune) - Platform for Mozilla Support
 - [almibarss/build-alfred-workflow](https://github.com/almibarss/build-alfred-workflow) - A GitHub Action to package Alfred workflows
 - [Netflix/hubcommander](https://github.com/Netflix/hubcommander) - A Slack bot for GitHub organization management -- and other things too
 - [Bhasfe/babur](https://github.com/Bhasfe/babur) - Babur is an open-source ML-Based Slack Bot application.
@@ -647,6 +650,8 @@
 
 ## Ruby 
 
+- [devent/redmine_oauth2_login](https://github.com/devent/redmine_oauth2_login) - This plugin is used to authenticate Redmine users using OAuth2 provider such as GitHub
+- [gpstogis/redmine_oauth2_login](https://github.com/gpstogis/redmine_oauth2_login) - This plugin is used to authenticate Redmine users using OAuth2 provider such as GitHub
 - [sciyoshi/redmine-slack](https://github.com/sciyoshi/redmine-slack) - Slack notification plugin for Redmine
 - [MarioRuiz/slack-smart-bot](https://github.com/MarioRuiz/slack-smart-bot) - Create a Slack bot that is smart and so easy to expand, create new bots on demand, run ruby code on chat, create shortcuts...    The main scope of this gem is to be used internally in the company so t
 - [litaio/lita](https://github.com/litaio/lita) - ChatOps for Ruby.
@@ -677,6 +682,7 @@
 
 ## Shell 
 
+- [spotify/git-test](https://github.com/spotify/git-test) - test your commits
 - [ansible/ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applica
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
 - [internetwache/GitTools](https://github.com/internetwache/GitTools) - A repository with 3 tools for pwn'ing websites with .git repositories available
@@ -734,6 +740,7 @@
 
 ## TypeScript 
 
+- [spotify/web-scripts](https://github.com/spotify/web-scripts) - A collection of base configs and CLI wrappers used to speed up development @ Spotify.
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
 - [royto/logbook-card](https://github.com/royto/logbook-card) - Logbook card for Home Assistant UI Lovelace
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
