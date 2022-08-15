@@ -559,6 +559,7 @@
 
 ## docker 
 
+- [adamkdean/redirect](https://github.com/adamkdean/redirect) - Redirection lightweight companion container for the nginx-proxy.
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
 - [draios/sysdig-inspect](https://github.com/draios/sysdig-inspect) - Sysdig Inspect - A powerful opensource interface for container troubleshooting and security investigation
 - [XaviTorello/kali-full-docker](https://github.com/XaviTorello/kali-full-docker) - A ready to work Kali Linux full metapackage Docker container
@@ -1046,6 +1047,7 @@
 
 ## monitoring 
 
+- [tribe29/checkmk](https://github.com/tribe29/checkmk) - Checkmk - Best-in-class infrastructure & application monitoring
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Gatus - Automated service health dashboard
 - [LePetitBloc/bitcoind-exporter](https://github.com/LePetitBloc/bitcoind-exporter) - :bar_chart: Bitcoind metrics Prometheus exporter in node js
 - [RisingStack/example-prometheus-nodejs](https://github.com/RisingStack/example-prometheus-nodejs) - Prometheus monitoring example with Node.js
@@ -1136,6 +1138,12 @@
 
 ## others 
 
+- [tribe29/kubernetes](https://github.com/tribe29/kubernetes) - Deploy Checkmk in Kubernetes
+- [tribe29/checkmk_kube_agent](https://github.com/tribe29/checkmk_kube_agent) - 
+- [j-a-n/lovelace-wallpanel](https://github.com/j-a-n/lovelace-wallpanel) - 🖼️ Wall panel mode for your Home Assistant Dashboards. Configurable extension which features a fullscreen mode, photo slideshow screensaver, screen wake lock and the ability to hide side and top bar. 
+- [hackclub/proxyparty](https://github.com/hackclub/proxyparty) - An nginx redirector and proxier for all of Hack Club's needs!
+- [jptannus/nginx-redirect-generator](https://github.com/jptannus/nginx-redirect-generator) - A simple tool to generate nginx server configuration for redirects by a given URL list.
+- [FabulousGinger/ansible-terrafrom-haproxy-example](https://github.com/FabulousGinger/ansible-terrafrom-haproxy-example) - 
 - [mozilla/kitsune](https://github.com/mozilla/kitsune) - Platform for Mozilla Support
 - [spotify/web-scripts](https://github.com/spotify/web-scripts) - A collection of base configs and CLI wrappers used to speed up development @ Spotify.
 - [spotify/git-test](https://github.com/spotify/git-test) - test your commits
