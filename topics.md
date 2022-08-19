@@ -49,6 +49,7 @@
 - [electron](#electron)
 - [emacs](#emacs)
 - [es6](#es6)
+- [ethereum](#ethereum)
 - [finance](#finance)
 - [firebase](#firebase)
 - [firefox](#firefox)
@@ -62,6 +63,7 @@
 - [github-api](#github-api)
 - [go](#go)
 - [golang](#golang)
+- [good-first-issue](#good-first-issue)
 - [graphql](#graphql)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
@@ -182,7 +184,7 @@
 - [geerlingguy/ansible-role-php](https://github.com/geerlingguy/ansible-role-php) - Ansible Role - PHP
 - [geerlingguy/ansible-role-apache-php-fpm](https://github.com/geerlingguy/ansible-role-apache-php-fpm) - Apache FastCGI support for PHP-FPM
 - [jr0dd/home-ops](https://github.com/jr0dd/home-ops) - One repo to rule them all. This mono repo serves my home infrastructure and Kubernetes cluster which utilizes Infrastructure as Code (IaC)
-- [k8s-at-home/flux-cluster-template](https://github.com/k8s-at-home/flux-cluster-template) - Highly opinionated template for deploying a single Kubernetes (k3s) cluster with Ansible and Terraform backed by Flux, SOPS, GitHub Actions, Renovate and more!
+- [onedr0p/flux-cluster-template](https://github.com/onedr0p/flux-cluster-template) - Highly opinionated template for deploying a single Kubernetes (k3s) cluster with Ansible and Terraform backed by Flux, SOPS, GitHub Actions, Renovate and more!
 - [cogini/multi-env-deploy](https://github.com/cogini/multi-env-deploy) - Complete example of deploying complex web apps to AWS using Terraform, Ansible, and Packer
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 - [fboender/ansible-cmdb](https://github.com/fboender/ansible-cmdb) - Generate host overview from ansible fact gathering output
@@ -215,6 +217,7 @@
 
 ## automation 
 
+- [dwyl/learn-devops](https://github.com/dwyl/learn-devops) - :construction: Learn the craft of "DevOps" (Developer Operations) to Deploy your App and Monitor it so it stays "Up"!
 - [thejeffreystone/home-assistant-configuration](https://github.com/thejeffreystone/home-assistant-configuration) - My Old Home Assistant Config. For more Information visit -&gt;
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Kubernetes
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap Kubernetes with k3s over SSH &lt; 1 min 🚀
@@ -319,6 +322,9 @@
 
 ## aws 
 
+- [dokku/docker-s3backup](https://github.com/dokku/docker-s3backup) - Backups streaming to S3 via s3gof3r in Docker
+- [dwyl/learn-devops](https://github.com/dwyl/learn-devops) - :construction: Learn the craft of "DevOps" (Developer Operations) to Deploy your App and Monitor it so it stays "Up"!
+- [tobiasmcnulty/dokku-aws](https://github.com/tobiasmcnulty/dokku-aws) - One-click Dokku instance on AWS.
 - [nsriram/lambda-the-terraform-way](https://github.com/nsriram/lambda-the-terraform-way) - AWS Lambda using Terraform., an Introductory Cookbook
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
 - [kubernetes-sigs/aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller) - A Kubernetes controller for Elastic Load Balancers
@@ -367,6 +373,7 @@
 
 ## azure 
 
+- [dwyl/learn-devops](https://github.com/dwyl/learn-devops) - :construction: Learn the craft of "DevOps" (Developer Operations) to Deploy your App and Monitor it so it stays "Up"!
 - [run-x/opta](https://github.com/run-x/opta) - The next generation of Infrastructure-as-Code. Work with high-level constructs instead of getting lost in low-level cloud configuration.
 - [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps) - Ultimate DevSecOps library
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
@@ -393,11 +400,13 @@
 
 ## bitcoin 
 
+- [CryptoSignal/Crypto-Signal](https://github.com/CryptoSignal/Crypto-Signal) - Github.com/CryptoSignal - #1 Quant Trading & Technical Analysis Bot - 3,100+ stars, 900+ forks
 - [LePetitBloc/bitcoind-exporter](https://github.com/LePetitBloc/bitcoind-exporter) - :bar_chart: Bitcoind metrics Prometheus exporter in node js
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 
 ## bot 
 
+- [botpress/botpress](https://github.com/botpress/botpress) - 🤖 Dev tools to reliably understand text and automate conversations. Built-in NLU.  Connect & deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc).
 - [Netflix/hubcommander](https://github.com/Netflix/hubcommander) - A Slack bot for GitHub organization management -- and other things too
 - [MarioRuiz/slack-smart-bot](https://github.com/MarioRuiz/slack-smart-bot) - Create a Slack bot that is smart and so easy to expand, create new bots on demand, run ruby code on chat, create shortcuts...    The main scope of this gem is to be used internally in the company so t
 - [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - 💬 🤖  The most reliable WhatsApp tool for chatbots with advanced features. Be sure to 🌟 this repository for updates!
@@ -557,6 +566,10 @@
 
 ## deployment 
 
+- [mardix/sailor](https://github.com/mardix/sailor) - Sailor is a tiny PaaS to install on your servers/VPS that uses git push to deploy micro-apps, micro-services, sites with SSL, on your own servers or VPS
+- [dwyl/learn-devops](https://github.com/dwyl/learn-devops) - :construction: Learn the craft of "DevOps" (Developer Operations) to Deploy your App and Monitor it so it stays "Up"!
+- [dokku/github-action](https://github.com/dokku/github-action) - 
+- [vitalyliber/dokku-github-action](https://github.com/vitalyliber/dokku-github-action) - Deploy applications to Dokku
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [brandonweiss/discharge](https://github.com/brandonweiss/discharge) - ⚡️ A simple, easy way to deploy static websites to Amazon S3.
 - [deployphp/deployer](https://github.com/deployphp/deployer) - A deployment tool written in PHP with support for popular frameworks out of the box
@@ -565,6 +578,8 @@
 
 ## devops 
 
+- [dwyl/learn-devops](https://github.com/dwyl/learn-devops) - :construction: Learn the craft of "DevOps" (Developer Operations) to Deploy your App and Monitor it so it stays "Up"!
+- [KarmaComputing/minimalcd](https://github.com/KarmaComputing/minimalcd) - Minimal viable Continuous delivery (CD) setup
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [nsriram/lambda-the-terraform-way](https://github.com/nsriram/lambda-the-terraform-way) - AWS Lambda using Terraform., an Introductory Cookbook
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an 
@@ -611,6 +626,12 @@
 
 ## docker 
 
+- [cuigh/swirl](https://github.com/cuigh/swirl) - A web UI for Docker, focused on swarm cluster.
+- [dokku/docker-s3backup](https://github.com/dokku/docker-s3backup) - Backups streaming to S3 via s3gof3r in Docker
+- [mardix/sailor](https://github.com/mardix/sailor) - Sailor is a tiny PaaS to install on your servers/VPS that uses git push to deploy micro-apps, micro-services, sites with SSL, on your own servers or VPS
+- [dwyl/learn-devops](https://github.com/dwyl/learn-devops) - :construction: Learn the craft of "DevOps" (Developer Operations) to Deploy your App and Monitor it so it stays "Up"!
+- [dokku/github-action](https://github.com/dokku/github-action) - 
+- [rclement/dokku-kibana](https://github.com/rclement/dokku-kibana) - Deploy Kibana (with LogTrail) on Dokku
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
 - [whalebrew/whalebrew](https://github.com/whalebrew/whalebrew) - Homebrew, but with Docker images
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
@@ -687,6 +708,10 @@
 ## es6 
 
 - [acquia/waterwheel.js](https://github.com/acquia/waterwheel.js) - A generic JavaScript helper library to query and manipulate Drupal 8 via core REST and JSON API
+
+## ethereum 
+
+- [CryptoSignal/Crypto-Signal](https://github.com/CryptoSignal/Crypto-Signal) - Github.com/CryptoSignal - #1 Quant Trading & Technical Analysis Bot - 3,100+ stars, 900+ forks
 
 ## finance 
 
@@ -803,6 +828,10 @@
 - [cycloidio/inframap](https://github.com/cycloidio/inframap) - Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.
 - [tmrts/boilr](https://github.com/tmrts/boilr) - :zap: boilerplate template manager that generates files or directories from template repositories
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
+
+## good-first-issue 
+
+- [KarmaComputing/minimalcd](https://github.com/KarmaComputing/minimalcd) - Minimal viable Continuous delivery (CD) setup
 
 ## graphql 
 
@@ -939,6 +968,7 @@
 
 ## javascript 
 
+- [MarcoMnrq/rocket-dokku](https://github.com/MarcoMnrq/rocket-dokku) - 🚀 Fully Featured Open Source Admin Dashboard for Dokku
 - [Shreyas-R/lovelace-wallpanel-screensaver](https://github.com/Shreyas-R/lovelace-wallpanel-screensaver) - Wall panel mode for your Home Assistant Lovelace dashboard with more focus on screensaver. Configurable extension which features a fullscreen kiosk mode, image and weather-clock screensaver, screen wa
 - [novuhq/novu](https://github.com/novuhq/novu) - 🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, conten
 - [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
@@ -996,6 +1026,8 @@
 
 ## kubernetes 
 
+- [dokku/dokku-scheduler-kubernetes](https://github.com/dokku/dokku-scheduler-kubernetes) - Scheduler plugin for deploying applications to kubernetes
+- [KarmaComputing/minimalcd](https://github.com/KarmaComputing/minimalcd) - Minimal viable Continuous delivery (CD) setup
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an 
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Kubernetes
@@ -1023,7 +1055,7 @@
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 800+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDA
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [jr0dd/home-ops](https://github.com/jr0dd/home-ops) - One repo to rule them all. This mono repo serves my home infrastructure and Kubernetes cluster which utilizes Infrastructure as Code (IaC)
-- [k8s-at-home/flux-cluster-template](https://github.com/k8s-at-home/flux-cluster-template) - Highly opinionated template for deploying a single Kubernetes (k3s) cluster with Ansible and Terraform backed by Flux, SOPS, GitHub Actions, Renovate and more!
+- [onedr0p/flux-cluster-template](https://github.com/onedr0p/flux-cluster-template) - Highly opinionated template for deploying a single Kubernetes (k3s) cluster with Ansible and Terraform backed by Flux, SOPS, GitHub Actions, Renovate and more!
 - [aws-ia/terraform-aws-eks-blueprints](https://github.com/aws-ia/terraform-aws-eks-blueprints) - Configure and deploy complete EKS clusters.
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
 - [SebastianUA/terraform](https://github.com/SebastianUA/terraform) - The place to storing Terraform modules of many providers
@@ -1134,6 +1166,7 @@
 
 ## mongodb 
 
+- [ledokku/ledokku](https://github.com/ledokku/ledokku) - Beautiful web UI for all things Dokku
 - [Icesofty/Digital-Currency](https://github.com/Icesofty/Digital-Currency) - Create your own Digital Currency with this self-hosted Web App. Check out the Demo website
 
 ## monitoring 
@@ -1180,6 +1213,7 @@
 
 ## nlp 
 
+- [botpress/botpress](https://github.com/botpress/botpress) - 🤖 Dev tools to reliably understand text and automate conversations. Built-in NLU.  Connect & deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc).
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science.
 - [RasaHQ/rasa](https://github.com/RasaHQ/rasa) - 💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
@@ -1198,6 +1232,7 @@
 
 ## nodejs 
 
+- [MarcoMnrq/rocket-dokku](https://github.com/MarcoMnrq/rocket-dokku) - 🚀 Fully Featured Open Source Admin Dashboard for Dokku
 - [sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips
 - [nodevault/node-vault](https://github.com/nodevault/node-vault) - Client for HashiCorp's Vault
 - [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
@@ -1243,6 +1278,23 @@
 
 ## others 
 
+- [dusan-ivanco/sip-doorbell](https://github.com/dusan-ivanco/sip-doorbell) - 
+- [dokku/dokku-daemon](https://github.com/dokku/dokku-daemon) - A daemon wrapper around dokku
+- [dokku/ansible-dokku](https://github.com/dokku/ansible-dokku) - Ansible modules for installing and configuring Dokku
+- [dokku-community/dokku-list](https://github.com/dokku-community/dokku-list) - Dokku plugin to list apps
+- [dokku-community/dokku-supply-config](https://github.com/dokku-community/dokku-supply-config) - Put your Dokku configuration files in your app repository
+- [dokku-community/dokku-acl](https://github.com/dokku-community/dokku-acl) - Access Control List management for Dokku.
+- [emveeoh/dokku-aws-lightsail-tutorial](https://github.com/emveeoh/dokku-aws-lightsail-tutorial) - A simple step-by-step tutorial showing you how to insall Dokku (a Heroku git-deployment clone) on a $5/month Amazon AWS LightSail Ubuntu Linux instance. We will setup DNS and a static IP address. We w
+- [glassechidna/dokku-graduate](https://github.com/glassechidna/dokku-graduate) - A simple environment life-cycle management plugin for Dokku.
+- [kevinnguy/dokku-aws-tutorial](https://github.com/kevinnguy/dokku-aws-tutorial) - A tutorial on setting up Dokku on your local machine via Vagrant and AWS EC2
+- [dhinus/dokku-terraform](https://github.com/dhinus/dokku-terraform) - Install Dokku using Terraform
+- [mlomnicki/dokku-deploy-hooks](https://github.com/mlomnicki/dokku-deploy-hooks) - Pre- and post-deploy hooks for dokku
+- [dokku/dokku-letsencrypt](https://github.com/dokku/dokku-letsencrypt) - Automatic Let's Encrypt TLS Certificate installation for dokku
+- [maxi1134/Home-Assistant](https://github.com/maxi1134/Home-Assistant) - My Home-Assistant stuff
+- [thomasloven/lovelace-wbah](https://github.com/thomasloven/lovelace-wbah) - Lovelace with bluejays and herons
+- [thomasloven/lovelace-card-mod](https://github.com/thomasloven/lovelace-card-mod) - 🔹 Add CSS styles to (almost) any lovelace card
+- [thomasloven/lovelace-layout-card](https://github.com/thomasloven/lovelace-layout-card) - 🔹 Get more control over the placement of lovelace cards.
+- [thomasloven/hass-browser_mod](https://github.com/thomasloven/hass-browser_mod) - 🔹 A Home Assistant integration to turn your browser into a controllable entity - and also an audio player
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [stephen/airsonos](https://github.com/stephen/airsonos) - :musical_note: AirPlay to Sonos
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
@@ -1258,7 +1310,7 @@
 - [agneevX/home-assistant](https://github.com/agneevX/home-assistant) - Home Assistant lovelace layout and config
 - [tribe29/kubernetes](https://github.com/tribe29/kubernetes) - Deploy Checkmk in Kubernetes
 - [tribe29/checkmk_kube_agent](https://github.com/tribe29/checkmk_kube_agent) - 
-- [j-a-n/lovelace-wallpanel](https://github.com/j-a-n/lovelace-wallpanel) - 🖼️ Wall panel mode for your Home Assistant Dashboards. Configurable extension which features a fullscreen mode, photo slideshow screensaver, screen wake lock and the ability to hide side and top bar. 
+- [j-a-n/lovelace-wallpanel](https://github.com/j-a-n/lovelace-wallpanel) - 🖼️ Wall panel mode for your Home Assistant Dashboards
 - [hackclub/proxyparty](https://github.com/hackclub/proxyparty) - An nginx redirector and proxier for all of Hack Club's needs!
 - [jptannus/nginx-redirect-generator](https://github.com/jptannus/nginx-redirect-generator) - A simple tool to generate nginx server configuration for redirects by a given URL list.
 - [FabulousGinger/ansible-terrafrom-haproxy-example](https://github.com/FabulousGinger/ansible-terrafrom-haproxy-example) - 
@@ -1483,7 +1535,7 @@
 - [andrewjfreyer/monitor](https://github.com/andrewjfreyer/monitor) - Distributed advertisement-based BTLE presence detection reported via mqtt
 - [thomasmaxson/Home-Assistant-Configuration](https://github.com/thomasmaxson/Home-Assistant-Configuration) - Home Assistant Configuration files.
 - [zachowj/node-red-contrib-home-assistant-websocket](https://github.com/zachowj/node-red-contrib-home-assistant-websocket) - Node-RED integration with Home Assistant Core
-- [matt8707/hass-config](https://github.com/matt8707/hass-config) - A different take on designing a Lovelace UI
+- [matt8707/hass-config](https://github.com/matt8707/hass-config) - ✨ A different take on designing a Lovelace UI (Dashboard)
 - [matt-kruse/find-my-iphone](https://github.com/matt-kruse/find-my-iphone) - A Node module to trigger the "Find My iPhone" feature from iCloud, to play a sound on the phone
 - [DominikN/ESP32-http-websocket](https://github.com/DominikN/ESP32-http-websocket) - ESP32 + HTTP server + websockets + Bootstrap + Husarnet. A simple project template showing how to use those technologies to create a fast, pretty and secure web UI hosted on ESP32. Works in LAN and ov
 - [legovaer/be.lgit.bayesian](https://github.com/legovaer/be.lgit.bayesian) - 
@@ -1618,6 +1670,7 @@
 
 ## python 
 
+- [mardix/sailor](https://github.com/mardix/sailor) - Sailor is a tiny PaaS to install on your servers/VPS that uses git push to deploy micro-apps, micro-services, sites with SSL, on your own servers or VPS
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 Mega-Linter analyzes 49 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loc
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
@@ -1870,6 +1923,7 @@
 
 ## terraform 
 
+- [aaronstillwell/terraform-provider-dokku](https://github.com/aaronstillwell/terraform-provider-dokku) - A terraform provider for provisioning applications on the Dokku PaaS
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 Mega-Linter analyzes 49 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loc
 - [nsriram/lambda-the-terraform-way](https://github.com/nsriram/lambda-the-terraform-way) - AWS Lambda using Terraform., an Introductory Cookbook
 - [ozbillwang/terraform-best-practices](https://github.com/ozbillwang/terraform-best-practices) - Terraform Best Practices for AWS users
@@ -1891,7 +1945,7 @@
 - [tmknom/template-terraform-module](https://github.com/tmknom/template-terraform-module) - Terraform module template following Standard Module Structure.
 - [clouddrove/terraform-aws-labels](https://github.com/clouddrove/terraform-aws-labels) - This terraform module is designed to generate consistent label names and tags for resources. You can use terraform-labels to implement a strict naming convention.
 - [jr0dd/home-ops](https://github.com/jr0dd/home-ops) - One repo to rule them all. This mono repo serves my home infrastructure and Kubernetes cluster which utilizes Infrastructure as Code (IaC)
-- [k8s-at-home/flux-cluster-template](https://github.com/k8s-at-home/flux-cluster-template) - Highly opinionated template for deploying a single Kubernetes (k3s) cluster with Ansible and Terraform backed by Flux, SOPS, GitHub Actions, Renovate and more!
+- [onedr0p/flux-cluster-template](https://github.com/onedr0p/flux-cluster-template) - Highly opinionated template for deploying a single Kubernetes (k3s) cluster with Ansible and Terraform backed by Flux, SOPS, GitHub Actions, Renovate and more!
 - [aws-ia/terraform-aws-eks-blueprints](https://github.com/aws-ia/terraform-aws-eks-blueprints) - Configure and deploy complete EKS clusters.
 - [cogini/multi-env-deploy](https://github.com/cogini/multi-env-deploy) - Complete example of deploying complex web apps to AWS using Terraform, Ansible, and Packer
 - [cloudposse/terraform-aws-config](https://github.com/cloudposse/terraform-aws-config) - This module configures AWS Config, a service that enables you to assess, audit, and evaluate the configurations of your AWS resources.
@@ -1940,6 +1994,7 @@
 
 ## typescript 
 
+- [MarcoMnrq/rocket-dokku](https://github.com/MarcoMnrq/rocket-dokku) - 🚀 Fully Featured Open Source Admin Dashboard for Dokku
 - [novuhq/novu](https://github.com/novuhq/novu) - 🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, conten
 - [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - 💬 🤖  The most reliable WhatsApp tool for chatbots with advanced features. Be sure to 🌟 this repository for updates!
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
