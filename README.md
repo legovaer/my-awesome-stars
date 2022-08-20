@@ -126,6 +126,7 @@
 - [PagerDuty/full-service-ownership-docs](https://github.com/PagerDuty/full-service-ownership-docs) - PagerDuty's Full Service Ownership Documentation
 - [lcmchris/thesillyhome-addon-repo](https://github.com/lcmchris/thesillyhome-addon-repo) - add on repo for thesillyhome
 - [vulhub/vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
+- [bertbaron/hassio-addons](https://github.com/bertbaron/hassio-addons) - My Home Assistant addons
 - [nolte/vscode-devcontainers](https://github.com/nolte/vscode-devcontainers) - 
 
 ## EJS 
@@ -182,7 +183,6 @@
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [mineiros-io/terramate](https://github.com/mineiros-io/terramate) - Terramate is a tool for managing multiple Terraform stacks that comes with support for change detection and code generation.
-- [bertbaron/hassio-addons](https://github.com/bertbaron/hassio-addons) - My Home Assistant addons
 - [joewalnes/websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
 - [aquasecurity/tfsec-pr-commenter-action](https://github.com/aquasecurity/tfsec-pr-commenter-action) - Add comments to pull requests where tfsec checks have failed
 - [terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs) - Generate documentation from Terraform modules in various output formats
