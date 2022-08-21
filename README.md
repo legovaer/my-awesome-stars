@@ -279,6 +279,7 @@
 
 ## JavaScript 
 
+- [lapwat/reCatchable](https://github.com/lapwat/reCatchable) - Turn a site into a book. Download a whole website and upload it to your reMarkable.
 - [thomasloven/hass-browser_mod](https://github.com/thomasloven/hass-browser_mod) - 🔹 A Home Assistant integration to turn your browser into a controllable entity - and also an audio player
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [nodevault/node-vault](https://github.com/nodevault/node-vault) - Client for HashiCorp's Vault
@@ -594,6 +595,9 @@
 
 ## Python 
 
+- [richeymichael/remarkable-assistant](https://github.com/richeymichael/remarkable-assistant) - Manage templates, splash screens, and settings on your reMarkable tablet
+- [morngrar/remarkable-tweak](https://github.com/morngrar/remarkable-tweak) - Tweak tool for the reMarkable paper tablet. Lets you organize your templates with no fuss.
+- [Evidlo/remarkable_keyboard](https://github.com/Evidlo/remarkable_keyboard) - Use a reMarkable tablet as a wireless mouse and keyboard
 - [CryptoSignal/Crypto-Signal](https://github.com/CryptoSignal/Crypto-Signal) - Github.com/CryptoSignal - #1 Quant Trading & Technical Analysis Bot - 3,100+ stars, 900+ forks
 - [dokku/ansible-dokku](https://github.com/dokku/ansible-dokku) - Ansible modules for installing and configuring Dokku
 - [mardix/sailor](https://github.com/mardix/sailor) - Sailor is a tiny PaaS to install on your servers/VPS that uses git push to deploy micro-apps, micro-services, sites with SSL, on your own servers or VPS
@@ -754,6 +758,7 @@
 
 ## Shell 
 
+- [after-eight/regitable](https://github.com/after-eight/regitable) - reGitable - backup your reMarkable using git.
 - [dokku/dokku-scheduler-kubernetes](https://github.com/dokku/dokku-scheduler-kubernetes) - Scheduler plugin for deploying applications to kubernetes
 - [dusan-ivanco/sip-doorbell](https://github.com/dusan-ivanco/sip-doorbell) - 
 - [dokku/dokku-daemon](https://github.com/dokku/dokku-daemon) - A daemon wrapper around dokku
