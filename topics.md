@@ -751,6 +751,7 @@
 
 ## git 
 
+- [after-eight/regitable](https://github.com/after-eight/regitable) - reGitable - backup your reMarkable using git.
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 800+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDA
@@ -1278,6 +1279,10 @@
 
 ## others 
 
+- [richeymichael/remarkable-assistant](https://github.com/richeymichael/remarkable-assistant) - Manage templates, splash screens, and settings on your reMarkable tablet
+- [morngrar/remarkable-tweak](https://github.com/morngrar/remarkable-tweak) - Tweak tool for the reMarkable paper tablet. Lets you organize your templates with no fuss.
+- [Evidlo/remarkable_keyboard](https://github.com/Evidlo/remarkable_keyboard) - Use a reMarkable tablet as a wireless mouse and keyboard
+- [lapwat/reCatchable](https://github.com/lapwat/reCatchable) - Turn a site into a book. Download a whole website and upload it to your reMarkable.
 - [dusan-ivanco/sip-doorbell](https://github.com/dusan-ivanco/sip-doorbell) - 
 - [dokku/dokku-daemon](https://github.com/dokku/dokku-daemon) - A daemon wrapper around dokku
 - [dokku/ansible-dokku](https://github.com/dokku/ansible-dokku) - Ansible modules for installing and configuring Dokku
