@@ -416,6 +416,7 @@
 
 ## Kotlin 
 
+- [thecowan/wallpanel-android](https://github.com/thecowan/wallpanel-android) - WallPanel is an Android application for Web Based Dashboards and Home Automation Platforms
 - [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - F-Droid client with Material UI.
 
 ## Lua 
@@ -451,6 +452,7 @@
 
 ## Others 
 
+- [carbon-C0DE/selfhosted-dashboards](https://github.com/carbon-C0DE/selfhosted-dashboards) - Best selfhosted dashboard apps compared
 - [emveeoh/dokku-aws-lightsail-tutorial](https://github.com/emveeoh/dokku-aws-lightsail-tutorial) - A simple step-by-step tutorial showing you how to insall Dokku (a Heroku git-deployment clone) on a $5/month Amazon AWS LightSail Ubuntu Linux instance. We will setup DNS and a static IP address. We w
 - [kevinnguy/dokku-aws-tutorial](https://github.com/kevinnguy/dokku-aws-tutorial) - A tutorial on setting up Dokku on your local machine via Vagrant and AWS EC2
 - [rclement/dokku-kibana](https://github.com/rclement/dokku-kibana) - Deploy Kibana (with LogTrail) on Dokku
@@ -595,6 +597,9 @@
 
 ## Python 
 
+- [thomasloven/hass-config](https://github.com/thomasloven/hass-config) - My Home Assistant configuration
+- [thecowan/ha-config](https://github.com/thecowan/ha-config) - My home assistant (https://www.home-assistant.io/) configuration
+- [skorokithakis/catt](https://github.com/skorokithakis/catt) - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.
 - [richeymichael/remarkable-assistant](https://github.com/richeymichael/remarkable-assistant) - Manage templates, splash screens, and settings on your reMarkable tablet
 - [morngrar/remarkable-tweak](https://github.com/morngrar/remarkable-tweak) - Tweak tool for the reMarkable paper tablet. Lets you organize your templates with no fuss.
 - [Evidlo/remarkable_keyboard](https://github.com/Evidlo/remarkable_keyboard) - Use a reMarkable tablet as a wireless mouse and keyboard
@@ -758,6 +763,9 @@
 
 ## Shell 
 
+- [hassio-addons/addon-glances](https://github.com/hassio-addons/addon-glances) - Glances - Home Assistant Community Add-ons
+- [petersem/dockerholics](https://github.com/petersem/dockerholics) - Apps and examples from the Dockerholics group.
+- [asifbacchus/fail2banUFW](https://github.com/asifbacchus/fail2banUFW) - Fail2Ban setup that monitors UFW logs to detect and dynamically blacklist systems that are port-probing your server.  Also monitors SSH as normal.
 - [after-eight/regitable](https://github.com/after-eight/regitable) - reGitable - backup your reMarkable using git.
 - [dokku/dokku-scheduler-kubernetes](https://github.com/dokku/dokku-scheduler-kubernetes) - Scheduler plugin for deploying applications to kubernetes
 - [dusan-ivanco/sip-doorbell](https://github.com/dusan-ivanco/sip-doorbell) - 
@@ -825,7 +833,7 @@
 
 ## Smarty 
 
-- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) - Helm charts for applications you run at home
+- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) - ⚠️ Deprecated : Helm charts for applications you run at home
 
 ## Swift 
 
@@ -838,6 +846,8 @@
 
 ## TypeScript 
 
+- [kalkih/mini-media-player](https://github.com/kalkih/mini-media-player) - Minimalistic media card for Home Assistant Lovelace UI
+- [fdarveau/flame](https://github.com/fdarveau/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [botpress/botpress](https://github.com/botpress/botpress) - 🤖 Dev tools to reliably understand text and automate conversations. Built-in NLU.  Connect & deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc).
 - [MarcoMnrq/rocket-dokku](https://github.com/MarcoMnrq/rocket-dokku) - 🚀 Fully Featured Open Source Admin Dashboard for Dokku
 - [ledokku/ledokku](https://github.com/ledokku/ledokku) - Beautiful web UI for all things Dokku
