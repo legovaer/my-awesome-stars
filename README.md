@@ -42,6 +42,7 @@
 - [Scala](#scala)
 - [Shell](#shell)
 - [Smarty](#smarty)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vue](#vue)
@@ -84,6 +85,7 @@
 
 ## CSS 
 
+- [mehulkar/github-hall-of-fame](https://github.com/mehulkar/github-hall-of-fame) - Hall of Fame for spectacular things on Github
 - [juliocesarfort/public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) - Curated list of  public penetration test reports released by several consulting firms and academic security groups
 - [Madelena/hass-config-public](https://github.com/Madelena/hass-config-public) - My Maximalist Dashboards for Home Assistant - Advanced data visualizations, responsive design, and a neat Metro Live Tile layout
 - [Madelena/Metrology-for-Hass](https://github.com/Madelena/Metrology-for-Hass) - 🎨 Give your Home Assistant a modern and clean facelift. 🟥🟧🟩🟦🟪 24 Variations with 2 Styles + 6 Colors (Magenta Red / Orange / Green / Blue / Purple) + 🌞 Light and 🌚 Dark modes included. Based on Metro 
@@ -118,7 +120,7 @@
 
 ## Dockerfile 
 
-- [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 Mega-Linter analyzes 49 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loc
+- [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 Mega-Linter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loc
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [astir13/bugzilla-docker](https://github.com/astir13/bugzilla-docker) - Dockerfiles for generating a bugzilla docker based on Ubuntu 20.04 & Apache2, configurable Mysql/MariaDb database
 - [XaviTorello/kali-full-docker](https://github.com/XaviTorello/kali-full-docker) - A ready to work Kali Linux full metapackage Docker container
@@ -135,6 +137,11 @@
 
 ## Go 
 
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
+- [ThrillQuks/Pitraix](https://github.com/ThrillQuks/Pitraix) - Modern Self-Modifying Cross-Platform Peer-to-Peer Botnet over TOR
+- [crazy-canux/awesome-monitoring](https://github.com/crazy-canux/awesome-monitoring) - INFRASTRUCTURE、OPERATION SYSTEM and APPLICATION monitoring tools.
+- [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
+- [gitploy-io/gitploy](https://github.com/gitploy-io/gitploy) - Build the deployment system around GitHub in minutes.
 - [cuigh/swirl](https://github.com/cuigh/swirl) - A web UI for Docker, focused on swarm cluster.
 - [aaronstillwell/terraform-provider-dokku](https://github.com/aaronstillwell/terraform-provider-dokku) - A terraform provider for provisioning applications on the Dokku PaaS
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -279,6 +286,9 @@
 
 ## JavaScript 
 
+- [kuzzleio/kuzzle](https://github.com/kuzzleio/kuzzle) - Open-source Back-end, self-hostable & ready to use - Real-time, storage, advanced search - Web, Apps, Mobile, IoT -
+- [jipegit/OSXAuditor](https://github.com/jipegit/OSXAuditor) - OS X Auditor is a free Mac OS X computer forensics tool
+- [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [lapwat/reCatchable](https://github.com/lapwat/reCatchable) - Turn a site into a book. Download a whole website and upload it to your reMarkable.
 - [thomasloven/hass-browser_mod](https://github.com/thomasloven/hass-browser_mod) - 🔹 A Home Assistant integration to turn your browser into a controllable entity - and also an audio player
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
@@ -452,6 +462,21 @@
 
 ## Others 
 
+- [Friz-zy/awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers) - A curated list of awesome Linux Containers frameworks, libraries and software
+- [HQarroum/awesome-iot](https://github.com/HQarroum/awesome-iot) - 🤖 A curated list of awesome Internet of Things projects and resources.
+- [meirwah/awesome-incident-response](https://github.com/meirwah/awesome-incident-response) - A curated list of tools for incident response
+- [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
+- [dictcp/awesome-git](https://github.com/dictcp/awesome-git) - A curated list of amazingly awesome Git tools, resources and shiny things
+- [vsouza/awesome-gists](https://github.com/vsouza/awesome-gists) - A collection of amazing gists
+- [Kikobeats/awesome-github](https://github.com/Kikobeats/awesome-github) - An exquisite list of awesome :octocat: secrets.
+- [ishanvyas22/awesome-open-source-systems](https://github.com/ishanvyas22/awesome-open-source-systems) - :sunglasses: A curated list of awesome Free Open Source Softwares(FOSS).
+- [matheusfelipeog/beautiful-docs](https://github.com/matheusfelipeog/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.
+- [joubertredrat/awesome-devops](https://github.com/joubertredrat/awesome-devops) - This is my awesome list with all open source and free applications that you can use in your management
+- [javierluraschi/awesome-dataviz](https://github.com/javierluraschi/awesome-dataviz) - :chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.
+- [LinuxCafeFederation/awesome-android](https://github.com/LinuxCafeFederation/awesome-android) - A curated list of awesome open source Android applications, tutorials and resources.
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
+- [cicdops/awesome-ciandcd](https://github.com/cicdops/awesome-ciandcd) - continuous integration and continuous delivery
+- [TaptuIT/awesome-devsecops](https://github.com/TaptuIT/awesome-devsecops) - Curating the best DevSecOps resources and tooling.
 - [carbon-C0DE/selfhosted-dashboards](https://github.com/carbon-C0DE/selfhosted-dashboards) - Best selfhosted dashboard apps compared
 - [emveeoh/dokku-aws-lightsail-tutorial](https://github.com/emveeoh/dokku-aws-lightsail-tutorial) - A simple step-by-step tutorial showing you how to insall Dokku (a Heroku git-deployment clone) on a $5/month Amazon AWS LightSail Ubuntu Linux instance. We will setup DNS and a static IP address. We w
 - [kevinnguy/dokku-aws-tutorial](https://github.com/kevinnguy/dokku-aws-tutorial) - A tutorial on setting up Dokku on your local machine via Vagrant and AWS EC2
@@ -547,6 +572,9 @@
 
 ## PHP 
 
+- [zabbix/zabbix](https://github.com/zabbix/zabbix) - Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.
+- [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
+- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
 - [crowsec-edtech/larasploit](https://github.com/crowsec-edtech/larasploit) - Laravel Automated Vulnerability Scanner
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 - [dachcom-digital/pimcore-social-data](https://github.com/dachcom-digital/pimcore-social-data) - Provide social data from different networks like facebook instagram or youtube.
@@ -597,6 +625,7 @@
 
 ## Python 
 
+- [ForensicArtifacts/artifacts](https://github.com/ForensicArtifacts/artifacts) - Digital Forensics Artifact Repository
 - [thomasloven/hass-config](https://github.com/thomasloven/hass-config) - My Home Assistant configuration
 - [thecowan/ha-config](https://github.com/thecowan/ha-config) - My home assistant (https://www.home-assistant.io/) configuration
 - [skorokithakis/catt](https://github.com/skorokithakis/catt) - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.
@@ -731,6 +760,7 @@
 
 ## Ruby 
 
+- [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 - [devent/redmine_oauth2_login](https://github.com/devent/redmine_oauth2_login) - This plugin is used to authenticate Redmine users using OAuth2 provider such as GitHub
 - [gpstogis/redmine_oauth2_login](https://github.com/gpstogis/redmine_oauth2_login) - This plugin is used to authenticate Redmine users using OAuth2 provider such as GitHub
 - [sciyoshi/redmine-slack](https://github.com/sciyoshi/redmine-slack) - Slack notification plugin for Redmine
@@ -749,6 +779,7 @@
 
 ## Rust 
 
+- [LinusCDE/chessmarkable](https://github.com/LinusCDE/chessmarkable) - Chess for the reMarkable using the rust pleco lib
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [hastic/hastic](https://github.com/hastic/hastic) - Hastic standalone
@@ -835,6 +866,10 @@
 
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) - ⚠️ Deprecated : Helm charts for applications you run at home
 
+## Svelte 
+
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
+
 ## Swift 
 
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
@@ -846,6 +881,7 @@
 
 ## TypeScript 
 
+- [jitsucom/jitsu](https://github.com/jitsucom/jitsu) - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days
 - [kalkih/mini-media-player](https://github.com/kalkih/mini-media-player) - Minimalistic media card for Home Assistant Lovelace UI
 - [fdarveau/flame](https://github.com/fdarveau/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [botpress/botpress](https://github.com/botpress/botpress) - 🤖 Dev tools to reliably understand text and automate conversations. Built-in NLU.  Connect & deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc).
