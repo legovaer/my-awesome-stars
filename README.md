@@ -145,6 +145,8 @@
 
 ## Go 
 
+- [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
+- [xDWart/mqtg-bot](https://github.com/xDWart/mqtg-bot) - MQTT Client Telegram Bot
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.
 - [blacklanternsecurity/git-all-secrets](https://github.com/blacklanternsecurity/git-all-secrets) - A tool to capture all the git secrets by leveraging multiple open source git searching tools
@@ -282,6 +284,7 @@
 
 ## HTML 
 
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [juriansluiman/groceri.es](https://github.com/juriansluiman/groceri.es) - groceri.es is a recipe manager and meal planning tool
 - [Patrowl/PatrowlManager](https://github.com/Patrowl/PatrowlManager) - PatrOwl - Open Source, Smart and Scalable Security Operations Orchestration Platform
 - [Vonage/Grafana_Status_panel](https://github.com/Vonage/Grafana_Status_panel) - A panel plugin for Grafana to monitor multiple parameters at once
@@ -316,6 +319,7 @@
 
 ## JavaScript 
 
+- [nervetattoo/banner-card](https://github.com/nervetattoo/banner-card) - A fluffy banner card for Home Assistant 🥰
 - [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
 - [aysark/dashing-timeline](https://github.com/aysark/dashing-timeline) - Stylish timeline widget for Dashing.io
 - [resoai/TileBoard](https://github.com/resoai/TileBoard) - A simple yet highly configurable Dashboard for HomeAssistant
@@ -335,7 +339,6 @@
 - [jipegit/OSXAuditor](https://github.com/jipegit/OSXAuditor) - OS X Auditor is a free Mac OS X computer forensics tool
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [lapwat/reCatchable](https://github.com/lapwat/reCatchable) - Turn a site into a book. Download a whole website and upload it to your reMarkable.
-- [thomasloven/hass-browser_mod](https://github.com/thomasloven/hass-browser_mod) - 🔹 A Home Assistant integration to turn your browser into a controllable entity - and also an audio player
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [nodevault/node-vault](https://github.com/nodevault/node-vault) - Client for HashiCorp's Vault
 - [stephen/airsonos](https://github.com/stephen/airsonos) - :musical_note: AirPlay to Sonos
@@ -512,6 +515,17 @@
 
 ## Others 
 
+- [pqpxo/SWAKES_hassio](https://github.com/pqpxo/SWAKES_hassio) - Home Assistant
+- [jnv/lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere
+- [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
+- [ebertti/awesome-telegram](https://github.com/ebertti/awesome-telegram) - Collection great groups, channels, bots and libraries for Telegram
+- [cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
+- [v2-dev/awesome-social-engineering](https://github.com/v2-dev/awesome-social-engineering) - A curated list of awesome social engineering resources.
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+- [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+- [arallsopp/hass-hue-icons](https://github.com/arallsopp/hass-hue-icons) - Additional vector icons for home assistant to model Philips  Hue bulbs and fixtures.
 - [pfalcon/awesome-smarthome](https://github.com/pfalcon/awesome-smarthome) - Curated list of awesome SmartHome/Home Automation things (open and leaving users in control)
 - [bittentech/Bug-Bounty-Beginner-Roadmap](https://github.com/bittentech/Bug-Bounty-Beginner-Roadmap) - This is a resource factory for anyone looking forward to starting bug hunting and would require guidance as a beginner.
 - [Friz-zy/awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers) - A curated list of awesome Linux Containers frameworks, libraries and software
@@ -678,6 +692,9 @@
 
 ## Python 
 
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+- [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
+- [zju3dv/EasyMocap](https://github.com/zju3dv/EasyMocap) - Make human motion capture easier.
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [blacklanternsecurity/credshed](https://github.com/blacklanternsecurity/credshed) - credshed - a scalable database for credential leaks.  Written in Python, it can easily ingest poorly-formatted files or entire directories into a searchable database.  MongoDB is used in the backend.
 - [blacklanternsecurity/MANSPIDER](https://github.com/blacklanternsecurity/MANSPIDER) - Spider entire networks for juicy files sitting on SMB shares.  Search filenames or file content - regex supported!
@@ -865,6 +882,7 @@
 
 ## Shell 
 
+- [Graylog2/docker-compose](https://github.com/Graylog2/docker-compose) - A set of Docker Compose files that allow you to quickly spin up a Graylog instance for testing or demo purposes.
 - [rixon-cochi/SMF](https://github.com/rixon-cochi/SMF) - Social media hacking
 - [htr-tech/nexphisher](https://github.com/htr-tech/nexphisher) - Advanced Phishing tool for Linux & Termux
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
@@ -959,6 +977,7 @@
 
 ## TypeScript 
 
+- [nervetattoo/simple-thermostat](https://github.com/nervetattoo/simple-thermostat) - A different take on the thermostat card for Home Assistant ♨️
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [fireship-io/flamethrower](https://github.com/fireship-io/flamethrower) - A blazingly fast router for static sites
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
@@ -971,6 +990,7 @@
 - [thomasloven/lovelace-wbah](https://github.com/thomasloven/lovelace-wbah) - Lovelace with bluejays and herons
 - [thomasloven/lovelace-card-mod](https://github.com/thomasloven/lovelace-card-mod) - 🔹 Add CSS styles to (almost) any lovelace card
 - [thomasloven/lovelace-layout-card](https://github.com/thomasloven/lovelace-layout-card) - 🔹 Get more control over the placement of lovelace cards.
+- [thomasloven/hass-browser_mod](https://github.com/thomasloven/hass-browser_mod) - 🔹 A Home Assistant integration to turn your browser into a controllable entity - and also an audio player
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
