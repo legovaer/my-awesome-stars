@@ -920,6 +920,7 @@
 - [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
 - [OWASP/Amass](https://github.com/OWASP/Amass) - In-depth Attack Surface Mapping and Asset Discovery
+- [ThrillQuks/Pitraix](https://github.com/ThrillQuks/Pitraix) - Modern Self-Modifying Cross-Platform Peer-to-Peer Botnet over TOR
 - [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
