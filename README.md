@@ -370,6 +370,7 @@
 - [custom-cards/button-card](https://github.com/custom-cards/button-card) - ❇️ Lovelace button-card for home assistant
 - [kalkih/mini-graph-card](https://github.com/kalkih/mini-graph-card) - Minimalistic graph card for Home Assistant Lovelace UI
 - [lcmchris/thesillyhome-container](https://github.com/lcmchris/thesillyhome-container) - containerized version
+- [scstraus/home-assistant-config](https://github.com/scstraus/home-assistant-config) - My HomeAssistant Configuration (Home Assistant Supervised, Debian 10)
 - [thomasloven/lovelace-flower-card](https://github.com/thomasloven/lovelace-flower-card) - 
 - [Smashing/smashing](https://github.com/Smashing/smashing) - The exceptionally handsome dashboard framework in Ruby and Coffeescript.
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
@@ -745,7 +746,6 @@
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [relliky/Tais_Home_Assistant_Config](https://github.com/relliky/Tais_Home_Assistant_Config) - My Home Assistant Automation Configuration
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
-- [scstraus/home-assistant-config](https://github.com/scstraus/home-assistant-config) - My HomeAssistant Configuration (Home Assistant Supervised, Debian 10)
 - [SeLLeRoNe/HA-Config](https://github.com/SeLLeRoNe/HA-Config) - Home Assistant Configuration
 - [lcmchris/thesillyhome](https://github.com/lcmchris/thesillyhome) - The silly home
 - [sweetsoftware/Ares](https://github.com/sweetsoftware/Ares) - Python botnet and backdoor
