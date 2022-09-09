@@ -60,6 +60,7 @@
 
 ## C 
 
+- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -79,6 +80,7 @@
 
 ## C++ 
 
+- [alvr-org/ALVR](https://github.com/alvr-org/ALVR) - Stream VR games from your PC to your headset via Wi-Fi
 - [jnsbyr/esp8266-intexsbh20](https://github.com/jnsbyr/esp8266-intexsbh20) - MQTT WiFi remote control for the Intex PureSpa SB-H20 whirlpool
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [corlysis/scripts](https://github.com/corlysis/scripts) - 
@@ -145,6 +147,8 @@
 
 ## Go 
 
+- [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
+- [influxdata/telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
 - [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [xDWart/mqtg-bot](https://github.com/xDWart/mqtg-bot) - MQTT Client Telegram Bot
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
@@ -283,6 +287,7 @@
 
 ## HTML 
 
+- [estevanmaito/windmill-dashboard](https://github.com/estevanmaito/windmill-dashboard) - 📊 A multi theme, completely accessible, ready for production dashboard.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [juriansluiman/groceri.es](https://github.com/juriansluiman/groceri.es) - groceri.es is a recipe manager and meal planning tool
 - [Patrowl/PatrowlManager](https://github.com/Patrowl/PatrowlManager) - PatrOwl - Open Source, Smart and Scalable Security Operations Orchestration Platform
@@ -318,6 +323,10 @@
 
 ## JavaScript 
 
+- [yaronn/blessed-contrib](https://github.com/yaronn/blessed-contrib) - Build terminal dashboards using ascii/ansi art and javascript
+- [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [pedrolamas/docker-iot-stack](https://github.com/pedrolamas/docker-iot-stack) - :computer: My personal Docker IoT Stack
+- [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [nervetattoo/banner-card](https://github.com/nervetattoo/banner-card) - A fluffy banner card for Home Assistant 🥰
 - [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
 - [aysark/dashing-timeline](https://github.com/aysark/dashing-timeline) - Stylish timeline widget for Dashing.io
@@ -515,6 +524,9 @@
 
 ## Others 
 
+- [mihai-dinculescu/home-automation-monitoring](https://github.com/mihai-dinculescu/home-automation-monitoring) - Raspberry Pi Docker Compose for MQTT, InfluxDB, Telegraf, Grafana
+- [jersonmartinez/docker-compose-influxdb-telegraf-grafana](https://github.com/jersonmartinez/docker-compose-influxdb-telegraf-grafana) - This is a docker compose to create containers about InfluxDB, Telegraf and Grafana.
+- [Nickyie/Cybersecurity-Resources](https://github.com/Nickyie/Cybersecurity-Resources) - A Library of various cybersecurity resources
 - [pqpxo/SWAKES_hassio](https://github.com/pqpxo/SWAKES_hassio) - Home Assistant
 - [jnv/lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
@@ -638,6 +650,7 @@
 
 ## PHP 
 
+- [bcremer/docker-telegraf-influx-grafana-stack](https://github.com/bcremer/docker-telegraf-influx-grafana-stack) - Docker Compose Setup for Telegraf / InfluxDB / Grafana (TIG)
 - [Rabbit-Company/Passky-Server](https://github.com/Rabbit-Company/Passky-Server) - API and Database for Passky (password manager)
 - [zabbix/zabbix](https://github.com/zabbix/zabbix) - Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.
 - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
@@ -692,6 +705,9 @@
 
 ## Python 
 
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [xiaopeng163/docker-compose-tpg](https://github.com/xiaopeng163/docker-compose-tpg) - Docker compose for Telegraf, Prometheus and Grafana
+- [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [GAM-team/got-your-back](https://github.com/GAM-team/got-your-back) - Got Your Back (GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail's API over HTTPS.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
@@ -841,6 +857,7 @@
 
 ## Ruby 
 
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
@@ -882,6 +899,9 @@
 
 ## Shell 
 
+- [ravindrajob/Observability-Monitoring](https://github.com/ravindrajob/Observability-Monitoring) - Monitoring - Observability  with thanos + docker + Grafana stack
+- [huntabyte/tig-stack](https://github.com/huntabyte/tig-stack) - The Telegraf, InfluxDB, & Grafana stack (TIG) powered by Docker & Docker Compose.
+- [sonnyyu/docker-prometheus-haproxy-stack](https://github.com/sonnyyu/docker-prometheus-haproxy-stack) - Prometheus, Grafana, cAdvisor, NodeExporter, Telegraf and alerting with AlertManager.
 - [Graylog2/docker-compose](https://github.com/Graylog2/docker-compose) - A set of Docker Compose files that allow you to quickly spin up a Graylog instance for testing or demo purposes.
 - [rixon-cochi/SMF](https://github.com/rixon-cochi/SMF) - Social media hacking
 - [htr-tech/nexphisher](https://github.com/htr-tech/nexphisher) - Advanced Phishing tool for Linux & Termux
@@ -977,6 +997,8 @@
 
 ## TypeScript 
 
+- [meienberger/runtipi](https://github.com/meienberger/runtipi) - ⛺️ Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
 - [nervetattoo/simple-thermostat](https://github.com/nervetattoo/simple-thermostat) - A different take on the thermostat card for Home Assistant ♨️
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [fireship-io/flamethrower](https://github.com/fireship-io/flamethrower) - A blazingly fast router for static sites
@@ -1051,6 +1073,7 @@
 
 ## Vue 
 
+- [Akryum/guijs](https://github.com/Akryum/guijs) - 🐣️ The app that makes your #devlife easier.
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
