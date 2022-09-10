@@ -273,7 +273,7 @@
 - [mineiros-io/terramate-example-code-generation](https://github.com/mineiros-io/terramate-example-code-generation) - An code generation example for Terramate.
 - [mineiros-io/terraform-github-team](https://github.com/mineiros-io/terraform-github-team) - A Terraform module to manage GitHub Teams. https://github.com/
 - [mineiros-io/terraform-github-repository](https://github.com/mineiros-io/terraform-github-repository) - A Terraform module to manage GitHub Repositories. https://github.com/
-- [xcad2k/boilerplates](https://github.com/xcad2k/boilerplates) - Templates and configurations for various projects and deployment scenarios
+- [xcad2k/boilerplates](https://github.com/xcad2k/boilerplates) - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.
 - [sjevs/terraform-static-website-s3-cloudfront](https://github.com/sjevs/terraform-static-website-s3-cloudfront) - Terraform template to create static website on AWS S3 & Cloudfront based on variables
 - [pagopa/terraform-infrastructure-template](https://github.com/pagopa/terraform-infrastructure-template) - Terraform template repository for infrastructures projects
 - [fergusmacd/template-repo-terraform](https://github.com/fergusmacd/template-repo-terraform) - Repo that can be used as a baseline to terraform projects
@@ -515,7 +515,7 @@
 
 ## Nix 
 
-- [hackclub/proxyparty](https://github.com/hackclub/proxyparty) - An nginx redirector and proxier for all of Hack Club's needs!
+- [hackclub/proxyparty](https://github.com/hackclub/proxyparty) - 🎊 An Nginx redirector and proxier for all of Hack Club's needs!
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
 
 ## Open Policy Agent 
@@ -1080,7 +1080,7 @@
 - [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
-- [emqx/MQTTX](https://github.com/emqx/MQTTX) - 🛠 Powerful cross-platform MQTT 5.0 desktop, CLI, and WebSocket client tools
+- [emqx/MQTTX](https://github.com/emqx/MQTTX) - Powerful cross-platform MQTT 5.0 desktop, CLI, and WebSocket client tools
 
 ## YARA 
 
