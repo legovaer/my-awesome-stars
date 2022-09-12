@@ -661,7 +661,7 @@
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [etsy/411](https://github.com/etsy/411) - An Alert Management Web Application
 - [pbertera/dockerfiles](https://github.com/pbertera/dockerfiles) - Docker containers
-- [deployphp/deployer](https://github.com/deployphp/deployer) - A deployment tool written in PHP with support for popular frameworks out of the box
+- [deployphp/deployer](https://github.com/deployphp/deployer) - The PHP deployment tool with support for popular frameworks out of the box
 - [minhajul/laravel-grafana](https://github.com/minhajul/laravel-grafana) - Monitoring the performance of the Laravel app using Grafana, Prometheus, and Loki. Containerizing the project using Docker.
 - [IBM/drupal-nginx-php-kubernetes](https://github.com/IBM/drupal-nginx-php-kubernetes) - Demonstration of a set of NGINX and PHP-FPM containers running Drupal deployed to Kubernetes on the IBM Container Service.
 - [thereference/stomp](https://github.com/thereference/stomp) - Stomp module port to Drupal 8
