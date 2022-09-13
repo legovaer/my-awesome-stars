@@ -147,6 +147,7 @@
 
 ## Go 
 
+- [vogo/logtail](https://github.com/vogo/logtail) - logtail is a log tailing utility, support tailing multiple commands output stream, transferring matching content to file/webhook(like dingtalk)
 - [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
 - [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
@@ -242,6 +243,7 @@
 
 ## HCL 
 
+- [khuedoan/horus](https://github.com/khuedoan/horus) - Free cloud native platform for service hosting
 - [a-patel/terraform-aws-eks-workshop](https://github.com/a-patel/terraform-aws-eks-workshop) - Amazon EKS Terraform Workshop: Provision EKS Cluster in AWS using Terraform.
 - [StatCan/terraform-kubernetes-kube-prometheus-stack](https://github.com/StatCan/terraform-kubernetes-kube-prometheus-stack) - Terraform module for Kube-Prometheus Stack
 - [aws-samples/terraform-eks-code](https://github.com/aws-samples/terraform-eks-code) - 
@@ -323,6 +325,10 @@
 
 ## JavaScript 
 
+- [swiergot/ha-catt-fix](https://github.com/swiergot/ha-catt-fix) - A solution for the timeout issue when casting Home Assistant using CATT
+- [NemesisRE/kiosk-mode](https://github.com/NemesisRE/kiosk-mode) - 🙈 Hides the Home Assistant header and/or sidebar
+- [maykar/kiosk-mode](https://github.com/maykar/kiosk-mode) - 🙈 Hides the Home Assistant header and/or sidebar
+- [kvaster/zwavejs-prom](https://github.com/kvaster/zwavejs-prom) - Prometheus export plugin for zwavejs2mqtt
 - [yaronn/blessed-contrib](https://github.com/yaronn/blessed-contrib) - Build terminal dashboards using ascii/ansi art and javascript
 - [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [pedrolamas/docker-iot-stack](https://github.com/pedrolamas/docker-iot-stack) - :computer: My personal Docker IoT Stack
@@ -458,6 +464,7 @@
 
 ## Jinja 
 
+- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible
 - [debops/debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
 - [nginxinc/ansible-role-nginx-config](https://github.com/nginxinc/ansible-role-nginx-config) - Ansible role for configuring NGINX
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
@@ -487,6 +494,7 @@
 
 ## Kotlin 
 
+- [home-assistant/android](https://github.com/home-assistant/android) - :iphone: Home Assistant Companion for Android
 - [outadoc/home-slide-android](https://github.com/outadoc/home-slide-android) - Access your Home Assistant devices quickly from anywhere on your Android device
 - [thecowan/wallpanel-android](https://github.com/thecowan/wallpanel-android) - WallPanel is an Android application for Web Based Dashboards and Home Automation Platforms
 - [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - F-Droid client with Material UI.
@@ -524,6 +532,8 @@
 
 ## Others 
 
+- [benct/home-assistant-config](https://github.com/benct/home-assistant-config) - 🏠 My configuration for home-assistant (https://www.home-assistant.io). 🌟 for updates!
+- [HenrySeed/HA-AppleTV-Remote-Card](https://github.com/HenrySeed/HA-AppleTV-Remote-Card) - A very simple `picture-elements` YAML config with custom images to match the built in IOS remote
 - [mihai-dinculescu/home-automation-monitoring](https://github.com/mihai-dinculescu/home-automation-monitoring) - Raspberry Pi Docker Compose for MQTT, InfluxDB, Telegraf, Grafana
 - [jersonmartinez/docker-compose-influxdb-telegraf-grafana](https://github.com/jersonmartinez/docker-compose-influxdb-telegraf-grafana) - This is a docker compose to create containers about InfluxDB, Telegraf and Grafana.
 - [Nickyie/Cybersecurity-Resources](https://github.com/Nickyie/Cybersecurity-Resources) - A Library of various cybersecurity resources
@@ -705,6 +715,8 @@
 
 ## Python 
 
+- [AlexxIT/DashCast](https://github.com/AlexxIT/DashCast) - DashCast component for Home Assistant
+- [kpetremann/mqtt-exporter](https://github.com/kpetremann/mqtt-exporter) - Simple generic MQTT Prometheus exporter for IoT working out of the box
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [xiaopeng163/docker-compose-tpg](https://github.com/xiaopeng163/docker-compose-tpg) - Docker compose for Telegraf, Prometheus and Grafana
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
@@ -997,6 +1009,8 @@
 
 ## TypeScript 
 
+- [nirops/yakiapp](https://github.com/nirops/yakiapp) - Open Source, Cross platform, Native Kubernetes IDE
+- [UseCrowdWise/crowdwise](https://github.com/UseCrowdWise/crowdwise) - Chrome extension that adds to your browsing experience by showing you relevant discussions about your current web page from Hacker News and Reddit.
 - [meienberger/runtipi](https://github.com/meienberger/runtipi) - ⛺️ Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
 - [nervetattoo/simple-thermostat](https://github.com/nervetattoo/simple-thermostat) - A different take on the thermostat card for Home Assistant ♨️
