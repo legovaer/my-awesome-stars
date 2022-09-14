@@ -7,6 +7,7 @@
 
 - [AppleScript](#applescript)
 - [Batchfile](#batchfile)
+- [Berry](#berry)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -58,6 +59,10 @@
 
 - [gushmazuko/bmw-advanced-tools](https://github.com/gushmazuko/bmw-advanced-tools) - BMW Advanced Tools
 
+## Berry 
+
+- [blakadder/nspanel](https://github.com/blakadder/nspanel) - Sonoff NSPanel protocol and hacking information. Tasmota Berry driver for NSPanel
+
 ## C 
 
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
@@ -80,6 +85,7 @@
 
 ## C++ 
 
+- [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense) - An ESP32 based presence detection node for use with the Home Assistant mqtt_room component for localized device presence detection.
 - [alvr-org/ALVR](https://github.com/alvr-org/ALVR) - Stream VR games from your PC to your headset via Wi-Fi
 - [jnsbyr/esp8266-intexsbh20](https://github.com/jnsbyr/esp8266-intexsbh20) - MQTT WiFi remote control for the Intex PureSpa SB-H20 whirlpool
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
@@ -128,6 +134,7 @@
 
 ## Dockerfile 
 
+- [Poeschl/Hassio-Addons](https://github.com/Poeschl/Hassio-Addons) - The repository for my Home Assistant Supervisor Add-ons.
 - [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) - Documentation and Examples of base container modifications
 - [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag) - Nginx webserver and reverse proxy with php support and a built-in Certbot (Let's Encrypt) client. It also contains fail2ban for intrusion prevention.
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 Mega-Linter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loc
@@ -715,6 +722,9 @@
 
 ## Python 
 
+- [krizkontrolz/Home-Assistant-nextion_handler](https://github.com/krizkontrolz/Home-Assistant-nextion_handler) - An approach for integrating Nextion devices into Home Assistant, using a Python service that allows Nextion Events to send instructions to HA.
+- [espressif/esptool](https://github.com/espressif/esptool) - Espressif SoC serial bootloader utility
+- [dipu-bd/lightnovel-crawler](https://github.com/dipu-bd/lightnovel-crawler) - Generate and download e-books from online sources.
 - [AlexxIT/DashCast](https://github.com/AlexxIT/DashCast) - DashCast component for Home Assistant
 - [kpetremann/mqtt-exporter](https://github.com/kpetremann/mqtt-exporter) - Simple generic MQTT Prometheus exporter for IoT working out of the box
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
@@ -1009,6 +1019,7 @@
 
 ## TypeScript 
 
+- [buttercup/buttercup-core](https://github.com/buttercup/buttercup-core) - :tophat: The mighty NodeJS password vault
 - [nirops/yakiapp](https://github.com/nirops/yakiapp) - Open Source, Cross platform, Native Kubernetes IDE
 - [UseCrowdWise/crowdwise](https://github.com/UseCrowdWise/crowdwise) - Chrome extension that adds to your browsing experience by showing you relevant discussions about your current web page from Hacker News and Reddit.
 - [meienberger/runtipi](https://github.com/meienberger/runtipi) - ⛺️ Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
