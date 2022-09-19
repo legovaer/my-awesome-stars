@@ -13,6 +13,7 @@
 - [C++](#c++)
 - [CSS](#css)
 - [CUE](#cue)
+- [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
 - [Crystal](#crystal)
 - [DIGITAL Command Language](#digital-command-language)
@@ -112,6 +113,10 @@
 
 - [dagger/dagger](https://github.com/dagger/dagger) - A portable devkit for CI/CD pipelines
 
+## Clojure 
+
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
+
 ## CoffeeScript 
 
 - [FurqanSoftware/node-whois](https://github.com/FurqanSoftware/node-whois) - A simple WHOIS client for NodeJS
@@ -154,6 +159,8 @@
 
 ## Go 
 
+- [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Protect and discover secrets using Gitleaks 🔑
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [vogo/logtail](https://github.com/vogo/logtail) - logtail is a log tailing utility, support tailing multiple commands output stream, transferring matching content to file/webhook(like dingtalk)
 - [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
@@ -474,6 +481,7 @@
 
 ## Jinja 
 
+- [hassio-addons/addon-appdaemon](https://github.com/hassio-addons/addon-appdaemon) - AppDaemon4 - Home Assistant Community Add-ons
 - [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible
 - [debops/debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
 - [nginxinc/ansible-role-nginx-config](https://github.com/nginxinc/ansible-role-nginx-config) - Ansible role for configuring NGINX
@@ -542,6 +550,7 @@
 
 ## Others 
 
+- [SelfhostedPro/selfhosted_templates](https://github.com/SelfhostedPro/selfhosted_templates) - Portainer templates for selfhosted services
 - [UiP9AV6Y/portainer-templates](https://github.com/UiP9AV6Y/portainer-templates) - App Templates used by Portainer
 - [benct/home-assistant-config](https://github.com/benct/home-assistant-config) - 🏠 My configuration for home-assistant (https://www.home-assistant.io). 🌟 for updates!
 - [HenrySeed/HA-AppleTV-Remote-Card](https://github.com/HenrySeed/HA-AppleTV-Remote-Card) - A very simple `picture-elements` YAML config with custom images to match the built in IOS remote
@@ -1060,7 +1069,7 @@
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Community effort to create roadmaps, guides and other educational content to help the developers get an idea about the software development landscape, learn and grow in their career.
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - 💬 🤖  The most reliable WhatsApp tool for chatbots with advanced features. Be sure to 🌟 this repository for updates!
