@@ -119,6 +119,7 @@
 
 ## CoffeeScript 
 
+- [blahsd/supernerd.widget](https://github.com/blahsd/supernerd.widget) - Extensible, customisable, menubar replacement Ubersicht widget.
 - [FurqanSoftware/node-whois](https://github.com/FurqanSoftware/node-whois) - A simple WHOIS client for NodeJS
 - [yincrash/hubot-trivia-game](https://github.com/yincrash/hubot-trivia-game) - Trivia plugin for Hubot
 
@@ -159,6 +160,7 @@
 
 ## Go 
 
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
@@ -550,6 +552,7 @@
 
 ## Others 
 
+- [digiblur/unraid-docker-templates](https://github.com/digiblur/unraid-docker-templates) - Template files for various Docker Containers for use with unRaid
 - [SelfhostedPro/selfhosted_templates](https://github.com/SelfhostedPro/selfhosted_templates) - Portainer templates for selfhosted services
 - [UiP9AV6Y/portainer-templates](https://github.com/UiP9AV6Y/portainer-templates) - App Templates used by Portainer
 - [benct/home-assistant-config](https://github.com/benct/home-assistant-config) - 🏠 My configuration for home-assistant (https://www.home-assistant.io). 🌟 for updates!
