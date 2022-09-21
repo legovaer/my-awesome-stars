@@ -344,6 +344,7 @@
 
 ## JavaScript 
 
+- [Tobiasn2005/Home-Assistant](https://github.com/Tobiasn2005/Home-Assistant) - Home Assistant Lovelace UI
 - [swiergot/ha-catt-fix](https://github.com/swiergot/ha-catt-fix) - A solution for the timeout issue when casting Home Assistant using CATT
 - [NemesisRE/kiosk-mode](https://github.com/NemesisRE/kiosk-mode) - 🙈 Hides the Home Assistant header and/or sidebar
 - [maykar/kiosk-mode](https://github.com/maykar/kiosk-mode) - 🙈 Hides the Home Assistant header and/or sidebar
@@ -427,7 +428,6 @@
 - [gadgetchnnel/lovelace-card-templater](https://github.com/gadgetchnnel/lovelace-card-templater) - Custom Lovelace card which allows Jinja2 templates to be applied to other cards
 - [home-assistant/data.home-assistant](https://github.com/home-assistant/data.home-assistant) - Data Science Portal for Home Assistant.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
 - [klaasnicolaas/Student-homeassistant-config](https://github.com/klaasnicolaas/Student-homeassistant-config) - 🎓 Student Home configuration. Stay informed by 🌟 this repository for updates!
 - [pdonald/realtime-stats](https://github.com/pdonald/realtime-stats) - 
@@ -552,6 +552,7 @@
 
 ## Others 
 
+- [andreasjacobsen93/awesome-nextcloud](https://github.com/andreasjacobsen93/awesome-nextcloud) - List of awesome tools for NextCloud and OwnCloud
 - [digiblur/unraid-docker-templates](https://github.com/digiblur/unraid-docker-templates) - Template files for various Docker Containers for use with unRaid
 - [SelfhostedPro/selfhosted_templates](https://github.com/SelfhostedPro/selfhosted_templates) - Portainer templates for selfhosted services
 - [UiP9AV6Y/portainer-templates](https://github.com/UiP9AV6Y/portainer-templates) - App Templates used by Portainer
@@ -738,6 +739,7 @@
 
 ## Python 
 
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
 - [krizkontrolz/Home-Assistant-nextion_handler](https://github.com/krizkontrolz/Home-Assistant-nextion_handler) - An approach for integrating Nextion devices into Home Assistant, using a Python service that allows Nextion Events to send instructions to HA.
 - [espressif/esptool](https://github.com/espressif/esptool) - Espressif SoC serial bootloader utility
@@ -1098,6 +1100,7 @@
 - [Savjee/button-text-card](https://github.com/Savjee/button-text-card) - Custom, "neumorphism" Lovelace card
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [DBuit/media_player-popup-card](https://github.com/DBuit/media_player-popup-card) - 
 - [dangreco/ha-card-workbench](https://github.com/dangreco/ha-card-workbench) - Web IDE for testing during the development of Home Assistant custom cards.
