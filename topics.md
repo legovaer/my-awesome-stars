@@ -1085,6 +1085,7 @@
 - [TaptuIT/awesome-devsecops](https://github.com/TaptuIT/awesome-devsecops) - Curating the best DevSecOps resources and tooling.
 - [kalkih/mini-media-player](https://github.com/kalkih/mini-media-player) - Minimalistic media card for Home Assistant Lovelace UI
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
+- [novuhq/novu](https://github.com/novuhq/novu) - 🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, conten
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [IonicaBizau/parse-url](https://github.com/IonicaBizau/parse-url) - :rocket: An advanced url parser supporting git urls too.
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
@@ -1599,6 +1600,9 @@
 
 ## others 
 
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
+- [Tobiasn2005/Home-Assistant](https://github.com/Tobiasn2005/Home-Assistant) - Home Assistant Lovelace UI
+- [andreasjacobsen93/awesome-nextcloud](https://github.com/andreasjacobsen93/awesome-nextcloud) - List of awesome tools for NextCloud and OwnCloud
 - [digiblur/unraid-docker-templates](https://github.com/digiblur/unraid-docker-templates) - Template files for various Docker Containers for use with unRaid
 - [blahsd/supernerd.widget](https://github.com/blahsd/supernerd.widget) - Extensible, customisable, menubar replacement Ubersicht widget.
 - [jr0dd/prometheus-rules](https://github.com/jr0dd/prometheus-rules) - collection of rules
