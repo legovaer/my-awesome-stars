@@ -333,6 +333,7 @@
 
 ## Java 
 
+- [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
 - [Erudika/scoold](https://github.com/Erudika/scoold) - A Stack Overflow clone for teams (self-hosted or hosted)
 - [google/tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) - Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
 - [pinterest/singer](https://github.com/pinterest/singer) - A high-performance, reliable and extensible logging agent for uploading data to Kafka, Pulsar, etc.
@@ -551,6 +552,10 @@
 
 ## Others 
 
+- [portainer/awesome-portainer](https://github.com/portainer/awesome-portainer) - A curated list of Portainer resources, tutorials, videos
+- [timoknapp/rpi-nas](https://github.com/timoknapp/rpi-nas) - 🌐👨‍💻💻 Setup your own NAS on a Raspberry Pi
+- [PAPAMICA/docker-compose-collection](https://github.com/PAPAMICA/docker-compose-collection) - These docker-compose allow you to deploy multiple services easily and quickly.  You can use them with Portainer directly or via docker-compose commands.
+- [ethibox/awesome-stacks](https://github.com/ethibox/awesome-stacks) - Deploy 90+ open-source web apps with one Docker command
 - [andreasjacobsen93/awesome-nextcloud](https://github.com/andreasjacobsen93/awesome-nextcloud) - List of awesome tools for NextCloud and OwnCloud
 - [digiblur/unraid-docker-templates](https://github.com/digiblur/unraid-docker-templates) - Template files for various Docker Containers for use with unRaid
 - [SelfhostedPro/selfhosted_templates](https://github.com/SelfhostedPro/selfhosted_templates) - Portainer templates for selfhosted services
@@ -738,6 +743,8 @@
 
 ## Python 
 
+- [coandco/homeserver-traefik-portainer](https://github.com/coandco/homeserver-traefik-portainer) - My homeserver setup. Everything managed securely using Portainer.
+- [tomwojcik/homeserver-traefik-portainer](https://github.com/tomwojcik/homeserver-traefik-portainer) - My homeserver setup. Everything managed securely using Portainer.
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
 - [krizkontrolz/Home-Assistant-nextion_handler](https://github.com/krizkontrolz/Home-Assistant-nextion_handler) - An approach for integrating Nextion devices into Home Assistant, using a Python service that allows Nextion Events to send instructions to HA.
@@ -940,6 +947,8 @@
 
 ## Shell 
 
+- [mpascu/docker-home-infra](https://github.com/mpascu/docker-home-infra) - A docker-compose setup ready to spin up a bunch of useful media, file-sharing, programming, web tools, databases...
+- [jmb12686/raspi-docker-stacks](https://github.com/jmb12686/raspi-docker-stacks) - Collection of Docker Stacks for usage on a multi-architecture Docker Swarm cluster (arm, amd64)
 - [billimek/k8s-gitops](https://github.com/billimek/k8s-gitops) - GitOps principles to define kubernetes cluster state via code.  Community around k8s@home is on discord: https://discord.gg/7PbmHRK
 - [billimek/homelab-infrastructure](https://github.com/billimek/homelab-infrastructure) - Infrastructure info and setup for homelab
 - [morph027/pve-lxc-scripts](https://github.com/morph027/pve-lxc-scripts) - some useful scripts fpr Proxmox VE (PVE) LXC containers
@@ -1043,6 +1052,7 @@
 
 ## TypeScript 
 
+- [carlrygart/portainer-stack-deploy](https://github.com/carlrygart/portainer-stack-deploy) - Portainer-stack-deploy is a GitHub Action for deploying a newly updated stack to a Portainer v2 instance.
 - [buttercup/buttercup-core](https://github.com/buttercup/buttercup-core) - :tophat: The mighty NodeJS password vault
 - [nirops/yakiapp](https://github.com/nirops/yakiapp) - Open Source, Cross platform, Native Kubernetes IDE
 - [UseCrowdWise/crowdwise](https://github.com/UseCrowdWise/crowdwise) - Chrome extension that adds to your browsing experience by showing you relevant discussions about your current web page from Hacker News and Reddit.
