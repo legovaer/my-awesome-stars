@@ -98,6 +98,7 @@
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
+- [mastodon](#mastodon)
 - [material-design](#material-design)
 - [mobile](#mobile)
 - [mongodb](#mongodb)
@@ -289,6 +290,7 @@
 
 ## awesome 
 
+- [portainer/awesome-portainer](https://github.com/portainer/awesome-portainer) - A curated list of Portainer resources, tutorials, videos
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [jnv/lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
@@ -344,6 +346,7 @@
 
 ## awesome-list 
 
+- [portainer/awesome-portainer](https://github.com/portainer/awesome-portainer) - A curated list of Portainer resources, tutorials, videos
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [jonico/awesome-runners](https://github.com/jonico/awesome-runners) - A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix
 - [jnv/lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere
@@ -572,6 +575,7 @@
 
 ## continuous-integration 
 
+- [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 
 ## cpp 
@@ -706,6 +710,8 @@
 
 ## devops 
 
+- [portainer/awesome-portainer](https://github.com/portainer/awesome-portainer) - A curated list of Portainer resources, tutorials, videos
+- [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
 - [nirops/yakiapp](https://github.com/nirops/yakiapp) - Open Source, Cross platform, Native Kubernetes IDE
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.
@@ -766,6 +772,13 @@
 
 ## docker 
 
+- [portainer/awesome-portainer](https://github.com/portainer/awesome-portainer) - A curated list of Portainer resources, tutorials, videos
+- [mpascu/docker-home-infra](https://github.com/mpascu/docker-home-infra) - A docker-compose setup ready to spin up a bunch of useful media, file-sharing, programming, web tools, databases...
+- [jmb12686/raspi-docker-stacks](https://github.com/jmb12686/raspi-docker-stacks) - Collection of Docker Stacks for usage on a multi-architecture Docker Swarm cluster (arm, amd64)
+- [timoknapp/rpi-nas](https://github.com/timoknapp/rpi-nas) - 🌐👨‍💻💻 Setup your own NAS on a Raspberry Pi
+- [PAPAMICA/docker-compose-collection](https://github.com/PAPAMICA/docker-compose-collection) - These docker-compose allow you to deploy multiple services easily and quickly.  You can use them with Portainer directly or via docker-compose commands.
+- [ethibox/awesome-stacks](https://github.com/ethibox/awesome-stacks) - Deploy 90+ open-source web apps with one Docker command
+- [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
 - [UiP9AV6Y/portainer-templates](https://github.com/UiP9AV6Y/portainer-templates) - App Templates used by Portainer
 - [jonico/awesome-runners](https://github.com/jonico/awesome-runners) - A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
@@ -924,6 +937,7 @@
 
 ## git 
 
+- [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
 - [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [Poeschl/Hassio-Addons](https://github.com/Poeschl/Hassio-Addons) - The repository for my Home Assistant Supervisor Add-ons.
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
@@ -1282,6 +1296,8 @@
 
 ## kubernetes 
 
+- [portainer/awesome-portainer](https://github.com/portainer/awesome-portainer) - A curated list of Portainer resources, tutorials, videos
+- [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
 - [jonico/awesome-runners](https://github.com/jonico/awesome-runners) - A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix
 - [billimek/k8s-gitops](https://github.com/billimek/k8s-gitops) - GitOps principles to define kubernetes cluster state via code.  Community around k8s@home is on discord: https://discord.gg/7PbmHRK
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
@@ -1430,6 +1446,10 @@
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
+
+## mastodon 
+
+- [ethibox/awesome-stacks](https://github.com/ethibox/awesome-stacks) - Deploy 90+ open-source web apps with one Docker command
 
 ## material-design 
 
@@ -1600,6 +1620,9 @@
 
 ## others 
 
+- [carlrygart/portainer-stack-deploy](https://github.com/carlrygart/portainer-stack-deploy) - Portainer-stack-deploy is a GitHub Action for deploying a newly updated stack to a Portainer v2 instance.
+- [coandco/homeserver-traefik-portainer](https://github.com/coandco/homeserver-traefik-portainer) - My homeserver setup. Everything managed securely using Portainer.
+- [tomwojcik/homeserver-traefik-portainer](https://github.com/tomwojcik/homeserver-traefik-portainer) - My homeserver setup. Everything managed securely using Portainer.
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [Tobiasn2005/Home-Assistant](https://github.com/Tobiasn2005/Home-Assistant) - Home Assistant Lovelace UI
 - [andreasjacobsen93/awesome-nextcloud](https://github.com/andreasjacobsen93/awesome-nextcloud) - List of awesome tools for NextCloud and OwnCloud
@@ -2065,6 +2088,7 @@
 
 ## postgresql 
 
+- [mpascu/docker-home-infra](https://github.com/mpascu/docker-home-infra) - A docker-compose setup ready to spin up a bunch of useful media, file-sharing, programming, web tools, databases...
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
@@ -2173,6 +2197,8 @@
 
 ## raspberry-pi 
 
+- [jmb12686/raspi-docker-stacks](https://github.com/jmb12686/raspi-docker-stacks) - Collection of Docker Stacks for usage on a multi-architecture Docker Swarm cluster (arm, amd64)
+- [timoknapp/rpi-nas](https://github.com/timoknapp/rpi-nas) - 🌐👨‍💻💻 Setup your own NAS on a Raspberry Pi
 - [benct/home-assistant-config](https://github.com/benct/home-assistant-config) - 🏠 My configuration for home-assistant (https://www.home-assistant.io). 🌟 for updates!
 - [philipp089/Home-Assistant-Config](https://github.com/philipp089/Home-Assistant-Config) - HA Config and UI
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
@@ -2543,6 +2569,7 @@
 
 ## wordpress 
 
+- [ethibox/awesome-stacks](https://github.com/ethibox/awesome-stacks) - Deploy 90+ open-source web apps with one Docker command
 - [rohullah-ayoub/awslightsail-wordpress-terraform-](https://github.com/rohullah-ayoub/awslightsail-wordpress-terraform-) - Terraform configuration needed to setup a Wordpress site in Amazon Web Services(AWS) Lightsail.
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
