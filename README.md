@@ -140,6 +140,7 @@
 
 ## Dockerfile 
 
+- [adamoutler/mqtt-explorer](https://github.com/adamoutler/mqtt-explorer) - A home assistant repository for MQTT Explorer
 - [Poeschl/Hassio-Addons](https://github.com/Poeschl/Hassio-Addons) - The repository for my Home Assistant Supervisor Add-ons.
 - [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) - Documentation and Examples of base container modifications
 - [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag) - Nginx webserver and reverse proxy with php support and a built-in Certbot (Let's Encrypt) client. It also contains fail2ban for intrusion prevention.
@@ -333,6 +334,7 @@
 
 ## Java 
 
+- [colddenial/lovense-lan-api](https://github.com/colddenial/lovense-lan-api) - Lovense Connect Library
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
 - [Erudika/scoold](https://github.com/Erudika/scoold) - A Stack Overflow clone for teams (self-hosted or hosted)
 - [google/tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) - Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
@@ -344,6 +346,7 @@
 
 ## JavaScript 
 
+- [shannonhochkins/ha-dashboard](https://github.com/shannonhochkins/ha-dashboard) - A react dashboard interacting with home assistant
 - [UbhiTS/ha-config-ataraxis](https://github.com/UbhiTS/ha-config-ataraxis) - My Home Assistant Configs. If you like what you see, please ⭐️my repo. It would encourage me a lot 🤘
 - [Tobiasn2005/Home-Assistant](https://github.com/Tobiasn2005/Home-Assistant) - Home Assistant Lovelace UI
 - [swiergot/ha-catt-fix](https://github.com/swiergot/ha-catt-fix) - A solution for the timeout issue when casting Home Assistant using CATT
