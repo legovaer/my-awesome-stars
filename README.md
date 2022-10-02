@@ -557,6 +557,7 @@
 
 ## Others 
 
+- [GoVanguard/list-infosec-encyclopedia](https://github.com/GoVanguard/list-infosec-encyclopedia) - A list of information security related awesome lists and other resources.
 - [portainer/awesome-portainer](https://github.com/portainer/awesome-portainer) - A curated list of Portainer resources, tutorials, videos
 - [timoknapp/rpi-nas](https://github.com/timoknapp/rpi-nas) - 🌐👨‍💻💻 Setup your own NAS on a Raspberry Pi
 - [PAPAMICA/docker-compose-collection](https://github.com/PAPAMICA/docker-compose-collection) - These docker-compose allow you to deploy multiple services easily and quickly.  You can use them with Portainer directly or via docker-compose commands.
