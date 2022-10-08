@@ -111,6 +111,7 @@
 - [node](#node)
 - [nodejs](#nodejs)
 - [npm](#npm)
+- [numpy](#numpy)
 - [objective-c](#objective-c)
 - [open-source](#open-source)
 - [osint](#osint)
@@ -198,7 +199,7 @@
 ## ansible 
 
 - [robertdebock/ansible-role-maintenance](https://github.com/robertdebock/ansible-role-maintenance) - Maintain your system by cleaning up.
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting infrastructure, fully automated from empty disk to operating services.
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting infrastructure, fully automated from empty disk to operating services with a single command.
 - [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible
 - [debops/debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
@@ -293,6 +294,7 @@
 
 ## awesome 
 
+- [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
 - [portainer/awesome-portainer](https://github.com/portainer/awesome-portainer) - A curated list of Portainer resources, tutorials, videos
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [jnv/lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere
@@ -349,6 +351,8 @@
 
 ## awesome-list 
 
+- [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
+- [shubhamgrg04/awesome-diagramming](https://github.com/shubhamgrg04/awesome-diagramming) - A curated collection of diagramming tools used by leading software engineering teams
 - [portainer/awesome-portainer](https://github.com/portainer/awesome-portainer) - A curated list of Portainer resources, tutorials, videos
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [jonico/awesome-runners](https://github.com/jonico/awesome-runners) - A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix
@@ -718,7 +722,7 @@
 
 - [portainer/awesome-portainer](https://github.com/portainer/awesome-portainer) - A curated list of Portainer resources, tutorials, videos
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting infrastructure, fully automated from empty disk to operating services.
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting infrastructure, fully automated from empty disk to operating services with a single command.
 - [nirops/yakiapp](https://github.com/nirops/yakiapp) - Open Source, Cross platform, Native Kubernetes IDE
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.
 - [antonputra/tutorials](https://github.com/antonputra/tutorials) - DevOps by Example
@@ -788,7 +792,7 @@
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
 - [UiP9AV6Y/portainer-templates](https://github.com/UiP9AV6Y/portainer-templates) - App Templates used by Portainer
 - [jonico/awesome-runners](https://github.com/jonico/awesome-runners) - A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting infrastructure, fully automated from empty disk to operating services.
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting infrastructure, fully automated from empty disk to operating services with a single command.
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [ravindrajob/Observability-Monitoring](https://github.com/ravindrajob/Observability-Monitoring) - Monitoring - Observability  with thanos + docker + Grafana stack
@@ -1132,6 +1136,7 @@
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [kalkih/mini-graph-card](https://github.com/kalkih/mini-graph-card) - Minimalistic graph card for Home Assistant Lovelace UI
 - [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
+- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [Smashing/smashing](https://github.com/Smashing/smashing) - The exceptionally handsome dashboard framework in Ruby and Coffeescript.
 - [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
@@ -1146,6 +1151,7 @@
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [aquasecurity/tfsec-pr-commenter-action](https://github.com/aquasecurity/tfsec-pr-commenter-action) - Add comments to pull requests where tfsec checks have failed
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
@@ -1174,6 +1180,7 @@
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [mKeRix/room-assistant](https://github.com/mKeRix/room-assistant) - Presence tracking and more for automation on the room-level
 - [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
@@ -1334,7 +1341,7 @@
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
 - [jonico/awesome-runners](https://github.com/jonico/awesome-runners) - A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix
 - [billimek/k8s-gitops](https://github.com/billimek/k8s-gitops) - GitOps principles to define kubernetes cluster state via code.  Community around k8s@home is on discord: https://discord.gg/7PbmHRK
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting infrastructure, fully automated from empty disk to operating services.
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting infrastructure, fully automated from empty disk to operating services with a single command.
 - [khuedoan/horus](https://github.com/khuedoan/horus) - Free cloud native platform for service hosting
 - [nirops/yakiapp](https://github.com/nirops/yakiapp) - Open Source, Cross platform, Native Kubernetes IDE
 - [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible
@@ -1629,6 +1636,10 @@
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (August 2022)
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips
+
+## numpy 
+
+- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
 
 ## objective-c 
 
@@ -2471,7 +2482,7 @@
 ## terraform 
 
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting infrastructure, fully automated from empty disk to operating services.
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting infrastructure, fully automated from empty disk to operating services with a single command.
 - [khuedoan/horus](https://github.com/khuedoan/horus) - Free cloud native platform for service hosting
 - [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible
 - [a-patel/terraform-aws-eks-workshop](https://github.com/a-patel/terraform-aws-eks-workshop) - Amazon EKS Terraform Workshop: Provision EKS Cluster in AWS using Terraform.
