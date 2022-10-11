@@ -1672,6 +1672,8 @@
 
 ## others 
 
+- [legovaer/room-assistant2](https://github.com/legovaer/room-assistant2) - A fork of room-assistant
+- [sholiday/espresense-admin](https://github.com/sholiday/espresense-admin) - Viewer and Admin intercase for https://espresense.com/
 - [BlueRPC/server](https://github.com/BlueRPC/server) - Coordination server for BlueRPC
 - [BlueRPC/BlueRPC](https://github.com/BlueRPC/BlueRPC) - BlueRPC Home Repo
 - [dominee/Termux-dotfiles](https://github.com/dominee/Termux-dotfiles) - .files for the Termux android terminal
