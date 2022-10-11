@@ -162,6 +162,7 @@
 
 ## Go 
 
+- [sholiday/espresense-admin](https://github.com/sholiday/espresense-admin) - Viewer and Admin intercase for https://espresense.com/
 - [BlueRPC/server](https://github.com/BlueRPC/server) - Coordination server for BlueRPC
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Protect and discover secrets using Gitleaks 🔑
@@ -1072,6 +1073,7 @@
 
 ## TypeScript 
 
+- [legovaer/room-assistant2](https://github.com/legovaer/room-assistant2) - A fork of room-assistant
 - [custom-cards/decluttering-card](https://github.com/custom-cards/decluttering-card) - 🧹 Declutter your lovelace configuration with the help of this card
 - [carlrygart/portainer-stack-deploy](https://github.com/carlrygart/portainer-stack-deploy) - Portainer-stack-deploy is a GitHub Action for deploying a newly updated stack to a Portainer v2 instance.
 - [buttercup/buttercup-core](https://github.com/buttercup/buttercup-core) - :tophat: The mighty NodeJS password vault
