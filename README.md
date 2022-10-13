@@ -565,6 +565,7 @@
 
 ## Others 
 
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022
 - [Blackymas/NSPanel_HA_Blueprint](https://github.com/Blackymas/NSPanel_HA_Blueprint) - Custom Firmware for NsPanel (esphome) and HA Blueprint with configuration of button, light settings, colorwheel, colortemp, cover, weather preview, automatic TFT upload etc.
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
 - [shubhamgrg04/awesome-diagramming](https://github.com/shubhamgrg04/awesome-diagramming) - A curated collection of diagramming tools used by leading software engineering teams
@@ -989,7 +990,7 @@
 - [sonnyyu/docker-prometheus-haproxy-stack](https://github.com/sonnyyu/docker-prometheus-haproxy-stack) - Prometheus, Grafana, cAdvisor, NodeExporter, Telegraf and alerting with AlertManager.
 - [Graylog2/docker-compose](https://github.com/Graylog2/docker-compose) - A set of Docker Compose files that allow you to quickly spin up a Graylog instance for testing or demo purposes.
 - [rixon-cochi/SMF](https://github.com/rixon-cochi/SMF) - Social media hacking
-- [htr-tech/nexphisher](https://github.com/htr-tech/nexphisher) - Advanced Phishing tool for Linux & Termux
+- [htr-tech/nexphisher](https://github.com/htr-tech/nexphisher) - Advanced Phishing tool
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 - [kubernetes/examples](https://github.com/kubernetes/examples) - Kubernetes application example tutorials
 - [LucasLarson/dotfiles](https://github.com/LucasLarson/dotfiles) - ～’s where the 🫀 is                                   at.
