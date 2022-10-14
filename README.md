@@ -87,6 +87,7 @@
 
 ## C++ 
 
+- [smrtnt/Open-Home-Automation](https://github.com/smrtnt/Open-Home-Automation) - Open Home Automation with Home Assistant, ESP8266/ESP32 and MQTT
 - [igiannakas/mmwave-d1mini](https://github.com/igiannakas/mmwave-d1mini) - Room presence detection using mmWave radar (DFRobot SEN0395), D1 Mini ESP-8266 and ESPHome for HomeAssistant
 - [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense) - An ESP32 based presence detection node for use with the Home Assistant mqtt_room component for localized device presence detection.
 - [alvr-org/ALVR](https://github.com/alvr-org/ALVR) - Stream VR games from your PC to your headset via Wi-Fi
@@ -101,7 +102,7 @@
 
 - [mehulkar/github-hall-of-fame](https://github.com/mehulkar/github-hall-of-fame) - Hall of Fame for spectacular things on Github
 - [juliocesarfort/public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) - Curated list of  public penetration test reports released by several consulting firms and academic security groups
-- [Madelena/hass-config-public](https://github.com/Madelena/hass-config-public) - My Maximalist Dashboards for Home Assistant - Advanced data visualizations, responsive design, and a neat Metro Live Tile layout
+- [Madelena/hass-config-public](https://github.com/Madelena/hass-config-public) - My Dashboards for Home Assistant - Advanced data visualizations, responsive design, a neat maximalist Metro Live Tile layout, and an ultraminimal tablet layout!
 - [Madelena/Metrology-for-Hass](https://github.com/Madelena/Metrology-for-Hass) - 🎨 Give your Home Assistant a modern and clean facelift. 🟥🟧🟩🟦🟪 24 Variations with 2 Styles + 6 Colors (Magenta Red / Orange / Green / Blue / Purple) + 🌞 Light and 🌚 Dark modes included. Based on Metro 
 - [dracula/logseq](https://github.com/dracula/logseq) - 🧛🏻‍♂️ Dark theme for Logseq
 - [node-red-contrib-themes/solarized-dark-grey](https://github.com/node-red-contrib-themes/solarized-dark-grey) - DEPRECATED REPOSITORY
@@ -351,6 +352,7 @@
 
 ## JavaScript 
 
+- [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and 
 - [gasparrobi/BLE-beacon-presence-tracker](https://github.com/gasparrobi/BLE-beacon-presence-tracker) - 👀 BLE (Bluetooth Low Energy) device presence detection
 - [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot) - An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!
 - [CammyLeone/devious-buttplug](https://github.com/CammyLeone/devious-buttplug) - 
