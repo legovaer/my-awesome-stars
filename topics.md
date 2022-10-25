@@ -1742,6 +1742,7 @@
 
 ## others 
 
+- [anotherjulien/MyHOME](https://github.com/anotherjulien/MyHOME) - MyHOME integration for Home-Assistant
 - [geerlingguy/internet-pi](https://github.com/geerlingguy/internet-pi) - Raspberry Pi config for all things Internet.
 - [chrisgrieser/dotfiles](https://github.com/chrisgrieser/dotfiles) - pseudometa's dotfiles
 - [chezmoi/dotfiles](https://github.com/chezmoi/dotfiles) - chezmoi dotfiles template repository.
