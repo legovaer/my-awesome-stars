@@ -792,6 +792,7 @@
 
 ## Python 
 
+- [anotherjulien/MyHOME](https://github.com/anotherjulien/MyHOME) - MyHOME integration for Home-Assistant
 - [DonDebonair/slack-machine](https://github.com/DonDebonair/slack-machine) - A simple, yet powerful and extendable Slack bot
 - [fondberg/spotcast](https://github.com/fondberg/spotcast) - Home assistant custom component to start Spotify playback on an idle chromecast device as well as control spotify connect devices
 - [jonathanadams/Home-Assistant-Configuration](https://github.com/jonathanadams/Home-Assistant-Configuration) - Home Assistant Configuration and Documentation
