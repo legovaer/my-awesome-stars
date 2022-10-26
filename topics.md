@@ -258,6 +258,7 @@
 
 ## automation 
 
+- [point-4ward/Home-Assistant](https://github.com/point-4ward/Home-Assistant) - Home-Assistant-Config
 - [UbhiTS/ha-config-ataraxis](https://github.com/UbhiTS/ha-config-ataraxis) - My Home Assistant Configs. If you like what you see, please ⭐️my repo. It would encourage me a lot 🤘
 - [krizkontrolz/Home-Assistant-nextion_handler](https://github.com/krizkontrolz/Home-Assistant-nextion_handler) - An approach for integrating Nextion devices into Home Assistant, using a Python service that allows Nextion Events to send instructions to HA.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
@@ -300,6 +301,7 @@
 
 ## awesome 
 
+- [madawei2699/awesome-seo](https://github.com/madawei2699/awesome-seo) - Google SEO Research and Web Traffic Monetization
 - [timofurrer/awesome-asyncio](https://github.com/timofurrer/awesome-asyncio) - A curated list of awesome Python asyncio frameworks, libraries, software and resources
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022
@@ -361,6 +363,7 @@
 
 ## awesome-list 
 
+- [madawei2699/awesome-seo](https://github.com/madawei2699/awesome-seo) - Google SEO Research and Web Traffic Monetization
 - [timofurrer/awesome-asyncio](https://github.com/timofurrer/awesome-asyncio) - A curated list of awesome Python asyncio frameworks, libraries, software and resources
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022
@@ -553,6 +556,7 @@
 
 ## cli 
 
+- [home-assistant-ecosystem/home-assistant-cli](https://github.com/home-assistant-ecosystem/home-assistant-cli) - :computer: Command-line tool for Home Assistant
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -607,6 +611,7 @@
 ## continuous-integration 
 
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
+- [dagger/dagger](https://github.com/dagger/dagger) - A programmable CI/CD engine that runs your pipelines in containers
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 
 ## cpp 
@@ -732,6 +737,7 @@
 - [vitalyliber/dokku-github-action](https://github.com/vitalyliber/dokku-github-action) - Deploy applications to Dokku
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [brandonweiss/discharge](https://github.com/brandonweiss/discharge) - ⚡️ A simple, easy way to deploy static websites to Amazon S3.
+- [dagger/dagger](https://github.com/dagger/dagger) - A programmable CI/CD engine that runs your pipelines in containers
 - [deployphp/deployer](https://github.com/deployphp/deployer) - The PHP deployment tool with support for popular frameworks out of the box
 - [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs wit
 - [shipitjs/shipit](https://github.com/shipitjs/shipit) - Universal automation and deployment tool ⛵️
@@ -782,6 +788,7 @@
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 800+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDA
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [clouddrove/terraform-aws-labels](https://github.com/clouddrove/terraform-aws-labels) - This terraform module is designed to generate consistent label names and tags for resources. You can use terraform-labels to implement a strict naming convention.
+- [dagger/dagger](https://github.com/dagger/dagger) - A programmable CI/CD engine that runs your pipelines in containers
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [env0/terratag](https://github.com/env0/terratag) - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources
@@ -808,6 +815,8 @@
 
 ## docker 
 
+- [point-4ward/Home-Assistant](https://github.com/point-4ward/Home-Assistant) - Home-Assistant-Config
+- [home-assistant/builder](https://github.com/home-assistant/builder) - Home Assistant builder script
 - [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) - Nextcloud AIO stands for Nextcloud All In One and provides easy deployment and maintenance with most features included in this one Nextcloud instance.
 - [gimlet-io/gimlet](https://github.com/gimlet-io/gimlet) - Build and run a developer platform on Kubernetes
 - [portainer/awesome-portainer](https://github.com/portainer/awesome-portainer) - A curated list of Portainer resources, tutorials, videos
@@ -870,6 +879,7 @@
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [vulhub/vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
+- [dagger/dagger](https://github.com/dagger/dagger) - A programmable CI/CD engine that runs your pipelines in containers
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.
@@ -1095,6 +1105,7 @@
 
 ## google 
 
+- [madawei2699/awesome-seo](https://github.com/madawei2699/awesome-seo) - Google SEO Research and Web Traffic Monetization
 - [LinuxCafeFederation/awesome-android](https://github.com/LinuxCafeFederation/awesome-android) - A curated list of awesome open source Android applications, tutorials and resources.
 
 ## graphql 
@@ -1288,6 +1299,10 @@
 
 ## iot 
 
+- [home-assistant-ecosystem/home-assistant-cli](https://github.com/home-assistant-ecosystem/home-assistant-cli) - :computer: Command-line tool for Home Assistant
+- [joch/home-assistant-config](https://github.com/joch/home-assistant-config) - My configuration for Home Assistant
+- [point-4ward/Home-Assistant](https://github.com/point-4ward/Home-Assistant) - Home-Assistant-Config
+- [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip) - Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards
 - [jonathanadams/Home-Assistant-Configuration](https://github.com/jonathanadams/Home-Assistant-Configuration) - Home Assistant Configuration and Documentation
 - [fO-000/bluescan](https://github.com/fO-000/bluescan) - A Bluetooth scanner for hacking
 - [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense) - An ESP32 based presence detection node for use with the Home Assistant mqtt_room component for localized device presence detection.
@@ -1742,6 +1757,16 @@
 
 ## others 
 
+- [jjlawren/sonos_cloud](https://github.com/jjlawren/sonos_cloud) - Sonos cloud API integration for Home Assistant with improved TTS/alerts handling
+- [maykar/lovelace-swipe-navigation](https://github.com/maykar/lovelace-swipe-navigation) - ↔️ Swipe through Lovelace views on mobile.
+- [Bishma/home-assistant-tng](https://github.com/Bishma/home-assistant-tng) - My Home Assistant configs
+- [maattdiy/home-assistant-config](https://github.com/maattdiy/home-assistant-config) - :house: My Home Assistant configuration and documentation. More info below.
+- [sabeechen/hassio-google-drive-backup](https://github.com/sabeechen/hassio-google-drive-backup) - Automatically create and sync Home Assistant backups into Google Drive
+- [ludeeus/awesomeversion](https://github.com/ludeeus/awesomeversion) - One version package to rule them all, One version package to find them, One version package to bring them all, and in the darkness bind them.
+- [Limych/ha-average](https://github.com/Limych/ha-average) - Average Sensor for Home Assistant
+- [maxwroc/battery-state-card](https://github.com/maxwroc/battery-state-card) - Battery state card for Home Assistant
+- [VirtualL/HomeAssistant-Config](https://github.com/VirtualL/HomeAssistant-Config) - Home Assistant configuration & Documentation for my Smart Home 🏗.Devices used and important links are listed below. Be sure to ⭐️my Repository. 👨🏻‍💻
+- [Limych/HomeAssistantConfiguration](https://github.com/Limych/HomeAssistantConfiguration) - 
 - [anotherjulien/MyHOME](https://github.com/anotherjulien/MyHOME) - MyHOME integration for Home-Assistant
 - [geerlingguy/internet-pi](https://github.com/geerlingguy/internet-pi) - Raspberry Pi config for all things Internet.
 - [chrisgrieser/dotfiles](https://github.com/chrisgrieser/dotfiles) - pseudometa's dotfiles
@@ -1997,7 +2022,6 @@
 - [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
 - [nagyrobi/home-assistant-configuration-examples](https://github.com/nagyrobi/home-assistant-configuration-examples) - Some of my Home Assistant configurations shared to the community
 - [octodns/octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
-- [dagger/dagger](https://github.com/dagger/dagger) - A cross-platform CI/CD engine that is programmable and container-native
 - [guardicore/monkey](https://github.com/guardicore/monkey) - Infection Monkey - An automated pentest tool
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public) - My personal dotfiles
@@ -2362,6 +2386,8 @@
 
 ## raspberry-pi 
 
+- [robwolff3/homeassistant-config](https://github.com/robwolff3/homeassistant-config) - My personal Home Assistant config
+- [point-4ward/Home-Assistant](https://github.com/point-4ward/Home-Assistant) - Home-Assistant-Config
 - [gasparrobi/BLE-beacon-presence-tracker](https://github.com/gasparrobi/BLE-beacon-presence-tracker) - 👀 BLE (Bluetooth Low Energy) device presence detection
 - [jmb12686/raspi-docker-stacks](https://github.com/jmb12686/raspi-docker-stacks) - Collection of Docker Stacks for usage on a multi-architecture Docker Swarm cluster (arm, amd64)
 - [timoknapp/rpi-nas](https://github.com/timoknapp/rpi-nas) - 🌐👨‍💻💻 Setup your own NAS on a Raspberry Pi
@@ -2457,6 +2483,7 @@
 
 ## security 
 
+- [iantrich/restriction-card](https://github.com/iantrich/restriction-card) - 🔒 Apply restrictions to Lovelace cards
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022
 - [fO-000/bluescan](https://github.com/fO-000/bluescan) - A Bluetooth scanner for hacking
