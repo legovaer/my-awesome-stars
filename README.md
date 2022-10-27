@@ -67,6 +67,7 @@
 
 ## C 
 
+- [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) - GameStream client for Android
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
@@ -361,6 +362,7 @@
 
 ## JavaScript 
 
+- [koalatiapp/tool-seo](https://github.com/koalatiapp/tool-seo) - Koalati tool that checks for on-site SEO of a page and that provides suggestions for improvement.
 - [maykar/lovelace-swipe-navigation](https://github.com/maykar/lovelace-swipe-navigation) - ↔️ Swipe through Lovelace views on mobile.
 - [VirtualL/HomeAssistant-Config](https://github.com/VirtualL/HomeAssistant-Config) - Home Assistant configuration & Documentation for my Smart Home 🏗.Devices used and important links are listed below. Be sure to ⭐️my Repository. 👨🏻‍💻
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
@@ -743,6 +745,7 @@
 
 ## PHP 
 
+- [eyecatchup/SEOstats](https://github.com/eyecatchup/SEOstats) - SEOstats is a powerful open source PHP library to request a bunch of SEO relevant metrics.
 - [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) - Nextcloud AIO stands for Nextcloud All In One and provides easy deployment and maintenance with most features included in this one Nextcloud instance.
 - [bcremer/docker-telegraf-influx-grafana-stack](https://github.com/bcremer/docker-telegraf-influx-grafana-stack) - Docker Compose Setup for Telegraf / InfluxDB / Grafana (TIG)
 - [Rabbit-Company/Passky-Server](https://github.com/Rabbit-Company/Passky-Server) - API and Database for Passky (password manager)
@@ -799,6 +802,7 @@
 
 ## Python 
 
+- [eliasdabbas/advertools](https://github.com/eliasdabbas/advertools) - advertools - online marketing productivity and analysis tools
 - [home-assistant-ecosystem/home-assistant-cli](https://github.com/home-assistant-ecosystem/home-assistant-cli) - :computer: Command-line tool for Home Assistant
 - [jjlawren/sonos_cloud](https://github.com/jjlawren/sonos_cloud) - Sonos cloud API integration for Home Assistant with improved TTS/alerts handling
 - [robwolff3/homeassistant-config](https://github.com/robwolff3/homeassistant-config) - My personal Home Assistant config
@@ -1023,6 +1027,7 @@
 
 ## Shell 
 
+- [Odania-IT/docker-seopanel](https://github.com/Odania-IT/docker-seopanel) - 
 - [home-assistant/builder](https://github.com/home-assistant/builder) - Home Assistant builder script
 - [zercurity/zercurity](https://github.com/zercurity/zercurity) - Manage, monitor and improve your cyber security posture.
 - [chezmoi/dotfiles](https://github.com/chezmoi/dotfiles) - chezmoi dotfiles template repository.
