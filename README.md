@@ -67,6 +67,7 @@
 
 ## C 
 
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) - GameStream client for Android
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
@@ -368,6 +369,7 @@
 
 ## JavaScript 
 
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [koalatiapp/tool-seo](https://github.com/koalatiapp/tool-seo) - Koalati tool that checks for on-site SEO of a page and that provides suggestions for improvement.
 - [maykar/lovelace-swipe-navigation](https://github.com/maykar/lovelace-swipe-navigation) - ↔️ Swipe through Lovelace views on mobile.
 - [VirtualL/HomeAssistant-Config](https://github.com/VirtualL/HomeAssistant-Config) - Home Assistant configuration & Documentation for my Smart Home 🏗.Devices used and important links are listed below. Be sure to ⭐️my Repository. 👨🏻‍💻
@@ -610,7 +612,7 @@
 - [pop3ret/AWSome-Pentesting](https://github.com/pop3ret/AWSome-Pentesting) - My cheatsheet notes to pentest AWS infrastructure
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 - [ChristianLempa/cheat-sheets](https://github.com/ChristianLempa/cheat-sheets) - This is my personal knowledge-base. Here you'll find code-snippets, technical documentation, and command reference for various tools, and technologies.
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2022
 - [Blackymas/NSPanel_HA_Blueprint](https://github.com/Blackymas/NSPanel_HA_Blueprint) - Custom Firmware for NsPanel (esphome) and HA Blueprint with configuration of button, light settings, colorwheel, colortemp, cover, weather preview, automatic TFT upload etc.
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
 - [shubhamgrg04/awesome-diagramming](https://github.com/shubhamgrg04/awesome-diagramming) - A curated collection of diagramming tools used by leading software engineering teams
@@ -810,6 +812,7 @@
 
 ## Python 
 
+- [sethblack/python-seo-analyzer](https://github.com/sethblack/python-seo-analyzer) - An SEO tool that analyzes the structure of a site, crawls the site, count words in the body of the site and warns of any technical SEO issues.
 - [StanGirard/seo-audits-toolkit](https://github.com/StanGirard/seo-audits-toolkit) - SEO & Security Audit for Websites. Lighthouse & Security Headers crawler, Sitemap/Keywords/Images Extractor,  Summarizer, etc ...
 - [nickjj/ansigenome](https://github.com/nickjj/ansigenome) - A tool to help you gather information and manage your Ansible roles.
 - [eliasdabbas/advertools](https://github.com/eliasdabbas/advertools) - advertools - online marketing productivity and analysis tools
