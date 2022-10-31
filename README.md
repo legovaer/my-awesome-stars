@@ -369,6 +369,10 @@
 
 ## JavaScript 
 
+- [lirantal/dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
+- [lukechilds/htconvert](https://github.com/lukechilds/htconvert) - Convert .htaccess redirects to nginx.conf redirects
+- [edm00se/awesome-board-games](https://github.com/edm00se/awesome-board-games) - A curated list of awesome and exceptional board games. Please contribute!
+- [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [koalatiapp/tool-seo](https://github.com/koalatiapp/tool-seo) - Koalati tool that checks for on-site SEO of a page and that provides suggestions for improvement.
 - [maykar/lovelace-swipe-navigation](https://github.com/maykar/lovelace-swipe-navigation) - ↔️ Swipe through Lovelace views on mobile.
@@ -601,6 +605,20 @@
 
 ## Others 
 
+- [alfred-workflows/awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows) - A curated list of awesome alfred workflows
+- [jondot/awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
+- [jyguyomarch/awesome-conversational-ai](https://github.com/jyguyomarch/awesome-conversational-ai) - A curated list of delightful Conversational AI resources.
+- [phanan/htaccess](https://github.com/phanan/htaccess) - ✂A collection of useful .htaccess snippets.
+- [jonleibowitz/awesome-digitalocean](https://github.com/jonleibowitz/awesome-digitalocean) - A curated list of amazingly awesome DigitalOcean resources inspired by Awesome Sysadmin
+- [matiassingers/awesome-slack](https://github.com/matiassingers/awesome-slack) - A curated list of awesome Slack related things
+- [jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) - TensorFlow - A curated list of dedicated resources http://tensorflow.org
+- [facyber/awesome-networking](https://github.com/facyber/awesome-networking) - A collection of awesome networking courses, books, tutorials and other resources
+- [melvin0008/awesome-projects-boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates) - Boilerplates for mobile and web apps
+- [rabschi/awesome-beacon](https://github.com/rabschi/awesome-beacon) - A curated list of awesome Bluetooth beacon software and tools.
+- [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
+- [marcobiedermann/search-engine-optimization](https://github.com/marcobiedermann/search-engine-optimization) - :mag: A helpful checklist/collection of Search Engine Optimization (SEO) tips and techniques.
+- [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
+- [t3chnoboy/awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome) - :octocat: A a curated list of curated lists of awesome lists.
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [madawei2699/awesome-seo](https://github.com/madawei2699/awesome-seo) - Google SEO Research and Web Traffic Monetization
 - [joch/home-assistant-config](https://github.com/joch/home-assistant-config) - My configuration for Home Assistant
@@ -812,6 +830,8 @@
 
 ## Python 
 
+- [feignbird/ChatterBot-spacy_fixed](https://github.com/feignbird/ChatterBot-spacy_fixed) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots
+- [gunthercox/ChatterBot](https://github.com/gunthercox/ChatterBot) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots
 - [sethblack/python-seo-analyzer](https://github.com/sethblack/python-seo-analyzer) - An SEO tool that analyzes the structure of a site, crawls the site, count words in the body of the site and warns of any technical SEO issues.
 - [StanGirard/seo-audits-toolkit](https://github.com/StanGirard/seo-audits-toolkit) - SEO & Security Audit for Websites. Lighthouse & Security Headers crawler, Sitemap/Keywords/Images Extractor,  Summarizer, etc ...
 - [nickjj/ansigenome](https://github.com/nickjj/ansigenome) - A tool to help you gather information and manage your Ansible roles.
@@ -1018,6 +1038,7 @@
 
 ## Rust 
 
+- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
@@ -1041,6 +1062,7 @@
 
 ## Shell 
 
+- [CompSciLauren/awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks
 - [Odania-IT/docker-seopanel](https://github.com/Odania-IT/docker-seopanel) - 
 - [home-assistant/builder](https://github.com/home-assistant/builder) - Home Assistant builder script
 - [zercurity/zercurity](https://github.com/zercurity/zercurity) - Manage, monitor and improve your cyber security posture.
@@ -1159,6 +1181,7 @@
 
 ## TypeScript 
 
+- [Aerilym/photoprism-helper](https://github.com/Aerilym/photoprism-helper) - An unofficial companion tool created for use alongside PhotoPrism to enable API endpoints and automation.
 - [custom-cards/spotify-card](https://github.com/custom-cards/spotify-card) - Spotify playlist card for Home Assistant card
 - [iantrich/restriction-card](https://github.com/iantrich/restriction-card) - 🔒 Apply restrictions to Lovelace cards
 - [maxwroc/battery-state-card](https://github.com/maxwroc/battery-state-card) - Battery state card for Home Assistant
