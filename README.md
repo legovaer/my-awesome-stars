@@ -48,6 +48,7 @@
 - [Smarty](#smarty)
 - [Svelte](#svelte)
 - [Swift](#swift)
+- [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
@@ -568,7 +569,6 @@
 
 ## Lua 
 
-- [chrisgrieser/dotfiles](https://github.com/chrisgrieser/dotfiles) - pseudometa's dotfiles
 - [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public) - My personal dotfiles
 
 ## Makefile 
@@ -1141,7 +1141,7 @@
 - [onedr0p/flux-cluster-template](https://github.com/onedr0p/flux-cluster-template) - Highly opinionated template for deploying a single Kubernetes (k3s) cluster with Ansible and Terraform backed by Flux, SOPS, GitHub Actions, Renovate and more!
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 2
 - [unifi-utilities/unifios-utilities](https://github.com/unifi-utilities/unifios-utilities) - A collection of  enhancements for UnifiOS based devices
-- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
+- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Dev Containers extension and GitHub Codespaces
 - [vmstan/gravity-sync](https://github.com/vmstan/gravity-sync) - 💫 The easy way to synchronize the DNS configuration of two Pi-hole 5.x instances.
 - [tfutils/tfscaffold](https://github.com/tfutils/tfscaffold) - 
 - [thomvaill/tads-boilerplate](https://github.com/thomvaill/tads-boilerplate) - Terraform + Ansible + Docker Swarm boilerplate = DevOps on :fire::fire::fire: | Infrastructure as Code
@@ -1179,6 +1179,10 @@
 - [philipparndt/mqtt-analyzer](https://github.com/philipparndt/mqtt-analyzer) - 
 - [st0nedB/rooms](https://github.com/st0nedB/rooms) - With "Rooms" mobile devices can perform indoor self-localization using an app and low-cost BLE beacons.
 - [victor/whereami](https://github.com/victor/whereami) - get your location from the command line
+
+## TeX 
+
+- [chrisgrieser/dotfiles](https://github.com/chrisgrieser/dotfiles) - pseudometa's dotfiles
 
 ## TypeScript 
 
@@ -1237,7 +1241,7 @@
 - [home-assistant/alerts.home-assistant.io](https://github.com/home-assistant/alerts.home-assistant.io) - Home Assistant Alerts
 - [google/wireit](https://github.com/google/wireit) - Wireit upgrades your npm scripts to make them smarter and more efficient.
 - [apihero-run/jsonhero-web](https://github.com/apihero-run/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [hieven/terraform-visual](https://github.com/hieven/terraform-visual) - Terraform Visual is an interactive way of visualizing your Terraform plan
