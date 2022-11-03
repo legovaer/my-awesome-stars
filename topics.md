@@ -304,7 +304,7 @@
 - [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [GladysAssistant/Gladys](https://github.com/GladysAssistant/Gladys) - A privacy-first, open-source home assistant
-- [acquia/blt](https://github.com/acquia/blt) - Acquia's toolset for automating Drupal 8 and 9 development, testing, and deployment.
+- [acquia/blt](https://github.com/acquia/blt) - Acquia's toolset for automating Drupal development, testing, and deployment.
 
 ## awesome 
 
@@ -1222,7 +1222,6 @@
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-- [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [arallsopp/hass-hue-icons](https://github.com/arallsopp/hass-hue-icons) - Additional vector icons for home assistant to model Philips  Hue bulbs and fixtures.
 - [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) - Documentation and Examples of base container modifications
 - [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag) - Nginx webserver and reverse proxy with php support and a built-in Certbot (Let's Encrypt) client. It also contains fail2ban for intrusion prevention.
@@ -1267,7 +1266,6 @@
 - [Smashing/smashing](https://github.com/Smashing/smashing) - The exceptionally handsome dashboard framework in Ruby and Coffeescript.
 - [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [piitaya/lovelace-mushroom-themes](https://github.com/piitaya/lovelace-mushroom-themes) - Additional themes for Lovelace Mushroom Cards 🍄
-- [r7wx/easy-gate](https://github.com/r7wx/easy-gate) - A gate to your self hosted infrastructure
 - [chaos-genius/chaos_genius](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier detection and root cause analysis.
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
@@ -2217,7 +2215,6 @@
 - [ysde/grafana-backup-tool](https://github.com/ysde/grafana-backup-tool) - A Python-based application to backup Grafana settings using the Grafana API
 - [trackit/terraform-boilerplate](https://github.com/trackit/terraform-boilerplate) - 
 - [qiz-li/lovelace-soft-ui](https://github.com/qiz-li/lovelace-soft-ui) - 💫  Simple and clean Lovelace configuration
-- [PrutsMeneer/AirTagIt](https://github.com/PrutsMeneer/AirTagIt) - Ever wanted to save a copy of ALL the locations that you're AirTag has been? Its possible with AirTagIt! - Normally you can only see the current location of the AirTag in the 'Find My' app and no loca
 - [vitorgalvao/custom-alfred-iterm-scripts](https://github.com/vitorgalvao/custom-alfred-iterm-scripts) - AppleScript for iTerm2 Alfred integration.
 - [dwainscheeren/dwains-dashboard-addons](https://github.com/dwainscheeren/dwains-dashboard-addons) - Dwains Dashboard Community Addons
 - [robmarkcole/HASS-Deepstack-object](https://github.com/robmarkcole/HASS-Deepstack-object) - Home Assistant custom component for using Deepstack object detection
