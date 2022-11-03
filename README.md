@@ -746,7 +746,6 @@
 - [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) - Curated list of resources on HashiCorp's Terraform
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [qiz-li/lovelace-soft-ui](https://github.com/qiz-li/lovelace-soft-ui) - 💫  Simple and clean Lovelace configuration
-- [PrutsMeneer/AirTagIt](https://github.com/PrutsMeneer/AirTagIt) - Ever wanted to save a copy of ALL the locations that you're AirTag has been? Its possible with AirTagIt! - Normally you can only see the current location of the AirTag in the 'Find My' app and no loca
 - [louisfb01/best_AI_papers_2021](https://github.com/louisfb01/best_AI_papers_2021) - A  curated list of the latest breakthroughs in AI (in 2021) by release date with a clear video explanation, link to a more in-depth article, and code.
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
 - [LRvdLinden/weather_dd_addon](https://github.com/LRvdLinden/weather_dd_addon) - 🔧 By LRvdLinden --  Weather Dashboard in Home Assistant Dwains Dashboard.
@@ -810,7 +809,7 @@
 - [WEBSOLUTIONSHR/drupal](https://github.com/WEBSOLUTIONSHR/drupal) - Historical releases of Drupal, made for presentation at DrupalCamp London
 - [l3l0/php-travis-client](https://github.com/l3l0/php-travis-client) - 
 - [ricardoamaro/drupalci_testbot](https://github.com/ricardoamaro/drupalci_testbot) - This is a testing version of Drupal testbot using docker containers. Please use:
-- [acquia/blt](https://github.com/acquia/blt) - Acquia's toolset for automating Drupal 8 and 9 development, testing, and deployment.
+- [acquia/blt](https://github.com/acquia/blt) - Acquia's toolset for automating Drupal development, testing, and deployment.
 - [phan/phan](https://github.com/phan/phan) - Phan is a static analyzer for PHP. Phan prefers to avoid false-positives and attempts to prove incorrectness rather than correctness.
 - [sebastianbergmann/phpcov](https://github.com/sebastianbergmann/phpcov) - TextUI frontend for php-code-coverage
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
