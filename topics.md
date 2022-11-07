@@ -2837,7 +2837,6 @@
 
 ## ubuntu 
 
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting(on premises & private web servers) and managing software applications by yourself or your organization.
 - [NicNull/BTphone](https://github.com/NicNull/BTphone) - Bluetooth RSSI phone monitor script to activate screen saver
 - [AeX03/eLys](https://github.com/AeX03/eLys) - 👾- An open-source post-exploitation framework, researchers and developers.
 - [debops/debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
