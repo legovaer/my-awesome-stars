@@ -48,7 +48,6 @@
 - [Smarty](#smarty)
 - [Svelte](#svelte)
 - [Swift](#swift)
-- [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
@@ -569,6 +568,7 @@
 
 ## Lua 
 
+- [chrisgrieser/dotfiles](https://github.com/chrisgrieser/dotfiles) - pseudometa's dotfiles
 - [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public) - My personal dotfiles
 
 ## Makefile 
@@ -1178,10 +1178,6 @@
 - [philipparndt/mqtt-analyzer](https://github.com/philipparndt/mqtt-analyzer) - 
 - [st0nedB/rooms](https://github.com/st0nedB/rooms) - With "Rooms" mobile devices can perform indoor self-localization using an app and low-cost BLE beacons.
 - [victor/whereami](https://github.com/victor/whereami) - get your location from the command line
-
-## TeX 
-
-- [chrisgrieser/dotfiles](https://github.com/chrisgrieser/dotfiles) - pseudometa's dotfiles
 
 ## TypeScript 
 
