@@ -1843,6 +1843,7 @@
 
 ## others 
 
+- [gigafide/pi-smart-car](https://github.com/gigafide/pi-smart-car) - Raspberry Pi powered smart car
 - [convexvr/sims4-vr](https://github.com/convexvr/sims4-vr) - Sims 4 plugin that adds VR functionality
 - [feignbird/ChatterBot-spacy_fixed](https://github.com/feignbird/ChatterBot-spacy_fixed) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
