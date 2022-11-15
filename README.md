@@ -723,6 +723,7 @@
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
+- [k8s-at-home/awesome-home-kubernetes](https://github.com/k8s-at-home/awesome-home-kubernetes) - ⚠️ Deprecated: Awesome projects involving running Kubernetes at home
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
 - [nagyrobi/home-assistant-configuration-examples](https://github.com/nagyrobi/home-assistant-configuration-examples) - Some of my Home Assistant configurations shared to the community
@@ -949,7 +950,6 @@
 - [skalavala/mysmarthome](https://github.com/skalavala/mysmarthome) - :star: ALIVE Again! :star: SmartHome - Nothing but smarthome stuff here! Have fun browsing through my home automation setup... ping me on Discord with any questions! :thumbsup:
 - [davisnando/ticketswap_bot](https://github.com/davisnando/ticketswap_bot) - Ticketswap bot
 - [finity69x2/nws_alerts](https://github.com/finity69x2/nws_alerts) - An updated version of the nws_alerts custom integration for Home Assistant
-- [k8s-at-home/awesome-home-kubernetes](https://github.com/k8s-at-home/awesome-home-kubernetes) - Awesome projects involving running Kubernetes at home
 - [octodns/octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - [guardicore/monkey](https://github.com/guardicore/monkey) - Infection Monkey - An automated pentest tool
