@@ -189,6 +189,7 @@
 
 ## android 
 
+- [zbejas/portarius](https://github.com/zbejas/portarius) - Portarius is a free, open-source, cross-platform mobile application that allows you to manage your Portainer sessions.
 - [wikimedia/apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia) - 📱The official Wikipedia app for Android!
 - [schnatterer/termux-scripts](https://github.com/schnatterer/termux-scripts) - Collection of shell scripts to automate everything on your android phone using termux app. Including incremental encrypted app backup to the cloud
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A build system and primary set of packages for Termux.
@@ -1031,6 +1032,7 @@
 
 ## flutter 
 
+- [zbejas/portarius](https://github.com/zbejas/portarius) - Portarius is a free, open-source, cross-platform mobile application that allows you to manage your Portainer sessions.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [Mastersam07/smarty](https://github.com/Mastersam07/smarty) - A smart home mobile application
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
@@ -2885,6 +2887,7 @@
 
 ## webapp 
 
+- [zbejas/portarius](https://github.com/zbejas/portarius) - Portarius is a free, open-source, cross-platform mobile application that allows you to manage your Portainer sessions.
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 
