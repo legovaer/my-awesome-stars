@@ -1394,6 +1394,7 @@
 - [kuzzleio/kuzzle](https://github.com/kuzzleio/kuzzle) - Open-source Back-end, self-hostable & ready to use - Real-time, storage, advanced search - Web, Apps, Mobile, IoT -
 - [HQarroum/awesome-iot](https://github.com/HQarroum/awesome-iot) - 🤖 A curated list of awesome Internet of Things projects and resources.
 - [thejeffreystone/home-assistant-configuration](https://github.com/thejeffreystone/home-assistant-configuration) - My Old Home Assistant Config. For more Information visit -&gt;
+- [brianhanifin/Home-Assistant-Config](https://github.com/brianhanifin/Home-Assistant-Config) - Home Assistant configuration files.
 - [geekofweek/homeassistant](https://github.com/geekofweek/homeassistant) - Example Home Assistant Configs
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
@@ -2097,7 +2098,6 @@
 - [PiotrMachowski/Home-Assistant-Lovelace-Local-Conditional-card](https://github.com/PiotrMachowski/Home-Assistant-Lovelace-Local-Conditional-card) - This card can show and hide a specific card on current device while not affecting other windows. It does not require any integration to run.
 - [bacco007/HomeAssistantConfig](https://github.com/bacco007/HomeAssistantConfig) - My Home Assistant Configuration
 - [bieniu/home-assistant-config](https://github.com/bieniu/home-assistant-config) - Home Assistant Config
-- [brianhanifin/Home-Assistant-Config](https://github.com/brianhanifin/Home-Assistant-Config) - 
 - [jlmcgehee21/smart_hass](https://github.com/jlmcgehee21/smart_hass) - 
 - [Mehdi-YC/goodcontainers](https://github.com/Mehdi-YC/goodcontainers) - this is a collections of good docker contaienrs iv collected over the time , if you have portainer installed i have an app template that you can use to install them
 - [etsy/411](https://github.com/etsy/411) - An Alert Management Web Application
