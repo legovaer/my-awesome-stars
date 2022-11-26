@@ -606,6 +606,7 @@
 
 ## Others 
 
+- [smarthomejunkie/Home-Assistant-Tutorials](https://github.com/smarthomejunkie/Home-Assistant-Tutorials) - Example code for Home Assistant Tutorials for the Smart Home Junkie channel on Youtube
 - [alfred-workflows/awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows) - A curated list of awesome alfred workflows
 - [jondot/awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
 - [jyguyomarch/awesome-conversational-ai](https://github.com/jyguyomarch/awesome-conversational-ai) - A curated list of delightful Conversational AI resources.
@@ -832,6 +833,7 @@
 
 ## Python 
 
+- [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [gigafide/pi-smart-car](https://github.com/gigafide/pi-smart-car) - Raspberry Pi powered smart car
 - [convexvr/sims4-vr](https://github.com/convexvr/sims4-vr) - Sims 4 plugin that adds VR functionality
 - [feignbird/ChatterBot-spacy_fixed](https://github.com/feignbird/ChatterBot-spacy_fixed) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots
@@ -983,7 +985,7 @@
 - [dummylabs/thewatchman](https://github.com/dummylabs/thewatchman) - Home Assistant custom integration to keep track of missing entities and services in your config files
 - [progala/ttl255.com](https://github.com/progala/ttl255.com) - ttl255.com - Resources
 - [maxgeilert/room-occupancy](https://github.com/maxgeilert/room-occupancy) - Occupancy tracking script for home assistant
-- [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs wit
+- [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 i
 - [thomasloven/hass-lovelace_gen](https://github.com/thomasloven/hass-lovelace_gen) - 🔹 Improve the lovelace yaml parser for Home Assistant
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [custom-components/remote_homeassistant](https://github.com/custom-components/remote_homeassistant) - Links multiple home-assistant instances together
@@ -1040,6 +1042,7 @@
 
 ## Rust 
 
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Cross-platform application to monitor your network traffic with ease
 - [scottlamb/moonfire-nvr](https://github.com/scottlamb/moonfire-nvr) - Moonfire NVR, a security camera network video recorder
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
@@ -1187,6 +1190,7 @@
 
 ## TypeScript 
 
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and collaboration.
 - [daredoes/linked-lovelace-ui](https://github.com/daredoes/linked-lovelace-ui) - A front-end only implementation of linked template cards for Lovelace
 - [Aerilym/photoprism-helper](https://github.com/Aerilym/photoprism-helper) - An unofficial companion tool created for use alongside PhotoPrism to enable API endpoints and automation.
 - [custom-cards/spotify-card](https://github.com/custom-cards/spotify-card) - Spotify playlist card for Home Assistant card
