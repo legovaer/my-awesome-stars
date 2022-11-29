@@ -284,6 +284,7 @@
 
 - [jr0dd/prometheus-rules](https://github.com/jr0dd/prometheus-rules) - collection of rules
 - [khuedoan/horus](https://github.com/khuedoan/horus) - Free cloud native platform for service hosting
+- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible
 - [a-patel/terraform-aws-eks-workshop](https://github.com/a-patel/terraform-aws-eks-workshop) - Amazon EKS Terraform Workshop: Provision EKS Cluster in AWS using Terraform.
 - [StatCan/terraform-kubernetes-kube-prometheus-stack](https://github.com/StatCan/terraform-kubernetes-kube-prometheus-stack) - Terraform module for Kube-Prometheus Stack
 - [aws-samples/terraform-eks-code](https://github.com/aws-samples/terraform-eks-code) - 
@@ -367,7 +368,7 @@
 - [Netflix/Hystrix](https://github.com/Netflix/Hystrix) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distr
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
-- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Data integration pipelines from APIs, databases & files to warehouses & lakes.
+- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Data integration platform for ELT pipelines from APIs, databases & files to warehouses & lakes.
 
 ## JavaScript 
 
@@ -452,6 +453,7 @@
 - [kalkih/mini-graph-card](https://github.com/kalkih/mini-graph-card) - Minimalistic graph card for Home Assistant Lovelace UI
 - [lcmchris/thesillyhome-container](https://github.com/lcmchris/thesillyhome-container) - containerized version
 - [scstraus/home-assistant-config](https://github.com/scstraus/home-assistant-config) - My HomeAssistant Configuration (Home Assistant Supervised, Debian 10)
+- [SeLLeRoNe/HA-Config](https://github.com/SeLLeRoNe/HA-Config) - Home Assistant Configuration
 - [thomasloven/lovelace-flower-card](https://github.com/thomasloven/lovelace-flower-card) - 
 - [Smashing/smashing](https://github.com/Smashing/smashing) - The exceptionally handsome dashboard framework in Ruby and Coffeescript.
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
@@ -531,7 +533,6 @@
 
 - [geerlingguy/internet-pi](https://github.com/geerlingguy/internet-pi) - Raspberry Pi config for all things Internet.
 - [hassio-addons/addon-appdaemon](https://github.com/hassio-addons/addon-appdaemon) - AppDaemon4 - Home Assistant Community Add-ons
-- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible
 - [debops/debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
 - [nginxinc/ansible-role-nginx-config](https://github.com/nginxinc/ansible-role-nginx-config) - Ansible role for configuring NGINX
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
@@ -928,7 +929,6 @@
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [relliky/Tais_Home_Assistant_Config](https://github.com/relliky/Tais_Home_Assistant_Config) - My Home Assistant Automation Configuration
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
-- [SeLLeRoNe/HA-Config](https://github.com/SeLLeRoNe/HA-Config) - Home Assistant Configuration
 - [lcmchris/thesillyhome](https://github.com/lcmchris/thesillyhome) - The silly home
 - [sweetsoftware/Ares](https://github.com/sweetsoftware/Ares) - Python botnet and backdoor
 - [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) - vulnx 🕷️ an intelligent Bot, Shell can achieve automatic injection, and help researchers detect security vulnerabilities CMS system. It can perform a quick CMS security detection, information collecti
