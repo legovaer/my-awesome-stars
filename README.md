@@ -1082,7 +1082,7 @@
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A build system and primary set of packages for Termux.
 - [mpascu/docker-home-infra](https://github.com/mpascu/docker-home-infra) - A docker-compose setup ready to spin up a bunch of useful media, file-sharing, programming, web tools, databases...
 - [jmb12686/raspi-docker-stacks](https://github.com/jmb12686/raspi-docker-stacks) - Collection of Docker Stacks for usage on a multi-architecture Docker Swarm cluster (arm, amd64)
-- [billimek/k8s-gitops](https://github.com/billimek/k8s-gitops) - GitOps principles to define kubernetes cluster state via code.  Community around k8s@home is on discord: https://discord.gg/7PbmHRK
+- [billimek/k8s-gitops](https://github.com/billimek/k8s-gitops) - GitOps principles to define kubernetes cluster state via code
 - [billimek/homelab-infrastructure](https://github.com/billimek/homelab-infrastructure) - Infrastructure info and setup for homelab
 - [morph027/pve-lxc-scripts](https://github.com/morph027/pve-lxc-scripts) - some useful scripts fpr Proxmox VE (PVE) LXC containers
 - [whiskerz007/proxmox_portainer_lxc](https://github.com/whiskerz007/proxmox_portainer_lxc) - 
@@ -1218,7 +1218,7 @@
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
-- [novuhq/novu](https://github.com/novuhq/novu) - The Open-Source Notifications Platform. Add a working notification center to your app in minutes. 🚀
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products
 - [spotify/web-scripts](https://github.com/spotify/web-scripts) - A collection of base configs and CLI wrappers used to speed up development @ Spotify.
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
 - [royto/logbook-card](https://github.com/royto/logbook-card) - Logbook card for Home Assistant UI Lovelace
