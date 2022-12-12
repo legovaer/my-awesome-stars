@@ -144,7 +144,7 @@
 
 ## Dockerfile 
 
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting(on premises & private web servers) and managing software applications by yourself or your organization.
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization.
 - [adamoutler/mqtt-explorer](https://github.com/adamoutler/mqtt-explorer) - A home assistant repository for MQTT Explorer
 - [ethibox/awesome-stacks](https://github.com/ethibox/awesome-stacks) - Deploy 90+ open-source web apps with one Docker command
 - [Poeschl/Hassio-Addons](https://github.com/Poeschl/Hassio-Addons) - The repository for my Home Assistant Supervisor Add-ons.
@@ -570,7 +570,7 @@
 - [home-assistant/android](https://github.com/home-assistant/android) - :iphone: Home Assistant Companion for Android
 - [outadoc/home-slide-android](https://github.com/outadoc/home-slide-android) - Access your Home Assistant devices quickly from anywhere on your Android device
 - [thecowan/wallpanel-android](https://github.com/thecowan/wallpanel-android) - WallPanel is an Android application for Web Based Dashboards and Home Automation Platforms
-- [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - F-Droid client with Material UI.
+- [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
 
 ## Lua 
 
