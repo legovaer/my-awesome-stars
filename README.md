@@ -103,6 +103,7 @@
 
 ## CSS 
 
+- [tallguyjenks/DevLog](https://github.com/tallguyjenks/DevLog) - 🌱️ My DevLog detailing my learnings in Tech 🌱️
 - [mehulkar/github-hall-of-fame](https://github.com/mehulkar/github-hall-of-fame) - Hall of Fame for spectacular things on Github
 - [juliocesarfort/public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) - A list of public penetration test reports published by several consulting firms and academic security groups.
 - [Madelena/hass-config-public](https://github.com/Madelena/hass-config-public) - My Dashboards for Home Assistant - Advanced data visualizations, responsive design, a neat maximalist Metro Live Tile layout, and an ultraminimal tablet layout!
@@ -167,6 +168,7 @@
 
 ## Go 
 
+- [nginx-proxy/docker-gen](https://github.com/nginx-proxy/docker-gen) - Generate files from docker container meta-data
 - [m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Run your own GPTChat Telegram bot, with a single command!
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
@@ -1200,6 +1202,7 @@
 
 ## TypeScript 
 
+- [yoyurec/logseq-sticky-headers](https://github.com/yoyurec/logseq-sticky-headers) - H1-H5 headers stick on content scroll
 - [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT
 - [briansunter/logseq-plugin-gpt3-openai](https://github.com/briansunter/logseq-plugin-gpt3-openai) - A plugin for GPT-3 AI assisted note taking in Logseq
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
