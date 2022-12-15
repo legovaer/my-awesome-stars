@@ -1159,7 +1159,7 @@
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [InfluxCommunity/InfluxDBv2_Telegraf_Docker](https://github.com/InfluxCommunity/InfluxDBv2_Telegraf_Docker) - Run InfluxDB 2.0 and Telegraf in containers
 - [onedr0p/flux-cluster-template](https://github.com/onedr0p/flux-cluster-template) - Highly opinionated template for deploying a single Kubernetes (k3s) cluster with Ansible and Terraform backed by Flux, SOPS, GitHub Actions, Renovate and more!
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 2
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source security tool to perform cloud security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than
 - [unifi-utilities/unifios-utilities](https://github.com/unifi-utilities/unifios-utilities) - A collection of  enhancements for UnifiOS based devices
 - [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - NOTE: Most of the contents of this repository have been migrated to the new devcontainers GitHub org (https://github.com/devcontainers). See https://github.com/devcontainers/template-starter and https
 - [vmstan/gravity-sync](https://github.com/vmstan/gravity-sync) - 💫 The easy way to synchronize the DNS configuration of two Pi-hole 5.x instances.
