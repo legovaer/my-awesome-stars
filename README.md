@@ -555,6 +555,7 @@
 
 ## Jupyter Notebook 
 
+- [craigbarratt/hass-pyscript-jupyter](https://github.com/craigbarratt/hass-pyscript-jupyter) - Jupyter kernel shim to connect to HASS pyscript
 - [mikeroyal/Jupyter-Guide](https://github.com/mikeroyal/Jupyter-Guide) - Jupyter Guide
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 59 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan,
@@ -613,6 +614,7 @@
 
 ## Others 
 
+- [legovaer/best-of-hassio](https://github.com/legovaer/best-of-hassio) - 🏆 A ranked gallery of awesome home assistant projects. Updated weekly.
 - [openai/gpt-3](https://github.com/openai/gpt-3) - GPT-3: Language Models are Few-Shot Learners
 - [elyase/awesome-gpt3](https://github.com/elyase/awesome-gpt3) - 
 - [smarthomejunkie/Home-Assistant-Tutorials](https://github.com/smarthomejunkie/Home-Assistant-Tutorials) - Example code for Home Assistant Tutorials for the Smart Home Junkie channel on Youtube
@@ -747,6 +749,7 @@
 - [aFFekopp/homeassistant](https://github.com/aFFekopp/homeassistant) - aFFekopps Home Assistant Configuration
 - [dwainscheeren/dwains-dashboard-blueprints](https://github.com/dwainscheeren/dwains-dashboard-blueprints) - Dwains Dashboard Blueprints
 - [Aregluss/Docker-Swarm-DDOS](https://github.com/Aregluss/Docker-Swarm-DDOS) - How to create a Denial of Service Attack through Docker Swarm.
+- [frenck/home-assistant-config](https://github.com/frenck/home-assistant-config) - :house: My Home Assistant configuration, a bit different that others :) Be sure to :star2: this repository for updates!
 - [dimagoltsman/generic-remote-control-card](https://github.com/dimagoltsman/generic-remote-control-card) - Generic Remote control card for HACS
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [ACJUK/NSPanel](https://github.com/ACJUK/NSPanel) - 
@@ -842,6 +845,9 @@
 
 ## Python 
 
+- [dlashua/torque2mqtt](https://github.com/dlashua/torque2mqtt) - 
+- [dlashua/hass-wasp_sensor](https://github.com/dlashua/hass-wasp_sensor) - A Home Assistant Integration implemented a "Wasp In A Box" sensor. Upgrade your motion sensors!
+- [dlashua/pyscript-alert](https://github.com/dlashua/pyscript-alert) - 
 - [rawandahmad698/PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) - ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
 - [AlexFWulff/SnarkyHomeAutomation](https://github.com/AlexFWulff/SnarkyHomeAutomation) - 
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
@@ -900,7 +906,7 @@
 - [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) - Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to coordinate your dataflow
 - [TCM-Course-Resources/Practical-Ethical-Hacking-Resources](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources) - Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course
-- [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma) - Generic Signature Format for SIEM Systems
+- [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma) - Main Rule Repository
 - [AdminTurnedDevOps/DevOps-The-Hard-Way-AWS](https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS) - This repository contains free labs for setting up an entire workflow and DevOps environment from a real-world perspective in AWS
 - [ForensicArtifacts/artifacts](https://github.com/ForensicArtifacts/artifacts) - Digital Forensics Artifact Repository
 - [thomasloven/hass-config](https://github.com/thomasloven/hass-config) - My Home Assistant configuration
@@ -993,7 +999,6 @@
 - [kootenpv/whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
 - [DavidWChen/BLE-IPS](https://github.com/DavidWChen/BLE-IPS) - Bluetooth 4.0 Indoor Positioning System
 - [lazcad/homeassistant](https://github.com/lazcad/homeassistant) - Home Assistant Development
-- [frenck/home-assistant-config](https://github.com/frenck/home-assistant-config) - :house: My Home Assistant configuration, a bit different that others :) Be sure to :star2: this repository for updates!
 - [michaelmcarthur/GoogleGeocode-HASS](https://github.com/michaelmcarthur/GoogleGeocode-HASS) - 
 - [dummylabs/thewatchman](https://github.com/dummylabs/thewatchman) - Home Assistant custom integration to keep track of missing entities and services in your config files
 - [progala/ttl255.com](https://github.com/progala/ttl255.com) - ttl255.com - Resources
@@ -1159,7 +1164,7 @@
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [InfluxCommunity/InfluxDBv2_Telegraf_Docker](https://github.com/InfluxCommunity/InfluxDBv2_Telegraf_Docker) - Run InfluxDB 2.0 and Telegraf in containers
 - [onedr0p/flux-cluster-template](https://github.com/onedr0p/flux-cluster-template) - Highly opinionated template for deploying a single Kubernetes (k3s) cluster with Ansible and Terraform backed by Flux, SOPS, GitHub Actions, Renovate and more!
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source security tool to perform cloud security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source Security tool to perform Cloud security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains hundreds 
 - [unifi-utilities/unifios-utilities](https://github.com/unifi-utilities/unifios-utilities) - A collection of  enhancements for UnifiOS based devices
 - [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - NOTE: Most of the contents of this repository have been migrated to the new devcontainers GitHub org (https://github.com/devcontainers). See https://github.com/devcontainers/template-starter and https
 - [vmstan/gravity-sync](https://github.com/vmstan/gravity-sync) - 💫 The easy way to synchronize the DNS configuration of two Pi-hole 5.x instances.
