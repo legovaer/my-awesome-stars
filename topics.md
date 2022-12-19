@@ -1885,6 +1885,7 @@
 
 ## others 
 
+- [garbled1/homeassistant_ecowitt](https://github.com/garbled1/homeassistant_ecowitt) - Ecowitt Weather Station integration for homeassistant
 - [legovaer/best-of-hassio](https://github.com/legovaer/best-of-hassio) - 🏆 A ranked gallery of awesome home assistant projects. Updated weekly.
 - [craigbarratt/hass-pyscript-jupyter](https://github.com/craigbarratt/hass-pyscript-jupyter) - Jupyter kernel shim to connect to HASS pyscript
 - [dlashua/torque2mqtt](https://github.com/dlashua/torque2mqtt) - 
@@ -2915,7 +2916,6 @@
 
 ## vagrant 
 
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization.
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
 - [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.
 - [thomvaill/tads-boilerplate](https://github.com/thomvaill/tads-boilerplate) - Terraform + Ansible + Docker Swarm boilerplate = DevOps on :fire::fire::fire: | Infrastructure as Code
