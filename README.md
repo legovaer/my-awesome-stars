@@ -846,6 +846,7 @@
 
 ## Python 
 
+- [garbled1/homeassistant_ecowitt](https://github.com/garbled1/homeassistant_ecowitt) - Ecowitt Weather Station integration for homeassistant
 - [dlashua/torque2mqtt](https://github.com/dlashua/torque2mqtt) - 
 - [dlashua/hass-wasp_sensor](https://github.com/dlashua/hass-wasp_sensor) - A Home Assistant Integration implemented a "Wasp In A Box" sensor. Upgrade your motion sensors!
 - [dlashua/pyscript-alert](https://github.com/dlashua/pyscript-alert) - 
