@@ -1888,6 +1888,7 @@
 
 ## others 
 
+- [0xmaximus/Galaxy-Bugbounty-Checklist](https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist) - Tips and Tutorials for Bug Bounty and also Penetration Tests.
 - [rosmo/m5paper-homeassistant](https://github.com/rosmo/m5paper-homeassistant) - Home Assistant functionality with M5Paper
 - [Sian-Lee-SA/YouTube](https://github.com/Sian-Lee-SA/YouTube) - YouTube helper files and references
 - [bachya/smart-home](https://github.com/bachya/smart-home) - ⭐ (Almost) everything needed to run my smart home with Home Assistant and more!
