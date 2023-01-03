@@ -1954,7 +1954,7 @@
 - [RyanFitzgerald/devfolio](https://github.com/RyanFitzgerald/devfolio) - A modern and production-ready personal portfolio + blog template built with GatsbyJs and TailwindCSS
 - [prakis/stringify.me](https://github.com/prakis/stringify.me) - Quick and Easy Profiles (No Login Required)
 - [smarthomejunkie/Home-Assistant-Tutorials](https://github.com/smarthomejunkie/Home-Assistant-Tutorials) - Example code for Home Assistant Tutorials for the Smart Home Junkie channel on Youtube
-- [AlexxIT/WebRTC](https://github.com/AlexxIT/WebRTC) - Home Assistant custom component for viewing IP cameras RTSP stream in real time using WebRTC and MSE technology
+- [AlexxIT/WebRTC](https://github.com/AlexxIT/WebRTC) - Home Assistant custom component for viewing almost any camera stream in real time using WebRTC and other technologies.
 - [gigafide/pi-smart-car](https://github.com/gigafide/pi-smart-car) - Raspberry Pi powered smart car
 - [convexvr/sims4-vr](https://github.com/convexvr/sims4-vr) - Sims 4 plugin that adds VR functionality
 - [feignbird/ChatterBot-spacy_fixed](https://github.com/feignbird/ChatterBot-spacy_fixed) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots
