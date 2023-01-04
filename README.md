@@ -22,7 +22,6 @@
 - [Groovy](#groovy)
 - [HCL](#hcl)
 - [HTML](#html)
-- [Hack](#hack)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
@@ -340,6 +339,7 @@
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [juriansluiman/groceri.es](https://github.com/juriansluiman/groceri.es) - groceri.es is a recipe manager and meal planning tool
 - [Patrowl/PatrowlManager](https://github.com/Patrowl/PatrowlManager) - PatrOwl - Open Source, Smart and Scalable Security Operations Orchestration Platform
+- [htr-tech/zphisher](https://github.com/htr-tech/zphisher) - An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !
 - [Vonage/Grafana_Status_panel](https://github.com/Vonage/Grafana_Status_panel) - A panel plugin for Grafana to monitor multiple parameters at once
 - [home-assistant/alerts.home-assistant.io](https://github.com/home-assistant/alerts.home-assistant.io) - Home Assistant Alerts
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
@@ -356,10 +356,6 @@
 - [jareware/chilipie-kiosk](https://github.com/jareware/chilipie-kiosk) - Easy-to-use Raspberry Pi image for booting directly into full-screen Chrome, with built-in convenience features for unattended operation. Perfect for dashboards and build monitors.
 - [ericlbarnes/gulp-bower-bootstrap-fontawesome](https://github.com/ericlbarnes/gulp-bower-bootstrap-fontawesome) - Example repo for the tutorial
 - [isocra/TableDnD](https://github.com/isocra/TableDnD) - jQuery plug-in to drag and drop rows in HTML tables
-
-## Hack 
-
-- [htr-tech/zphisher](https://github.com/htr-tech/zphisher) - An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !
 
 ## Java 
 
