@@ -6,6 +6,7 @@
 ## Contents
 
 - [AppleScript](#applescript)
+- [Astro](#astro)
 - [Berry](#berry)
 - [C](#c)
 - [C#](#c#)
@@ -54,6 +55,10 @@
 ## AppleScript 
 
 - [vitorgalvao/custom-alfred-iterm-scripts](https://github.com/vitorgalvao/custom-alfred-iterm-scripts) - AppleScript for iTerm2 Alfred integration.
+
+## Astro 
+
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## Berry 
 
@@ -830,7 +835,7 @@
 - [thereference/drupal-security-audit](https://github.com/thereference/drupal-security-audit) - drupal-security-audit is a set of PHP_CodeSniffer rules that finds vulnerabilities and weaknesses related to security in your Drupal code.
 - [MarketoMA/marketo_ma](https://github.com/MarketoMA/marketo_ma) - Marketo MA Drupal module https://www.drupal.org/project/marketo_ma
 - [hanoii/platformsh2slack](https://github.com/hanoii/platformsh2slack) - An adapter from platform.sh webhook to slack incoming webhook that can be hosted on a platform.sh app.
-- [platformsh/platformsh-cli](https://github.com/platformsh/platformsh-cli) - The unified tool for managing your Platform.sh services from the command line.
+- [platformsh/platformsh-cli](https://github.com/platformsh/platformsh-cli) - This is the legacy version of Platform.sh's command-line interface. The new version is at: github.com/platformsh/cli
 - [hirak/prestissimo](https://github.com/hirak/prestissimo) - composer parallel install plugin
 - [stevenmaguire/oauth2-bitbucket](https://github.com/stevenmaguire/oauth2-bitbucket) - Bitbucket OAuth 2.0 support for the PHP League's OAuth 2.0 Client
 - [acquia/content-hub-php](https://github.com/acquia/content-hub-php) - A PHP Client library to consume the Acquia Content Hub API.
@@ -1294,7 +1299,6 @@
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - 💬 🤖  The most reliable WhatsApp tool for chatbots with advanced features. Be sure to 🌟 this repository for updates!
