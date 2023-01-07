@@ -198,7 +198,7 @@
 - [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [xDWart/mqtg-bot](https://github.com/xDWart/mqtg-bot) - MQTT Client Telegram Bot
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
-- [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.
+- [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
 - [blacklanternsecurity/git-all-secrets](https://github.com/blacklanternsecurity/git-all-secrets) - A tool to capture all the git secrets by leveraging multiple open source git searching tools
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
@@ -835,7 +835,7 @@
 - [thereference/drupal-security-audit](https://github.com/thereference/drupal-security-audit) - drupal-security-audit is a set of PHP_CodeSniffer rules that finds vulnerabilities and weaknesses related to security in your Drupal code.
 - [MarketoMA/marketo_ma](https://github.com/MarketoMA/marketo_ma) - Marketo MA Drupal module https://www.drupal.org/project/marketo_ma
 - [hanoii/platformsh2slack](https://github.com/hanoii/platformsh2slack) - An adapter from platform.sh webhook to slack incoming webhook that can be hosted on a platform.sh app.
-- [platformsh/platformsh-cli](https://github.com/platformsh/platformsh-cli) - This is the legacy version of Platform.sh's command-line interface. The new version is at: github.com/platformsh/cli
+- [platformsh/legacy-cli](https://github.com/platformsh/legacy-cli) - This is the legacy version of Platform.sh's command-line interface. The new version is at: https://github.com/platformsh/cli
 - [hirak/prestissimo](https://github.com/hirak/prestissimo) - composer parallel install plugin
 - [stevenmaguire/oauth2-bitbucket](https://github.com/stevenmaguire/oauth2-bitbucket) - Bitbucket OAuth 2.0 support for the PHP League's OAuth 2.0 Client
 - [acquia/content-hub-php](https://github.com/acquia/content-hub-php) - A PHP Client library to consume the Acquia Content Hub API.
