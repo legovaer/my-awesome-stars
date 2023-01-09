@@ -366,6 +366,7 @@
 
 ## Java 
 
+- [openmhealth/shimmer](https://github.com/openmhealth/shimmer) - An application for reading health data from third-party APIs.
 - [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) - A fork of NewPipe with SponsorBlock functionality.
 - [mikeroyal/AWS-Guide](https://github.com/mikeroyal/AWS-Guide) - Amazon Web Services (AWS) Guide
 - [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
@@ -873,6 +874,7 @@
 
 ## Python 
 
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [InstaPy/InstaPy](https://github.com/InstaPy/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
 - [the-c0d3r/admin-finder](https://github.com/the-c0d3r/admin-finder) - Blazing fast admin panel finder with asyncio and aiohttp
