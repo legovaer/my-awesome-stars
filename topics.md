@@ -1950,6 +1950,7 @@
 
 ## others 
 
+- [abeksis/My-HomeAssistant-Config](https://github.com/abeksis/My-HomeAssistant-Config) - My Home Assistant Configuration. Documentation for my Smart House
 - [socnetv/app](https://github.com/socnetv/app) - Social Network Analysis and Visualization software application.
 - [smoopersocial/social-media-tools](https://github.com/smoopersocial/social-media-tools) - Awesome curated list of social media marketing tools
 - [rchiileea/ha-hal9000-sounds](https://github.com/rchiileea/ha-hal9000-sounds) - custom sounds based on hal9000 for ha responses to things happening
