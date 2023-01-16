@@ -1950,6 +1950,8 @@
 
 ## others 
 
+- [dakboard/Cloud-Platform](https://github.com/dakboard/Cloud-Platform) - Feature requests, enhancements and anything you'd like to see in DAKboard!
+- [jez500/bender](https://github.com/jez500/bender) - A link dashboard that can be managed completely via the browser
 - [abeksis/My-HomeAssistant-Config](https://github.com/abeksis/My-HomeAssistant-Config) - My Home Assistant Configuration. Documentation for my Smart House
 - [socnetv/app](https://github.com/socnetv/app) - Social Network Analysis and Visualization software application.
 - [smoopersocial/social-media-tools](https://github.com/smoopersocial/social-media-tools) - Awesome curated list of social media marketing tools
