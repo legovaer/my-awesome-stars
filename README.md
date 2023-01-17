@@ -176,6 +176,8 @@
 
 ## Go 
 
+- [gwen001/github-subdomains](https://github.com/gwen001/github-subdomains) - Find subdomains on GitHub.
+- [d3mondev/puredns](https://github.com/d3mondev/puredns) - Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
 - [tomnomnom/waybackurls](https://github.com/tomnomnom/waybackurls) - Fetch all the URLs that the Wayback Machine knows about for a domain
 - [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
 - [nginx-proxy/docker-gen](https://github.com/nginx-proxy/docker-gen) - Generate files from docker container meta-data
@@ -368,6 +370,7 @@
 
 ## Java 
 
+- [VIDA-NYU/ache](https://github.com/VIDA-NYU/ache) - ACHE is a web crawler for domain-specific search.
 - [QuantumBadger/RedReader](https://github.com/QuantumBadger/RedReader) - An unofficial open source Reddit client for Android.
 - [openmhealth/shimmer](https://github.com/openmhealth/shimmer) - An application for reading health data from third-party APIs.
 - [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) - A fork of NewPipe with SponsorBlock functionality.
@@ -631,6 +634,8 @@
 
 ## Others 
 
+- [lutfumertceylan/top25-parameter](https://github.com/lutfumertceylan/top25-parameter) - For basic researches, top 25 vulnerability parameters that can be used in automation tools or manual recon. 🛡️⚔️🧙
+- [fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI) - Collection of Cyber Threat Intelligence sources from the deep and dark web
 - [dakboard/Cloud-Platform](https://github.com/dakboard/Cloud-Platform) - Feature requests, enhancements and anything you'd like to see in DAKboard!
 - [smoopersocial/social-media-tools](https://github.com/smoopersocial/social-media-tools) - Awesome curated list of social media marketing tools
 - [rchiileea/ha-hal9000-sounds](https://github.com/rchiileea/ha-hal9000-sounds) - custom sounds based on hal9000 for ha responses to things happening
@@ -881,6 +886,12 @@
 
 ## Python 
 
+- [pnbruckner/homeassistant-config](https://github.com/pnbruckner/homeassistant-config) - Home Assistant Configuration
+- [random-robbie/My-Shodan-Scripts](https://github.com/random-robbie/My-Shodan-Scripts) - Collection of Scripts for shodan searching stuff.
+- [hisxo/gitGraber](https://github.com/hisxo/gitGraber) - gitGraber: monitor GitHub to search and find sensitive data in real time for different online services such as: Google, Amazon, Paypal, Github, Mailgun, Facebook, Twitter, Heroku, Stripe...
+- [arthaud/git-dumper](https://github.com/arthaud/git-dumper) - A tool to dump a git repository from a website
+- [jivoi/pentest](https://github.com/jivoi/pentest) - :no_entry: offsec batteries included
+- [belane/CloudHunter](https://github.com/belane/CloudHunter) - AWS, Azure and Google bucket scanner
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [InstaPy/InstaPy](https://github.com/InstaPy/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
@@ -1144,6 +1155,7 @@
 
 ## Shell 
 
+- [l4yton/RegHex](https://github.com/l4yton/RegHex) - A collection of regexes for every possbile use
 - [jgamblin/CarHackingTools](https://github.com/jgamblin/CarHackingTools) - Install and Configure Common Car Hacking Tools.
 - [jobertabma/recon.sh](https://github.com/jobertabma/recon.sh) - A toolset to track and organize output of reconnaissance tools
 - [streaak/pastebin-scraper](https://github.com/streaak/pastebin-scraper) - Pastebin-scraper tool leverages the API of https://psbdmp.ws/ to find emails/domains dumped in pastebin.
