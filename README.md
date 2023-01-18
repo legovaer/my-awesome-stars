@@ -374,7 +374,7 @@
 - [QuantumBadger/RedReader](https://github.com/QuantumBadger/RedReader) - An unofficial open source Reddit client for Android.
 - [openmhealth/shimmer](https://github.com/openmhealth/shimmer) - An application for reading health data from third-party APIs.
 - [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) - A fork of NewPipe with SponsorBlock functionality.
-- [mikeroyal/AWS-Guide](https://github.com/mikeroyal/AWS-Guide) - Amazon Web Services (AWS) Guide
+- [mikeroyal/AWS-Guide](https://github.com/mikeroyal/AWS-Guide) - Amazon Web Services (AWS) Guide. Learn all about Amazon Web Services Tools, Services, and Certifications.
 - [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
 - [colddenial/lovense-lan-api](https://github.com/colddenial/lovense-lan-api) - Lovense Connect Library
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
@@ -757,7 +757,7 @@
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [TehloWasTaken/HomeDashboardv3](https://github.com/TehloWasTaken/HomeDashboardv3) - Github Repo explaining what services I run on my Homelab Grafana Dashboard
 - [vegasbrianc/prometheus](https://github.com/vegasbrianc/prometheus) - A docker-compose stack for Prometheus monitoring
-- [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more
+- [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 - [jetli/awesome-yew](https://github.com/jetli/awesome-yew) - 😎 A curated list of awesome things related to Yew / WebAssembly.
 - [MrAstra96/Mytools](https://github.com/MrAstra96/Mytools) - #TOOL INSTALLER V.1.0 #CODED BY : Mr.Astra96 #CODENAME : DheMell bi='\033[34;1m' #biru ij='\033[32;1m' #ijo pr='\033[35;1m' #purple cy='\033[36;1m' #cyan me='\033[31;1m' #merah pu='\033[37;1m' #putih 
 - [payloadbox/sql-injection-payload-list](https://github.com/payloadbox/sql-injection-payload-list) - 🎯 SQL Injection Payload List
