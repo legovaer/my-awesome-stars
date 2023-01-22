@@ -232,6 +232,7 @@
 
 - [dy2k/proxmox-kubernetes](https://github.com/dy2k/proxmox-kubernetes) - Deploy Kubernetes on Proxmox Ubuntu LXCs and VMs
 - [nickjj/ansigenome](https://github.com/nickjj/ansigenome) - A tool to help you gather information and manage your Ansible roles.
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including the Matter networking protocol t
 - [robertdebock/ansible-role-maintenance](https://github.com/robertdebock/ansible-role-maintenance) - Maintain your system by cleaning up.
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
 - [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible
@@ -1963,6 +1964,7 @@
 
 ## others 
 
+- [Hapyr/trans-cat](https://github.com/Hapyr/trans-cat) - Categorize your bank transactions automatically by dessiontree classification
 - [DormyMo/SpiderKeeper](https://github.com/DormyMo/SpiderKeeper) - admin ui for scrapy/open source scrapinghub
 - [pnbruckner/homeassistant-config](https://github.com/pnbruckner/homeassistant-config) - Home Assistant Configuration
 - [random-robbie/My-Shodan-Scripts](https://github.com/random-robbie/My-Shodan-Scripts) - Collection of Scripts for shodan searching stuff.
@@ -2027,7 +2029,6 @@
 - [rabschi/awesome-beacon](https://github.com/rabschi/awesome-beacon) - A curated list of awesome Bluetooth beacon software and tools.
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [custom-cards/spotify-card](https://github.com/custom-cards/spotify-card) - Spotify playlist card for Home Assistant card
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including the Matter networking protocol t
 - [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) - GameStream client for Android
 - [Odania-IT/docker-seopanel](https://github.com/Odania-IT/docker-seopanel) - 
 - [koalatiapp/tool-seo](https://github.com/koalatiapp/tool-seo) - Koalati tool that checks for on-site SEO of a page and that provides suggestions for improvement.
@@ -2673,6 +2674,7 @@
 
 - [havenweb/haven](https://github.com/havenweb/haven) - Self-hostable private blogging
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal/home server OS for self-hosting with an app store. Install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including the Matter networking protocol t
 - [robwolff3/homeassistant-config](https://github.com/robwolff3/homeassistant-config) - My personal Home Assistant config
 - [point-4ward/Home-Assistant](https://github.com/point-4ward/Home-Assistant) - Home-Assistant-Config
 - [gasparrobi/BLE-beacon-presence-tracker](https://github.com/gasparrobi/BLE-beacon-presence-tracker) - 👀 BLE (Bluetooth Low Energy) device presence detection
@@ -2936,6 +2938,7 @@
 ## terraform 
 
 - [dy2k/proxmox-kubernetes](https://github.com/dy2k/proxmox-kubernetes) - Deploy Kubernetes on Proxmox Ubuntu LXCs and VMs
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including the Matter networking protocol t
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
 - [khuedoan/horus](https://github.com/khuedoan/horus) - Free cloud native platform for service hosting
