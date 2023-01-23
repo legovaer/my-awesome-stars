@@ -176,6 +176,7 @@
 
 ## Go 
 
+- [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
 - [gwen001/github-subdomains](https://github.com/gwen001/github-subdomains) - Find subdomains on GitHub.
 - [d3mondev/puredns](https://github.com/d3mondev/puredns) - Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
 - [tomnomnom/waybackurls](https://github.com/tomnomnom/waybackurls) - Fetch all the URLs that the Wayback Machine knows about for a domain
@@ -887,6 +888,7 @@
 
 ## Python 
 
+- [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
 - [DormyMo/SpiderKeeper](https://github.com/DormyMo/SpiderKeeper) - admin ui for scrapy/open source scrapinghub
 - [khaleddallah/LinkedinScraper](https://github.com/khaleddallah/LinkedinScraper) - Python Scrapy project parse people profiles of Linkedin Search and arrange result content in Excel and Json file
 - [pnbruckner/homeassistant-config](https://github.com/pnbruckner/homeassistant-config) - Home Assistant Configuration
