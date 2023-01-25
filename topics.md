@@ -1822,6 +1822,7 @@
 - [Smashing/smashing](https://github.com/Smashing/smashing) - The exceptionally handsome dashboard framework in Ruby and Coffeescript.
 - [chaos-genius/chaos_genius](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier detection and root cause analysis.
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
+- [scylladb/scylla-monitoring](https://github.com/scylladb/scylla-monitoring) - Simple monitoring of Scylla with Grafana
 - [hastic/hastic](https://github.com/hastic/hastic) - Hastic standalone
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
@@ -2379,7 +2380,6 @@
 - [jimz011/hass-custom-light-popup-card](https://github.com/jimz011/hass-custom-light-popup-card) - Popup lovelace card with brightness slider and optional scene selection. Use in combination with thomas loven browser_mod or custom pop-up card
 - [atomic7777/atomic_calendar](https://github.com/atomic7777/atomic_calendar) - Custom calendar card for Home Assistant with Lovelace
 - [Astogems/Darkboard](https://github.com/Astogems/Darkboard) - This repository contains all the YAML Codes required to recreate https://github.com/matt8707/hass-config entirely on the UI Editor
-- [scylladb/scylla-monitoring](https://github.com/scylladb/scylla-monitoring) - Simple monitoring of Scylla with Grafana
 - [DBuit/sidebar-card](https://github.com/DBuit/sidebar-card) - 
 - [lenne0815/Dwains_more_pages](https://github.com/lenne0815/Dwains_more_pages) - 
 - [AZSupra/HADashboard-Blur-Theme-Light](https://github.com/AZSupra/HADashboard-Blur-Theme-Light) - A skin for Home Assistant HADashboard that looks a little like the iOS Home app
