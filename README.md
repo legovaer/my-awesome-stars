@@ -38,6 +38,7 @@
 - [Open Policy Agent](#open-policy-agent)
 - [Others](#others)
 - [PHP](#php)
+- [PowerShell](#powershell)
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -66,6 +67,7 @@
 
 ## C 
 
+- [adamdoupe/adamd-pocs](https://github.com/adamdoupe/adamd-pocs) - 
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) - GameStream client for Android
@@ -345,6 +347,7 @@
 
 ## HTML 
 
+- [strandjs/IntroLabs](https://github.com/strandjs/IntroLabs) - These are the labs for my Intro class.  Yes, this is public.  Yes, this is intentional.
 - [Hapyr/trans-cat](https://github.com/Hapyr/trans-cat) - Categorize your bank transactions automatically by dessiontree classification
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
 - [prakis/stringify.me](https://github.com/prakis/stringify.me) - Quick and Easy Profiles (No Login Required)
@@ -639,6 +642,8 @@
 
 ## Others 
 
+- [Ignitetechnologies/Mindmap](https://github.com/Ignitetechnologies/Mindmap) - 
+- [chocolatecoat/DFIR-Templates](https://github.com/chocolatecoat/DFIR-Templates) - Incident Response documents and tooling
 - [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking web technologies,and pen testing wireless networks.Resources for learning malware analysis and reverse engineering.
 - [seaky/nspanel_pro_tools_apk](https://github.com/seaky/nspanel_pro_tools_apk) - 
 - [lutfumertceylan/top25-parameter](https://github.com/lutfumertceylan/top25-parameter) - For basic researches, top 25 vulnerability parameters that can be used in automation tools or manual recon. 🛡️⚔️🧙
@@ -891,8 +896,14 @@
 - [vijaycs85/PHP-CS-Fixer](https://github.com/vijaycs85/PHP-CS-Fixer) - Analyzes some PHP source code and tries to fix coding standards issues (PSR-1 and PSR-2 compatible)
 - [Behat/MinkExtension](https://github.com/Behat/MinkExtension) - Mink extension (tight integration and configuration) for Behat
 
+## PowerShell 
+
+- [r1cksec/cheatsheets](https://github.com/r1cksec/cheatsheets) - Collection of knowledge about information security
+
 ## Python 
 
+- [Mostafa-Elguerdawi/Automation_Bug_Hunting](https://github.com/Mostafa-Elguerdawi/Automation_Bug_Hunting) - 
+- [certsocietegenerale/FIR](https://github.com/certsocietegenerale/FIR) - Fast Incident Response
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [Gallopsled/pwntools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
