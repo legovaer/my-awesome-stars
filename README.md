@@ -1168,7 +1168,6 @@
 
 ## SCSS 
 
-- [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - A browser extension that enhance search engines with ChatGPT
 - [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 - [jonico/awesome-runners](https://github.com/jonico/awesome-runners) - A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix
 - [UI-Lovelace-Minimalist/page](https://github.com/UI-Lovelace-Minimalist/page) - This is the repository for our wiki page
@@ -1311,6 +1310,7 @@
 - [yoyurec/logseq-sticky-headers](https://github.com/yoyurec/logseq-sticky-headers) - H1-H5 headers stick on content scroll
 - [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT
 - [briansunter/logseq-plugin-gpt3-openai](https://github.com/briansunter/logseq-plugin-gpt3-openai) - A plugin for GPT-3 AI assisted note taking in Logseq
+- [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - A browser extension that enhance search engines with ChatGPT
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
 - [daredoes/linked-lovelace-ui](https://github.com/daredoes/linked-lovelace-ui) - Create cards that can be re-used, updated, and handle templated data.
 - [Aerilym/photoprism-helper](https://github.com/Aerilym/photoprism-helper) - An unofficial companion tool created for use alongside PhotoPrism to enable API endpoints and automation.
