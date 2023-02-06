@@ -67,6 +67,7 @@
 
 ## C 
 
+- [matthiasbock/canon-pixma-printer-driver](https://github.com/matthiasbock/canon-pixma-printer-driver) - IJ Printer Driver Ver. 3.80 for Linux
 - [adamdoupe/adamd-pocs](https://github.com/adamdoupe/adamd-pocs) - 
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
@@ -114,6 +115,7 @@
 
 ## CSS 
 
+- [joelchrono12/freshrss-nord-theme](https://github.com/joelchrono12/freshrss-nord-theme) - A simple, basic theme you can work on top of to have the Nord color scheme in your FreshRSS instance
 - [DmitryBorodiy/PowerWidgets](https://github.com/DmitryBorodiy/PowerWidgets) - Power Widgets is new way to customize your at-a-glance info. With new widgets and mini-apps you can explore info and get fast access to important things.
 - [tallguyjenks/DevLog](https://github.com/tallguyjenks/DevLog) - 🌱️ My DevLog detailing my learnings in Tech 🌱️
 - [mehulkar/github-hall-of-fame](https://github.com/mehulkar/github-hall-of-fame) - Hall of Fame for spectacular things on Github
@@ -399,6 +401,7 @@
 
 ## JavaScript 
 
+- [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [abeksis/My-HomeAssistant-Config](https://github.com/abeksis/My-HomeAssistant-Config) - My Home Assistant Configuration. Documentation for my Smart House
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -455,6 +458,7 @@
 - [kuzzleio/kuzzle](https://github.com/kuzzleio/kuzzle) - Open-source Back-end, self-hostable & ready to use - Real-time, storage, advanced search - Web, Apps, Mobile, IoT -
 - [jipegit/OSXAuditor](https://github.com/jipegit/OSXAuditor) - OS X Auditor is a free Mac OS X computer forensics tool
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
+- [thecowan/ha-config](https://github.com/thecowan/ha-config) - My home assistant (https://www.home-assistant.io/) configuration
 - [lapwat/reCatchable](https://github.com/lapwat/reCatchable) - Turn a site into a book. Download a whole website and upload it to your reMarkable.
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [nodevault/node-vault](https://github.com/nodevault/node-vault) - Client for HashiCorp's Vault
@@ -1006,7 +1010,6 @@
 - [AdminTurnedDevOps/DevOps-The-Hard-Way-AWS](https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS) - This repository contains free labs for setting up an entire workflow and DevOps environment from a real-world perspective in AWS
 - [ForensicArtifacts/artifacts](https://github.com/ForensicArtifacts/artifacts) - Digital Forensics Artifact Repository
 - [thomasloven/hass-config](https://github.com/thomasloven/hass-config) - My Home Assistant configuration
-- [thecowan/ha-config](https://github.com/thecowan/ha-config) - My home assistant (https://www.home-assistant.io/) configuration
 - [skorokithakis/catt](https://github.com/skorokithakis/catt) - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.
 - [richeymichael/remarkable-assistant](https://github.com/richeymichael/remarkable-assistant) - Manage templates, splash screens, and settings on your reMarkable tablet
 - [morngrar/remarkable-tweak](https://github.com/morngrar/remarkable-tweak) - Tweak tool for the reMarkable paper tablet. Lets you organize your templates with no fuss.
@@ -1186,6 +1189,7 @@
 
 ## Shell 
 
+- [inthreedee/photoprism-transfer-album](https://github.com/inthreedee/photoprism-transfer-album) - Transfer a Google Photos album to a new Photoprism album
 - [l4yton/RegHex](https://github.com/l4yton/RegHex) - A collection of regexes for every possbile use
 - [jgamblin/CarHackingTools](https://github.com/jgamblin/CarHackingTools) - Install and Configure Common Car Hacking Tools.
 - [jobertabma/recon.sh](https://github.com/jobertabma/recon.sh) - A toolset to track and organize output of reconnaissance tools
