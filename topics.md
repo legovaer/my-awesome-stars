@@ -2257,7 +2257,6 @@
 - [dhinus/dokku-terraform](https://github.com/dhinus/dokku-terraform) - Install Dokku using Terraform
 - [mlomnicki/dokku-deploy-hooks](https://github.com/mlomnicki/dokku-deploy-hooks) - Pre- and post-deploy hooks for dokku
 - [dokku/dokku-letsencrypt](https://github.com/dokku/dokku-letsencrypt) - Automatic Let's Encrypt TLS Certificate installation for dokku
-- [maxi1134/Home-Assistant](https://github.com/maxi1134/Home-Assistant) - My Home-Assistant stuff
 - [thomasloven/lovelace-wbah](https://github.com/thomasloven/lovelace-wbah) - Lovelace with bluejays and herons
 - [thomasloven/lovelace-card-mod](https://github.com/thomasloven/lovelace-card-mod) - 🔹 Add CSS styles to (almost) any lovelace card
 - [thomasloven/lovelace-layout-card](https://github.com/thomasloven/lovelace-layout-card) - 🔹 Get more control over the placement of lovelace cards.
