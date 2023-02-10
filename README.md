@@ -759,7 +759,6 @@
 - [emveeoh/dokku-aws-lightsail-tutorial](https://github.com/emveeoh/dokku-aws-lightsail-tutorial) - A simple step-by-step tutorial showing you how to insall Dokku (a Heroku git-deployment clone) on a $5/month Amazon AWS LightSail Ubuntu Linux instance. We will setup DNS and a static IP address. We w
 - [kevinnguy/dokku-aws-tutorial](https://github.com/kevinnguy/dokku-aws-tutorial) - A tutorial on setting up Dokku on your local machine via Vagrant and AWS EC2
 - [rclement/dokku-kibana](https://github.com/rclement/dokku-kibana) - Deploy Kibana (with LogTrail) on Dokku
-- [maxi1134/Home-Assistant](https://github.com/maxi1134/Home-Assistant) - My Home-Assistant stuff
 - [sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
