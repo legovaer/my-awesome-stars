@@ -2037,7 +2037,7 @@
 - [inthreedee/photoprism-transfer-album](https://github.com/inthreedee/photoprism-transfer-album) - Transfer a Google Photos album to a new Photoprism album
 - [daveshap/raven](https://github.com/daveshap/raven) - RAVEN (Realtime Assistant Voice Enabled Network) Open Source Software (OSS) community repo
 - [Mostafa-Elguerdawi/Automation_Bug_Hunting](https://github.com/Mostafa-Elguerdawi/Automation_Bug_Hunting) - 
-- [Ignitetechnologies/Mindmap](https://github.com/Ignitetechnologies/Mindmap) - 
+- [Ignitetechnologies/Mindmap](https://github.com/Ignitetechnologies/Mindmap) - This repository will contain many mindmaps for cyber security technologies, methodologies, courses, and certifications in a tree structure to give brief details about them
 - [strandjs/IntroLabs](https://github.com/strandjs/IntroLabs) - These are the labs for my Intro class.  Yes, this is public.  Yes, this is intentional.
 - [chocolatecoat/DFIR-Templates](https://github.com/chocolatecoat/DFIR-Templates) - Incident Response documents and tooling
 - [certsocietegenerale/FIR](https://github.com/certsocietegenerale/FIR) - Fast Incident Response
