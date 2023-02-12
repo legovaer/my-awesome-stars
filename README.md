@@ -655,7 +655,7 @@
 - [seazon/FeedMe](https://github.com/seazon/FeedMe) - The documents of FeedMe
 - [techiescamp/kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path) - A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
-- [Ignitetechnologies/Mindmap](https://github.com/Ignitetechnologies/Mindmap) - 
+- [Ignitetechnologies/Mindmap](https://github.com/Ignitetechnologies/Mindmap) - This repository will contain many mindmaps for cyber security technologies, methodologies, courses, and certifications in a tree structure to give brief details about them
 - [chocolatecoat/DFIR-Templates](https://github.com/chocolatecoat/DFIR-Templates) - Incident Response documents and tooling
 - [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking web technologies,and pen testing wireless networks.Resources for learning malware analysis and reverse engineering.
 - [seaky/nspanel_pro_tools_apk](https://github.com/seaky/nspanel_pro_tools_apk) - 
