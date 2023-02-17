@@ -885,7 +885,7 @@
 - [consolidation/robo](https://github.com/consolidation/robo) - Modern task runner for PHP
 - [legovaer/drupal-vsts](https://github.com/legovaer/drupal-vsts) - Deploying Drupal 8 using VSTS
 - [drupal-composer/drupal-project](https://github.com/drupal-composer/drupal-project) - :rocket: Composer template for Drupal projects. Quick installation via "composer create-project drupal-composer/drupal-project"
-- [pantheon-systems/drops-8](https://github.com/pantheon-systems/drops-8) - Pantheon Upstream for Drupal 8 Sites
+- [pantheon-systems/drops-8](https://github.com/pantheon-systems/drops-8) - Pantheon Upstream for Drupal 8 Sites. Deprecated; please see https://github.com/pantheon-upstreams/drupal-composer-managed
 - [WEBSOLUTIONSHR/drupal](https://github.com/WEBSOLUTIONSHR/drupal) - Historical releases of Drupal, made for presentation at DrupalCamp London
 - [l3l0/php-travis-client](https://github.com/l3l0/php-travis-client) - 
 - [ricardoamaro/drupalci_testbot](https://github.com/ricardoamaro/drupalci_testbot) - This is a testing version of Drupal testbot using docker containers. Please use:
@@ -1363,7 +1363,7 @@
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀
+- [novuhq/novu](https://github.com/novuhq/novu) - Multi-channel Notification Infrastructure 🚀🚀🚀🧑‍💻 🧑‍💻 🧑‍💻
 - [spotify/web-scripts](https://github.com/spotify/web-scripts) - A collection of base configs and CLI wrappers used to speed up development @ Spotify.
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
 - [royto/logbook-card](https://github.com/royto/logbook-card) - Logbook card for Home Assistant UI Lovelace
