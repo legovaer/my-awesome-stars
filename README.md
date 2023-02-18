@@ -151,6 +151,8 @@
 
 ## Dart 
 
+- [bauerj/paperless_app](https://github.com/bauerj/paperless_app) - An Android/iOS app for Paperless
+- [qcasey/paperless_share](https://github.com/qcasey/paperless_share) - Android App to share your documents with your Paperless server
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [zbejas/portarius](https://github.com/zbejas/portarius) - Portarius is a free, open-source, cross-platform mobile app that allows you to manage your Portainer sessions.
@@ -401,6 +403,9 @@
 
 ## JavaScript 
 
+- [andrey-git/home-assistant-custom-ui](https://github.com/andrey-git/home-assistant-custom-ui) - Custom UI elements for https://home-assistant.io
+- [Deejayfool/hass-shutter-card](https://github.com/Deejayfool/hass-shutter-card) - Shutter card for Home Assistant Lovelace UI
+- [benct/lovelace-multiple-entity-row](https://github.com/benct/lovelace-multiple-entity-row) - Show multiple entity states and attributes on entity rows in Home Assistant's Lovelace UI
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [abeksis/My-HomeAssistant-Config](https://github.com/abeksis/My-HomeAssistant-Config) - My Home Assistant Configuration. Documentation for my Smart House
@@ -913,6 +918,8 @@
 
 ## Python 
 
+- [shortbloke/home_assistant_config](https://github.com/shortbloke/home_assistant_config) - HomeAssistant.io Configuration Files
+- [sbrunner/scan-to-paperless](https://github.com/sbrunner/scan-to-paperless) - 
 - [davidusb-geek/emhass](https://github.com/davidusb-geek/emhass) - emhass: Energy Management for Home Assistant, is a Python module designed to optimize your home energy interfacing with Home Assistant.
 - [chiahsing/nest_hub](https://github.com/chiahsing/nest_hub) - Home Assistant pyscript for using Nest Hub as a dashboard
 - [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - Advanced Github OSINT Framework
