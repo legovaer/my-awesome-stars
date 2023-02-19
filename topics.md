@@ -1847,6 +1847,7 @@
 
 ## monitoring 
 
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection, monitor and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply m
 - [mikeroyal/Grafana-Guide](https://github.com/mikeroyal/Grafana-Guide) - Grafana Guide
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
@@ -2030,6 +2031,7 @@
 
 ## others 
 
+- [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [andrey-git/home-assistant-custom-ui](https://github.com/andrey-git/home-assistant-custom-ui) - Custom UI elements for https://home-assistant.io
 - [Deejayfool/hass-shutter-card](https://github.com/Deejayfool/hass-shutter-card) - Shutter card for Home Assistant Lovelace UI
 - [benct/lovelace-multiple-entity-row](https://github.com/benct/lovelace-multiple-entity-row) - Show multiple entity states and attributes on entity rows in Home Assistant's Lovelace UI
