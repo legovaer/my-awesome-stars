@@ -756,7 +756,7 @@
 ## css 
 
 - [Shreyas-R/lovelace-wallpanel-screensaver](https://github.com/Shreyas-R/lovelace-wallpanel-screensaver) - Wall panel mode for your Home Assistant Lovelace dashboard with more focus on screensaver. Configurable extension which features a fullscreen kiosk mode, image and weather-clock screensaver, screen wa
-- [novuhq/novu](https://github.com/novuhq/novu) - Multi-channel Notification Infrastructure 🚀🚀🚀🧑‍💻 🧑‍💻 🧑‍💻
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
 - [google/WebFundamentals](https://github.com/google/WebFundamentals) - Former git repo for WebFundamentals on developers.google.com
 - [elipapa/markdown-cv](https://github.com/elipapa/markdown-cv) - a simple template to write your CV in a readable markdown file and use CSS to publish/print it.
@@ -1383,7 +1383,7 @@
 - [kalkih/mini-media-player](https://github.com/kalkih/mini-media-player) - Minimalistic media card for Home Assistant Lovelace UI
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Kubernetes
-- [novuhq/novu](https://github.com/novuhq/novu) - Multi-channel Notification Infrastructure 🚀🚀🚀🧑‍💻 🧑‍💻 🧑‍💻
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [Bhasfe/babur](https://github.com/Bhasfe/babur) - Babur is an open-source ML-Based Slack Bot application.
 - [IonicaBizau/parse-url](https://github.com/IonicaBizau/parse-url) - :rocket: An advanced url parser supporting git urls too.
@@ -1469,7 +1469,7 @@
 
 ## html 
 
-- [novuhq/novu](https://github.com/novuhq/novu) - Multi-channel Notification Infrastructure 🚀🚀🚀🧑‍💻 🧑‍💻 🧑‍💻
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
 - [google/WebFundamentals](https://github.com/google/WebFundamentals) - Former git repo for WebFundamentals on developers.google.com
 - [elipapa/markdown-cv](https://github.com/elipapa/markdown-cv) - a simple template to write your CV in a readable markdown file and use CSS to publish/print it.
@@ -1507,7 +1507,6 @@
 - [shortbloke/home_assistant_config](https://github.com/shortbloke/home_assistant_config) - HomeAssistant.io Configuration Files
 - [Apocrathia/home-assistant-config](https://github.com/Apocrathia/home-assistant-config) - Apocrathia's Home Assistant Configuration Files
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including the Matter networking protocol, 
 - [home-assistant-ecosystem/home-assistant-cli](https://github.com/home-assistant-ecosystem/home-assistant-cli) - :computer: Command-line tool for Home Assistant
 - [joch/home-assistant-config](https://github.com/joch/home-assistant-config) - My configuration for Home Assistant
 - [point-4ward/Home-Assistant](https://github.com/point-4ward/Home-Assistant) - Home-Assistant-Config
@@ -1563,7 +1562,7 @@
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [MarcoMnrq/rocket-dokku](https://github.com/MarcoMnrq/rocket-dokku) - 🚀 Fully Featured Open Source Admin Dashboard for Dokku
 - [Shreyas-R/lovelace-wallpanel-screensaver](https://github.com/Shreyas-R/lovelace-wallpanel-screensaver) - Wall panel mode for your Home Assistant Lovelace dashboard with more focus on screensaver. Configurable extension which features a fullscreen kiosk mode, image and weather-clock screensaver, screen wa
-- [novuhq/novu](https://github.com/novuhq/novu) - Multi-channel Notification Infrastructure 🚀🚀🚀🧑‍💻 🧑‍💻 🧑‍💻
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
@@ -1961,7 +1960,7 @@
 - [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
 - [FurqanSoftware/node-whois](https://github.com/FurqanSoftware/node-whois) - A simple WHOIS client for NodeJS
-- [novuhq/novu](https://github.com/novuhq/novu) - Multi-channel Notification Infrastructure 🚀🚀🚀🧑‍💻 🧑‍💻 🧑‍💻
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [RisingStack/example-prometheus-nodejs](https://github.com/RisingStack/example-prometheus-nodejs) - Prometheus monitoring example with Node.js
@@ -2031,6 +2030,8 @@
 
 ## others 
 
+- [ingeniumdesign/homeassistant](https://github.com/ingeniumdesign/homeassistant) - ING Home Assistant Configuration
+- [maxi1134/Home-Assistant-Config](https://github.com/maxi1134/Home-Assistant-Config) - This is my Smart-home Installation repository
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [andrey-git/home-assistant-custom-ui](https://github.com/andrey-git/home-assistant-custom-ui) - Custom UI elements for https://home-assistant.io
 - [Deejayfool/hass-shutter-card](https://github.com/Deejayfool/hass-shutter-card) - Shutter card for Home Assistant Lovelace UI
@@ -2116,6 +2117,7 @@
 - [rabschi/awesome-beacon](https://github.com/rabschi/awesome-beacon) - A curated list of awesome Bluetooth beacon software and tools.
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [custom-cards/spotify-card](https://github.com/custom-cards/spotify-card) - Spotify playlist card for Home Assistant card
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including the Matter networking protocol, 
 - [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) - GameStream client for Android
 - [Odania-IT/docker-seopanel](https://github.com/Odania-IT/docker-seopanel) - 
 - [koalatiapp/tool-seo](https://github.com/koalatiapp/tool-seo) - Koalati tool that checks for on-site SEO of a page and that provides suggestions for improvement.
@@ -2797,7 +2799,7 @@
 - [tadhglewis/issue-status](https://github.com/tadhglewis/issue-status) - Simple, modern and flexible status page
 - [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
-- [novuhq/novu](https://github.com/novuhq/novu) - Multi-channel Notification Infrastructure 🚀🚀🚀🧑‍💻 🧑‍💻 🧑‍💻
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud.
 - [r7wx/easy-gate](https://github.com/r7wx/easy-gate) - A gate to your self hosted infrastructure
@@ -2813,7 +2815,7 @@
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The react library to build dashboards fast.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
-- [novuhq/novu](https://github.com/novuhq/novu) - Multi-channel Notification Infrastructure 🚀🚀🚀🧑‍💻 🧑‍💻 🧑‍💻
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [asosnovsky/Shortumation](https://github.com/asosnovsky/Shortumation) - A better way to write automations in home-assistant without having to install and run a seperate automation engine!
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
 
@@ -3125,7 +3127,7 @@
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [MarcoMnrq/rocket-dokku](https://github.com/MarcoMnrq/rocket-dokku) - 🚀 Fully Featured Open Source Admin Dashboard for Dokku
-- [novuhq/novu](https://github.com/novuhq/novu) - Multi-channel Notification Infrastructure 🚀🚀🚀🧑‍💻 🧑‍💻 🧑‍💻
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - 💬 🤖  The most reliable WhatsApp tool for chatbots with advanced features. Be sure to 🌟 this repository for updates!
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
