@@ -919,6 +919,7 @@
 
 ## Python 
 
+- [commixproject/commix](https://github.com/commixproject/commix) - Automated All-in-One OS Command Injection Exploitation Tool.
 - [maxi1134/Home-Assistant-Config](https://github.com/maxi1134/Home-Assistant-Config) - This is my Smart-home Installation repository
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection, monitor and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply m
 - [shortbloke/home_assistant_config](https://github.com/shortbloke/home_assistant_config) - HomeAssistant.io Configuration Files
@@ -1206,6 +1207,7 @@
 
 ## Shell 
 
+- [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
 - [inthreedee/photoprism-transfer-album](https://github.com/inthreedee/photoprism-transfer-album) - Transfer a Google Photos album to a new Photoprism album
 - [l4yton/RegHex](https://github.com/l4yton/RegHex) - A collection of regexes for every possbile use
 - [jgamblin/CarHackingTools](https://github.com/jgamblin/CarHackingTools) - Install and Configure Common Car Hacking Tools.
