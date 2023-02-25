@@ -80,7 +80,7 @@
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
-- [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full docum
+- [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
 - [clsync/lrsync](https://github.com/clsync/lrsync) - rsync-like clsync wrapper for live syncing (based on inotify)
 - [berdav/CVE-2021-4034](https://github.com/berdav/CVE-2021-4034) - CVE-2021-4034 1day
 - [arthepsy/CVE-2021-4034](https://github.com/arthepsy/CVE-2021-4034) - PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034)
@@ -100,6 +100,7 @@
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [socnetv/app](https://github.com/socnetv/app) - Social Network Analysis and Visualization software application.
 - [rosmo/m5paper-homeassistant](https://github.com/rosmo/m5paper-homeassistant) - Home Assistant functionality with M5Paper
+- [convexvr/sims4-vr](https://github.com/convexvr/sims4-vr) - Sims 4 plugin that adds VR functionality
 - [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip) - Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards
 - [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
@@ -976,7 +977,6 @@
 - [mmabrouk/chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) - API for interacting with ChatGPT using Python and from Shell.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [gigafide/pi-smart-car](https://github.com/gigafide/pi-smart-car) - Raspberry Pi powered smart car
-- [convexvr/sims4-vr](https://github.com/convexvr/sims4-vr) - Sims 4 plugin that adds VR functionality
 - [feignbird/ChatterBot-spacy_fixed](https://github.com/feignbird/ChatterBot-spacy_fixed) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots
 - [gunthercox/ChatterBot](https://github.com/gunthercox/ChatterBot) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots
 - [sethblack/python-seo-analyzer](https://github.com/sethblack/python-seo-analyzer) - An SEO tool that analyzes the structure of a site, crawls the site, count words in the body of the site and warns of any technical SEO issues.
