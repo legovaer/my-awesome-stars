@@ -2032,6 +2032,8 @@
 
 ## others 
 
+- [dloghis/mount-hetzner-storage](https://github.com/dloghis/mount-hetzner-storage) - How to mount Hetzner storage box in CentOS 7
+- [blurayne/TaskerWgTunner](https://github.com/blurayne/TaskerWgTunner) - WireGuard Automation for Tasker
 - [wonderslug/MMM-HomeAssistantDisplay](https://github.com/wonderslug/MMM-HomeAssistantDisplay) - A Magic Mirror Module to display information from Home Assistant.
 - [zuo000/MMM-HomeAssistant](https://github.com/zuo000/MMM-HomeAssistant) - HomeAssistant module for MagicMirror2
 - [ingeniumdesign/homeassistant](https://github.com/ingeniumdesign/homeassistant) - ING Home Assistant Configuration
