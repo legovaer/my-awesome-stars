@@ -586,6 +586,7 @@
 
 ## bash 
 
+- [jpylypiw/easywall](https://github.com/jpylypiw/easywall) - Web interface for easy use of the IPTables firewall on Linux systems written in Python3.
 - [r1cksec/cheatsheets](https://github.com/r1cksec/cheatsheets) - Collection of knowledge about information security
 - [HightechSec/git-scanner](https://github.com/HightechSec/git-scanner) - A tool for bug hunting or pentesting for targeting websites that have open .git repositories available in public
 - [CompSciLauren/awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks
@@ -1726,6 +1727,7 @@
 
 ## linux 
 
+- [jpylypiw/easywall](https://github.com/jpylypiw/easywall) - Web interface for easy use of the IPTables firewall on Linux systems written in Python3.
 - [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - Advanced Github OSINT Framework
 - [r1cksec/cheatsheets](https://github.com/r1cksec/cheatsheets) - Collection of knowledge about information security
 - [Gallopsled/pwntools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
@@ -2032,6 +2034,8 @@
 
 ## others 
 
+- [sfeakes/ipfire-scripts](https://github.com/sfeakes/ipfire-scripts) - Scripts for ipfire
+- [the-paperless-project/paperless](https://github.com/the-paperless-project/paperless) - Scan, index, and archive all of your paper documents
 - [dloghis/mount-hetzner-storage](https://github.com/dloghis/mount-hetzner-storage) - How to mount Hetzner storage box in CentOS 7
 - [blurayne/TaskerWgTunner](https://github.com/blurayne/TaskerWgTunner) - WireGuard Automation for Tasker
 - [wonderslug/MMM-HomeAssistantDisplay](https://github.com/wonderslug/MMM-HomeAssistantDisplay) - A Magic Mirror Module to display information from Home Assistant.
@@ -2745,6 +2749,7 @@
 
 ## python3 
 
+- [jpylypiw/easywall](https://github.com/jpylypiw/easywall) - Web interface for easy use of the IPTables firewall on Linux systems written in Python3.
 - [AzeemIdrisi/PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro) - An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.
 - [Datalux/Osintgram](https://github.com/Datalux/Osintgram) - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
 - [Gallopsled/pwntools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
