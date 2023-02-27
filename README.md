@@ -925,6 +925,8 @@
 
 ## Python 
 
+- [jpylypiw/easywall](https://github.com/jpylypiw/easywall) - Web interface for easy use of the IPTables firewall on Linux systems written in Python3.
+- [the-paperless-project/paperless](https://github.com/the-paperless-project/paperless) - Scan, index, and archive all of your paper documents
 - [commixproject/commix](https://github.com/commixproject/commix) - Automated All-in-One OS Command Injection Exploitation Tool.
 - [maxi1134/Home-Assistant-Config](https://github.com/maxi1134/Home-Assistant-Config) - This is my Smart-home Installation repository
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection, monitor and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply m
@@ -1212,6 +1214,7 @@
 
 ## Shell 
 
+- [sfeakes/ipfire-scripts](https://github.com/sfeakes/ipfire-scripts) - Scripts for ipfire
 - [dloghis/mount-hetzner-storage](https://github.com/dloghis/mount-hetzner-storage) - How to mount Hetzner storage box in CentOS 7
 - [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
 - [inthreedee/photoprism-transfer-album](https://github.com/inthreedee/photoprism-transfer-album) - Transfer a Google Photos album to a new Photoprism album
