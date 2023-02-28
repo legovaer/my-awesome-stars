@@ -404,6 +404,9 @@
 
 ## JavaScript 
 
+- [dmatik/homeassistant-config](https://github.com/dmatik/homeassistant-config) - My Home Assistant YAML configuration
+- [seangreen2/home_assistant](https://github.com/seangreen2/home_assistant) - My personal Home Assistant setup - Running on a HassOS VM.
+- [EPMatt/awesome-ha-blueprints](https://github.com/EPMatt/awesome-ha-blueprints) - A curated collection of automation blueprints for Home Assistant.
 - [akhilrex/podgrab](https://github.com/akhilrex/podgrab) - A self-hosted podcast manager/downloader/archiver tool to download podcast episodes as soon as they become live with an integrated player.
 - [wonderslug/MMM-HomeAssistantDisplay](https://github.com/wonderslug/MMM-HomeAssistantDisplay) - A Magic Mirror Module to display information from Home Assistant.
 - [zuo000/MMM-HomeAssistant](https://github.com/zuo000/MMM-HomeAssistant) - HomeAssistant module for MagicMirror2
@@ -925,6 +928,7 @@
 
 ## Python 
 
+- [ThomDietrich/miflora-mqtt-daemon](https://github.com/ThomDietrich/miflora-mqtt-daemon) - Linux service to collect and transfer Xiaomi Mi Flora plant sensor data via MQTT to your smart home system, with cluster support 🌱🌼🥀🏡🌳
 - [jpylypiw/easywall](https://github.com/jpylypiw/easywall) - Web interface for easy use of the IPTables firewall on Linux systems written in Python3.
 - [the-paperless-project/paperless](https://github.com/the-paperless-project/paperless) - Scan, index, and archive all of your paper documents
 - [commixproject/commix](https://github.com/commixproject/commix) - Automated All-in-One OS Command Injection Exploitation Tool.
