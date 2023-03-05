@@ -406,6 +406,8 @@
 
 ## JavaScript 
 
+- [DrakenWan/Yale3](https://github.com/DrakenWan/Yale3) - A simple LinkedIn profile scraper implemented as a chrome extension
+- [jazzyisj/home-assistant-config](https://github.com/jazzyisj/home-assistant-config) - My Home Assistant configuration.
 - [vdrmota/Social-Media-and-Contact-Info-Extractor](https://github.com/vdrmota/Social-Media-and-Contact-Info-Extractor) - Run this scraper for free: https://apify.com/vdrmota/contact-info-scraper
 - [dmatik/homeassistant-config](https://github.com/dmatik/homeassistant-config) - My Home Assistant YAML configuration
 - [seangreen2/home_assistant](https://github.com/seangreen2/home_assistant) - My personal Home Assistant setup - Running on a HassOS VM.
@@ -1227,6 +1229,7 @@
 
 ## Shell 
 
+- [thomasmauerer/hassio-addons](https://github.com/thomasmauerer/hassio-addons) - My collection of addons for Home Assistant
 - [sfeakes/ipfire-scripts](https://github.com/sfeakes/ipfire-scripts) - Scripts for ipfire
 - [dloghis/mount-hetzner-storage](https://github.com/dloghis/mount-hetzner-storage) - How to mount Hetzner storage box in CentOS 7
 - [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
