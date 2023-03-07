@@ -82,6 +82,7 @@
 - [graphql](#graphql)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
+- [home-assistant](#home-assistant)
 - [homebrew](#homebrew)
 - [homebridge](#homebridge)
 - [html](#html)
@@ -1465,6 +1466,123 @@
 - [phpro/grumphp](https://github.com/phpro/grumphp) - A PHP code-quality tool
 - [Behat/Behat](https://github.com/Behat/Behat) - BDD in PHP
 
+## home-assistant 
+
+- [jazzyisj/home-assistant-config](https://github.com/jazzyisj/home-assistant-config) - My Home Assistant configuration.
+- [dmatik/homeassistant-config](https://github.com/dmatik/homeassistant-config) - My Home Assistant YAML configuration
+- [seangreen2/home_assistant](https://github.com/seangreen2/home_assistant) - My personal Home Assistant setup - Running on a HassOS VM.
+- [EPMatt/awesome-ha-blueprints](https://github.com/EPMatt/awesome-ha-blueprints) - A curated collection of automation blueprints for Home Assistant.
+- [ThomDietrich/miflora-mqtt-daemon](https://github.com/ThomDietrich/miflora-mqtt-daemon) - Linux service to collect and transfer Xiaomi Mi Flora plant sensor data via MQTT to your smart home system, with cluster support 🌱🌼🥀🏡🌳
+- [Clooos/Home-Assistant-Mobile-First](https://github.com/Clooos/Home-Assistant-Mobile-First) - A minimalist and user-friendly design, combined with an mobile first approach for the Home Assistant dashboard.
+- [ingeniumdesign/homeassistant](https://github.com/ingeniumdesign/homeassistant) - ING Home Assistant Configuration
+- [andrey-git/home-assistant-custom-ui](https://github.com/andrey-git/home-assistant-custom-ui) - Custom UI elements for https://home-assistant.io
+- [Deejayfool/hass-shutter-card](https://github.com/Deejayfool/hass-shutter-card) - Shutter card for Home Assistant Lovelace UI
+- [benct/lovelace-multiple-entity-row](https://github.com/benct/lovelace-multiple-entity-row) - Show multiple entity states and attributes on entity rows in Home Assistant's Lovelace UI
+- [NiklasReiche/ad-spotify-mood-lights-sync](https://github.com/NiklasReiche/ad-spotify-mood-lights-sync) - AppDaemon app that synchronizes rgb lights to the mood of the currently playing spotify song in Home Assistant.
+- [PiotrMachowski/Home-Assistant-Taskbar-Menu](https://github.com/PiotrMachowski/Home-Assistant-Taskbar-Menu) - This application is a simple Home Assistant client for Windows. It can display Lovelace views, control entities and show persistent notifications.
+- [abeksis/My-HomeAssistant-Config](https://github.com/abeksis/My-HomeAssistant-Config) - My Home Assistant Configuration. Documentation for my Smart House
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
+- [bachya/smart-home](https://github.com/bachya/smart-home) - ⭐ (Almost) everything needed to run my smart home with Home Assistant and more!
+- [garbled1/homeassistant_ecowitt](https://github.com/garbled1/homeassistant_ecowitt) - Ecowitt Weather Station integration for homeassistant
+- [dlashua/hass-wasp_sensor](https://github.com/dlashua/hass-wasp_sensor) - A Home Assistant Integration implemented a "Wasp In A Box" sensor. Upgrade your motion sensors!
+- [TheTimeWalker/wallpanel-android](https://github.com/TheTimeWalker/wallpanel-android) - WallPanel is an Android application for Web Based Dashboards and Home Automation Platforms
+- [AlexxIT/WebRTC](https://github.com/AlexxIT/WebRTC) - Home Assistant custom component for viewing almost any camera stream in real time using WebRTC and other technologies.
+- [Apocrathia/home-assistant-config](https://github.com/Apocrathia/home-assistant-config) - Apocrathia's Home Assistant Configuration Files
+- [daredoes/linked-lovelace-ui](https://github.com/daredoes/linked-lovelace-ui) - Create cards that can be re-used, updated, and handle templated data.
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including WireGuard, Home Assistant, Homeb
+- [home-assistant-ecosystem/home-assistant-cli](https://github.com/home-assistant-ecosystem/home-assistant-cli) - :computer: Command-line tool for Home Assistant
+- [jjlawren/sonos_cloud](https://github.com/jjlawren/sonos_cloud) - Sonos cloud API integration for Home Assistant with improved TTS/alerts handling
+- [joch/home-assistant-config](https://github.com/joch/home-assistant-config) - My configuration for Home Assistant
+- [iantrich/restriction-card](https://github.com/iantrich/restriction-card) - 🔒 Apply restrictions to Lovelace cards
+- [robwolff3/homeassistant-config](https://github.com/robwolff3/homeassistant-config) - My personal Home Assistant config
+- [maattdiy/home-assistant-config](https://github.com/maattdiy/home-assistant-config) - :house: My Home Assistant configuration and documentation. More info below.
+- [point-4ward/Home-Assistant](https://github.com/point-4ward/Home-Assistant) - Home-Assistant-Config
+- [sabeechen/hassio-google-drive-backup](https://github.com/sabeechen/hassio-google-drive-backup) - Automatically create and sync Home Assistant backups into Google Drive
+- [Limych/ha-average](https://github.com/Limych/ha-average) - Average Sensor for Home Assistant
+- [maxwroc/battery-state-card](https://github.com/maxwroc/battery-state-card) - Battery state card for Home Assistant
+- [VirtualL/HomeAssistant-Config](https://github.com/VirtualL/HomeAssistant-Config) - Home Assistant configuration & Documentation for my Smart Home 🏗.Devices used and important links are listed below. Be sure to ⭐️my Repository. 👨🏻‍💻
+- [anotherjulien/MyHOME](https://github.com/anotherjulien/MyHOME) - MyHOME integration for Home-Assistant
+- [KTibow/lovelace-soft-theme](https://github.com/KTibow/lovelace-soft-theme) - 🎨 A new, simple soft theme for Home Assistant.
+- [denysdovhan/smart-home](https://github.com/denysdovhan/smart-home) - 🏡 My smart home setup built on top of Home Assistant
+- [jonathanadams/Home-Assistant-Configuration](https://github.com/jonathanadams/Home-Assistant-Configuration) - Home Assistant Configuration and Documentation
+- [smrtnt/Open-Home-Automation](https://github.com/smrtnt/Open-Home-Automation) - Open Home Automation with Home Assistant, ESP8266/ESP32 and MQTT
+- [Blackymas/NSPanel_HA_Blueprint](https://github.com/Blackymas/NSPanel_HA_Blueprint) - This allows you to configure your complete NSPanel via Blueprint with UI and without changing anything in the code
+- [mkotler/ad-automoli](https://github.com/mkotler/ad-automoli) - 💡 Fully automatic light management based on conditions like motion, illuminance, humidity, and other clever features
+- [Durishn/Durnry-Assistant](https://github.com/Durishn/Durnry-Assistant) - Home automation system - integrations, dashboards, and automations for home IoT devices 🏠 🤖
+- [UbhiTS/ha-config-ataraxis](https://github.com/UbhiTS/ha-config-ataraxis) - My Home Assistant Configs. If you like what you see, please ⭐️my repo. It would encourage me a lot 🤘
+- [custom-cards/decluttering-card](https://github.com/custom-cards/decluttering-card) - 🧹 Declutter your lovelace configuration with the help of this card
+- [hassio-addons/addon-appdaemon](https://github.com/hassio-addons/addon-appdaemon) - AppDaemon4 - Home Assistant Community Add-ons
+- [krizkontrolz/Home-Assistant-nextion_handler](https://github.com/krizkontrolz/Home-Assistant-nextion_handler) - An approach for integrating Nextion devices into Home Assistant, using a Python service that allows Nextion Events to send instructions to HA.
+- [Poeschl/Hassio-Addons](https://github.com/Poeschl/Hassio-Addons) - The repository for my Home Assistant Supervisor Add-ons.
+- [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense) - An ESP32 based presence detection node for use with the Home Assistant mqtt_room component for localized device presence detection.
+- [benct/home-assistant-config](https://github.com/benct/home-assistant-config) - 🏠 My configuration for home-assistant (https://www.home-assistant.io). 🌟 for updates!
+- [home-assistant/android](https://github.com/home-assistant/android) - :iphone: Home Assistant Companion for Android
+- [maykar/kiosk-mode](https://github.com/maykar/kiosk-mode) - 🙈 Hides the Home Assistant header and/or sidebar
+- [AlexxIT/DashCast](https://github.com/AlexxIT/DashCast) - DashCast component for Home Assistant
+- [pedrolamas/docker-iot-stack](https://github.com/pedrolamas/docker-iot-stack) - :computer: My personal Docker IoT Stack
+- [nervetattoo/simple-thermostat](https://github.com/nervetattoo/simple-thermostat) - A different take on the thermostat card for Home Assistant ♨️
+- [nervetattoo/banner-card](https://github.com/nervetattoo/banner-card) - A fluffy banner card for Home Assistant 🥰
+- [arallsopp/hass-hue-icons](https://github.com/arallsopp/hass-hue-icons) - Additional vector icons for home assistant to model Philips  Hue bulbs and fixtures.
+- [zanna-37/hass-swipe-navigation](https://github.com/zanna-37/hass-swipe-navigation) - ↔️ Swipe through Home Assistant Dashboard views on mobile.
+- [outadoc/home-slide-android](https://github.com/outadoc/home-slide-android) - Access your Home Assistant devices quickly from anywhere on your Android device
+- [philipp089/Home-Assistant-Config](https://github.com/philipp089/Home-Assistant-Config) - HA Config and UI
+- [kalkih/mini-media-player](https://github.com/kalkih/mini-media-player) - Minimalistic media card for Home Assistant Lovelace UI
+- [hassio-addons/addon-glances](https://github.com/hassio-addons/addon-glances) - Glances - Home Assistant Community Add-ons
+- [Shreyas-R/lovelace-wallpanel-screensaver](https://github.com/Shreyas-R/lovelace-wallpanel-screensaver) - Wall panel mode for your Home Assistant Lovelace dashboard with more focus on screensaver. Configurable extension which features a fullscreen kiosk mode, image and weather-clock screensaver, screen wa
+- [thejeffreystone/home-assistant-configuration](https://github.com/thejeffreystone/home-assistant-configuration) - My Old Home Assistant Config. For more Information visit -&gt;
+- [j-a-n/lovelace-wallpanel](https://github.com/j-a-n/lovelace-wallpanel) - 🖼️ Wall panel mode and photo screensaver for your Home Assistant Dashboards
+- [royto/logbook-card](https://github.com/royto/logbook-card) - Logbook card for Home Assistant UI Lovelace
+- [custom-cards/button-card](https://github.com/custom-cards/button-card) - ❇️ Lovelace button-card for home assistant
+- [kalkih/mini-graph-card](https://github.com/kalkih/mini-graph-card) - Minimalistic graph card for Home Assistant Lovelace UI
+- [Madelena/hass-config-public](https://github.com/Madelena/hass-config-public) - My Dashboards for Home Assistant - Advanced data visualizations, responsive design, a neat maximalist Metro Live Tile layout, and an ultraminimal tablet layout!
+- [PiotrMachowski/Home-Assistant-Lovelace-HTML-Jinja2-Template-card](https://github.com/PiotrMachowski/Home-Assistant-Lovelace-HTML-Jinja2-Template-card) - This card displays provided Jinja2 template as an HTML content of a card. It uses exactly the same engine as Home Assistant in Developer tools.
+- [PiotrMachowski/Home-Assistant-Lovelace-Local-Conditional-card](https://github.com/PiotrMachowski/Home-Assistant-Lovelace-Local-Conditional-card) - This card can show and hide a specific card on current device while not affecting other windows. It does not require any integration to run.
+- [bacco007/HomeAssistantConfig](https://github.com/bacco007/HomeAssistantConfig) - My Home Assistant Configuration
+- [bieniu/home-assistant-config](https://github.com/bieniu/home-assistant-config) - Home Assistant Config
+- [brianhanifin/Home-Assistant-Config](https://github.com/brianhanifin/Home-Assistant-Config) - Home Assistant configuration files.
+- [robmarkcole/HASS-data-detective](https://github.com/robmarkcole/HASS-data-detective) - Explore and analyse your Home Assistant data
+- [asosnovsky/Shortumation](https://github.com/asosnovsky/Shortumation) - A better way to write automations in home-assistant without having to install and run a seperate automation engine!
+- [piitaya/lovelace-mushroom-themes](https://github.com/piitaya/lovelace-mushroom-themes) - Additional themes for Lovelace Mushroom Cards 🍄
+- [Madelena/Metrology-for-Hass](https://github.com/Madelena/Metrology-for-Hass) - 🎨 Give your Home Assistant a modern and clean facelift. 🟥🟧🟩🟦🟪 24 Variations with 2 Styles + 6 Colors (Magenta Red / Orange / Green / Blue / Purple) + 🌞 Light and 🌚 Dark modes included. Based on Metro 
+- [alexarch21/history-explorer-card](https://github.com/alexarch21/history-explorer-card) - A card for Home Assistant Lovelace for exploring the history of your entities interactively and in real time.
+- [geekofweek/homeassistant](https://github.com/geekofweek/homeassistant) - Example Home Assistant Configs
+- [skalavala/mysmarthome](https://github.com/skalavala/mysmarthome) - :star: ALIVE Again! :star: SmartHome - Nothing but smarthome stuff here! Have fun browsing through my home automation setup... ping me on Discord with any questions! :thumbsup:
+- [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
+- [UI-Lovelace-Minimalist/UI](https://github.com/UI-Lovelace-Minimalist/UI) - UI-Lovelace-Minimalist is a "theme" for HomeAssistant
+- [Savjee/button-text-card](https://github.com/Savjee/button-text-card) - Custom, "neumorphism" Lovelace card
+- [hassio-addons/repository](https://github.com/hassio-addons/repository) - Home Assistant Community Add-ons
+- [AmoebeLabs/swiss-army-knife-card-manual](https://github.com/AmoebeLabs/swiss-army-knife-card-manual) - The documentation repository for the Swiss Army Knife custom card for Home Assistant.
+- [klaasnicolaas/Student-homeassistant-config](https://github.com/klaasnicolaas/Student-homeassistant-config) - 🎓 Student Home configuration. Stay informed by 🌟 this repository for updates!
+- [hmmbob/HomeAssistantConfig](https://github.com/hmmbob/HomeAssistantConfig) - My Home Assistant configuration. More info at www.home-assistant.io or in the readme below.
+- [TheFes/HA-configuration](https://github.com/TheFes/HA-configuration) - My Home Assistant config
+- [dchesterton/amcrest2mqtt](https://github.com/dchesterton/amcrest2mqtt) - Expose all events from an Amcrest device to an MQTT broker
+- [JamesMcCarthy79/Home-Assistant-Config](https://github.com/JamesMcCarthy79/Home-Assistant-Config) - Home Assistant Configuration & Documentation for my Smart House.
+- [aFFekopp/homeassistant](https://github.com/aFFekopp/homeassistant) - aFFekopps Home Assistant Configuration
+- [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config) - Home Assistant config files, rewritten to use the latest features, 100+ documented automations, automatically generated ToC :house: :robot:
+- [frenck/home-assistant-config](https://github.com/frenck/home-assistant-config) - :house: My Home Assistant configuration, a bit different that others :) Be sure to :star2: this repository for updates!
+- [DavidFW1960/bom-weather-card](https://github.com/DavidFW1960/bom-weather-card) - Custom Animated Weather Card for any weather provider
+- [dummylabs/thewatchman](https://github.com/dummylabs/thewatchman) - Home Assistant custom integration to keep track of missing entities and services in your config files
+- [joBr99/nspanel-lovelace-ui](https://github.com/joBr99/nspanel-lovelace-ui) - Custom Firmware for NsPanel with the design of HomeAssistant's lovelace UI in mind, works with Tasmota.
+- [dangreco/ha-card-workbench](https://github.com/dangreco/ha-card-workbench) - Web IDE for testing during the development of Home Assistant custom cards.
+- [jampez77/Multiline-Entity-Card](https://github.com/jampez77/Multiline-Entity-Card) - A custom entity card for Home Assistant that allows text to span multiple lines.
+- [ciotlosm/lovelace-thermostat-dark-card](https://github.com/ciotlosm/lovelace-thermostat-dark-card) - 🌡 Thermostat card with a round and black feel to it
+- [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) - Mushroom Cards - Build a beautiful dashboard easily 🍄
+- [custom-components/remote_homeassistant](https://github.com/custom-components/remote_homeassistant) - Links multiple home-assistant instances together
+- [GrandMoff100/HomeAssistantAPI](https://github.com/GrandMoff100/HomeAssistantAPI) - Python Wrapper for Homeassistant's REST API
+- [jimz011/homekit-infused](https://github.com/jimz011/homekit-infused) - Homekit Infused 5 2023
+- [dwainscheeren/dwains-lovelace-dashboard](https://github.com/dwainscheeren/dwains-lovelace-dashboard) - An fully auto generating Home Assistant UI dashboard for desktop, tablet and mobile by Dwains for desktop, tablet, mobile
+- [qiz-li/lovelace-soft-ui](https://github.com/qiz-li/lovelace-soft-ui) - 💫  Simple and clean Lovelace configuration
+- [robmarkcole/HASS-Deepstack-object](https://github.com/robmarkcole/HASS-Deepstack-object) - Home Assistant custom component for using Deepstack object detection
+- [elbowz/ha-homie](https://github.com/elbowz/ha-homie) - Homie integration for Home Assistant
+- [fuatakgun/eufy_security](https://github.com/fuatakgun/eufy_security) - Home Assistant integration to manage Eufy Security devices as cameras, home base stations, doorbells, motion and contact sensors.
+- [zachowj/hass-node-red](https://github.com/zachowj/hass-node-red) - Companion Component for node-red-contrib-home-assistant-websocket to help integrate Node-RED with Home Assistant Core
+- [jakowenko/double-take](https://github.com/jakowenko/double-take) - Unified UI and API for processing and training images for facial recognition.
+- [mKeRix/room-assistant](https://github.com/mKeRix/room-assistant) - Presence tracking and more for automation on the room-level
+- [zachowj/node-red-contrib-home-assistant-websocket](https://github.com/zachowj/node-red-contrib-home-assistant-websocket) - Node-RED integration with Home Assistant Core
+- [dadaloop82/MyHomeSmart-HASS-AppDeamon](https://github.com/dadaloop82/MyHomeSmart-HASS-AppDeamon) - I have a dream: to give HomeAssistant the ability to reason and perform actions logically and comprehensively, using AppDaemon, Sklearn, and Decision Tree.
+- [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
+- [basnijholt/lovelace-ios-dark-mode-theme](https://github.com/basnijholt/lovelace-ios-dark-mode-theme) - 🏠🤖 Theme by @basnijholt based on iOS Dark Mode for Lovelace Home Assistant
+
 ## homebrew 
 
 - [whalebrew/whalebrew](https://github.com/whalebrew/whalebrew) - Homebrew, but with Docker images
@@ -2052,7 +2170,7 @@
 
 ## others 
 
-- [jazzyisj/home-assistant-config](https://github.com/jazzyisj/home-assistant-config) - My Home Assistant configuration.
+- [Xorfor/Domoticz-Buienalarm-Plugin](https://github.com/Xorfor/Domoticz-Buienalarm-Plugin) - This Domoticz plugin gets the expected percipitation at your location from https://www.buienalarm.nl/.
 - [thomasmauerer/hassio-addons](https://github.com/thomasmauerer/hassio-addons) - My collection of addons for Home Assistant
 - [monicahq/chandler](https://github.com/monicahq/chandler) - The upcoming brand new version of Monica. Not suitable for production use at the moment.
 - [samjhill/monicaGPT](https://github.com/samjhill/monicaGPT) - adds OpenAI suggestions to your Monica PRM data
@@ -2060,25 +2178,18 @@
 - [vdrmota/Social-Media-and-Contact-Info-Extractor](https://github.com/vdrmota/Social-Media-and-Contact-Info-Extractor) - Run this scraper for free: https://apify.com/vdrmota/contact-info-scraper
 - [BARarch/contacts-scraper](https://github.com/BARarch/contacts-scraper) - Headless Python web scraping google app output
 - [ZoneMinder/zoneminder](https://github.com/ZoneMinder/zoneminder) - ZoneMinder is a free, open source Closed-circuit television software application developed for Linux which supports IP, USB and Analog cameras.
-- [dmatik/homeassistant-config](https://github.com/dmatik/homeassistant-config) - My Home Assistant YAML configuration
-- [seangreen2/home_assistant](https://github.com/seangreen2/home_assistant) - My personal Home Assistant setup - Running on a HassOS VM.
 - [sfeakes/ipfire-scripts](https://github.com/sfeakes/ipfire-scripts) - Scripts for ipfire
 - [the-paperless-project/paperless](https://github.com/the-paperless-project/paperless) - Scan, index, and archive all of your paper documents
 - [dloghis/mount-hetzner-storage](https://github.com/dloghis/mount-hetzner-storage) - How to mount Hetzner storage box in CentOS 7
 - [blurayne/TaskerWgTunner](https://github.com/blurayne/TaskerWgTunner) - WireGuard Automation for Tasker
 - [wonderslug/MMM-HomeAssistantDisplay](https://github.com/wonderslug/MMM-HomeAssistantDisplay) - A Magic Mirror Module to display information from Home Assistant.
 - [zuo000/MMM-HomeAssistant](https://github.com/zuo000/MMM-HomeAssistant) - HomeAssistant module for MagicMirror2
-- [ingeniumdesign/homeassistant](https://github.com/ingeniumdesign/homeassistant) - ING Home Assistant Configuration
 - [maxi1134/Home-Assistant-Config](https://github.com/maxi1134/Home-Assistant-Config) - This is my Smart-home Installation repository
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
-- [andrey-git/home-assistant-custom-ui](https://github.com/andrey-git/home-assistant-custom-ui) - Custom UI elements for https://home-assistant.io
-- [Deejayfool/hass-shutter-card](https://github.com/Deejayfool/hass-shutter-card) - Shutter card for Home Assistant Lovelace UI
-- [benct/lovelace-multiple-entity-row](https://github.com/benct/lovelace-multiple-entity-row) - Show multiple entity states and attributes on entity rows in Home Assistant's Lovelace UI
 - [sbrunner/scan-to-paperless](https://github.com/sbrunner/scan-to-paperless) - 
 - [qcasey/paperless_share](https://github.com/qcasey/paperless_share) - Android App to share your documents with your Paperless server
 - [davidusb-geek/emhass](https://github.com/davidusb-geek/emhass) - emhass: Energy Management for Home Assistant, is a Python module designed to optimize your home energy interfacing with Home Assistant.
 - [chiahsing/nest_hub](https://github.com/chiahsing/nest_hub) - Home Assistant pyscript for using Nest Hub as a dashboard
-- [NiklasReiche/ad-spotify-mood-lights-sync](https://github.com/NiklasReiche/ad-spotify-mood-lights-sync) - AppDaemon app that synchronizes rgb lights to the mood of the currently playing spotify song in Home Assistant.
 - [seazon/FeedMe](https://github.com/seazon/FeedMe) - The documents of FeedMe
 - [matthiasbock/canon-pixma-printer-driver](https://github.com/matthiasbock/canon-pixma-printer-driver) - IJ Printer Driver Ver. 3.80 for Linux
 - [joelchrono12/freshrss-nord-theme](https://github.com/joelchrono12/freshrss-nord-theme) - A simple, basic theme you can work on top of to have the Nord color scheme in your FreshRSS instance
@@ -2100,7 +2211,6 @@
 - [fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI) - Collection of Cyber Threat Intelligence sources from the deep and dark web
 - [dakboard/Cloud-Platform](https://github.com/dakboard/Cloud-Platform) - Feature requests, enhancements and anything you'd like to see in DAKboard!
 - [jez500/bender](https://github.com/jez500/bender) - A link dashboard that can be managed completely via the browser
-- [abeksis/My-HomeAssistant-Config](https://github.com/abeksis/My-HomeAssistant-Config) - My Home Assistant Configuration. Documentation for my Smart House
 - [socnetv/app](https://github.com/socnetv/app) - Social Network Analysis and Visualization software application.
 - [smoopersocial/social-media-tools](https://github.com/smoopersocial/social-media-tools) - Awesome curated list of social media marketing tools
 - [rchiileea/ha-hal9000-sounds](https://github.com/rchiileea/ha-hal9000-sounds) - custom sounds based on hal9000 for ha responses to things happening
@@ -2127,13 +2237,10 @@
 - [0xmaximus/Galaxy-Bugbounty-Checklist](https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist) - Tips and Tutorials for Bug Bounty and also Penetration Tests.
 - [rosmo/m5paper-homeassistant](https://github.com/rosmo/m5paper-homeassistant) - Home Assistant functionality with M5Paper
 - [Sian-Lee-SA/YouTube](https://github.com/Sian-Lee-SA/YouTube) - YouTube helper files and references
-- [bachya/smart-home](https://github.com/bachya/smart-home) - ⭐ (Almost) everything needed to run my smart home with Home Assistant and more!
 - [score-spec/spec](https://github.com/score-spec/spec) - The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between 
-- [garbled1/homeassistant_ecowitt](https://github.com/garbled1/homeassistant_ecowitt) - Ecowitt Weather Station integration for homeassistant
 - [legovaer/best-of-hassio](https://github.com/legovaer/best-of-hassio) - 🏆 A ranked gallery of awesome home assistant projects. Updated weekly.
 - [craigbarratt/hass-pyscript-jupyter](https://github.com/craigbarratt/hass-pyscript-jupyter) - Jupyter kernel shim to connect to HASS pyscript
 - [dlashua/torque2mqtt](https://github.com/dlashua/torque2mqtt) - 
-- [dlashua/hass-wasp_sensor](https://github.com/dlashua/hass-wasp_sensor) - A Home Assistant Integration implemented a "Wasp In A Box" sensor. Upgrade your motion sensors!
 - [dlashua/pyscript-alert](https://github.com/dlashua/pyscript-alert) - 
 - [tallguyjenks/DevLog](https://github.com/tallguyjenks/DevLog) - 🌱️ My DevLog detailing my learnings in Tech 🌱️
 - [yoyurec/logseq-sticky-headers](https://github.com/yoyurec/logseq-sticky-headers) - H1-H5 headers stick on content scroll
@@ -2145,7 +2252,6 @@
 - [RyanFitzgerald/devfolio](https://github.com/RyanFitzgerald/devfolio) - A modern and production-ready personal portfolio + blog template built with GatsbyJs and TailwindCSS
 - [prakis/stringify.me](https://github.com/prakis/stringify.me) - Quick and Easy Profiles (No Login Required)
 - [smarthomejunkie/Home-Assistant-Tutorials](https://github.com/smarthomejunkie/Home-Assistant-Tutorials) - Example code for Home Assistant Tutorials for the Smart Home Junkie channel on Youtube
-- [AlexxIT/WebRTC](https://github.com/AlexxIT/WebRTC) - Home Assistant custom component for viewing almost any camera stream in real time using WebRTC and other technologies.
 - [gigafide/pi-smart-car](https://github.com/gigafide/pi-smart-car) - Raspberry Pi powered smart car
 - [convexvr/sims4-vr](https://github.com/convexvr/sims4-vr) - Sims 4 plugin that adds VR functionality
 - [feignbird/ChatterBot-spacy_fixed](https://github.com/feignbird/ChatterBot-spacy_fixed) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots
@@ -2156,22 +2262,14 @@
 - [rabschi/awesome-beacon](https://github.com/rabschi/awesome-beacon) - A curated list of awesome Bluetooth beacon software and tools.
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [custom-cards/spotify-card](https://github.com/custom-cards/spotify-card) - Spotify playlist card for Home Assistant card
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including WireGuard, Home Assistant, Homeb
 - [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) - GameStream client for Android
 - [Odania-IT/docker-seopanel](https://github.com/Odania-IT/docker-seopanel) - 
 - [koalatiapp/tool-seo](https://github.com/koalatiapp/tool-seo) - Koalati tool that checks for on-site SEO of a page and that provides suggestions for improvement.
 - [eyecatchup/SEOstats](https://github.com/eyecatchup/SEOstats) - SEOstats is a powerful open source PHP library to request a bunch of SEO relevant metrics.
-- [jjlawren/sonos_cloud](https://github.com/jjlawren/sonos_cloud) - Sonos cloud API integration for Home Assistant with improved TTS/alerts handling
 - [maykar/lovelace-swipe-navigation](https://github.com/maykar/lovelace-swipe-navigation) - ↔️ Swipe through Lovelace views on mobile.
 - [Bishma/home-assistant-tng](https://github.com/Bishma/home-assistant-tng) - My Home Assistant configs
-- [maattdiy/home-assistant-config](https://github.com/maattdiy/home-assistant-config) - :house: My Home Assistant configuration and documentation. More info below.
-- [sabeechen/hassio-google-drive-backup](https://github.com/sabeechen/hassio-google-drive-backup) - Automatically create and sync Home Assistant backups into Google Drive
 - [ludeeus/awesomeversion](https://github.com/ludeeus/awesomeversion) - One version package to rule them all, One version package to find them, One version package to bring them all, and in the darkness bind them.
-- [Limych/ha-average](https://github.com/Limych/ha-average) - Average Sensor for Home Assistant
-- [maxwroc/battery-state-card](https://github.com/maxwroc/battery-state-card) - Battery state card for Home Assistant
-- [VirtualL/HomeAssistant-Config](https://github.com/VirtualL/HomeAssistant-Config) - Home Assistant configuration & Documentation for my Smart Home 🏗.Devices used and important links are listed below. Be sure to ⭐️my Repository. 👨🏻‍💻
 - [Limych/HomeAssistantConfiguration](https://github.com/Limych/HomeAssistantConfiguration) - 
-- [anotherjulien/MyHOME](https://github.com/anotherjulien/MyHOME) - MyHOME integration for Home-Assistant
 - [geerlingguy/internet-pi](https://github.com/geerlingguy/internet-pi) - Raspberry Pi config for all things Internet.
 - [chrisgrieser/.config](https://github.com/chrisgrieser/.config) - pseudometa's dotfiles
 - [chezmoi/dotfiles](https://github.com/chezmoi/dotfiles) - chezmoi dotfiles template repository.
@@ -2179,7 +2277,6 @@
 - [fondberg/spotcast](https://github.com/fondberg/spotcast) - Home assistant custom component to start Spotify playback on an idle chromecast device as well as control spotify connect devices
 - [frenck/esphome-config](https://github.com/frenck/esphome-config) - 😎 My ESPHome configurations, a bit different that others :) Be sure to :star2: this repository for updates!
 - [bitshadow/iconate](https://github.com/bitshadow/iconate) - Transform your icons with trendy animations.
-- [denysdovhan/smart-home](https://github.com/denysdovhan/smart-home) - 🏡 My smart home setup built on top of Home Assistant
 - [notoriousbdg/Home-AssistantConfig](https://github.com/notoriousbdg/Home-AssistantConfig) - 
 - [NdR91/NdR-UI](https://github.com/NdR91/NdR-UI) - 
 - [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
@@ -2189,9 +2286,7 @@
 - [ChristianLempa/cheat-sheets](https://github.com/ChristianLempa/cheat-sheets) - This is my personal knowledge-base. Here you'll find code-snippets, technical documentation, and command reference for various tools, and technologies.
 - [hashicorp/nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and sc
 - [igiannakas/mmwave-d1mini](https://github.com/igiannakas/mmwave-d1mini) - Room presence detection using mmWave radar (DFRobot SEN0395), D1 Mini ESP-8266 and ESPHome for HomeAssistant
-- [Blackymas/NSPanel_HA_Blueprint](https://github.com/Blackymas/NSPanel_HA_Blueprint) - This allows you to configure your complete NSPanel via Blueprint with UI and without changing anything in the code
 - [thezedwards/Pitraix](https://github.com/thezedwards/Pitraix) - Modern Self-Modifying Cross-Platform Peer-to-Peer Botnet over TOR
-- [Durishn/Durnry-Assistant](https://github.com/Durishn/Durnry-Assistant) - Home automation system - integrations, dashboards, and automations for home IoT devices 🏠 🤖
 - [legovaer/room-assistant2](https://github.com/legovaer/room-assistant2) - A fork of room-assistant
 - [sholiday/espresense-admin](https://github.com/sholiday/espresense-admin) - Viewer and Admin intercase for https://espresense.com/
 - [dominee/Termux-dotfiles](https://github.com/dominee/Termux-dotfiles) - .files for the Termux android terminal
@@ -2205,7 +2300,6 @@
 - [colddenial/lovense-lan-api](https://github.com/colddenial/lovense-lan-api) - Lovense Connect Library
 - [shannonhochkins/ha-dashboard](https://github.com/shannonhochkins/ha-dashboard) - A react dashboard interacting with home assistant
 - [adamoutler/mqtt-explorer](https://github.com/adamoutler/mqtt-explorer) - A home assistant repository for MQTT Explorer
-- [custom-cards/decluttering-card](https://github.com/custom-cards/decluttering-card) - 🧹 Declutter your lovelace configuration with the help of this card
 - [carlrygart/portainer-stack-deploy](https://github.com/carlrygart/portainer-stack-deploy) - Portainer-stack-deploy is a GitHub Action for deploying a newly updated stack to a Portainer v2 instance.
 - [coandco/homeserver-traefik-portainer](https://github.com/coandco/homeserver-traefik-portainer) - My homeserver setup. Everything managed securely using Portainer.
 - [tomwojcik/homeserver-traefik-portainer](https://github.com/tomwojcik/homeserver-traefik-portainer) - My homeserver setup. Everything managed securely using Portainer.
@@ -2223,8 +2317,6 @@
 - [espressif/esptool](https://github.com/espressif/esptool) - Espressif SoC serial bootloader utility
 - [swiergot/ha-catt-fix](https://github.com/swiergot/ha-catt-fix) - A solution for the timeout issue when casting Home Assistant using CATT
 - [NemesisRE/kiosk-mode](https://github.com/NemesisRE/kiosk-mode) - 🙈 Hides the Home Assistant header and/or sidebar
-- [maykar/kiosk-mode](https://github.com/maykar/kiosk-mode) - 🙈 Hides the Home Assistant header and/or sidebar
-- [AlexxIT/DashCast](https://github.com/AlexxIT/DashCast) - DashCast component for Home Assistant
 - [HenrySeed/HA-AppleTV-Remote-Card](https://github.com/HenrySeed/HA-AppleTV-Remote-Card) - A very simple `picture-elements` YAML config with custom images to match the built in IOS remote
 - [kpetremann/mqtt-exporter](https://github.com/kpetremann/mqtt-exporter) - Simple generic MQTT Prometheus exporter for IoT working out of the box
 - [kvaster/zwavejs-prom](https://github.com/kvaster/zwavejs-prom) - Prometheus export plugin for zwavejs2mqtt
@@ -2242,13 +2334,10 @@
 - [cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 - [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [Graylog2/docker-compose](https://github.com/Graylog2/docker-compose) - A set of Docker Compose files that allow you to quickly spin up a Graylog instance for testing or demo purposes.
-- [nervetattoo/simple-thermostat](https://github.com/nervetattoo/simple-thermostat) - A different take on the thermostat card for Home Assistant ♨️
-- [nervetattoo/banner-card](https://github.com/nervetattoo/banner-card) - A fluffy banner card for Home Assistant 🥰
 - [zju3dv/EasyMocap](https://github.com/zju3dv/EasyMocap) - Make human motion capture easier.
 - [aysark/dashing-timeline](https://github.com/aysark/dashing-timeline) - Stylish timeline widget for Dashing.io
 - [Rabbit-Company/Passky-Server](https://github.com/Rabbit-Company/Passky-Server) - Server for Passky (password manager)
 - [resoai/TileBoard](https://github.com/resoai/TileBoard) - A simple yet highly configurable Dashboard for HomeAssistant
-- [zanna-37/hass-swipe-navigation](https://github.com/zanna-37/hass-swipe-navigation) - ↔️ Swipe through Home Assistant Dashboard views on mobile.
 - [simplefocus/FlowType.JS](https://github.com/simplefocus/FlowType.JS) - Web typography at its finest: font-size and line-height based on element width.
 - [haltu/muuri](https://github.com/haltu/muuri) - Infinite responsive, sortable, filterable and draggable layouts
 - [google/tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) - Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
@@ -2327,7 +2416,6 @@
 - [agneevX/home-assistant](https://github.com/agneevX/home-assistant) - Home Assistant lovelace layout and config
 - [tribe29/kubernetes](https://github.com/tribe29/kubernetes) - Deploy Checkmk in Kubernetes
 - [tribe29/checkmk_kube_agent](https://github.com/tribe29/checkmk_kube_agent) - 
-- [j-a-n/lovelace-wallpanel](https://github.com/j-a-n/lovelace-wallpanel) - 🖼️ Wall panel mode and photo screensaver for your Home Assistant Dashboards
 - [hackclub/proxyparty](https://github.com/hackclub/proxyparty) - 🎊 An Nginx redirector and proxier for all of Hack Club's needs!
 - [jptannus/nginx-redirect-generator](https://github.com/jptannus/nginx-redirect-generator) - A simple tool to generate nginx server configuration for redirects by a given URL list.
 - [FabulousGinger/ansible-terrafrom-haproxy-example](https://github.com/FabulousGinger/ansible-terrafrom-haproxy-example) - 
@@ -2349,7 +2437,6 @@
 - [submariner-io/submariner](https://github.com/submariner-io/submariner) - Connect all your Kubernetes clusters, no matter where they are in the world.
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
 - [legovaer/my-awesome-stars](https://github.com/legovaer/my-awesome-stars) - A curated list of my GitHub stars
-- [royto/logbook-card](https://github.com/royto/logbook-card) - Logbook card for Home Assistant UI Lovelace
 - [juliocesarfort/public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) - A list of public penetration test reports published by several consulting firms and academic security groups.
 - [punk-security/dnsReaper](https://github.com/punk-security/dnsReaper) - dnsReaper - subdomain takeover tool for attackers, bug bounty hunters and the blue team!
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
@@ -2367,7 +2454,6 @@
 - [trustpilot/pagerduty-notifier](https://github.com/trustpilot/pagerduty-notifier) - PagerDuty native MacOS notifications
 - [thegreenrobot/pagerduty_dashing](https://github.com/thegreenrobot/pagerduty_dashing) - A Dashing dashboard for PagerDuty Services & Schedules
 - [jeremietharaud/elasticbeanstalk-exporter](https://github.com/jeremietharaud/elasticbeanstalk-exporter) - Simple AWS Elastic Beanstalk exporter
-- [custom-cards/button-card](https://github.com/custom-cards/button-card) - ❇️ Lovelace button-card for home assistant
 - [relliky/Tais_Home_Assistant_Config](https://github.com/relliky/Tais_Home_Assistant_Config) - My Home Assistant Automation Configuration
 - [solvaholic/octodns-sync](https://github.com/solvaholic/octodns-sync) - GitHub Action to test and deploy DNS settings with OctoDNS
 - [thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) - 🔹Automatically populate the entities-list of lovelace cards
@@ -2377,16 +2463,11 @@
 - [SeLLeRoNe/HA-Config](https://github.com/SeLLeRoNe/HA-Config) - Home Assistant Configuration
 - [lcmchris/thesillyhome](https://github.com/lcmchris/thesillyhome) - The silly home
 - [lcmchris/thesillyhome-addon-repo](https://github.com/lcmchris/thesillyhome-addon-repo) - add on repo for thesillyhome
-- [Madelena/hass-config-public](https://github.com/Madelena/hass-config-public) - My Dashboards for Home Assistant - Advanced data visualizations, responsive design, a neat maximalist Metro Live Tile layout, and an ultraminimal tablet layout!
 - [sweetsoftware/Ares](https://github.com/sweetsoftware/Ares) - Python botnet and backdoor
 - [MrAstra96/Mytools](https://github.com/MrAstra96/Mytools) - #TOOL INSTALLER V.1.0 #CODED BY : Mr.Astra96 #CODENAME : DheMell bi='\033[34;1m' #biru ij='\033[32;1m' #ijo pr='\033[35;1m' #purple cy='\033[36;1m' #cyan me='\033[31;1m' #merah pu='\033[37;1m' #putih 
 - [stamparm/DSSS](https://github.com/stamparm/DSSS) - Damn Small SQLi Scanner
-- [PiotrMachowski/Home-Assistant-Lovelace-HTML-Jinja2-Template-card](https://github.com/PiotrMachowski/Home-Assistant-Lovelace-HTML-Jinja2-Template-card) - This card displays provided Jinja2 template as an HTML content of a card. It uses exactly the same engine as Home Assistant in Developer tools.
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [thomasloven/lovelace-flower-card](https://github.com/thomasloven/lovelace-flower-card) - 
-- [PiotrMachowski/Home-Assistant-Lovelace-Local-Conditional-card](https://github.com/PiotrMachowski/Home-Assistant-Lovelace-Local-Conditional-card) - This card can show and hide a specific card on current device while not affecting other windows. It does not require any integration to run.
-- [bacco007/HomeAssistantConfig](https://github.com/bacco007/HomeAssistantConfig) - My Home Assistant Configuration
-- [bieniu/home-assistant-config](https://github.com/bieniu/home-assistant-config) - Home Assistant Config
 - [jlmcgehee21/smart_hass](https://github.com/jlmcgehee21/smart_hass) - 
 - [Mehdi-YC/goodcontainers](https://github.com/Mehdi-YC/goodcontainers) - this is a collections of good docker contaienrs iv collected over the time , if you have portainer installed i have an app template that you can use to install them
 - [etsy/411](https://github.com/etsy/411) - An Alert Management Web Application
@@ -2399,12 +2480,10 @@
 - [murphypetercl/ansible-mdgen](https://github.com/murphypetercl/ansible-mdgen) - Python package to automate documentation generation for Ansible
 - [thomasloven/lovelace-template-entity-row](https://github.com/thomasloven/lovelace-template-entity-row) - 🔹 Display whatever you want in an entities card row.
 - [Madelena/Metrology-for-Kustom](https://github.com/Madelena/Metrology-for-Kustom) - Transform your Android phone into a classic Windows Phone with a series of widgets and lock screens for Android based on Kustom KWGT and KWLP
-- [Madelena/Metrology-for-Hass](https://github.com/Madelena/Metrology-for-Hass) - 🎨 Give your Home Assistant a modern and clean facelift. 🟥🟧🟩🟦🟪 24 Variations with 2 Styles + 6 Colors (Magenta Red / Orange / Green / Blue / Purple) + 🌞 Light and 🌚 Dark modes included. Based on Metro 
 - [home-assistant/alerts.home-assistant.io](https://github.com/home-assistant/alerts.home-assistant.io) - Home Assistant Alerts
 - [Mariusthvdb/custom-ui](https://github.com/Mariusthvdb/custom-ui) - Adapted Custom-ui for HA 110+ / HA 2021.6
 - [islerfab/wiki-sync-action](https://github.com/islerfab/wiki-sync-action) - A GitHub Action that synchronizes the contents of a directory to the repository's Wiki.
 - [mirakui/ec2ssh](https://github.com/mirakui/ec2ssh) - A ssh_config manager for AWS EC2
-- [alexarch21/history-explorer-card](https://github.com/alexarch21/history-explorer-card) - A card for Home Assistant Lovelace for exploring the history of your entities interactively and in real time.
 - [ishajain140/terraform_ansible_integration](https://github.com/ishajain140/terraform_ansible_integration) - Demonstration on how to integrate Terraform with Ansible
 - [fsaintjacques/semver-tool](https://github.com/fsaintjacques/semver-tool) - semver bash implementation
 - [joatmon08/terraform-aws-listenerrule-nia](https://github.com/joatmon08/terraform-aws-listenerrule-nia) - Consul-Terraform-Sync Module for AWS Application Load Balancer Listener Rules
@@ -2441,31 +2520,25 @@
 - [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) - Awesome Logseq resources created by the community &lt;3
 - [discourse/logster](https://github.com/discourse/logster) - Log viewer UI and framework for rack
 - [fastender/blob](https://github.com/fastender/blob) - The Blob - Documentation
-- [UI-Lovelace-Minimalist/UI](https://github.com/UI-Lovelace-Minimalist/UI) - UI-Lovelace-Minimalist is a "theme" for HomeAssistant
 - [thomasloven/lovelace-state-switch](https://github.com/thomasloven/lovelace-state-switch) - 🔹Dynamically replace lovelace cards depending on occasion
 - [gadgetchnnel/lovelace-card-templater](https://github.com/gadgetchnnel/lovelace-card-templater) - Custom Lovelace card which allows Jinja2 templates to be applied to other cards
 - [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
 - [home-assistant/data.home-assistant](https://github.com/home-assistant/data.home-assistant) - Data Science Portal for Home Assistant.
-- [hassio-addons/repository](https://github.com/hassio-addons/repository) - Home Assistant Community Add-ons
+- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [liamg/traitor](https://github.com/liamg/traitor) - :arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
 - [pinkywafer/Home-Assistant_Config](https://github.com/pinkywafer/Home-Assistant_Config) - 
 - [thotro/arduino-dw1000](https://github.com/thotro/arduino-dw1000) - A library that offers functionality to use Decawave's DW1000 chips/modules with Arduino.
 - [arsaboo/homeassistant-config](https://github.com/arsaboo/homeassistant-config) - 🏡 My Home Assistant Configs. Be sure to :star2: my repo to follow the updates!
 - [pdonald/realtime-stats](https://github.com/pdonald/realtime-stats) - 
 - [guigrpa/storyboard](https://github.com/guigrpa/storyboard) - End-to-end, hierarchical, real-time, colorful logs and stories
-- [hmmbob/HomeAssistantConfig](https://github.com/hmmbob/HomeAssistantConfig) - My Home Assistant configuration. More info at www.home-assistant.io or in the readme below.
-- [TheFes/HA-configuration](https://github.com/TheFes/HA-configuration) - My Home Assistant config
 - [DeanCording/node-red-contrib-config](https://github.com/DeanCording/node-red-contrib-config) - A Node Red node for setting global and flow context data at startup
 - [niklaswall/node-red-contrib-light-scheduler](https://github.com/niklaswall/node-red-contrib-light-scheduler) - Light Scheduler is a node-red node that provides a weekly schedule mainly focused on controlling light in home automation scenarios.
 - [node-red-contrib-themes/solarized-dark-grey](https://github.com/node-red-contrib-themes/solarized-dark-grey) - DEPRECATED REPOSITORY
-- [dchesterton/amcrest2mqtt](https://github.com/dchesterton/amcrest2mqtt) - Expose all events from an Amcrest device to an MQTT broker
 - [lwestenberg/bold_smart_lock](https://github.com/lwestenberg/bold_smart_lock) - This package implements the Bold Smart Lock API to authenticate and unlock a Bold smart lock. Usage of this API requires a Bold Connect.
 - [Zockerwolf76/Zockbot-Instagram](https://github.com/Zockerwolf76/Zockbot-Instagram) - a powerful bot which increase your Instagram followers
 - [sonicwu/alfred-rgb2hex](https://github.com/sonicwu/alfred-rgb2hex) - Alfred workflow to convert RGB values of a color to a hexadecimal string
 - [vvuk/ha-freeboard](https://github.com/vvuk/ha-freeboard) - A Home Assistant focused fork of Freeboard: A damn-sexy, open source real-time dashboard builder for IOT and other web mashups.
 - [DubhAd/Home-AssistantConfig](https://github.com/DubhAd/Home-AssistantConfig) - My Home Assistant configuration files
-- [JamesMcCarthy79/Home-Assistant-Config](https://github.com/JamesMcCarthy79/Home-Assistant-Config) - Home Assistant Configuration & Documentation for my Smart House.
-- [aFFekopp/homeassistant](https://github.com/aFFekopp/homeassistant) - aFFekopps Home Assistant Configuration
 - [philipparndt/mqtt-analyzer](https://github.com/philipparndt/mqtt-analyzer) - 
 - [liubx/indoor-positioning-map](https://github.com/liubx/indoor-positioning-map) - 
 - [dwainscheeren/dwains-dashboard-blueprints](https://github.com/dwainscheeren/dwains-dashboard-blueprints) - Dwains Dashboard Blueprints
@@ -2480,17 +2553,14 @@
 - [DavidWChen/BLE-IPS](https://github.com/DavidWChen/BLE-IPS) - Bluetooth 4.0 Indoor Positioning System
 - [lazcad/homeassistant](https://github.com/lazcad/homeassistant) - Home Assistant Development
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo
-- [DavidFW1960/bom-weather-card](https://github.com/DavidFW1960/bom-weather-card) - Custom Animated Weather Card for any weather provider
 - [dimagoltsman/generic-remote-control-card](https://github.com/dimagoltsman/generic-remote-control-card) - Generic Remote control card for HACS
 - [michaelmcarthur/GoogleGeocode-HASS](https://github.com/michaelmcarthur/GoogleGeocode-HASS) - 
 - [DBuit/media_player-popup-card](https://github.com/DBuit/media_player-popup-card) - 
 - [davoclock/aws-cicd-pipeline](https://github.com/davoclock/aws-cicd-pipeline) - 
 - [pbertera/dockerfiles](https://github.com/pbertera/dockerfiles) - Docker containers
-- [dangreco/ha-card-workbench](https://github.com/dangreco/ha-card-workbench) - Web IDE for testing during the development of Home Assistant custom cards.
 - [gijsje/ns-panel](https://github.com/gijsje/ns-panel) - ESPhome on my Sonoff NS Panel
 - [ACJUK/NSPanel](https://github.com/ACJUK/NSPanel) - 
 - [clsync/lrsync](https://github.com/clsync/lrsync) - rsync-like clsync wrapper for live syncing (based on inotify)
-- [ciotlosm/lovelace-thermostat-dark-card](https://github.com/ciotlosm/lovelace-thermostat-dark-card) - 🌡 Thermostat card with a round and black feel to it
 - [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters
 - [maxgeilert/room-occupancy](https://github.com/maxgeilert/room-occupancy) - Occupancy tracking script for home assistant
 - [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection) - 
@@ -2507,21 +2577,15 @@
 - [Guimove/terraform-aws-bastion](https://github.com/Guimove/terraform-aws-bastion) - Terraform module which creates SSH bastion infrastructure on AWS
 - [DBuit/Homekit-panel-card](https://github.com/DBuit/Homekit-panel-card) - Homekit panel card for home assistant
 - [jayz28/Slashbot](https://github.com/jayz28/Slashbot) - The game bot.
-- [jimz011/homekit-infused](https://github.com/jimz011/homekit-infused) - Homekit Infused 5 2023
-- [dwainscheeren/dwains-lovelace-dashboard](https://github.com/dwainscheeren/dwains-lovelace-dashboard) - An fully auto generating Home Assistant UI dashboard for desktop, tablet and mobile by Dwains for desktop, tablet, mobile
 - [ysde/grafana-backup-tool](https://github.com/ysde/grafana-backup-tool) - A Python-based application to backup Grafana settings using the Grafana API
 - [trackit/terraform-boilerplate](https://github.com/trackit/terraform-boilerplate) - 
-- [qiz-li/lovelace-soft-ui](https://github.com/qiz-li/lovelace-soft-ui) - 💫  Simple and clean Lovelace configuration
 - [vitorgalvao/custom-alfred-iterm-scripts](https://github.com/vitorgalvao/custom-alfred-iterm-scripts) - AppleScript for iTerm2 Alfred integration.
 - [dwainscheeren/dwains-dashboard-addons](https://github.com/dwainscheeren/dwains-dashboard-addons) - Dwains Dashboard Community Addons
-- [robmarkcole/HASS-Deepstack-object](https://github.com/robmarkcole/HASS-Deepstack-object) - Home Assistant custom component for using Deepstack object detection
 - [custom-components/sensor.unifigateway](https://github.com/custom-components/sensor.unifigateway) - High level health status of UniFi Security Gateway devices via UniFi Controller
 - [digineo/http-over-ssh](https://github.com/digineo/http-over-ssh) - HTTP over SSH transport for Prometheus
-- [elbowz/ha-homie](https://github.com/elbowz/ha-homie) - Homie integration for Home Assistant
 - [LRvdLinden/weather_dd_addon](https://github.com/LRvdLinden/weather_dd_addon) - 🔧 By LRvdLinden --  Weather Dashboard in Home Assistant Dwains Dashboard.
 - [LRvdLinden/find_my_dd_addon](https://github.com/LRvdLinden/find_my_dd_addon) - 🗺️ By LRvdLinden -- Find My in Home Assistant Dwains Dashboard.
 - [LRvdLinden/security_dashboard_dd_addon](https://github.com/LRvdLinden/security_dashboard_dd_addon) - 🔧 By LRvdLinden -- A Home Assistant security dashboard for integration Dwains Dashboard.
-- [zachowj/hass-node-red](https://github.com/zachowj/hass-node-red) - Companion Component for node-red-contrib-home-assistant-websocket to help integrate Node-RED with Home Assistant Core
 - [SvanBoxel/organization-workflows](https://github.com/SvanBoxel/organization-workflows) - Need to centrally manage and run Actions workflows across multiple repositories? This app does it for you.
 - [Aditi-hande/Indoor-Positioning-techniques](https://github.com/Aditi-hande/Indoor-Positioning-techniques) - Weighted centroid and basic trilateration on RSSI values from WIFI APs and BLE beacons.
 - [phanindraraja/Indoor-positioning-using-machine-learning](https://github.com/phanindraraja/Indoor-positioning-using-machine-learning) - 
@@ -2529,14 +2593,12 @@
 - [jayhardee9/docker-compose-infra](https://github.com/jayhardee9/docker-compose-infra) - Ansible playbooks for the Deploying Docker Compose Applications article.
 - [dburr/linux-ibeacon](https://github.com/dburr/linux-ibeacon) - Python script that creates an iBeacon-compatible Bluetooth LE beacon using Linux and a Bluetooth LE adapter
 - [dangreco/home-assistant-nextjs-starter](https://github.com/dangreco/home-assistant-nextjs-starter) - Starter template for Next.js-based Home Assistant frontends.
-- [jakowenko/double-take](https://github.com/jakowenko/double-take) - Unified UI and API for processing and training images for facial recognition.
 - [Odianosen25/Monitor-App](https://github.com/Odianosen25/Monitor-App) - Appdaemon App for Andrew's Monitor Presence Detection System
 - [Burningstone91/smart-home-setup](https://github.com/Burningstone91/smart-home-setup) - Installation and Configuration of my Smart Home Setup
 - [st0nedB/rooms](https://github.com/st0nedB/rooms) - With "Rooms" mobile devices can perform indoor self-localization using an app and low-cost BLE beacons.
 - [riramar/Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet) - Web Attack Cheat Sheet
 - [andrewjfreyer/monitor](https://github.com/andrewjfreyer/monitor) - Distributed advertisement-based BTLE presence detection reported via mqtt
 - [thomasmaxson/Home-Assistant-Configuration](https://github.com/thomasmaxson/Home-Assistant-Configuration) - Home Assistant Configuration files.
-- [zachowj/node-red-contrib-home-assistant-websocket](https://github.com/zachowj/node-red-contrib-home-assistant-websocket) - Node-RED integration with Home Assistant Core
 - [matt8707/hass-config](https://github.com/matt8707/hass-config) - ✨ A different take on designing a Lovelace UI (Dashboard)
 - [matt-kruse/find-my-iphone](https://github.com/matt-kruse/find-my-iphone) - A Node module to trigger the "Find My iPhone" feature from iCloud, to play a sound on the phone
 - [DominikN/ESP32-http-websocket](https://github.com/DominikN/ESP32-http-websocket) - ESP32 + HTTP server + websockets + Bootstrap + Husarnet. A simple project template showing how to use those technologies to create a fast, pretty and secure web UI hosted on ESP32. Works in LAN and ov
