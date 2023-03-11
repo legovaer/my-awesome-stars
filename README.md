@@ -91,7 +91,7 @@
 
 - [beyluta/WinWidgets](https://github.com/beyluta/WinWidgets) - WinWidgets is a platform for Windows 10/11 Desktop Widget development using HTML, CSS, and JavaScript. Create your own widgets using frontend technologies based on the Chromium project.
 - [PiotrMachowski/Home-Assistant-Taskbar-Menu](https://github.com/PiotrMachowski/Home-Assistant-Taskbar-Menu) - This application is a simple Home Assistant client for Windows. It can display Lovelace views, control entities and show persistent notifications.
-- [ESPresense/ESPresense-companion](https://github.com/ESPresense/ESPresense-companion) - WIP
+- [ESPresense/ESPresense-companion](https://github.com/ESPresense/ESPresense-companion) - App that attempts to solve indoor position (x,y,z) with multiple ESPresense stations using trilateralization
 - [dmustanger/7dtd-ServerTools](https://github.com/dmustanger/7dtd-ServerTools) - Server tools for 7 days to die dedicated servers
 - [taneresme/indoorPositioning](https://github.com/taneresme/indoorPositioning) - This project is an initiative to make indoor positioning by using Raspberry Pi, .NET Core and Windows 10 IoT Core for the project lesson (SWE599) in my master program at Bogaziçi University.
 
@@ -1140,7 +1140,7 @@
 - [tazzytazzy/room-assistant-configurator](https://github.com/tazzytazzy/room-assistant-configurator) - 
 - [AbirHasan2005/fsociety](https://github.com/AbirHasan2005/fsociety) - Fssociety Hacking Tools Pack. A Penetration Testing Framework, you will have every script that a hacker needs. This is a top hidden tool modified by AbirHasan2005. Don't share much.
 - [palahsu/DDoS-Ripper](https://github.com/palahsu/DDoS-Ripper) - DDos Ripper a Distributable Denied-of-Service (DDOS) attack server that cuts off targets or surrounding infrastructure in a flood of Internet traffic
-- [ESPresense/ad-espresense-ips](https://github.com/ESPresense/ad-espresense-ips) - Appdaemon app that attempts to solve indoor position (x,y,z) with multiple ESPresense stations using trilateralization
+- [ESPresense/ad-espresense-ips](https://github.com/ESPresense/ad-espresense-ips) - DEAD: See https://github.com/ESPresense/ESPresense-companion
 - [kootenpv/whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
 - [DavidWChen/BLE-IPS](https://github.com/DavidWChen/BLE-IPS) - Bluetooth 4.0 Indoor Positioning System
 - [lazcad/homeassistant](https://github.com/lazcad/homeassistant) - Home Assistant Development
