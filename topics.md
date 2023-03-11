@@ -308,6 +308,7 @@
 ## automation 
 
 - [SirGoodenough/HA_Blueprints](https://github.com/SirGoodenough/HA_Blueprints) - 🧯 My Collection of Automation and Script Blueprints for Home Assistant 🧯
+- [seangreen2/home_assistant](https://github.com/seangreen2/home_assistant) - My personal Home Assistant setup - Running on a HassOS VM.
 - [EPMatt/awesome-ha-blueprints](https://github.com/EPMatt/awesome-ha-blueprints) - A curated collection of automation blueprints for Home Assistant.
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
 - [InstaPy/InstaPy](https://github.com/InstaPy/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
@@ -1639,6 +1640,7 @@
 ## iot 
 
 - [openremote/openremote](https://github.com/openremote/openremote) - 100% open-source IoT Platform - Integrate your devices, create rules, and analyse and visualise your data
+- [seangreen2/home_assistant](https://github.com/seangreen2/home_assistant) - My personal Home Assistant setup - Running on a HassOS VM.
 - [shortbloke/home_assistant_config](https://github.com/shortbloke/home_assistant_config) - HomeAssistant.io Configuration Files
 - [Apocrathia/home-assistant-config](https://github.com/Apocrathia/home-assistant-config) - Apocrathia's Home Assistant Configuration Files
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
@@ -2211,7 +2213,7 @@
 - [certsocietegenerale/FIR](https://github.com/certsocietegenerale/FIR) - Fast Incident Response
 - [adamdoupe/adamd-pocs](https://github.com/adamdoupe/adamd-pocs) - 
 - [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - articles
-- [ESPresense/ESPresense-companion](https://github.com/ESPresense/ESPresense-companion) - WIP
+- [ESPresense/ESPresense-companion](https://github.com/ESPresense/ESPresense-companion) - App that attempts to solve indoor position (x,y,z) with multiple ESPresense stations using trilateralization
 - [seaky/nspanel_pro_tools_apk](https://github.com/seaky/nspanel_pro_tools_apk) - 
 - [Hapyr/trans-cat](https://github.com/Hapyr/trans-cat) - Categorize your bank transactions automatically by dessiontree classification
 - [DormyMo/SpiderKeeper](https://github.com/DormyMo/SpiderKeeper) - admin ui for scrapy/open source scrapinghub
@@ -2557,7 +2559,7 @@
 - [AbirHasan2005/fsociety](https://github.com/AbirHasan2005/fsociety) - Fssociety Hacking Tools Pack. A Penetration Testing Framework, you will have every script that a hacker needs. This is a top hidden tool modified by AbirHasan2005. Don't share much.
 - [filipsPL/cat-localizer](https://github.com/filipsPL/cat-localizer) - Localize your cat at home with BLE beacon, ESP32s, and Machine Learning
 - [ESPresense/Floorplan-Creator](https://github.com/ESPresense/Floorplan-Creator) - GUI web application to help in generating floorplan code for ESPresenseIPS
-- [ESPresense/ad-espresense-ips](https://github.com/ESPresense/ad-espresense-ips) - Appdaemon app that attempts to solve indoor position (x,y,z) with multiple ESPresense stations using trilateralization
+- [ESPresense/ad-espresense-ips](https://github.com/ESPresense/ad-espresense-ips) - DEAD: See https://github.com/ESPresense/ESPresense-companion
 - [schollz/find3](https://github.com/schollz/find3) - High-precision indoor positioning framework, version 3.
 - [DavidWChen/BLE-IPS](https://github.com/DavidWChen/BLE-IPS) - Bluetooth 4.0 Indoor Positioning System
 - [lazcad/homeassistant](https://github.com/lazcad/homeassistant) - Home Assistant Development
