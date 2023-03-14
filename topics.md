@@ -2183,6 +2183,7 @@
 
 ## others 
 
+- [craigary/nobelium](https://github.com/craigary/nobelium) - A static blog build on top of Notion and NextJS, deployed on Vercel.
 - [Anonyfox/rake-js](https://github.com/Anonyfox/rake-js) - A pure JS implementation of the Rapid Automated Keyword Extraction (RAKE) algorithm.
 - [stboch/homeassistant-blueprints](https://github.com/stboch/homeassistant-blueprints) - My collection of home-assistant.io blueprints
 - [CM000n/homeassistant](https://github.com/CM000n/homeassistant) - current homeassistant config
