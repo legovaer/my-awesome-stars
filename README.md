@@ -91,12 +91,13 @@
 
 - [beyluta/WinWidgets](https://github.com/beyluta/WinWidgets) - WinWidgets is a platform for Windows 10/11 Desktop Widget development using HTML, CSS, and JavaScript. Create your own widgets using frontend technologies based on the Chromium project.
 - [PiotrMachowski/Home-Assistant-Taskbar-Menu](https://github.com/PiotrMachowski/Home-Assistant-Taskbar-Menu) - This application is a simple Home Assistant client for Windows. It can display Lovelace views, control entities and show persistent notifications.
-- [ESPresense/ESPresense-companion](https://github.com/ESPresense/ESPresense-companion) - App that attempts to solve indoor position (x,y,z) with multiple ESPresense stations using trilateralization
+- [ESPresense/ESPresense-companion](https://github.com/ESPresense/ESPresense-companion) - HA Addon / Container that attempts to solve indoor position (x,y,z) with multiple ESPresense stations using trilateralization
 - [dmustanger/7dtd-ServerTools](https://github.com/dmustanger/7dtd-ServerTools) - Server tools for 7 days to die dedicated servers
 - [taneresme/indoorPositioning](https://github.com/taneresme/indoorPositioning) - This project is an initiative to make indoor positioning by using Raspberry Pi, .NET Core and Windows 10 IoT Core for the project lesson (SWE599) in my master program at Bogaziçi University.
 
 ## C++ 
 
+- [rpatel3001/BleDistance](https://github.com/rpatel3001/BleDistance) - Distance tracking for BLE iBeacons in esphome
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [socnetv/app](https://github.com/socnetv/app) - Social Network Analysis and Visualization software application.
 - [rosmo/m5paper-homeassistant](https://github.com/rosmo/m5paper-homeassistant) - Home Assistant functionality with M5Paper
@@ -117,6 +118,7 @@
 
 ## CSS 
 
+- [yoyurec/logseq-awesome-content](https://github.com/yoyurec/logseq-awesome-content) - 📝 Enhanced content blocks (tasks, quotes, flashcards, headers, queries, diagrams, etc...) plugin for Logseq
 - [cisagov/decider](https://github.com/cisagov/decider) - A web application that assists network defenders, analysts, and researcher in the process of mapping adversary behaviors to the MITRE ATT&CK® framework.
 - [joelchrono12/freshrss-nord-theme](https://github.com/joelchrono12/freshrss-nord-theme) - A simple, basic theme you can work on top of to have the Nord color scheme in your FreshRSS instance
 - [DmitryBorodiy/PowerWidgets](https://github.com/DmitryBorodiy/PowerWidgets) - Power Widgets is new way to customize your at-a-glance info. With new widgets and mini-apps you can explore info and get fast access to important things.
@@ -407,6 +409,9 @@
 
 ## JavaScript 
 
+- [hankanman/Home-Assistant](https://github.com/hankanman/Home-Assistant) - 
+- [71/logseq-snippets](https://github.com/71/logseq-snippets) - Snippets I'm using with logseq.com.
+- [bradcrc/color-lite-card](https://github.com/bradcrc/color-lite-card) - Simple custom card for Home Assistant Lovelace floorplans with color and dimming support
 - [craigary/nobelium](https://github.com/craigary/nobelium) - A static blog build on top of Notion and NextJS, deployed on Vercel.
 - [CM000n/homeassistant](https://github.com/CM000n/homeassistant) - current homeassistant config
 - [DrakenWan/Yale3](https://github.com/DrakenWan/Yale3) - A simple LinkedIn profile scraper implemented as a chrome extension
@@ -1373,6 +1378,7 @@
 
 ## TypeScript 
 
+- [stdword/logseq13-full-house-plugin](https://github.com/stdword/logseq13-full-house-plugin) - Logseq Templates you will really love ❤️
 - [Anonyfox/rake-js](https://github.com/Anonyfox/rake-js) - A pure JS implementation of the Rapid Automated Keyword Extraction (RAKE) algorithm.
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code/low-code platform to build internal tools.
 - [yoyurec/logseq-sticky-headers](https://github.com/yoyurec/logseq-sticky-headers) - 📌 H1-H5 headers stick on content scroll. Logseq  pligin
