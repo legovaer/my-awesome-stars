@@ -948,6 +948,7 @@
 
 ## Python 
 
+- [skeetzo/onlysnarf](https://github.com/skeetzo/onlysnarf) - OnlyFans Automation Tool
 - [cgarwood/homeassistant-fullykiosk](https://github.com/cgarwood/homeassistant-fullykiosk) - Fully Kiosk Browser integration for Home Assistant
 - [NISH1001/tag-generator](https://github.com/NISH1001/tag-generator) - A simple tool to generate tags for the given text (document) using TF-IDF.
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
@@ -1244,6 +1245,7 @@
 
 ## Shell 
 
+- [andrewjfreyer/presence](https://github.com/andrewjfreyer/presence) - Distributed poll-based BTLE presence detection reported via mqtt
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [thomasmauerer/hassio-addons](https://github.com/thomasmauerer/hassio-addons) - My collection of addons for Home Assistant
 - [sfeakes/ipfire-scripts](https://github.com/sfeakes/ipfire-scripts) - Scripts for ipfire
