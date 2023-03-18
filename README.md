@@ -198,7 +198,7 @@
 - [gwen001/github-subdomains](https://github.com/gwen001/github-subdomains) - Find subdomains on GitHub.
 - [d3mondev/puredns](https://github.com/d3mondev/puredns) - Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
 - [tomnomnom/waybackurls](https://github.com/tomnomnom/waybackurls) - Fetch all the URLs that the Wayback Machine knows about for a domain
-- [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
+- [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool.
 - [nginx-proxy/docker-gen](https://github.com/nginx-proxy/docker-gen) - Generate files from docker container meta-data
 - [m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Run your own GPTChat Telegram bot, with a single command!
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
@@ -460,7 +460,6 @@
 - [UbhiTS/ha-config-ataraxis](https://github.com/UbhiTS/ha-config-ataraxis) - My Home Assistant Configs. If you like what you see, please ⭐️my repo. It would encourage me a lot 🤘
 - [Tobiasn2005/Home-Assistant](https://github.com/Tobiasn2005/Home-Assistant) - Home Assistant Lovelace UI
 - [swiergot/ha-catt-fix](https://github.com/swiergot/ha-catt-fix) - A solution for the timeout issue when casting Home Assistant using CATT
-- [NemesisRE/kiosk-mode](https://github.com/NemesisRE/kiosk-mode) - 🙈 Hides the Home Assistant header and/or sidebar
 - [maykar/kiosk-mode](https://github.com/maykar/kiosk-mode) - 🙈 Hides the Home Assistant header and/or sidebar
 - [kvaster/zwavejs-prom](https://github.com/kvaster/zwavejs-prom) - Prometheus export plugin for zwavejs2mqtt
 - [yaronn/blessed-contrib](https://github.com/yaronn/blessed-contrib) - Build terminal dashboards using ascii/ansi art and javascript
@@ -618,6 +617,7 @@
 
 ## Jupyter Notebook 
 
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [BARarch/contacts-scraper](https://github.com/BARarch/contacts-scraper) - Headless Python web scraping google app output
 - [craigbarratt/hass-pyscript-jupyter](https://github.com/craigbarratt/hass-pyscript-jupyter) - Jupyter kernel shim to connect to HASS pyscript
 - [mikeroyal/Jupyter-Guide](https://github.com/mikeroyal/Jupyter-Guide) - Jupyter Guide
@@ -682,6 +682,7 @@
 
 ## Others 
 
+- [OpenMindClub/awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt) - ⚡ Everything about ChatGPT
 - [stboch/homeassistant-blueprints](https://github.com/stboch/homeassistant-blueprints) - My collection of home-assistant.io blueprints
 - [SirGoodenough/HA_Blueprints](https://github.com/SirGoodenough/HA_Blueprints) - 🧯 My Collection of Automation and Script Blueprints for Home Assistant 🧯
 - [seazon/FeedMe](https://github.com/seazon/FeedMe) - The documents of FeedMe
@@ -948,6 +949,7 @@
 
 ## Python 
 
+- [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [skeetzo/onlysnarf](https://github.com/skeetzo/onlysnarf) - OnlyFans Automation Tool
 - [cgarwood/homeassistant-fullykiosk](https://github.com/cgarwood/homeassistant-fullykiosk) - Fully Kiosk Browser integration for Home Assistant
 - [NISH1001/tag-generator](https://github.com/NISH1001/tag-generator) - A simple tool to generate tags for the given text (document) using TF-IDF.
@@ -1218,6 +1220,7 @@
 
 ## Rust 
 
+- [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) - A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your network traffic
 - [scottlamb/moonfire-nvr](https://github.com/scottlamb/moonfire-nvr) - Moonfire NVR, a security camera network video recorder
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
@@ -1245,6 +1248,10 @@
 
 ## Shell 
 
+- [1N3/Sn1per](https://github.com/1N3/Sn1per) - Attack Surface Management Platform | Sn1perSecurity LLC
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [zardus/ctf-tools](https://github.com/zardus/ctf-tools) - Some setup scripts for security research tools.
+- [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
 - [andrewjfreyer/presence](https://github.com/andrewjfreyer/presence) - Distributed poll-based BTLE presence detection reported via mqtt
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [thomasmauerer/hassio-addons](https://github.com/thomasmauerer/hassio-addons) - My collection of addons for Home Assistant
@@ -1380,6 +1387,9 @@
 
 ## TypeScript 
 
+- [sawhney17/logseq-smartblocks](https://github.com/sawhney17/logseq-smartblocks) - 
+- [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
+- [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 让生产力加倍的 ChatGPT 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。
 - [stdword/logseq13-full-house-plugin](https://github.com/stdword/logseq13-full-house-plugin) - Logseq Templates you will really love ❤️
 - [Anonyfox/rake-js](https://github.com/Anonyfox/rake-js) - A pure JS implementation of the Rapid Automated Keyword Extraction (RAKE) algorithm.
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code/low-code platform to build internal tools.
@@ -1398,6 +1408,7 @@
 - [custom-cards/decluttering-card](https://github.com/custom-cards/decluttering-card) - 🧹 Declutter your lovelace configuration with the help of this card
 - [carlrygart/portainer-stack-deploy](https://github.com/carlrygart/portainer-stack-deploy) - Portainer-stack-deploy is a GitHub Action for deploying a newly updated stack to a Portainer v2 instance.
 - [buttercup/buttercup-core](https://github.com/buttercup/buttercup-core) - :tophat: The mighty NodeJS password vault
+- [NemesisRE/kiosk-mode](https://github.com/NemesisRE/kiosk-mode) - 🙈 Hides the Home Assistant header and/or sidebar
 - [nirops/yakiapp](https://github.com/nirops/yakiapp) - Open Source, Cross platform, Native Kubernetes IDE
 - [UseCrowdWise/crowdwise](https://github.com/UseCrowdWise/crowdwise) - Chrome extension that adds to your browsing experience by showing you relevant discussions about your current web page from Hacker News and Reddit.
 - [meienberger/runtipi](https://github.com/meienberger/runtipi) - Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
