@@ -1491,6 +1491,7 @@
 
 ## home-assistant 
 
+- [GeorgeSG/lovelace-time-picker-card](https://github.com/GeorgeSG/lovelace-time-picker-card) - 🕰️ Time Picker Card for Home Assistant's Lovelace UI
 - [hankanman/Home-Assistant](https://github.com/hankanman/Home-Assistant) - 
 - [cgarwood/homeassistant-fullykiosk](https://github.com/cgarwood/homeassistant-fullykiosk) - Fully Kiosk Browser integration for Home Assistant
 - [SirGoodenough/HA_Blueprints](https://github.com/SirGoodenough/HA_Blueprints) - 🧯 My Collection of Automation and Script Blueprints for Home Assistant 🧯
