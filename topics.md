@@ -184,7 +184,7 @@
 
 ## ai 
 
-- [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for your organization  🔎
+- [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for your organization 🔎
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
@@ -658,7 +658,7 @@
 
 ## chatgpt 
 
-- [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for your organization  🔎
+- [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for your organization 🔎
 - [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 让生产力加倍的 ChatGPT 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。
 - [OpenMindClub/awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt) - ⚡ Everything about ChatGPT
 - [skydoves/chatgpt-android](https://github.com/skydoves/chatgpt-android) - 📲 ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.
@@ -977,7 +977,7 @@
 
 ## docker 
 
-- [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for your organization  🔎
+- [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for your organization 🔎
 - [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
 - [kerberos-io/agent](https://github.com/kerberos-io/agent) - An open and scalable video surveillance system for anyone making this world a better and more peacefull place.
 - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
@@ -1251,7 +1251,7 @@
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
-- [OWASP/Amass](https://github.com/OWASP/Amass) - In-depth Attack Surface Mapping and Asset Discovery
+- [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth Attack Surface Mapping and Asset Discovery
 - [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -1540,7 +1540,7 @@
 - [VirtualL/HomeAssistant-Config](https://github.com/VirtualL/HomeAssistant-Config) - Home Assistant configuration & Documentation for my Smart Home 🏗.Devices used and important links are listed below. Be sure to ⭐️my Repository. 👨🏻‍💻
 - [anotherjulien/MyHOME](https://github.com/anotherjulien/MyHOME) - MyHOME integration for Home-Assistant
 - [KTibow/lovelace-soft-theme](https://github.com/KTibow/lovelace-soft-theme) - 🎨 A new, simple soft theme for Home Assistant.
-- [denysdovhan/smart-home](https://github.com/denysdovhan/smart-home) - 🏡 My smart home setup built on top of Home Assistant
+- [denysdovhan/smart-home](https://github.com/denysdovhan/smart-home) - 🏡 My smart home server setup built on top of Ubuntu, Docker, Home Assistant, Servarr, etc
 - [jonathanadams/Home-Assistant-Configuration](https://github.com/jonathanadams/Home-Assistant-Configuration) - Home Assistant Configuration and Documentation
 - [smrtnt/Open-Home-Automation](https://github.com/smrtnt/Open-Home-Automation) - Open Home Automation with Home Assistant, ESP8266/ESP32 and MQTT
 - [Blackymas/NSPanel_HA_Blueprint](https://github.com/Blackymas/NSPanel_HA_Blueprint) - This allows you to configure your complete NSPanel via Blueprint with UI and without changing anything in the code
@@ -1677,6 +1677,7 @@
 - [joch/home-assistant-config](https://github.com/joch/home-assistant-config) - My configuration for Home Assistant
 - [point-4ward/Home-Assistant](https://github.com/point-4ward/Home-Assistant) - Home-Assistant-Config
 - [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip) - Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards
+- [denysdovhan/smart-home](https://github.com/denysdovhan/smart-home) - 🏡 My smart home server setup built on top of Ubuntu, Docker, Home Assistant, Servarr, etc
 - [jonathanadams/Home-Assistant-Configuration](https://github.com/jonathanadams/Home-Assistant-Configuration) - Home Assistant Configuration and Documentation
 - [fO-000/bluing](https://github.com/fO-000/bluing) - An intelligence gathering tool for hacking Bluetooth
 - [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense) - An ESP32 based presence detection node for use with the Home Assistant mqtt_room component for localized device presence detection.
@@ -2205,7 +2206,7 @@
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 - [giuliacassara/awesome-social-engineering](https://github.com/giuliacassara/awesome-social-engineering) - A curated list of awesome social engineering resources.
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - OSINT automation for hackers.
-- [OWASP/Amass](https://github.com/OWASP/Amass) - In-depth Attack Surface Mapping and Asset Discovery
+- [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth Attack Surface Mapping and Asset Discovery
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) - Open Cyber Threat Intelligence Platform
