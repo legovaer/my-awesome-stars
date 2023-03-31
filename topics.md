@@ -977,7 +977,6 @@
 
 ## docker 
 
-- [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for your organization 🔎
 - [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
 - [kerberos-io/agent](https://github.com/kerberos-io/agent) - An open and scalable video surveillance system for anyone making this world a better and more peacefull place.
 - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
@@ -1942,6 +1941,7 @@
 
 ## machine-learning 
 
+- [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for your organization 🔎
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
 - [gunthercox/ChatterBot](https://github.com/gunthercox/ChatterBot) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots
@@ -2214,6 +2214,7 @@
 
 ## others 
 
+- [firasdib/Regex101](https://github.com/firasdib/Regex101) - This repository is currently only used for issue tracking for www.regex101.com
 - [thomasloven/lovelace-more-info-card](https://github.com/thomasloven/lovelace-more-info-card) - 🔹 Display the more-info dialog of any entity as a lovelace card
 - [b0mbays/ha-pi-continuously-cast](https://github.com/b0mbays/ha-pi-continuously-cast) - Python system service to continuously cast Home Assistant to a Google Chromecast device
 - [netbiosX/Checklists](https://github.com/netbiosX/Checklists) - Red Teaming & Pentesting checklists for various engagements
@@ -3075,7 +3076,6 @@
 - [sbilly/awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 - [Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs) - Practical Ethical Hacking Labs 🗡🛡
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your network traffic
-- [mikeroyal/Open-Source-Security-Guide](https://github.com/mikeroyal/Open-Source-Security-Guide) - Open Source Security Guide. Learn all about Security Standards, Frameworks, Threat Models, Encryption, and Benchmarks.
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [iantrich/restriction-card](https://github.com/iantrich/restriction-card) - 🔒 Apply restrictions to Lovelace cards
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
