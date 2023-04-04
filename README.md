@@ -72,6 +72,7 @@
 
 ## C 
 
+- [hugobloem/esp-ha-speech](https://github.com/hugobloem/esp-ha-speech) - 
 - [1N3/PrivEsc](https://github.com/1N3/PrivEsc) - A collection of Windows, Linux and MySQL privilege escalation scripts and exploits.
 - [matthiasbock/canon-pixma-printer-driver](https://github.com/matthiasbock/canon-pixma-printer-driver) - IJ Printer Driver Ver. 3.80 for Linux
 - [adamdoupe/adamd-pocs](https://github.com/adamdoupe/adamd-pocs) - 
@@ -198,6 +199,7 @@
 
 ## Go 
 
+- [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 - [kerberos-io/agent](https://github.com/kerberos-io/agent) - An open and scalable video surveillance system for anyone making this world a better and more peacefull place.
 - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
@@ -212,7 +214,7 @@
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [mikeroyal/Grafana-Guide](https://github.com/mikeroyal/Grafana-Guide) - Grafana Guide
 - [mikeroyal/Open-Source-Security-Guide](https://github.com/mikeroyal/Open-Source-Security-Guide) - Open Source Security Guide. Learn all about Security Standards, Frameworks, Threat Models, Encryption, and Benchmarks.
-- [gimlet-io/gimlet](https://github.com/gimlet-io/gimlet) - The fastest way to get a gitops platform on Flux and Kubernetes.
+- [gimlet-io/gimlet](https://github.com/gimlet-io/gimlet) - A gitops based developer platform that gives you the best of open-source out of the box.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [hashicorp/nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and sc
 - [thezedwards/Pitraix](https://github.com/thezedwards/Pitraix) - Modern Self-Modifying Cross-Platform Peer-to-Peer Botnet over TOR
@@ -368,6 +370,7 @@
 
 ## HTML 
 
+- [IgnoranceAI/hugh](https://github.com/IgnoranceAI/hugh) - A voice-powered AI built with Whisper, ChatGPT, and ElevenLabs
 - [strandjs/IntroLabs](https://github.com/strandjs/IntroLabs) - These are the labs for my Intro class.  Yes, this is public.  Yes, this is intentional.
 - [Hapyr/trans-cat](https://github.com/Hapyr/trans-cat) - Categorize your bank transactions automatically by dessiontree classification
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
@@ -964,6 +967,7 @@
 
 ## Python 
 
+- [b0mbays/continuously_casting_dashboards](https://github.com/b0mbays/continuously_casting_dashboards) - HACS Integration for continuously casting a Home Assistant dashboard to your Google Chromecast Displays
 - [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [b0mbays/ha-pi-continuously-cast](https://github.com/b0mbays/ha-pi-continuously-cast) - Python system service to continuously cast Home Assistant to a Google Chromecast device
 - [ustayready/golddigger](https://github.com/ustayready/golddigger) - 
@@ -1410,6 +1414,7 @@
 
 ## TypeScript 
 
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [hahahumble/speechgpt](https://github.com/hahahumble/speechgpt) - SpeechGPT is a web application that enables you to converse with ChatGPT.
 - [thomasloven/lovelace-more-info-card](https://github.com/thomasloven/lovelace-more-info-card) - 🔹 Display the more-info dialog of any entity as a lovelace card
 - [custom-cards/bar-card](https://github.com/custom-cards/bar-card) - Customizable Animated Bar card for Home Assistant Lovelace
