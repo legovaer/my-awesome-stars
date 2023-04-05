@@ -1506,6 +1506,7 @@
 
 ## home-assistant 
 
+- [jcwillox/lovelace-paper-buttons-row](https://github.com/jcwillox/lovelace-paper-buttons-row) - Adds highly configurable buttons that use actions and per-state styling.
 - [to4ko/myconfig](https://github.com/to4ko/myconfig) - My Home Assistant config
 - [GeorgeSG/lovelace-time-picker-card](https://github.com/GeorgeSG/lovelace-time-picker-card) - 🕰️ Time Picker Card for Home Assistant's Lovelace UI
 - [hankanman/Home-Assistant](https://github.com/hankanman/Home-Assistant) - 
@@ -2222,6 +2223,7 @@
 
 ## others 
 
+- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [hugobloem/esp-ha-speech](https://github.com/hugobloem/esp-ha-speech) - 
 - [b0mbays/continuously_casting_dashboards](https://github.com/b0mbays/continuously_casting_dashboards) - HACS Integration for continuously casting a Home Assistant dashboard to your Google Chromecast Displays
 - [firasdib/Regex101](https://github.com/firasdib/Regex101) - This repository is currently only used for issue tracking for www.regex101.com
