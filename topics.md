@@ -187,6 +187,8 @@
 
 ## ai 
 
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Your own virtual developer. e2b uses AI agents to build software for you based on your instructions. Developers describe what they want to build by writing documentation. Then let AI agents with acces
+- [aress31/burpgpt](https://github.com/aress31/burpgpt) - A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities, and enables running traffic-based analysis of any type.
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 - [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
@@ -211,6 +213,7 @@
 
 ## analytics 
 
+- [sanderdw/hassio-addons](https://github.com/sanderdw/hassio-addons) - DSMR Reader Datalogger and Metabase Home Assistant Add-ons
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
@@ -310,6 +313,7 @@
 
 ## artificial-intelligence 
 
+- [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
 - [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2022
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [louisfb01/best_AI_papers_2021](https://github.com/louisfb01/best_AI_papers_2021) - A  curated list of the latest breakthroughs in AI (in 2021) by release date with a clear video explanation, link to a more in-depth article, and code.
@@ -776,6 +780,7 @@
 
 ## cpp 
 
+- [ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) - Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 
@@ -801,6 +806,7 @@
 
 ## cybersecurity 
 
+- [aress31/burpgpt](https://github.com/aress31/burpgpt) - A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities, and enables running traffic-based analysis of any type.
 - [1N3/Sn1per](https://github.com/1N3/Sn1per) - Attack Surface Management Platform | Sn1perSecurity LLC
 - [cisagov/decider](https://github.com/cisagov/decider) - A web application that assists network defenders, analysts, and researchers in the process of mapping adversary behaviors to the MITRE ATT&CK® framework.
 - [AzeemIdrisi/PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro) - An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.
@@ -824,6 +830,7 @@
 
 ## data 
 
+- [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to orchestrate and observe your data pipelines
 - [robmarkcole/HASS-data-detective](https://github.com/robmarkcole/HASS-data-detective) - Explore and analyse your Home Assistant data
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines.
@@ -843,6 +850,7 @@
 
 ## data-science 
 
+- [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
 - [mikeroyal/Jupyter-Guide](https://github.com/mikeroyal/Jupyter-Guide) - Jupyter Guide
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 - [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2022
@@ -1000,7 +1008,7 @@
 ## docker 
 
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
-- [kroese/virtual-dsm](https://github.com/kroese/virtual-dsm) - A docker container of Virtual DSM v7.2
+- [kroese/virtual-dsm](https://github.com/kroese/virtual-dsm) - Virtual DSM in a docker container.
 - [home-assistant/addons](https://github.com/home-assistant/addons) - :heavy_plus_sign: Docker add-ons for Home Assistant
 - [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
 - [kerberos-io/agent](https://github.com/kerberos-io/agent) - An open and scalable video surveillance system for anyone making this world a better and more peacefull place.
@@ -1532,6 +1540,8 @@
 
 ## home-assistant 
 
+- [Gh61/lovelace-hue-like-light-card](https://github.com/Gh61/lovelace-hue-like-light-card) - This card provides a Hue-like way to control your lights in Home Assistant.
+- [sanderdw/hassio-addons](https://github.com/sanderdw/hassio-addons) - DSMR Reader Datalogger and Metabase Home Assistant Add-ons
 - [JarvyJ/HomeIntent](https://github.com/JarvyJ/HomeIntent) - an offline voice assistant with tight integration with Home Assistant
 - [jcwillox/lovelace-paper-buttons-row](https://github.com/jcwillox/lovelace-paper-buttons-row) - Adds highly configurable buttons that use actions and per-state styling.
 - [hugobloem/esp-ha-speech](https://github.com/hugobloem/esp-ha-speech) - Local speech recognition on an ESP32 for Home Assistant
@@ -1979,6 +1989,8 @@
 
 ## machine-learning 
 
+- [ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) - Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU
+- [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
 - [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for your organization 🔎
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
@@ -2123,6 +2135,7 @@
 
 ## nextjs 
 
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Your own virtual developer. e2b uses AI agents to build software for you based on your instructions. Developers describe what they want to build by writing documentation. Then let AI agents with acces
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
@@ -2157,6 +2170,7 @@
 
 ## nodejs 
 
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Your own virtual developer. e2b uses AI agents to build software for you based on your instructions. Developers describe what they want to build by writing documentation. Then let AI agents with acces
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [gluon-framework/gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS
@@ -2253,6 +2267,8 @@
 
 ## others 
 
+- [smartcontractkit/smart-contract-examples](https://github.com/smartcontractkit/smart-contract-examples) - Example and sample projects
+- [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) - Let ChatGPT teach your own chatbot in hours with a single GPU!
 - [Petro31/easy-time-jinja](https://github.com/Petro31/easy-time-jinja) - Easy Time calculations for Home Assistant templates
 - [loganmarchione/homelab-svg-assets](https://github.com/loganmarchione/homelab-svg-assets) - Full-color SVG icons of homelab-related software, products, and brands
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
@@ -2818,6 +2834,7 @@
 
 ## php 
 
+- [hestiacp/hestiacp](https://github.com/hestiacp/hestiacp) - Hestia Control Panel | A lightweight and powerful control panel for the modern web.
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [bcremer/docker-telegraf-influx-grafana-stack](https://github.com/bcremer/docker-telegraf-influx-grafana-stack) - Docker Compose Setup for Telegraf / InfluxDB / Grafana (TIG)
@@ -2870,6 +2887,8 @@
 
 ## python 
 
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Your own virtual developer. e2b uses AI agents to build software for you based on your instructions. Developers describe what they want to build by writing documentation. Then let AI agents with acces
+- [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [dala318/python_poollab](https://github.com/dala318/python_poollab) - Python API for Pool Lab 1.0
@@ -3025,6 +3044,7 @@
 
 ## react 
 
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Your own virtual developer. e2b uses AI agents to build software for you based on your instructions. Developers describe what they want to build by writing documentation. Then let AI agents with acces
 - [kerberos-io/agent](https://github.com/kerberos-io/agent) - An open and scalable video surveillance system for anyone making this world a better and more peacefull place.
 - [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio) - My self coded personal website build with React.js
 - [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio) - 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer.
@@ -3116,6 +3136,7 @@
 
 ## security 
 
+- [aress31/burpgpt](https://github.com/aress31/burpgpt) - A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities, and enables running traffic-based analysis of any type.
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 - [1N3/Sn1per](https://github.com/1N3/Sn1per) - Attack Surface Management Platform | Sn1perSecurity LLC
 - [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
@@ -3210,6 +3231,7 @@
 
 ## software 
 
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Your own virtual developer. e2b uses AI agents to build software for you based on your instructions. Developers describe what they want to build by writing documentation. Then let AI agents with acces
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -3220,6 +3242,7 @@
 
 ## sql 
 
+- [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
 - [1N3/PrivEsc](https://github.com/1N3/PrivEsc) - A collection of Windows, Linux and MySQL privilege escalation scripts and exploits.
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
@@ -3367,6 +3390,7 @@
 
 ## typescript 
 
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Your own virtual developer. e2b uses AI agents to build software for you based on your instructions. Developers describe what they want to build by writing documentation. Then let AI agents with acces
 - [briansunter/logseq-plugin-gpt3-openai](https://github.com/briansunter/logseq-plugin-gpt3-openai) - A plugin for GPT-3 AI assisted note taking in Logseq
 - [daredoes/linked-lovelace-ui](https://github.com/daredoes/linked-lovelace-ui) - Create cards that can be re-used, updated, and handle templated data.
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The React library to build dashboards fast.
@@ -3443,6 +3467,7 @@
 
 ## webapp 
 
+- [aress31/burpgpt](https://github.com/aress31/burpgpt) - A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities, and enables running traffic-based analysis of any type.
 - [zbejas/portarius](https://github.com/zbejas/portarius) - Portarius is a free, open-source, cross-platform mobile app that allows you to manage your Portainer sessions.
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
