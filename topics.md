@@ -187,6 +187,7 @@
 
 ## ai 
 
+- [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, etc) using a simple React frontend.
 - [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Your own virtual developer. e2b lets you build & deploy specialized AI agents that build software for you based on your instructions.
 - [aress31/burpgpt](https://github.com/aress31/burpgpt) - A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities, and enables running traffic-based analysis of any type.
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
@@ -314,6 +315,7 @@
 
 ## artificial-intelligence 
 
+- [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, etc) using a simple React frontend.
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
 - [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2022
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
@@ -613,6 +615,7 @@
 
 ## bash 
 
+- [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
 - [GameServerManagers/LinuxGSM](https://github.com/GameServerManagers/LinuxGSM) - The command-line tool for quick, simple deployment and management of Linux dedicated game servers.
 - [jpylypiw/easywall](https://github.com/jpylypiw/easywall) - Web interface for easy use of the IPTables firewall on Linux systems written in Python3.
 - [r1cksec/cheatsheets](https://github.com/r1cksec/cheatsheets) - Collection of knowledge about information security
@@ -672,6 +675,7 @@
 
 ## chatgpt 
 
+- [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, etc) using a simple React frontend.
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 - [IgnoranceAI/hugh](https://github.com/IgnoranceAI/hugh) - A voice-powered AI built with Whisper, ChatGPT, and ElevenLabs
 - [hahahumble/speechgpt](https://github.com/hahahumble/speechgpt) - 💬 SpeechGPT is a web application that enables you to converse with ChatGPT.
@@ -687,6 +691,7 @@
 - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - A browser extension that enhance search engines with ChatGPT
 - [taranjeet/unofficial-chatgpt-api](https://github.com/taranjeet/unofficial-chatgpt-api) - This repo is unofficial ChatGPT api. It is based on Daniel Gross's WhatsApp GPT
 - [mmabrouk/chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) - API for interacting with ChatGPT and GPT4 using Python and from Shell.
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, WireGuard, Automation, Ho
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 
 ## chatgpt-api 
@@ -939,6 +944,7 @@
 
 ## devops 
 
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [AcalephStorage/awesome-devops](https://github.com/AcalephStorage/awesome-devops) - A curated list of resources for Devops
 - [mikeroyal/Grafana-Guide](https://github.com/mikeroyal/Grafana-Guide) - Grafana Guide
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
@@ -1194,6 +1200,7 @@
 
 ## framework 
 
+- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 - [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - Advanced Github OSINT Framework
 - [gluon-framework/gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS
 - [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - 💬 🤖  The most reliable WhatsApp tool for chatbots with advanced features. Be sure to 🌟 this repository for updates!
@@ -1278,6 +1285,7 @@
 
 ## go 
 
+- [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, etc) using a simple React frontend.
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
@@ -1323,6 +1331,8 @@
 
 ## golang 
 
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
+- [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, etc) using a simple React frontend.
 - [kerberos-io/agent](https://github.com/kerberos-io/agent) - An open and scalable video surveillance system for anyone making this world a better and more peacefull place.
 - [akhilrex/podgrab](https://github.com/akhilrex/podgrab) - A self-hosted podcast manager/downloader/archiver tool to download podcast episodes as soon as they become live with an integrated player.
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
@@ -1550,6 +1560,7 @@
 - [jcwillox/lovelace-paper-buttons-row](https://github.com/jcwillox/lovelace-paper-buttons-row) - Adds highly configurable buttons that use actions and per-state styling.
 - [hugobloem/esp-ha-speech](https://github.com/hugobloem/esp-ha-speech) - Local speech recognition on an ESP32 for Home Assistant
 - [to4ko/myconfig](https://github.com/to4ko/myconfig) - My Home Assistant config
+- [dala318/python_poollab](https://github.com/dala318/python_poollab) - Python API for Pool Lab 1.0
 - [GeorgeSG/lovelace-time-picker-card](https://github.com/GeorgeSG/lovelace-time-picker-card) - 🕰️ Time Picker Card for Home Assistant's Lovelace UI
 - [hankanman/Home-Assistant](https://github.com/hankanman/Home-Assistant) - 
 - [cgarwood/homeassistant-fullykiosk](https://github.com/cgarwood/homeassistant-fullykiosk) - Fully Kiosk Browser integration for Home Assistant
@@ -1767,6 +1778,7 @@
 
 ## javascript 
 
+- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 - [custom-cards/flex-table-card](https://github.com/custom-cards/flex-table-card) - Highly Flexible Lovelace Card - arbitrary contents/columns/rows, regex matched, perfect to show appdaemon created content and anything breaking out of the entity_id + attributes concept
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -1943,6 +1955,7 @@
 
 ## linux 
 
+- [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
 - [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - bspwm + polybar + eww rices. 12 themes with a rice selector to change on the fly.
 - [GameServerManagers/LinuxGSM](https://github.com/GameServerManagers/LinuxGSM) - The command-line tool for quick, simple deployment and management of Linux dedicated game servers.
 - [1N3/PrivEsc](https://github.com/1N3/PrivEsc) - A collection of Windows, Linux and MySQL privilege escalation scripts and exploits.
@@ -1994,6 +2007,7 @@
 
 ## machine-learning 
 
+- [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, etc) using a simple React frontend.
 - [ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) - Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
 - [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered search engine for your organization 🔎
@@ -2021,7 +2035,7 @@
 
 ## macos 
 
-- [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
+- [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox on x86 CPUs for Windows, Linux, and macOS
 - [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your network traffic
 - [zercurity/zercurity](https://github.com/zercurity/zercurity) - Manage, monitor and improve your cyber security posture.
@@ -2047,6 +2061,7 @@
 
 ## markdown 
 
+- [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 Mega-Linter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loc
@@ -2141,6 +2156,7 @@
 
 ## nextjs 
 
+- [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Your own virtual developer. e2b lets you build & deploy specialized AI agents that build software for you based on your instructions.
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
@@ -2273,6 +2289,7 @@
 
 ## others 
 
+- [skrashevich/double-take](https://github.com/skrashevich/double-take) - Unified UI and API for processing and training images for facial recognition.
 - [thecookingsenpai/autogpt-gui](https://github.com/thecookingsenpai/autogpt-gui) - A graphical user interface for AutoGPT
 - [smartcontractkit/smart-contract-examples](https://github.com/smartcontractkit/smart-contract-examples) - Example and sample projects
 - [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) - Let ChatGPT teach your own chatbot in hours with a single GPU!
@@ -3050,6 +3067,8 @@
 
 ## react 
 
+- [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+- [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, etc) using a simple React frontend.
 - [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Your own virtual developer. e2b lets you build & deploy specialized AI agents that build software for you based on your instructions.
 - [kerberos-io/agent](https://github.com/kerberos-io/agent) - An open and scalable video surveillance system for anyone making this world a better and more peacefull place.
 - [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio) - My self coded personal website build with React.js
@@ -3070,6 +3089,7 @@
 
 ## reactjs 
 
+- [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, etc) using a simple React frontend.
 - [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio) - 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer.
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The React library to build dashboards fast.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
@@ -3418,6 +3438,7 @@
 
 ## ubuntu 
 
+- [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
 - [NicNull/BTphone](https://github.com/NicNull/BTphone) - Bluetooth RSSI phone monitor script to activate screen saver
 - [AeX03/eLys](https://github.com/AeX03/eLys) - 👾- An open-source post-exploitation framework, researchers and developers.
 - [debops/debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
@@ -3456,6 +3477,7 @@
 
 ## web 
 
+- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 - [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - Maximize your efficiency and productivity. 让生产力加倍的 ChatGPT 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。
 - [arthaud/git-dumper](https://github.com/arthaud/git-dumper) - A tool to dump a git repository from a website
 - [gluon-framework/gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS
