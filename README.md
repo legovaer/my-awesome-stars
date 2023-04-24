@@ -132,7 +132,6 @@
 - [cisagov/decider](https://github.com/cisagov/decider) - A web application that assists network defenders, analysts, and researchers in the process of mapping adversary behaviors to the MITRE ATT&CK® framework.
 - [joelchrono12/freshrss-nord-theme](https://github.com/joelchrono12/freshrss-nord-theme) - A simple, basic theme you can work on top of to have the Nord color scheme in your FreshRSS instance
 - [DmitryBorodiy/PowerWidgets](https://github.com/DmitryBorodiy/PowerWidgets) - Power Widgets is new way to customize your at-a-glance info. With new widgets and mini-apps you can explore info and get fast access to important things.
-- [tallguyjenks/DevLog](https://github.com/tallguyjenks/DevLog) - 🌱️ My DevLog detailing my learnings in Tech 🌱️
 - [mehulkar/github-hall-of-fame](https://github.com/mehulkar/github-hall-of-fame) - Hall of Fame for spectacular things on Github
 - [juliocesarfort/public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) - A list of public penetration test reports published by several consulting firms and academic security groups.
 - [Madelena/hass-config-public](https://github.com/Madelena/hass-config-public) - My Dashboards for Home Assistant - Advanced data visualizations, responsive design, a neat maximalist Metro Live Tile layout, and an ultraminimal tablet layout!
@@ -201,6 +200,7 @@
 
 ## Go 
 
+- [marcus-crane/october](https://github.com/marcus-crane/october) - A small Wails GUI for retrieving Kobo highlights and syncing them with Readwise
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 - [kerberos-io/agent](https://github.com/kerberos-io/agent) - An open and scalable video surveillance system for anyone making this world a better and more peacefull place.
@@ -425,6 +425,7 @@
 
 ## JavaScript 
 
+- [daniel-j/send2ereader](https://github.com/daniel-j/send2ereader) - A service for sending ebooks to a Kobo or Kindle ereader through the built-in browser
 - [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, etc) using a simple React frontend.
 - [skrashevich/double-take](https://github.com/skrashevich/double-take) - Unified UI and API for processing and training images for facial recognition.
 - [thecookingsenpai/autogpt-gui](https://github.com/thecookingsenpai/autogpt-gui) - A graphical user interface for AutoGPT
