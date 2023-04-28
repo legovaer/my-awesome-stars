@@ -188,6 +188,7 @@
 
 ## ai 
 
+- [Josh-XT/Agent-LLM](https://github.com/Josh-XT/Agent-LLM) - An Artificial Intelligence Automation Platform.  AI Instruction management from various providers, has an adaptive memory, and a versatile plugin system with many commands including web browsing.  Sup
 - [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, etc) using a simple React frontend.
 - [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Your own virtual developer. e2b lets you build & deploy specialized AI agents that build software for you based on your instructions.
 - [aress31/burpgpt](https://github.com/aress31/burpgpt) - A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities, and enables running traffic-based analysis of any type.
@@ -324,6 +325,7 @@
 
 ## automation 
 
+- [Josh-XT/Agent-LLM](https://github.com/Josh-XT/Agent-LLM) - An Artificial Intelligence Automation Platform.  AI Instruction management from various providers, has an adaptive memory, and a versatile plugin system with many commands including web browsing.  Sup
 - [xaviml/controllerx](https://github.com/xaviml/controllerx) - Create controller-based automations with ease to control your home devices and scenes.
 - [home-assistant/addons](https://github.com/home-assistant/addons) - :heavy_plus_sign: Docker add-ons for Home Assistant
 - [SirGoodenough/HA_Blueprints](https://github.com/SirGoodenough/HA_Blueprints) - 🧯 My Collection of Automation and Script Blueprints for Home Assistant 🧯
@@ -2292,6 +2294,8 @@
 
 ## others 
 
+- [alaeddine-13/thinkgpt](https://github.com/alaeddine-13/thinkgpt) - Agent techniques to augment your LLM and push it beyong its limits
+- [opencardev/openauto](https://github.com/opencardev/openauto) - AndroidAuto headunit emulator
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
 - [daniel-j/send2ereader](https://github.com/daniel-j/send2ereader) - A service for sending ebooks to a Kobo or Kindle ereader through the built-in browser
 - [skrashevich/double-take](https://github.com/skrashevich/double-take) - Unified UI and API for processing and training images for facial recognition.
@@ -2856,6 +2860,7 @@
 
 ## penetration-testing 
 
+- [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
 - [1N3/Sn1per](https://github.com/1N3/Sn1per) - Attack Surface Management Platform | Sn1perSecurity LLC
 - [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
 - [AzeemIdrisi/PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro) - An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.
@@ -2929,6 +2934,8 @@
 
 ## python 
 
+- [Josh-XT/Agent-LLM](https://github.com/Josh-XT/Agent-LLM) - An Artificial Intelligence Automation Platform.  AI Instruction management from various providers, has an adaptive memory, and a versatile plugin system with many commands including web browsing.  Sup
+- [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
 - [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Your own virtual developer. e2b lets you build & deploy specialized AI agents that build software for you based on your instructions.
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
