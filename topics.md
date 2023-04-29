@@ -2294,6 +2294,8 @@
 
 ## others 
 
+- [bmcclure/ha-chore-helper](https://github.com/bmcclure/ha-chore-helper) - A Home Assistant helper integration for managing recurring chores.
+- [AalianKhan/mushroom-strategy](https://github.com/AalianKhan/mushroom-strategy) - A strategy to automatically generate a dashboard using mushroom cards
 - [alaeddine-13/thinkgpt](https://github.com/alaeddine-13/thinkgpt) - Agent techniques to augment your LLM and push it beyong its limits
 - [opencardev/openauto](https://github.com/opencardev/openauto) - AndroidAuto headunit emulator
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
