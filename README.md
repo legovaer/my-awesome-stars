@@ -375,7 +375,6 @@
 
 ## HTML 
 
-- [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
 - [teubert/DAKBoard-Alerts](https://github.com/teubert/DAKBoard-Alerts) - DAKBoard Widget that displays alerts
 - [IgnoranceAI/hugh](https://github.com/IgnoranceAI/hugh) - A voice-powered AI built with Whisper, ChatGPT, and ElevenLabs
 - [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
@@ -985,6 +984,7 @@
 
 - [bmcclure/ha-chore-helper](https://github.com/bmcclure/ha-chore-helper) - A Home Assistant helper integration for managing recurring chores.
 - [Josh-XT/Agent-LLM](https://github.com/Josh-XT/Agent-LLM) - An Artificial Intelligence Automation Platform.  AI Instruction management from various providers, has an adaptive memory, and a versatile plugin system with many commands including web browsing.  Sup
+- [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
 - [alaeddine-13/thinkgpt](https://github.com/alaeddine-13/thinkgpt) - Agent techniques to augment your LLM and push it beyong its limits
 - [legovaer/ad-automoli](https://github.com/legovaer/ad-automoli) - 💡 Fully automatic light management based on conditions like motion, illuminance, humidity, and other clever features
 - [xaviml/controllerx](https://github.com/xaviml/controllerx) - Create controller-based automations with ease to control your home devices and scenes.
@@ -1058,7 +1058,7 @@
 - [peterh/pyobd](https://github.com/peterh/pyobd) - Fixes to pyobd for modern hardware interfaces
 - [Sian-Lee-SA/YouTube](https://github.com/Sian-Lee-SA/YouTube) - YouTube helper files and references
 - [bachya/smart-home](https://github.com/bachya/smart-home) - ⭐ (Almost) everything needed to run my smart home with Home Assistant and more!
-- [roflcoopter/viseron](https://github.com/roflcoopter/viseron) - Self-hosted NVR with object detection
+- [roflcoopter/viseron](https://github.com/roflcoopter/viseron) - Self-hosted, local only NVR and AI Computer Vision software.  With features such as object detection, motion detection, face recognition and more, it gives you the power to keep an eye on your home, o
 - [garbled1/homeassistant_ecowitt](https://github.com/garbled1/homeassistant_ecowitt) - Ecowitt Weather Station integration for homeassistant
 - [dlashua/torque2mqtt](https://github.com/dlashua/torque2mqtt) - 
 - [dlashua/hass-wasp_sensor](https://github.com/dlashua/hass-wasp_sensor) - A Home Assistant Integration implemented a "Wasp In A Box" sensor. Upgrade your motion sensors!
