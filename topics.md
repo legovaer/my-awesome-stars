@@ -1556,6 +1556,7 @@
 
 ## home-assistant 
 
+- [poweredgenl/smarthome](https://github.com/poweredgenl/smarthome) - Smarthome repo with json files from Home Assistant as well as the setup outline.
 - [pmazz/ps_hassio_entities](https://github.com/pmazz/ps_hassio_entities) - Python script to handle state and attributes of existing sensors and entities
 - [AmoebeLabs/swiss-army-knife-card](https://github.com/AmoebeLabs/swiss-army-knife-card) - The versatile custom Swiss Army Knife card for Home Assistant allows you to create your unique visualization using several graphical tools, styling options and animations.
 - [legovaer/ad-automoli](https://github.com/legovaer/ad-automoli) - 💡 Fully automatic light management based on conditions like motion, illuminance, humidity, and other clever features
@@ -2117,7 +2118,7 @@
 - [hassio-addons/addon-glances](https://github.com/hassio-addons/addon-glances) - Glances - Home Assistant Community Add-ons
 - [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
-- [tribe29/checkmk](https://github.com/tribe29/checkmk) - Checkmk - Best-in-class infrastructure & application monitoring
+- [Checkmk/checkmk](https://github.com/Checkmk/checkmk) - Checkmk - Best-in-class infrastructure & application monitoring
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [LePetitBloc/bitcoind-exporter](https://github.com/LePetitBloc/bitcoind-exporter) - :bar_chart: Bitcoind metrics Prometheus exporter in node js
 - [RisingStack/example-prometheus-nodejs](https://github.com/RisingStack/example-prometheus-nodejs) - Prometheus monitoring example with Node.js
@@ -2296,6 +2297,7 @@
 
 ## others 
 
+- [rogerquake/home_automation](https://github.com/rogerquake/home_automation) - 
 - [DJWoodZ/Satisfactory-Discord-Bot](https://github.com/DJWoodZ/Satisfactory-Discord-Bot) - A Discord bot that posts Satisfactory Dedicated Server status information such as online players.
 - [joselcaguilar/azure-openai-ha](https://github.com/joselcaguilar/azure-openai-ha) - Azure OpenAI Conversation for Home Assistant
 - [bmcclure/ha-chore-helper](https://github.com/bmcclure/ha-chore-helper) - A Home Assistant helper integration for managing recurring chores.
@@ -2587,8 +2589,8 @@
 - [lolouk44/homeassistant](https://github.com/lolouk44/homeassistant) - My home-assistant.io config
 - [wtsxDev/reverse-engineering](https://github.com/wtsxDev/reverse-engineering) - List of awesome reverse engineering resources
 - [agneevX/home-assistant](https://github.com/agneevX/home-assistant) - Home Assistant lovelace layout and config
-- [tribe29/kubernetes](https://github.com/tribe29/kubernetes) - Deploy Checkmk in Kubernetes
-- [tribe29/checkmk_kube_agent](https://github.com/tribe29/checkmk_kube_agent) - 
+- [Checkmk/kubernetes](https://github.com/Checkmk/kubernetes) - Deploy Checkmk in Kubernetes
+- [Checkmk/checkmk_kube_agent](https://github.com/Checkmk/checkmk_kube_agent) - 
 - [hackclub/proxyparty](https://github.com/hackclub/proxyparty) - 🎊 An Nginx redirector and proxier for all of Hack Club's needs!
 - [jptannus/nginx-redirect-generator](https://github.com/jptannus/nginx-redirect-generator) - A simple tool to generate nginx server configuration for redirects by a given URL list.
 - [FabulousGinger/ansible-terrafrom-haproxy-example](https://github.com/FabulousGinger/ansible-terrafrom-haproxy-example) - 
@@ -3077,6 +3079,7 @@
 
 ## raspberry-pi 
 
+- [poweredgenl/smarthome](https://github.com/poweredgenl/smarthome) - Smarthome repo with json files from Home Assistant as well as the setup outline.
 - [shortbloke/home_assistant_config](https://github.com/shortbloke/home_assistant_config) - HomeAssistant.io Configuration Files
 - [havenweb/haven](https://github.com/havenweb/haven) - Self-hostable private blogging
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal/home server OS for self-hosting with an app store. Install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
