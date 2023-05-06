@@ -719,6 +719,7 @@
 
 ## cli 
 
+- [freedmand/semantra](https://github.com/freedmand/semantra) - Multi-tool for semantic search
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
@@ -1556,6 +1557,7 @@
 
 ## home-assistant 
 
+- [kodi1/tracker_merge](https://github.com/kodi1/tracker_merge) - merge master/slave device trackers
 - [poweredgenl/smarthome](https://github.com/poweredgenl/smarthome) - Smarthome repo with json files from Home Assistant as well as the setup outline.
 - [pmazz/ps_hassio_entities](https://github.com/pmazz/ps_hassio_entities) - Python script to handle state and attributes of existing sensors and entities
 - [AmoebeLabs/swiss-army-knife-card](https://github.com/AmoebeLabs/swiss-army-knife-card) - The versatile custom Swiss Army Knife card for Home Assistant allows you to create your unique visualization using several graphical tools, styling options and animations.
@@ -2014,6 +2016,7 @@
 
 ## machine-learning 
 
+- [freedmand/semantra](https://github.com/freedmand/semantra) - Multi-tool for semantic search
 - [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, etc) using a simple React frontend.
 - [ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) - Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
@@ -2297,6 +2300,7 @@
 
 ## others 
 
+- [OpenBMB/BMTools](https://github.com/OpenBMB/BMTools) - Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins
 - [janimm/RealDash-extras](https://github.com/janimm/RealDash-extras) - RealDash examples and technical materials
 - [CypherpunkArmory/UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) - Main UserLAnd Repository
 - [kbox4/source](https://github.com/kbox4/source) - The builds scripts and packages that build everything in the KBOX distribution
@@ -2947,6 +2951,7 @@
 
 ## python 
 
+- [kodi1/tracker_merge](https://github.com/kodi1/tracker_merge) - merge master/slave device trackers
 - [pmazz/ps_hassio_entities](https://github.com/pmazz/ps_hassio_entities) - Python script to handle state and attributes of existing sensors and entities
 - [Josh-XT/Agent-LLM](https://github.com/Josh-XT/Agent-LLM) - An Artificial Intelligence Automation Platform.  AI Instruction management from various providers, has an adaptive memory, and a versatile plugin system with many commands including web browsing.  Sup
 - [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
@@ -3452,6 +3457,7 @@
 
 ## twitter 
 
+- [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [Krisseck/Hashtag-Wall-Server](https://github.com/Krisseck/Hashtag-Wall-Server) - Hashtag wall that displays posts from social media
 
