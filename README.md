@@ -987,6 +987,10 @@
 
 ## Python 
 
+- [OpenBMB/BMTools](https://github.com/OpenBMB/BMTools) - Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins
+- [freedmand/semantra](https://github.com/freedmand/semantra) - Multi-tool for semantic search
+- [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
+- [kodi1/tracker_merge](https://github.com/kodi1/tracker_merge) - merge master/slave device trackers
 - [Picovoice/porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning
 - [rhasspy/rhasspy3](https://github.com/rhasspy/rhasspy3) - An open source voice assistant toolkit for many human languages
 - [pmazz/ps_hassio_entities](https://github.com/pmazz/ps_hassio_entities) - Python script to handle state and attributes of existing sensors and entities
