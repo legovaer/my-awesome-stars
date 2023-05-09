@@ -2301,6 +2301,7 @@
 
 ## others 
 
+- [BartKeulen/remarkable-gtd-templates](https://github.com/BartKeulen/remarkable-gtd-templates) - Remarkable Gettings Things Done Templates
 - [azogue/eventsensor](https://github.com/azogue/eventsensor) - HomeAssistant custom sensor to track specific events
 - [OpenBMB/BMTools](https://github.com/OpenBMB/BMTools) - Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins
 - [janimm/RealDash-extras](https://github.com/janimm/RealDash-extras) - RealDash examples and technical materials
