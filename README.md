@@ -49,6 +49,7 @@
 - [Smarty](#smarty)
 - [Svelte](#svelte)
 - [Swift](#swift)
+- [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
@@ -1466,6 +1467,10 @@
 - [philipparndt/mqtt-analyzer](https://github.com/philipparndt/mqtt-analyzer) - 
 - [st0nedB/rooms](https://github.com/st0nedB/rooms) - With "Rooms" mobile devices can perform indoor self-localization using an app and low-cost BLE beacons.
 - [victor/whereami](https://github.com/victor/whereami) - get your location from the command line
+
+## TeX 
+
+- [BartKeulen/remarkable-gtd-templates](https://github.com/BartKeulen/remarkable-gtd-templates) - Remarkable Gettings Things Done Templates
 
 ## TypeScript 
 
