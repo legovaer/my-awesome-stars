@@ -6,6 +6,7 @@
 ## Contents
 
 - [AppleScript](#applescript)
+- [Astro](#astro)
 - [Berry](#berry)
 - [BlitzBasic](#blitzbasic)
 - [C](#c)
@@ -58,6 +59,10 @@
 
 - [vitorgalvao/custom-alfred-iterm-scripts](https://github.com/vitorgalvao/custom-alfred-iterm-scripts) - AppleScript for iTerm2 Alfred integration.
 
+## Astro 
+
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+
 ## Berry 
 
 - [blakadder/nspanel](https://github.com/blakadder/nspanel) - Sonoff NSPanel protocol and hacking information. Tasmota Berry driver for NSPanel
@@ -92,6 +97,7 @@
 
 ## C# # 
 
+- [micah686/SatisfactoryServerGUI](https://github.com/micah686/SatisfactoryServerGUI) - GUI for managing Satisfactory Dedicated servers
 - [beyluta/WinWidgets](https://github.com/beyluta/WinWidgets) - WinWidgets is a platform for Windows 10/11 Desktop Widget development using HTML, CSS, and JavaScript. Create your own widgets using frontend technologies based on the Chromium project.
 - [PiotrMachowski/Home-Assistant-Taskbar-Menu](https://github.com/PiotrMachowski/Home-Assistant-Taskbar-Menu) - This application is a simple Home Assistant client for Windows. It can display Lovelace views, control entities and show persistent notifications.
 - [ESPresense/ESPresense-companion](https://github.com/ESPresense/ESPresense-companion) - HA Addon / Container that attempts to solve indoor position (x,y,z) with multiple ESPresense stations using trilateralization
@@ -241,7 +247,7 @@
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
-- [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth Attack Surface Mapping and Asset Discovery
+- [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [crazy-canux/awesome-monitoring](https://github.com/crazy-canux/awesome-monitoring) - INFRASTRUCTURE、OPERATION SYSTEM and APPLICATION monitoring tools.
 - [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
@@ -293,7 +299,7 @@
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
-- [mineiros-io/terramate](https://github.com/mineiros-io/terramate) - Terramate adds powerful capabilities such as code generation, stacks, orchestration, change detection, globals and more to Terraform.
+- [mineiros-io/terramate](https://github.com/mineiros-io/terramate) - Terramate adds powerful capabilities such as code generation, stacks, orchestration, change detection, data sharing and more to Terraform.
 - [joewalnes/websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
 - [aquasecurity/tfsec-pr-commenter-action](https://github.com/aquasecurity/tfsec-pr-commenter-action) - Add comments to pull requests where tfsec checks have failed
 - [terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs) - Generate documentation from Terraform modules in various output formats
@@ -375,6 +381,7 @@
 
 ## HTML 
 
+- [balloob/homeassistant-config](https://github.com/balloob/homeassistant-config) - 🏡 My Home Assistant Configs. Be sure to :star2: my repo to follow the updates!
 - [teubert/DAKBoard-Alerts](https://github.com/teubert/DAKBoard-Alerts) - DAKBoard Widget that displays alerts
 - [IgnoranceAI/hugh](https://github.com/IgnoranceAI/hugh) - A voice-powered AI built with Whisper, ChatGPT, and ElevenLabs
 - [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
@@ -986,6 +993,7 @@
 
 ## Python 
 
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it
 - [PiotrMachowski/Home-Assistant-custom-components-Custom-Templates](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Custom-Templates) - This integration adds possibility to use new functions in Home Assistant Jinja2 templating engine.
 - [azogue/eventsensor](https://github.com/azogue/eventsensor) - HomeAssistant custom sensor to track specific events
 - [OpenBMB/BMTools](https://github.com/OpenBMB/BMTools) - Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins
@@ -1471,6 +1479,7 @@
 
 ## TypeScript 
 
+- [greeny/SatisfactoryTools](https://github.com/greeny/SatisfactoryTools) - Satisfactory Tools for planning and building the perfect base.
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [smartcontractkit/smart-contract-examples](https://github.com/smartcontractkit/smart-contract-examples) - Example and sample projects
@@ -1535,7 +1544,6 @@
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - 💬 🤖  The most reliable WhatsApp tool for chatbots with advanced features. Be sure to 🌟 this repository for updates!
