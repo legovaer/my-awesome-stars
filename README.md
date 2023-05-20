@@ -504,7 +504,7 @@
 - [pedrolamas/docker-iot-stack](https://github.com/pedrolamas/docker-iot-stack) - :computer: My personal Docker IoT Stack
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [nervetattoo/banner-card](https://github.com/nervetattoo/banner-card) - A fluffy banner card for Home Assistant 🥰
-- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
+- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 - [aysark/dashing-timeline](https://github.com/aysark/dashing-timeline) - Stylish timeline widget for Dashing.io
 - [resoai/TileBoard](https://github.com/resoai/TileBoard) - A simple yet highly configurable Dashboard for HomeAssistant
 - [simplefocus/FlowType.JS](https://github.com/simplefocus/FlowType.JS) - Web typography at its finest: font-size and line-height based on element width.
@@ -969,7 +969,7 @@
 - [WEBSOLUTIONSHR/drupal](https://github.com/WEBSOLUTIONSHR/drupal) - Historical releases of Drupal, made for presentation at DrupalCamp London
 - [l3l0/php-travis-client](https://github.com/l3l0/php-travis-client) - 
 - [ricardoamaro/drupalci_testbot](https://github.com/ricardoamaro/drupalci_testbot) - This is a testing version of Drupal testbot using docker containers. Please use:
-- [acquia/blt](https://github.com/acquia/blt) - Acquia's toolset for automating Drupal 8 and 9 development, testing, and deployment.
+- [acquia/blt](https://github.com/acquia/blt) - Acquia's toolset for automating Drupal 10 development, testing, and deployment.
 - [phan/phan](https://github.com/phan/phan) - Phan is a static analyzer for PHP. Phan prefers to avoid false-positives and attempts to prove incorrectness rather than correctness.
 - [sebastianbergmann/phpcov](https://github.com/sebastianbergmann/phpcov) - TextUI frontend for php-code-coverage
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
@@ -993,6 +993,7 @@
 
 ## Python 
 
+- [etransport/py9b](https://github.com/etransport/py9b) - Ninebot/Xiaomi electric scooter communication library
 - [StanGirard/quivr](https://github.com/StanGirard/quivr) - Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it
 - [PiotrMachowski/Home-Assistant-custom-components-Custom-Templates](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Custom-Templates) - This integration adds possibility to use new functions in Home Assistant Jinja2 templating engine.
 - [azogue/eventsensor](https://github.com/azogue/eventsensor) - HomeAssistant custom sensor to track specific events
@@ -1005,7 +1006,7 @@
 - [pmazz/ps_hassio_entities](https://github.com/pmazz/ps_hassio_entities) - Python script to handle state and attributes of existing sensors and entities
 - [joselcaguilar/azure-openai-ha](https://github.com/joselcaguilar/azure-openai-ha) - Azure OpenAI Conversation for Home Assistant
 - [bmcclure/ha-chore-helper](https://github.com/bmcclure/ha-chore-helper) - A Home Assistant helper integration for managing recurring chores.
-- [Josh-XT/Agent-LLM](https://github.com/Josh-XT/Agent-LLM) - An Artificial Intelligence Automation Platform.  AI Instruction management from various providers, has an adaptive memory, and a versatile plugin system with many commands including web browsing.  Sup
+- [Josh-XT/AGiXT](https://github.com/Josh-XT/AGiXT) - An Artificial Intelligence Automation Platform.  AI Instruction management from various providers, has an adaptive memory, and a versatile plugin system with many commands including web browsing.  Sup
 - [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
 - [jina-ai/thinkgpt](https://github.com/jina-ai/thinkgpt) - Agent techniques to augment your LLM and push it beyong its limits
 - [legovaer/ad-automoli](https://github.com/legovaer/ad-automoli) - 💡 Fully automatic light management based on conditions like motion, illuminance, humidity, and other clever features
@@ -1328,6 +1329,7 @@
 
 ## Shell 
 
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [poweredgenl/smarthome](https://github.com/poweredgenl/smarthome) - Smarthome repo with json files from Home Assistant as well as the setup outline.
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
 - [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox on x86 CPUs for Windows, Linux, and macOS
