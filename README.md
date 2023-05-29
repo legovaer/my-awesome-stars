@@ -1018,7 +1018,6 @@
 - [sanderdw/hassio-addons](https://github.com/sanderdw/hassio-addons) - DSMR Reader Datalogger and Metabase Home Assistant Add-ons
 - [loganmarchione/homelab-svg-assets](https://github.com/loganmarchione/homelab-svg-assets) - Full-color SVG icons of homelab-related software, products, and brands
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
-- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [robertbullen/dakboard](https://github.com/robertbullen/dakboard) - 
 - [JarvyJ/HomeIntent](https://github.com/JarvyJ/HomeIntent) - an offline voice assistant with tight integration with Home Assistant
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and FastChat-T5.
@@ -1490,6 +1489,7 @@
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [smartcontractkit/smart-contract-examples](https://github.com/smartcontractkit/smart-contract-examples) - Example and sample projects
 - [Gh61/lovelace-hue-like-light-card](https://github.com/Gh61/lovelace-hue-like-light-card) - This card provides a Hue-like way to control your lights in Home Assistant.
+- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [jcwillox/lovelace-paper-buttons-row](https://github.com/jcwillox/lovelace-paper-buttons-row) - Adds highly configurable buttons that use actions and per-state styling.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [hahahumble/speechgpt](https://github.com/hahahumble/speechgpt) - 💬 SpeechGPT is a web application that enables you to converse with ChatGPT.
