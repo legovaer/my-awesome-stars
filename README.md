@@ -127,7 +127,7 @@
 - [igiannakas/mmwave-d1mini](https://github.com/igiannakas/mmwave-d1mini) - Room presence detection using mmWave radar (DFRobot SEN0395), D1 Mini ESP-8266 and ESPHome for HomeAssistant
 - [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense) - An ESP32 based presence detection node for use with the Home Assistant mqtt_room component for localized device presence detection.
 - [alvr-org/ALVR](https://github.com/alvr-org/ALVR) - Stream VR games from your PC to your headset via Wi-Fi
-- [jnsbyr/esp8266-intexsbh20](https://github.com/jnsbyr/esp8266-intexsbh20) - MQTT WiFi remote control for the Intex PureSpa SB-H20 and SJB-HS whirlpool
+- [jnsbyr/esp8266-intexsbh20](https://github.com/jnsbyr/esp8266-intexsbh20) - MQTT WiFi remote control for the Intex PureSpa SB-H20 and SJB-HS whirlpools
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [corlysis/scripts](https://github.com/corlysis/scripts) - 
 - [thotro/arduino-dw1000](https://github.com/thotro/arduino-dw1000) - A library that offers functionality to use Decawave's DW1000 chips/modules with Arduino.
@@ -710,7 +710,7 @@
 ## Nix 
 
 - [hackclub/proxyparty](https://github.com/hackclub/proxyparty) - 🎊 An Nginx redirector and proxier for all of Hack Club's needs!
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 
 ## Objective-C 
 
@@ -1360,7 +1360,7 @@
 - [EdOverflow/hacks](https://github.com/EdOverflow/hacks) - Some random scripts. Just trying to be like the cool kids.
 - [Adelittle/Mass_Git_Scanner](https://github.com/Adelittle/Mass_Git_Scanner) - 
 - [HightechSec/git-scanner](https://github.com/HightechSec/git-scanner) - A tool for bug hunting or pentesting for targeting websites that have open .git repositories available in public
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal/home server OS for self-hosting with an app store. Install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal/home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
 - [Apocrathia/home-assistant-config](https://github.com/Apocrathia/home-assistant-config) - Apocrathia's Home Assistant Configuration Files
 - [CompSciLauren/awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks
 - [Odania-IT/docker-seopanel](https://github.com/Odania-IT/docker-seopanel) - 
