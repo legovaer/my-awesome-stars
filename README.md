@@ -401,7 +401,6 @@
 - [Vonage/Grafana_Status_panel](https://github.com/Vonage/Grafana_Status_panel) - A panel plugin for Grafana to monitor multiple parameters at once
 - [home-assistant/alerts.home-assistant.io](https://github.com/home-assistant/alerts.home-assistant.io) - Home Assistant Alerts
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
-- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
 - [fastender/blob](https://github.com/fastender/blob) - The Blob - Documentation
 - [AmoebeLabs/swiss-army-knife-card-manual](https://github.com/AmoebeLabs/swiss-army-knife-card-manual) - The documentation repository for the Swiss Army Knife custom card for Home Assistant.
 - [DeanCording/node-red-contrib-config](https://github.com/DeanCording/node-red-contrib-config) - A Node Red node for setting global and flow context data at startup
@@ -438,7 +437,7 @@
 
 ## JavaScript 
 
-- [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - A fractal mind-mapping tool with ai-integration.
+- [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - A fractal mind-mapping tool. Now with ai. Long-term memory, AutoGPT, Wolfram, Wikipedia, Google Search, Webpage/PDF extraction, html/python rendering.
 - [rogerquake/home_automation](https://github.com/rogerquake/home_automation) - 
 - [DJWoodZ/Satisfactory-Discord-Bot](https://github.com/DJWoodZ/Satisfactory-Discord-Bot) - A Discord bot that posts Satisfactory Dedicated Server status information such as online players.
 - [AmoebeLabs/swiss-army-knife-card](https://github.com/AmoebeLabs/swiss-army-knife-card) - The versatile custom Swiss Army Knife card for Home Assistant allows you to create your unique visualization using several graphical tools, styling options and animations.
@@ -995,6 +994,7 @@
 
 ## Python 
 
+- [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [etransport/py9b](https://github.com/etransport/py9b) - Ninebot/Xiaomi electric scooter communication library
 - [PiotrMachowski/Home-Assistant-custom-components-Custom-Templates](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Custom-Templates) - This integration adds possibility to use new functions in Home Assistant Jinja2 templating engine.
 - [azogue/eventsensor](https://github.com/azogue/eventsensor) - HomeAssistant custom sensor to track specific events
@@ -1209,6 +1209,7 @@
 - [chaos-genius/chaos_genius](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier detection and root cause analysis.
 - [skalavala/mysmarthome](https://github.com/skalavala/mysmarthome) - :star: ALIVE Again! :star: SmartHome - Nothing but smarthome stuff here! Have fun browsing through my home automation setup... ping me on Discord with any questions! :thumbsup:
 - [davisnando/ticketswap_bot](https://github.com/davisnando/ticketswap_bot) - Ticketswap bot
+- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensi
 - [finity69x2/nws_alerts](https://github.com/finity69x2/nws_alerts) - An updated version of the nws_alerts custom integration for Home Assistant
 - [octodns/octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
