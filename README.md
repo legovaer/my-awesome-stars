@@ -179,6 +179,7 @@
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [zbejas/portarius](https://github.com/zbejas/portarius) - Portarius is a free, open-source, cross-platform mobile app that allows you to manage your Portainer sessions.
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [Mastersam07/smarty](https://github.com/Mastersam07/smarty) - A smart home mobile application
 - [keeyanaz/Smart-Home](https://github.com/keeyanaz/Smart-Home) - just an upgraded version of an existing project.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -437,6 +438,8 @@
 
 ## JavaScript 
 
+- [pistazie/cdk-dia](https://github.com/pistazie/cdk-dia) - Automated diagrams of CDK provisioned infrastructure
+- [p6m7g8/awesome-projen](https://github.com/p6m7g8/awesome-projen) - P6M7G8's Awesome Projen
 - [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - A fractal mind-mapping tool. Now with ai. Long-term memory, AutoGPT, Wolfram, Wikipedia, Google Search, Webpage/PDF extraction, html/python rendering.
 - [rogerquake/home_automation](https://github.com/rogerquake/home_automation) - 
 - [DJWoodZ/Satisfactory-Discord-Bot](https://github.com/DJWoodZ/Satisfactory-Discord-Bot) - A Discord bot that posts Satisfactory Dedicated Server status information such as online players.
@@ -568,7 +571,6 @@
 - [outsideris/citizen](https://github.com/outsideris/citizen) - A Private Terraform Module/Provider Registry
 - [tecfu/tty-table](https://github.com/tecfu/tty-table) - Terminal table for Windows, Linux, and MacOS. Written in nodejs. Also works in browser console. Word wrap, padding, alignment, colors, Asian character support, per-column callbacks, and you can pass r
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
-- [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [brandonweiss/discharge](https://github.com/brandonweiss/discharge) - ⚡️ A simple, easy way to deploy static websites to Amazon S3.
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [ml5js/ml5-library](https://github.com/ml5js/ml5-library) - Friendly machine learning for the web! 🤖
@@ -722,6 +724,8 @@
 
 ## Others 
 
+- [kevinslin/open-cdk](https://github.com/kevinslin/open-cdk) - This guide is an opinionated set of tips and best practices for working with the AWS Cloud Development Kit
+- [kalaiser/awesome-cdk](https://github.com/kalaiser/awesome-cdk) - A collection of awesome things related to the AWS Cloud Development Kit (CDK)
 - [AalianKhan/mushroom-strategy](https://github.com/AalianKhan/mushroom-strategy) - A strategy to automatically generate a dashboard using mushroom cards
 - [firasdib/Regex101](https://github.com/firasdib/Regex101) - This repository is currently only used for issue tracking for www.regex101.com
 - [netbiosX/Checklists](https://github.com/netbiosX/Checklists) - Red Teaming & Pentesting checklists for various engagements
@@ -1309,7 +1313,6 @@
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [LinusCDE/chessmarkable](https://github.com/LinusCDE/chessmarkable) - Chess for the reMarkable using the rust pleco lib
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
@@ -1440,6 +1443,7 @@
 - [tmknom/template-terraform-module](https://github.com/tmknom/template-terraform-module) - Terraform module template following Standard Module Structure.
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [InfluxCommunity/InfluxDBv2_Telegraf_Docker](https://github.com/InfluxCommunity/InfluxDBv2_Telegraf_Docker) - Run InfluxDB 2.0 and Telegraf in containers
+- [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [unifi-utilities/unifios-utilities](https://github.com/unifi-utilities/unifios-utilities) - A collection of  enhancements for UnifiOS based devices
 - [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - NOTE: Most of the contents of this repository have been migrated to the new devcontainers GitHub org (https://github.com/devcontainers). See https://github.com/devcontainers/template-starter and https
 - [vmstan/gravity-sync](https://github.com/vmstan/gravity-sync) - 💫 The easy way to synchronize the DNS configuration of two Pi-hole 5.x instances.
@@ -1486,6 +1490,9 @@
 
 ## TypeScript 
 
+- [tecracer/cdk-templates](https://github.com/tecracer/cdk-templates) - Templates for aws cdk
+- [kolomied/cdk-stepfunctions-patterns](https://github.com/kolomied/cdk-stepfunctions-patterns) - A set of Step Functions high-level resiliency patterns.
+- [sam-goodwin/punchcard](https://github.com/sam-goodwin/punchcard) - Type-safe AWS infrastructure.
 - [deiucanta/chatpad](https://github.com/deiucanta/chatpad) - Not just another ChatGPT user-interface!
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [lesleyxyz/node-tile](https://github.com/lesleyxyz/node-tile) - Package to talk & ring to your Tile device
@@ -1592,7 +1599,7 @@
 - [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive) - An advanced calendar card for Home Assistant Lovelace.
 - [DBuit/sidebar-card](https://github.com/DBuit/sidebar-card) - 
 - [DBuit/Homekit-panel-card](https://github.com/DBuit/Homekit-panel-card) - Homekit panel card for home assistant
-- [emqx/MQTTX](https://github.com/emqx/MQTTX) - Powerful cross-platform MQTT 5.0 Desktop, CLI, and WebSocket client tools
+- [emqx/MQTTX](https://github.com/emqx/MQTTX) - A Powerful and All-in-One MQTT 5.0 client toolbox for Desktop, CLI and WebSocket.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [SvanBoxel/organization-workflows](https://github.com/SvanBoxel/organization-workflows) - Need to centrally manage and run Actions workflows across multiple repositories? This app does it for you.
