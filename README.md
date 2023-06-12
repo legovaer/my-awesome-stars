@@ -798,7 +798,7 @@
 - [pop3ret/AWSome-Pentesting](https://github.com/pop3ret/AWSome-Pentesting) - My cheatsheet notes to pentest AWS infrastructure
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 - [ChristianLempa/cheat-sheets](https://github.com/ChristianLempa/cheat-sheets) - This is my personal knowledge-base. Here you'll find code-snippets, technical documentation, and command reference for various tools, and technologies.
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2022
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
 - [Blackymas/NSPanel_HA_Blueprint](https://github.com/Blackymas/NSPanel_HA_Blueprint) - This allows you to configure your complete NSPanel via Blueprint with UI and without changing anything in the code
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
 - [shubhamgrg04/awesome-diagramming](https://github.com/shubhamgrg04/awesome-diagramming) - A curated collection of diagramming tools used by leading software engineering teams
