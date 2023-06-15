@@ -421,6 +421,7 @@
 
 ## Java 
 
+- [cdklabs/aws-cdk-testing-examples](https://github.com/cdklabs/aws-cdk-testing-examples) - 
 - [borconi/obd2aa](https://github.com/borconi/obd2aa) - OBD2 data using Torque on Android Auto
 - [kbox4/source](https://github.com/kbox4/source) - The builds scripts and packages that build everything in the KBOX distribution
 - [aress31/burpgpt](https://github.com/aress31/burpgpt) - A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities, and enables running traffic-based analysis of any type.
@@ -449,6 +450,7 @@
 - [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Fractal mind-mapping interface. OpenAi API with long-term memory, AutoGPT, Wolfram, Wikipedia, Google Search, Webpage/PDF extraction, html/python rendering.
 - [rogerquake/home_automation](https://github.com/rogerquake/home_automation) - 
 - [DJWoodZ/Satisfactory-Discord-Bot](https://github.com/DJWoodZ/Satisfactory-Discord-Bot) - A Discord bot that posts Satisfactory Dedicated Server status information such as online players.
+- [AalianKhan/mushroom-strategy](https://github.com/AalianKhan/mushroom-strategy) - A strategy to automatically generate a dashboard using mushroom cards
 - [AmoebeLabs/swiss-army-knife-card](https://github.com/AmoebeLabs/swiss-army-knife-card) - The versatile custom Swiss Army Knife card for Home Assistant allows you to create your unique visualization using several graphical tools, styling options and animations.
 - [daniel-j/send2ereader](https://github.com/daniel-j/send2ereader) - A service for sending ebooks to a Kobo or Kindle ereader through the built-in browser
 - [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, etc) using a simple React frontend.
@@ -698,6 +700,7 @@
 
 ## Makefile 
 
+- [kubealex/k8s-mediaserver-operator](https://github.com/kubealex/k8s-mediaserver-operator) - Repository for k8s Mediaserver Operator project
 - [dokku-community/dokku-supply-config](https://github.com/dokku-community/dokku-supply-config) - Put your Dokku configuration files in your app repository
 - [HariSekhon/GitHub-Actions](https://github.com/HariSekhon/GitHub-Actions) - GitHub Actions master template and GitHub Actions Reusable Workflows
 - [waveaccounting/terraform-aws-chatbot-slack-configuration](https://github.com/waveaccounting/terraform-aws-chatbot-slack-configuration) - Module to enable Chatbot Slack channel configuration in Terraform
@@ -731,9 +734,9 @@
 
 ## Others 
 
+- [gerardaus/cdk-examples](https://github.com/gerardaus/cdk-examples) - Cloudera Development Kit Examples
 - [kevinslin/open-cdk](https://github.com/kevinslin/open-cdk) - This guide is an opinionated set of tips and best practices for working with the AWS Cloud Development Kit
 - [kalaiser/awesome-cdk](https://github.com/kalaiser/awesome-cdk) - A collection of awesome things related to the AWS Cloud Development Kit (CDK)
-- [AalianKhan/mushroom-strategy](https://github.com/AalianKhan/mushroom-strategy) - A strategy to automatically generate a dashboard using mushroom cards
 - [firasdib/Regex101](https://github.com/firasdib/Regex101) - This repository is currently only used for issue tracking for www.regex101.com
 - [netbiosX/Checklists](https://github.com/netbiosX/Checklists) - Red Teaming & Pentesting checklists for various engagements
 - [0xd4y/Notes](https://github.com/0xd4y/Notes) - Cybersecurity Notes
@@ -1005,6 +1008,10 @@
 
 ## Python 
 
+- [adamjkeller/cdk-eks-demo](https://github.com/adamjkeller/cdk-eks-demo) - Demo to deploy an entire microservices application along with EKS cluster
+- [aftouh/cdk-template](https://github.com/aftouh/cdk-template) - 
+- [miztiik/cdk-demos](https://github.com/miztiik/cdk-demos) - A repository to hold my AWS Cloud Deployment Kit Demos 🎓
+- [miztiik/my-first-cdk-project](https://github.com/miztiik/my-first-cdk-project) - A hands on repo with multiple demonstrations on CDK: Used by Udemy Course🎓
 - [danielperna84/hass-configurator](https://github.com/danielperna84/hass-configurator) - Configuration UI for Home Assistant
 - [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) - Voice data &lt;= 10 mins can also be used to train a good VC model!
 - [fiatrete/OpenDAN-Personal-AI-OS](https://github.com/fiatrete/OpenDAN-Personal-AI-OS) - OpenDAN is an open source Personal AI OS , which consolidates various AI modules in one place for your personal use.
@@ -1361,7 +1368,7 @@
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 - [home-assistant/addons](https://github.com/home-assistant/addons) - :heavy_plus_sign: Docker add-ons for Home Assistant
 - [1N3/Findsploit](https://github.com/1N3/Findsploit) - Find exploits in local and online databases instantly
-- [1N3/Sn1per](https://github.com/1N3/Sn1per) - Automated Pentest Recon Scanner & Attack Surface Management Platform | Sn1per
+- [1N3/Sn1per](https://github.com/1N3/Sn1per) - External Attack Surface Management Platform
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [zardus/ctf-tools](https://github.com/zardus/ctf-tools) - Some setup scripts for security research tools.
 - [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
@@ -1503,6 +1510,18 @@
 
 ## TypeScript 
 
+- [cdklabs/cdk-cloudformation](https://github.com/cdklabs/cdk-cloudformation) - 
+- [aws-samples/cdk-eks-karpenter](https://github.com/aws-samples/cdk-eks-karpenter) - CDK construct for installing and configuring Karpenter on EKS clusters
+- [yjw113080/aws-cdk-eks-multi-region-skeleton](https://github.com/yjw113080/aws-cdk-eks-multi-region-skeleton) - 
+- [dannysteenman/aws-cdk-examples](https://github.com/dannysteenman/aws-cdk-examples) - A repository that contains AWS CDK code examples from my blog https://towardsthecloud.com
+- [yjw113080/aws-cdk-eks-multi-region](https://github.com/yjw113080/aws-cdk-eks-multi-region) - 
+- [fogfish/aws-cdk-pure](https://github.com/fogfish/aws-cdk-pure) - Purely Functional and high-order cloud components with AWS CDK
+- [aws-samples/amazon-eks-using-cdk-typescript](https://github.com/aws-samples/amazon-eks-using-cdk-typescript) - A sample project that deploys an EKS Cluster following a set of best practices with options to install additional addons.
+- [crossplane-contrib/crossplane-cdk8s](https://github.com/crossplane-contrib/crossplane-cdk8s) - Compose your own cloud APIs in Kubernetes using familiar languages.
+- [apoorvmote/cdk-examples](https://github.com/apoorvmote/cdk-examples) - These are CDK template/patterns that I came across my journey with AWS CDK.
+- [aws/aws-prototyping-sdk](https://github.com/aws/aws-prototyping-sdk) - Contains useful CDK and Projen constructs vended in multiple languages
+- [aws-samples/aws-cdk-pipelines-eks-cluster](https://github.com/aws-samples/aws-cdk-pipelines-eks-cluster) - This project uses CDK Pipelines to define a self mutating pipeline to deploy EKS Cluster(s). It uses CDK for cluster, node, infrastructure and app configuration.
+- [aws-samples/cdk-eks-blueprints-patterns](https://github.com/aws-samples/cdk-eks-blueprints-patterns) - Sample patterns repository for the Amazon EKS Bluepints for CDK
 - [tecracer/cdk-templates](https://github.com/tecracer/cdk-templates) - Templates for aws cdk
 - [kolomied/cdk-stepfunctions-patterns](https://github.com/kolomied/cdk-stepfunctions-patterns) - A set of Step Functions high-level resiliency patterns.
 - [sam-goodwin/punchcard](https://github.com/sam-goodwin/punchcard) - Type-safe AWS infrastructure.
