@@ -1387,7 +1387,6 @@
 - [EdOverflow/hacks](https://github.com/EdOverflow/hacks) - Some random scripts. Just trying to be like the cool kids.
 - [Adelittle/Mass_Git_Scanner](https://github.com/Adelittle/Mass_Git_Scanner) - 
 - [HightechSec/git-scanner](https://github.com/HightechSec/git-scanner) - A tool for bug hunting or pentesting for targeting websites that have open .git repositories available in public
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal/home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
 - [Apocrathia/home-assistant-config](https://github.com/Apocrathia/home-assistant-config) - Apocrathia's Home Assistant Configuration Files
 - [CompSciLauren/awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks
 - [Odania-IT/docker-seopanel](https://github.com/Odania-IT/docker-seopanel) - 
@@ -1433,7 +1432,7 @@
 - [dokku/docker-s3backup](https://github.com/dokku/docker-s3backup) - Backups streaming to S3 via s3gof3r in Docker
 - [dokku-community/dokku-list](https://github.com/dokku-community/dokku-list) - Dokku plugin to list apps
 - [dokku-community/dokku-acl](https://github.com/dokku-community/dokku-acl) - Access Control List management for Dokku.
-- [dwyl/learn-devops](https://github.com/dwyl/learn-devops) - :construction: Learn the craft of "DevOps" (Developer Operations) to Deploy your App and Monitor it so it stays "Up"!
+- [dwyl/learn-devops](https://github.com/dwyl/learn-devops) - 🚧 Learn the craft of "DevOps" (Developer Operations) to Deploy your App and Monitor it so it stays "Up"!
 - [dokku/github-action](https://github.com/dokku/github-action) - 
 - [glassechidna/dokku-graduate](https://github.com/glassechidna/dokku-graduate) - A simple environment life-cycle management plugin for Dokku.
 - [mlomnicki/dokku-deploy-hooks](https://github.com/mlomnicki/dokku-deploy-hooks) - Pre- and post-deploy hooks for dokku
@@ -1511,6 +1510,7 @@
 
 ## TypeScript 
 
+- [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletions.
 - [cdklabs/cdk-cloudformation](https://github.com/cdklabs/cdk-cloudformation) - 
 - [aws-samples/cdk-eks-karpenter](https://github.com/aws-samples/cdk-eks-karpenter) - CDK construct for installing and configuring Karpenter on EKS clusters
 - [yjw113080/aws-cdk-eks-multi-region-skeleton](https://github.com/yjw113080/aws-cdk-eks-multi-region-skeleton) - 
@@ -1653,6 +1653,7 @@
 
 - [jez500/bender](https://github.com/jez500/bender) - A link dashboard that can be managed completely via the browser
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal/home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
 - [Akryum/guijs](https://github.com/Akryum/guijs) - 🐣️ The app that makes your #devlife easier.
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
