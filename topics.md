@@ -356,7 +356,7 @@
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to orchestrate and observe your data pipelines
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [kalkih/mini-media-player](https://github.com/kalkih/mini-media-player) - Minimalistic media card for Home Assistant Lovelace UI
-- [dwyl/learn-devops](https://github.com/dwyl/learn-devops) - :construction: Learn the craft of "DevOps" (Developer Operations) to Deploy your App and Monitor it so it stays "Up"!
+- [dwyl/learn-devops](https://github.com/dwyl/learn-devops) - 🚧 Learn the craft of "DevOps" (Developer Operations) to Deploy your App and Monitor it so it stays "Up"!
 - [thejeffreystone/home-assistant-configuration](https://github.com/thejeffreystone/home-assistant-configuration) - My Old Home Assistant Config. For more Information visit -&gt;
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
 - [LeanerCloud/AutoSpotting](https://github.com/LeanerCloud/AutoSpotting) - Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups. Installs in minutes using CloudFormation or Terraform. Convenient to deploy at scale using Stac
@@ -576,7 +576,7 @@
 - [a-patel/terraform-aws-eks-workshop](https://github.com/a-patel/terraform-aws-eks-workshop) - Amazon EKS Terraform Workshop: Provision EKS Cluster in AWS using Terraform.
 - [antonputra/tutorials](https://github.com/antonputra/tutorials) - DevOps Tutorials
 - [dokku/docker-s3backup](https://github.com/dokku/docker-s3backup) - Backups streaming to S3 via s3gof3r in Docker
-- [dwyl/learn-devops](https://github.com/dwyl/learn-devops) - :construction: Learn the craft of "DevOps" (Developer Operations) to Deploy your App and Monitor it so it stays "Up"!
+- [dwyl/learn-devops](https://github.com/dwyl/learn-devops) - 🚧 Learn the craft of "DevOps" (Developer Operations) to Deploy your App and Monitor it so it stays "Up"!
 - [tobiasmcnulty/dokku-aws](https://github.com/tobiasmcnulty/dokku-aws) - One-click Dokku instance on AWS.
 - [nsriram/lambda-the-terraform-way](https://github.com/nsriram/lambda-the-terraform-way) - AWS Lambda using Terraform., an Introductory Cookbook
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
@@ -629,7 +629,7 @@
 - [belane/CloudHunter](https://github.com/belane/CloudHunter) - AWS, Azure, Alibaba and Google bucket scanner
 - [jonico/awesome-runners](https://github.com/jonico/awesome-runners) - A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix
 - [ravindrajob/Observability-Monitoring](https://github.com/ravindrajob/Observability-Monitoring) - Monitoring - Observability  with thanos + docker + Grafana stack
-- [dwyl/learn-devops](https://github.com/dwyl/learn-devops) - :construction: Learn the craft of "DevOps" (Developer Operations) to Deploy your App and Monitor it so it stays "Up"!
+- [dwyl/learn-devops](https://github.com/dwyl/learn-devops) - 🚧 Learn the craft of "DevOps" (Developer Operations) to Deploy your App and Monitor it so it stays "Up"!
 - [run-x/opta](https://github.com/run-x/opta) - The next generation of Infrastructure-as-Code. Work with high-level constructs instead of getting lost in low-level cloud configuration.
 - [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps) - Ultimate DevSecOps library
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
@@ -703,6 +703,7 @@
 
 ## chatgpt 
 
+- [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletions.
 - [deiucanta/chatpad](https://github.com/deiucanta/chatpad) - Not just another ChatGPT user-interface!
 - [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Dump all your files and thoughts into your private GenerativeAI Second Brain and chat with it 🧠
 - [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, epub, etc) using a simple React frontend.
@@ -962,7 +963,7 @@
 - [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [gitploy-io/gitploy](https://github.com/gitploy-io/gitploy) - Build the deployment system around GitHub in minutes.
 - [mardix/sailor](https://github.com/mardix/sailor) - Sailor is a tiny PaaS to install on your servers/VPS that uses git push to deploy micro-apps, micro-services, sites with SSL, on your own servers or VPS
-- [dwyl/learn-devops](https://github.com/dwyl/learn-devops) - :construction: Learn the craft of "DevOps" (Developer Operations) to Deploy your App and Monitor it so it stays "Up"!
+- [dwyl/learn-devops](https://github.com/dwyl/learn-devops) - 🚧 Learn the craft of "DevOps" (Developer Operations) to Deploy your App and Monitor it so it stays "Up"!
 - [dokku/github-action](https://github.com/dokku/github-action) - 
 - [vitalyliber/dokku-github-action](https://github.com/vitalyliber/dokku-github-action) - Deploy applications to Dokku
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
@@ -996,7 +997,7 @@
 - [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
 - [gitploy-io/gitploy](https://github.com/gitploy-io/gitploy) - Build the deployment system around GitHub in minutes.
 - [TaptuIT/awesome-devsecops](https://github.com/TaptuIT/awesome-devsecops) - Curating the best DevSecOps resources and tooling.
-- [dwyl/learn-devops](https://github.com/dwyl/learn-devops) - :construction: Learn the craft of "DevOps" (Developer Operations) to Deploy your App and Monitor it so it stays "Up"!
+- [dwyl/learn-devops](https://github.com/dwyl/learn-devops) - 🚧 Learn the craft of "DevOps" (Developer Operations) to Deploy your App and Monitor it so it stays "Up"!
 - [KarmaComputing/minimalcd](https://github.com/KarmaComputing/minimalcd) - Minimal viable Continuous delivery (CD) setup
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [nsriram/lambda-the-terraform-way](https://github.com/nsriram/lambda-the-terraform-way) - AWS Lambda using Terraform., an Introductory Cookbook
@@ -1097,7 +1098,7 @@
 - [cuigh/swirl](https://github.com/cuigh/swirl) - A web UI for Docker, focused on swarm cluster.
 - [dokku/docker-s3backup](https://github.com/dokku/docker-s3backup) - Backups streaming to S3 via s3gof3r in Docker
 - [mardix/sailor](https://github.com/mardix/sailor) - Sailor is a tiny PaaS to install on your servers/VPS that uses git push to deploy micro-apps, micro-services, sites with SSL, on your own servers or VPS
-- [dwyl/learn-devops](https://github.com/dwyl/learn-devops) - :construction: Learn the craft of "DevOps" (Developer Operations) to Deploy your App and Monitor it so it stays "Up"!
+- [dwyl/learn-devops](https://github.com/dwyl/learn-devops) - 🚧 Learn the craft of "DevOps" (Developer Operations) to Deploy your App and Monitor it so it stays "Up"!
 - [dokku/github-action](https://github.com/dokku/github-action) - 
 - [rclement/dokku-kibana](https://github.com/rclement/dokku-kibana) - Deploy Kibana (with LogTrail) on Dokku
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -2232,6 +2233,7 @@
 
 ## nextjs 
 
+- [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletions.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Developer-first AgentOps platform - deploy, test, and monitor AI agents
