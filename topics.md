@@ -1243,7 +1243,7 @@
 
 ## framework 
 
-- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Nightly Build artifacts for https://github.com/BuilderIO/qwik
+- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 - [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - Advanced Github OSINT Framework
 - [gluon-framework/gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS
 - [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - 💬 🤖  The most reliable tool for chatbots with advanced features. Be sure to 🌟 this repository for updates!
@@ -1840,7 +1840,7 @@
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
 - [sam-goodwin/punchcard](https://github.com/sam-goodwin/punchcard) - Type-safe AWS infrastructure.
 - [deiucanta/chatpad](https://github.com/deiucanta/chatpad) - Not just another ChatGPT user-interface!
-- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Nightly Build artifacts for https://github.com/BuilderIO/qwik
+- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 - [custom-cards/flex-table-card](https://github.com/custom-cards/flex-table-card) - Highly Flexible Lovelace Card - arbitrary contents/columns/rows, regex matched, perfect to show appdaemon created content and anything breaking out of the entity_id + attributes concept
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -2371,6 +2371,7 @@
 
 ## others 
 
+- [dsymbol/yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui) - A cross-platform GUI wrapper for yt-dlp written in PySide6
 - [usernein/tailwindcss-template-card](https://github.com/usernein/tailwindcss-template-card) - Custom card for Home Assistant that renders html code with TailwindCSS styles into the dashboard
 - [Hassassistant/OpenAssist](https://github.com/Hassassistant/OpenAssist) - 
 - [AlvinZhu/nuc_rgb](https://github.com/AlvinZhu/nuc_rgb) - CLI to control the RGB LED on Intel NUC 11/12 Extreme, for Linux and Windows
@@ -2870,9 +2871,6 @@
 - [dwainscheeren/dwains-dashboard-addons](https://github.com/dwainscheeren/dwains-dashboard-addons) - Dwains Dashboard Community Addons
 - [custom-components/sensor.unifigateway](https://github.com/custom-components/sensor.unifigateway) - High level health status of UniFi Security Gateway devices via UniFi Controller
 - [digineo/http-over-ssh](https://github.com/digineo/http-over-ssh) - HTTP over SSH transport for Prometheus
-- [LRvdLinden/weather_dd_addon](https://github.com/LRvdLinden/weather_dd_addon) - 🔧 By LRvdLinden --  Weather Dashboard in Home Assistant Dwains Dashboard.
-- [LRvdLinden/find_my_dd_addon](https://github.com/LRvdLinden/find_my_dd_addon) - 🗺️ By LRvdLinden -- Find My in Home Assistant Dwains Dashboard.
-- [LRvdLinden/security_dashboard_dd_addon](https://github.com/LRvdLinden/security_dashboard_dd_addon) - 🔧 By LRvdLinden -- A Home Assistant security dashboard for integration Dwains Dashboard.
 - [SvanBoxel/organization-workflows](https://github.com/SvanBoxel/organization-workflows) - Need to centrally manage and run Actions workflows across multiple repositories? This app does it for you.
 - [Aditi-hande/Indoor-Positioning-techniques](https://github.com/Aditi-hande/Indoor-Positioning-techniques) - Weighted centroid and basic trilateration on RSSI values from WIFI APs and BLE beacons.
 - [phanindraraja/Indoor-positioning-using-machine-learning](https://github.com/phanindraraja/Indoor-positioning-using-machine-learning) - 
@@ -3694,7 +3692,7 @@
 
 ## web 
 
-- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Nightly Build artifacts for https://github.com/BuilderIO/qwik
+- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 - [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity, support for English, 中文, 日本語, and 한국어. 让生产力加倍的 ChatGPT 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。
 - [arthaud/git-dumper](https://github.com/arthaud/git-dumper) - A tool to dump a git repository from a website
 - [gluon-framework/gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS
