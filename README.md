@@ -31,6 +31,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mustache](#mustache)
@@ -664,7 +665,6 @@
 
 ## Jupyter Notebook 
 
-- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [BARarch/contacts-scraper](https://github.com/BARarch/contacts-scraper) - Headless Python web scraping google app output
 - [craigbarratt/hass-pyscript-jupyter](https://github.com/craigbarratt/hass-pyscript-jupyter) - Jupyter kernel shim to connect to HASS pyscript
@@ -695,6 +695,10 @@
 
 - [chrisgrieser/.config](https://github.com/chrisgrieser/.config) - pseudometa's dotfiles
 - [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public) - My personal dotfiles
+
+## MDX 
+
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 
 ## Makefile 
 
@@ -919,9 +923,6 @@
 - [qiz-li/lovelace-soft-ui](https://github.com/qiz-li/lovelace-soft-ui) - 💫  Simple and clean Lovelace configuration
 - [louisfb01/best_AI_papers_2021](https://github.com/louisfb01/best_AI_papers_2021) - A  curated list of the latest breakthroughs in AI (in 2021) by release date with a clear video explanation, link to a more in-depth article, and code.
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
-- [LRvdLinden/weather_dd_addon](https://github.com/LRvdLinden/weather_dd_addon) - 🔧 By LRvdLinden --  Weather Dashboard in Home Assistant Dwains Dashboard.
-- [LRvdLinden/find_my_dd_addon](https://github.com/LRvdLinden/find_my_dd_addon) - 🗺️ By LRvdLinden -- Find My in Home Assistant Dwains Dashboard.
-- [LRvdLinden/security_dashboard_dd_addon](https://github.com/LRvdLinden/security_dashboard_dd_addon) - 🔧 By LRvdLinden -- A Home Assistant security dashboard for integration Dwains Dashboard.
 - [mKeRix/ansible-playbooks](https://github.com/mKeRix/ansible-playbooks) - Ansible Playbooks for my other projects like room-assistant.
 - [riramar/Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet) - Web Attack Cheat Sheet
 - [thomasmaxson/Home-Assistant-Configuration](https://github.com/thomasmaxson/Home-Assistant-Configuration) - Home Assistant Configuration files.
@@ -1008,6 +1009,7 @@
 
 ## Python 
 
+- [dsymbol/yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui) - A cross-platform GUI wrapper for yt-dlp written in PySide6
 - [Hassassistant/OpenAssist](https://github.com/Hassassistant/OpenAssist) - 
 - [AlvinZhu/nuc_rgb](https://github.com/AlvinZhu/nuc_rgb) - CLI to control the RGB LED on Intel NUC 11/12 Extreme, for Linux and Windows
 - [vinteo/hass-opensprinkler](https://github.com/vinteo/hass-opensprinkler) - OpenSprinkler Integration for Home Assistant
@@ -1530,7 +1532,7 @@
 - [lesleyxyz/node-tile](https://github.com/lesleyxyz/node-tile) - Package to talk & ring to your Tile device
 - [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Dump all your files and thoughts into your private GenerativeAI Second Brain and chat with it 🧠
 - [greeny/SatisfactoryTools](https://github.com/greeny/SatisfactoryTools) - Satisfactory Tools for planning and building the perfect base.
-- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Nightly Build artifacts for https://github.com/BuilderIO/qwik
+- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [smartcontractkit/smart-contract-examples](https://github.com/smartcontractkit/smart-contract-examples) - Example and sample projects
 - [Gh61/lovelace-hue-like-light-card](https://github.com/Gh61/lovelace-hue-like-light-card) - This card provides a Hue-like way to control your lights in Home Assistant.
