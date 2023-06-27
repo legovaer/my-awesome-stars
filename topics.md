@@ -354,7 +354,7 @@
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - OSINT automation for hackers.
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
-- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to orchestrate and observe your data pipelines
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [kalkih/mini-media-player](https://github.com/kalkih/mini-media-player) - Minimalistic media card for Home Assistant Lovelace UI
 - [dwyl/learn-devops](https://github.com/dwyl/learn-devops) - 🚧 Learn the craft of "DevOps" (Developer Operations) to Deploy your App and Monitor it so it stays "Up"!
@@ -871,7 +871,7 @@
 ## data 
 
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
-- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to orchestrate and observe your data pipelines
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
 - [robmarkcole/HASS-data-detective](https://github.com/robmarkcole/HASS-data-detective) - Explore and analyse your Home Assistant data
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines.
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Data integration platform for ELT pipelines from APIs, databases & files to warehouses & lakes.
@@ -894,7 +894,7 @@
 - [mikeroyal/Jupyter-Guide](https://github.com/mikeroyal/Jupyter-Guide) - Jupyter Guide
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 - [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2022
-- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to orchestrate and observe your data pipelines
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [robmarkcole/HASS-data-detective](https://github.com/robmarkcole/HASS-data-detective) - Explore and analyse your Home Assistant data
 - [markusschanta/awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) - A curated list of awesome Jupyter projects, libraries and resources
@@ -2786,7 +2786,6 @@
 - [InfluxCommunity/InfluxDBv2_Telegraf_Docker](https://github.com/InfluxCommunity/InfluxDBv2_Telegraf_Docker) - Run InfluxDB 2.0 and Telegraf in containers
 - [InfluxCommunity/Notebooks](https://github.com/InfluxCommunity/Notebooks) - A collection of Jupyter Notebook tutorials on anomaly detection, forecasting, and InfluxDB.
 - [finity69x2/nws_alerts](https://github.com/finity69x2/nws_alerts) - An updated version of the nws_alerts custom integration for Home Assistant
-- [k8s-at-home/awesome-home-kubernetes](https://github.com/k8s-at-home/awesome-home-kubernetes) - ⚠️ Deprecated: Awesome projects involving running Kubernetes at home
 - [Netflix/Hystrix](https://github.com/Netflix/Hystrix) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distr
 - [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
 - [nagyrobi/home-assistant-configuration-examples](https://github.com/nagyrobi/home-assistant-configuration-examples) - Some of my Home Assistant configurations shared to the community
@@ -3112,7 +3111,7 @@
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - OSINT automation for hackers.
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
-- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to orchestrate and observe your data pipelines
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
 - [mardix/sailor](https://github.com/mardix/sailor) - Sailor is a tiny PaaS to install on your servers/VPS that uses git push to deploy micro-apps, micro-services, sites with SSL, on your own servers or VPS
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
