@@ -1356,7 +1356,7 @@
 
 ## Shell 
 
-- [pijarr/pijarr](https://github.com/pijarr/pijarr) - A shell script to automate the setup and configuration of Jackett, Sonarr, Radarr, Lidarr, Readarr and Prowlarr on a Raspberry Pi and x64 Intel and AMD systems.
+- [pijarr/pijarr](https://github.com/pijarr/pijarr) - A shell script to automate the installation and configuration of Jackett, Sonarr, Radarr, Lidarr, Readarr, Prowlarr, and Bazarr on Debian based distros.
 - [Cloudbox/Cloudbox](https://github.com/Cloudbox/Cloudbox) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
 - [CharlesChiuGit/Logseq-Git-Sync-101](https://github.com/CharlesChiuGit/Logseq-Git-Sync-101) - This repo aims to help Logseq users to sync their data with Git and GitHub.
 - [TechSquidTV/UltimateHomeServer](https://github.com/TechSquidTV/UltimateHomeServer) - Configure the ultimate home server with k3s and helm
@@ -1418,7 +1418,6 @@
 - [huntabyte/tig-stack](https://github.com/huntabyte/tig-stack) - The Telegraf, InfluxDB, & Grafana stack (TIG) powered by Docker & Docker Compose.
 - [sonnyyu/docker-prometheus-haproxy-stack](https://github.com/sonnyyu/docker-prometheus-haproxy-stack) - Prometheus, Grafana, cAdvisor, NodeExporter, Telegraf and alerting with AlertManager.
 - [Graylog2/docker-compose](https://github.com/Graylog2/docker-compose) - A set of Docker Compose files that allow you to quickly spin up a Graylog instance for testing or demo purposes.
-- [rixon-cochi/SMF](https://github.com/rixon-cochi/SMF) - Social media hacking
 - [htr-tech/nexphisher](https://github.com/htr-tech/nexphisher) - Advanced Phishing tool
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 - [kubernetes/examples](https://github.com/kubernetes/examples) - Kubernetes application example tutorials
