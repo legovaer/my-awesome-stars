@@ -2371,6 +2371,7 @@
 
 ## others 
 
+- [THUDM/ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) - ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型
 - [dsymbol/yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui) - A cross-platform GUI wrapper for yt-dlp written in PySide6
 - [usernein/tailwindcss-template-card](https://github.com/usernein/tailwindcss-template-card) - Custom card for Home Assistant that renders html code with TailwindCSS styles into the dashboard
 - [Hassassistant/OpenAssist](https://github.com/Hassassistant/OpenAssist) - 
