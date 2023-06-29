@@ -1008,6 +1008,7 @@
 
 ## Python 
 
+- [THUDM/ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) - ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型
 - [dsymbol/yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui) - A cross-platform GUI wrapper for yt-dlp written in PySide6
 - [Hassassistant/OpenAssist](https://github.com/Hassassistant/OpenAssist) - 
 - [AlvinZhu/nuc_rgb](https://github.com/AlvinZhu/nuc_rgb) - CLI to control the RGB LED on Intel NUC 11/12 Extreme, for Linux and Windows
