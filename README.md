@@ -588,7 +588,7 @@
 - [gadgetchnnel/lovelace-card-templater](https://github.com/gadgetchnnel/lovelace-card-templater) - Custom Lovelace card which allows Jinja2 templates to be applied to other cards
 - [home-assistant/data.home-assistant](https://github.com/home-assistant/data.home-assistant) - Data Science Portal for Home Assistant.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop 
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [klaasnicolaas/Student-homeassistant-config](https://github.com/klaasnicolaas/Student-homeassistant-config) - 🎓 Student Home configuration. Stay informed by 🌟 this repository for updates!
 - [pinkywafer/Home-Assistant_Config](https://github.com/pinkywafer/Home-Assistant_Config) - 
 - [pdonald/realtime-stats](https://github.com/pdonald/realtime-stats) - 
@@ -1356,6 +1356,7 @@
 
 ## Shell 
 
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [pijarr/pijarr](https://github.com/pijarr/pijarr) - A shell script to automate the installation and configuration of Jackett, Sonarr, Radarr, Lidarr, Readarr, Prowlarr, and Bazarr on Debian based distros.
 - [Cloudbox/Cloudbox](https://github.com/Cloudbox/Cloudbox) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
 - [CharlesChiuGit/Logseq-Git-Sync-101](https://github.com/CharlesChiuGit/Logseq-Git-Sync-101) - This repo aims to help Logseq users to sync their data with Git and GitHub.
@@ -1508,6 +1509,7 @@
 
 ## TypeScript 
 
+- [aeharding/wefwef](https://github.com/aeharding/wefwef) - wefwef — a mobile-first Lemmy web client
 - [usernein/tailwindcss-template-card](https://github.com/usernein/tailwindcss-template-card) - Custom card for Home Assistant that renders html code with TailwindCSS styles into the dashboard
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [cdklabs/cdk-cloudformation](https://github.com/cdklabs/cdk-cloudformation) - 
@@ -1528,7 +1530,7 @@
 - [deiucanta/chatpad](https://github.com/deiucanta/chatpad) - Not just another ChatGPT user-interface!
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [lesleyxyz/node-tile](https://github.com/lesleyxyz/node-tile) - Package to talk & ring to your Tile device
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Chat with your files, audio, video, csv with your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠
 - [greeny/SatisfactoryTools](https://github.com/greeny/SatisfactoryTools) - Satisfactory Tools for planning and building the perfect base.
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
