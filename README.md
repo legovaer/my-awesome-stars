@@ -107,6 +107,7 @@
 
 ## C++ 
 
+- [badaix/snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
 - [Hagakurje/ESPHome_Gree_AC](https://github.com/Hagakurje/ESPHome_Gree_AC) - 
 - [limengdu/MR24HPC1_HomeAssistant](https://github.com/limengdu/MR24HPC1_HomeAssistant) - 
 - [limengdu/Seeed_24GHz_Human_Static_Presence_Module_Lite](https://github.com/limengdu/Seeed_24GHz_Human_Static_Presence_Module_Lite) - 
@@ -448,6 +449,7 @@
 
 ## JavaScript 
 
+- [localstack/aws-cdk-local](https://github.com/localstack/aws-cdk-local) - Thin wrapper script for using the AWS CDK CLI with LocalStack
 - [Phalcode/crackpipe-docs](https://github.com/Phalcode/crackpipe-docs) - Documentation for the decentralized gaming platform for 'alternatively obtained' games
 - [jonasschmedtmann/ultimate-react-course](https://github.com/jonasschmedtmann/ultimate-react-course) - Starter files, final projects, and FAQ for my Ultimate React course
 - [pistazie/cdk-dia](https://github.com/pistazie/cdk-dia) - Automated diagrams of CDK provisioned infrastructure
@@ -744,6 +746,7 @@
 
 ## Others 
 
+- [awsdocs/aws-cdk-guide](https://github.com/awsdocs/aws-cdk-guide) - User guide for the AWS Cloud Development Kit (CDK).
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 - [TechGeek01/Homelab-Ansible](https://github.com/TechGeek01/Homelab-Ansible) - A collection of my Ansible stuffs
 - [nickjg1/homeserver-ansible](https://github.com/nickjg1/homeserver-ansible) - Quickly setup your own HomeServer/NAS with these playbooks
@@ -1019,6 +1022,9 @@
 
 ## Python 
 
+- [aws-samples/aws-cdk-managed-elkk](https://github.com/aws-samples/aws-cdk-managed-elkk) - Managed ELKK stack implemented with the AWS CDK
+- [aws-samples/aws-cdk-eks-flux](https://github.com/aws-samples/aws-cdk-eks-flux) - 
+- [aws-samples/aws-cdk-examples](https://github.com/aws-samples/aws-cdk-examples) - Example projects using the AWS CDK
 - [opsdroid/opsdroid](https://github.com/opsdroid/opsdroid) - 🤖 An open source chat-ops bot framework
 - [atosatto/ansible-dockerswarm](https://github.com/atosatto/ansible-dockerswarm) - Docker Engine clustering using "Swarm Mode" and Ansible
 - [nathancurry/homelab.ansible](https://github.com/nathancurry/homelab.ansible) - Ansible orchestration for my Home Lab
@@ -1529,6 +1535,10 @@
 
 ## TypeScript 
 
+- [kosimst/spotify-hue-sync](https://github.com/kosimst/spotify-hue-sync) - 
+- [cloudcomponents/cdk-constructs](https://github.com/cloudcomponents/cdk-constructs) - A collection of higher-level reusable cdk constructs
+- [aws-samples/amazon-eks-cicd-codebuild](https://github.com/aws-samples/amazon-eks-cicd-codebuild) - Amazon EKS CI/CD with CodeBuild in AWS CDK
+- [aws-quickstart/cdk-eks-blueprints](https://github.com/aws-quickstart/cdk-eks-blueprints) - AWS Quick Start Team
 - [ixahmedxi/noodle](https://github.com/ixahmedxi/noodle) - Open Source Education Platform
 - [aeharding/wefwef](https://github.com/aeharding/wefwef) - wefwef — a mobile-first Lemmy web client
 - [usernein/tailwindcss-template-card](https://github.com/usernein/tailwindcss-template-card) - Custom card for Home Assistant that renders html code with TailwindCSS styles into the dashboard
