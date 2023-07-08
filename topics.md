@@ -575,6 +575,7 @@
 
 ## aws 
 
+- [cloudcomponents/cdk-constructs](https://github.com/cloudcomponents/cdk-constructs) - A collection of higher-level reusable cdk constructs
 - [aws-samples/cdk-eks-karpenter](https://github.com/aws-samples/cdk-eks-karpenter) - CDK construct for installing and configuring Karpenter on EKS clusters
 - [dannysteenman/aws-cdk-examples](https://github.com/dannysteenman/aws-cdk-examples) - A repository that contains AWS CDK code examples from my blog https://towardsthecloud.com
 - [fogfish/aws-cdk-pure](https://github.com/fogfish/aws-cdk-pure) - Purely Functional and high-order cloud components with AWS CDK
@@ -997,6 +998,7 @@
 
 ## devops 
 
+- [cloudcomponents/cdk-constructs](https://github.com/cloudcomponents/cdk-constructs) - A collection of higher-level reusable cdk constructs
 - [opsdroid/opsdroid](https://github.com/opsdroid/opsdroid) - 🤖 An open source chat-ops bot framework
 - [lento234/homelab](https://github.com/lento234/homelab) - Personal homelab setup
 - [mr-karan/hydra](https://github.com/mr-karan/hydra) - Infra-as-code for my personal home server setup
@@ -1320,6 +1322,7 @@
 
 ## github 
 
+- [cloudcomponents/cdk-constructs](https://github.com/cloudcomponents/cdk-constructs) - A collection of higher-level reusable cdk constructs
 - [CharlesChiuGit/Logseq-Git-Sync-101](https://github.com/CharlesChiuGit/Logseq-Git-Sync-101) - This repo aims to help Logseq users to sync their data with Git and GitHub.
 - [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - Advanced Github OSINT Framework
 - [gwen001/github-subdomains](https://github.com/gwen001/github-subdomains) - Find subdomains on GitHub.
@@ -2237,6 +2240,7 @@
 
 ## music 
 
+- [badaix/snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
 - [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot) - An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [LinuxCafeFederation/awesome-android](https://github.com/LinuxCafeFederation/awesome-android) - A curated list of awesome open source Android applications, tutorials and resources.
@@ -2404,6 +2408,14 @@
 
 ## others 
 
+- [kosimst/spotify-hue-sync](https://github.com/kosimst/spotify-hue-sync) - 
+- [aws-samples/aws-cdk-managed-elkk](https://github.com/aws-samples/aws-cdk-managed-elkk) - Managed ELKK stack implemented with the AWS CDK
+- [aws-samples/aws-cdk-eks-flux](https://github.com/aws-samples/aws-cdk-eks-flux) - 
+- [localstack/aws-cdk-local](https://github.com/localstack/aws-cdk-local) - Thin wrapper script for using the AWS CDK CLI with LocalStack
+- [aws-samples/amazon-eks-cicd-codebuild](https://github.com/aws-samples/amazon-eks-cicd-codebuild) - Amazon EKS CI/CD with CodeBuild in AWS CDK
+- [aws-quickstart/cdk-eks-blueprints](https://github.com/aws-quickstart/cdk-eks-blueprints) - AWS Quick Start Team
+- [awsdocs/aws-cdk-guide](https://github.com/awsdocs/aws-cdk-guide) - User guide for the AWS Cloud Development Kit (CDK).
+- [aws-samples/aws-cdk-examples](https://github.com/aws-samples/aws-cdk-examples) - Example projects using the AWS CDK
 - [cdown/sshrc](https://github.com/cdown/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you ssh
 - [sebglazebrook/aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic aliases for the bash shell
 - [TechGeek01/Homelab-Ansible](https://github.com/TechGeek01/Homelab-Ansible) - A collection of my Ansible stuffs
