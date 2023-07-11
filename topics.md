@@ -1497,6 +1497,7 @@
 
 ## hacktoberfest 
 
+- [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs.
 - [vinteo/hass-opensprinkler](https://github.com/vinteo/hass-opensprinkler) - OpenSprinkler Integration for Home Assistant
 - [kubealex/k8s-mediaserver-operator](https://github.com/kubealex/k8s-mediaserver-operator) - Repository for k8s Mediaserver Operator project
 - [home-assistant/addons](https://github.com/home-assistant/addons) - :heavy_plus_sign: Docker add-ons for Home Assistant
@@ -1630,6 +1631,7 @@
 
 ## home-assistant 
 
+- [chazzu/hass-animated-scenes](https://github.com/chazzu/hass-animated-scenes) - Custom component for Home Assistant which allows you to create animated color and brightness scenes with many options.
 - [vinteo/hass-opensprinkler](https://github.com/vinteo/hass-opensprinkler) - OpenSprinkler Integration for Home Assistant
 - [hassio-addons/addon-airsonos](https://github.com/hassio-addons/addon-airsonos) - AirSonos - Home Assistant Community Add-ons
 - [thefipster/esphome-mmwave-sensors](https://github.com/thefipster/esphome-mmwave-sensors) - ESPHome integration for mmWave Sensors from Seeed Studio
@@ -2403,6 +2405,8 @@
 
 ## others 
 
+- [surprisetalk/blogs.hn](https://github.com/surprisetalk/blogs.hn) - tiny directory of tech blogs
+- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [kosimst/spotify-hue-sync](https://github.com/kosimst/spotify-hue-sync) - 
 - [aws-samples/aws-cdk-managed-elkk](https://github.com/aws-samples/aws-cdk-managed-elkk) - Managed ELKK stack implemented with the AWS CDK
 - [aws-samples/aws-cdk-eks-flux](https://github.com/aws-samples/aws-cdk-eks-flux) - 
@@ -2417,7 +2421,7 @@
 - [natelandau/ansible-homelab-config](https://github.com/natelandau/ansible-homelab-config) - Ansible scripts to configure my homelab using Consul, Nomad, Docker, Traefik, and more...
 - [nathancurry/homelab.ansible](https://github.com/nathancurry/homelab.ansible) - Ansible orchestration for my Home Lab
 - [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware) - Autoware - the world's leading open-source software project for autonomous driving
-- [aeharding/wefwef](https://github.com/aeharding/wefwef) - wefwef — a mobile-first Lemmy web client
+- [aeharding/voyager](https://github.com/aeharding/voyager) - Voyager — a mobile-first Lemmy web client (formerly wefwef)
 - [THUDM/ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) - ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型
 - [dsymbol/yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui) - A cross-platform GUI wrapper for yt-dlp written in PySide6
 - [usernein/tailwindcss-template-card](https://github.com/usernein/tailwindcss-template-card) - Custom card for Home Assistant that renders html code with TailwindCSS styles into the dashboard
