@@ -12,6 +12,7 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
+- [CMake](#cmake)
 - [CSS](#css)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
@@ -107,6 +108,7 @@
 
 ## C++ 
 
+- [sblantipodi/glow_worm_luciferin](https://github.com/sblantipodi/glow_worm_luciferin) - Bias Lighting and Ambient Light firmware, designed for Firefly Luciferin.
 - [badaix/snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
 - [Hagakurje/ESPHome_Gree_AC](https://github.com/Hagakurje/ESPHome_Gree_AC) - 
 - [limengdu/MR24HPC1_HomeAssistant](https://github.com/limengdu/MR24HPC1_HomeAssistant) - 
@@ -135,6 +137,10 @@
 - [thotro/arduino-dw1000](https://github.com/thotro/arduino-dw1000) - A library that offers functionality to use Decawave's DW1000 chips/modules with Arduino.
 - [DominikN/ESP32-http-websocket](https://github.com/DominikN/ESP32-http-websocket) - ESP32 + HTTP server + websockets + Bootstrap + Husarnet. A simple project template showing how to use those technologies to create a fast, pretty and secure web UI hosted on ESP32. Works in LAN and ov
 - [husarnet/husarnet](https://github.com/husarnet/husarnet) - Husarnet is a Peer-to-Peer VPN to connect your laptops, servers and microcontrollers over the Internet with zero configuration.
+
+## CMake 
+
+- [hyperion-project/hyperion-obs-plugin](https://github.com/hyperion-project/hyperion-obs-plugin) - OBS Studio output plugin for Hyperion.ng
 
 ## CSS 
 
@@ -425,6 +431,8 @@
 
 ## Java 
 
+- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - A brand-new shell connection hub and remote file manager
+- [sblantipodi/firefly_luciferin](https://github.com/sblantipodi/firefly_luciferin) - Very fast Java screen capture PC software designed for the Glow Worm Luciferin firmware, the combination of these software create the perfect Bias Lighting and Ambient Light system for PC.
 - [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight virtual keyboard for developers.
 - [cdklabs/aws-cdk-testing-examples](https://github.com/cdklabs/aws-cdk-testing-examples) - 
 - [borconi/obd2aa](https://github.com/borconi/obd2aa) - OBD2 data using Torque on Android Auto
@@ -449,13 +457,14 @@
 
 ## JavaScript 
 
+- [surprisetalk/blogs.hn](https://github.com/surprisetalk/blogs.hn) - tiny directory of tech blogs
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs.
 - [localstack/aws-cdk-local](https://github.com/localstack/aws-cdk-local) - Thin wrapper script for using the AWS CDK CLI with LocalStack
 - [Phalcode/crackpipe-docs](https://github.com/Phalcode/crackpipe-docs) - Documentation for the decentralized gaming platform for 'alternatively obtained' games
 - [jonasschmedtmann/ultimate-react-course](https://github.com/jonasschmedtmann/ultimate-react-course) - Starter files, final projects, and FAQ for my Ultimate React course
 - [pistazie/cdk-dia](https://github.com/pistazie/cdk-dia) - Automated diagrams of CDK provisioned infrastructure
 - [p6m7g8/awesome-projen](https://github.com/p6m7g8/awesome-projen) - P6M7G8's Awesome Projen
-- [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Fractal mind-mapping interface. OpenAi API with long-term memory, AutoGPT, Wolfram, Wikipedia, Google Search, Webpage/PDF extraction, html/python rendering.
+- [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Fractal mind-mapping interface. Local Ai via WebLLM, OpenAi API with long-term memory, AutoGPT, Wolfram, Wikipedia, Google Search, Webpage/PDF extraction, html/python rendering.
 - [rogerquake/home_automation](https://github.com/rogerquake/home_automation) - 
 - [DJWoodZ/Satisfactory-Discord-Bot](https://github.com/DJWoodZ/Satisfactory-Discord-Bot) - A Discord bot that posts Satisfactory Dedicated Server status information such as online players.
 - [AalianKhan/mushroom-strategy](https://github.com/AalianKhan/mushroom-strategy) - A strategy to automatically generate a dashboard using mushroom cards
@@ -1023,6 +1032,7 @@
 
 ## Python 
 
+- [diyhue/diyHue](https://github.com/diyhue/diyHue) - Main diyHue software repo
 - [chazzu/hass-animated-scenes](https://github.com/chazzu/hass-animated-scenes) - Custom component for Home Assistant which allows you to create animated color and brightness scenes with many options.
 - [aws-samples/aws-cdk-managed-elkk](https://github.com/aws-samples/aws-cdk-managed-elkk) - Managed ELKK stack implemented with the AWS CDK
 - [aws-samples/aws-cdk-eks-flux](https://github.com/aws-samples/aws-cdk-eks-flux) - 
@@ -1137,7 +1147,7 @@
 - [AlexFWulff/SnarkyHomeAutomation](https://github.com/AlexFWulff/SnarkyHomeAutomation) - 
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 - [taranjeet/unofficial-chatgpt-api](https://github.com/taranjeet/unofficial-chatgpt-api) - This repo is unofficial ChatGPT api. It is based on Daniel Gross's WhatsApp GPT
-- [mmabrouk/chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) - API for interacting with ChatGPT and GPT4 using Python and from Shell.
+- [llm-workflow-engine/llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine) - API for interacting with ChatGPT and GPT4 using Python and from Shell.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [gigafide/pi-smart-car](https://github.com/gigafide/pi-smart-car) - Raspberry Pi powered smart car
 - [feignbird/ChatterBot-spacy_fixed](https://github.com/feignbird/ChatterBot-spacy_fixed) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots
@@ -1543,7 +1553,7 @@
 - [aws-samples/amazon-eks-cicd-codebuild](https://github.com/aws-samples/amazon-eks-cicd-codebuild) - Amazon EKS CI/CD with CodeBuild in AWS CDK
 - [aws-quickstart/cdk-eks-blueprints](https://github.com/aws-quickstart/cdk-eks-blueprints) - AWS Quick Start Team
 - [ixahmedxi/noodle](https://github.com/ixahmedxi/noodle) - Open Source Education Platform
-- [aeharding/wefwef](https://github.com/aeharding/wefwef) - wefwef — a mobile-first Lemmy web client
+- [aeharding/voyager](https://github.com/aeharding/voyager) - Voyager — a mobile-first Lemmy web client (formerly wefwef)
 - [usernein/tailwindcss-template-card](https://github.com/usernein/tailwindcss-template-card) - Custom card for Home Assistant that renders html code with TailwindCSS styles into the dashboard
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [cdklabs/cdk-cloudformation](https://github.com/cdklabs/cdk-cloudformation) - 
