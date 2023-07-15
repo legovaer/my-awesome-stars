@@ -184,6 +184,7 @@
 
 - [bauerj/paperless_app](https://github.com/bauerj/paperless_app) - An Android/iOS app for Paperless
 - [qcasey/paperless_share](https://github.com/qcasey/paperless_share) - Android App to share your documents with your Paperless server
+- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [zbejas/portarius](https://github.com/zbejas/portarius) - Portarius is a free, open-source, cross-platform mobile app that allows you to manage your Portainer sessions.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
@@ -464,7 +465,7 @@
 - [jonasschmedtmann/ultimate-react-course](https://github.com/jonasschmedtmann/ultimate-react-course) - Starter files, final projects, and FAQ for my Ultimate React course
 - [pistazie/cdk-dia](https://github.com/pistazie/cdk-dia) - Automated diagrams of CDK provisioned infrastructure
 - [p6m7g8/awesome-projen](https://github.com/p6m7g8/awesome-projen) - P6M7G8's Awesome Projen
-- [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Fractal mind-mapping interface. Local Ai via WebLLM, OpenAi API with long-term memory, AutoGPT, Wolfram, Wikipedia, Google Search, Webpage/PDF extraction, html/python rendering.
+- [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Neurite: Fractal mind-mapping interface. In-browser Ai via WebLLM, OpenAi API with long-term memory, AutoGPT, Wolfram, Wikipedia, Google Search, Webpage/PDF extraction, html/python rendering.
 - [rogerquake/home_automation](https://github.com/rogerquake/home_automation) - 
 - [DJWoodZ/Satisfactory-Discord-Bot](https://github.com/DJWoodZ/Satisfactory-Discord-Bot) - A Discord bot that posts Satisfactory Dedicated Server status information such as online players.
 - [AalianKhan/mushroom-strategy](https://github.com/AalianKhan/mushroom-strategy) - A strategy to automatically generate a dashboard using mushroom cards
@@ -1595,7 +1596,6 @@
 - [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity, support for English,中文,Español,العربية. 让生产力加倍的 ChatGPT 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。
 - [stdword/logseq13-full-house-plugin](https://github.com/stdword/logseq13-full-house-plugin) - Logseq Templates you will really love ❤️
 - [Anonyfox/rake-js](https://github.com/Anonyfox/rake-js) - A pure JS implementation of the Rapid Automated Keyword Extraction (RAKE) algorithm.
-- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code/low-code platform to build internal tools.
 - [yoyurec/logseq-sticky-headers](https://github.com/yoyurec/logseq-sticky-headers) - 📌 H1-H5 headers stick on content scroll. Logseq  pligin
 - [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT
