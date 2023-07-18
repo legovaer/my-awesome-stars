@@ -465,7 +465,7 @@
 - [jonasschmedtmann/ultimate-react-course](https://github.com/jonasschmedtmann/ultimate-react-course) - Starter files, final projects, and FAQ for my Ultimate React course
 - [pistazie/cdk-dia](https://github.com/pistazie/cdk-dia) - Automated diagrams of CDK provisioned infrastructure
 - [p6m7g8/awesome-projen](https://github.com/p6m7g8/awesome-projen) - P6M7G8's Awesome Projen
-- [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Neurite: Fractal mind-mapping interface. In-browser Ai via WebLLM, OpenAi API with long-term memory, AutoGPT, Wolfram, Wikipedia, Google Search, Webpage/PDF extraction, html/python rendering.
+- [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Neurite: Fractal mind-mapping interface. In-browser Ai via WebLLM, OpenAi API with long-term memory, AutoGPT, Wolfram, Wikipedia, Google Search, webpage/PDF extraction, HTML/Python rendering.
 - [rogerquake/home_automation](https://github.com/rogerquake/home_automation) - 
 - [DJWoodZ/Satisfactory-Discord-Bot](https://github.com/DJWoodZ/Satisfactory-Discord-Bot) - A Discord bot that posts Satisfactory Dedicated Server status information such as online players.
 - [AalianKhan/mushroom-strategy](https://github.com/AalianKhan/mushroom-strategy) - A strategy to automatically generate a dashboard using mushroom cards
@@ -1033,6 +1033,7 @@
 
 ## Python 
 
+- [RanzQ/hyperion-audio-effects](https://github.com/RanzQ/hyperion-audio-effects) - Hyperion audio effects dev kit using Gstreamer
 - [diyhue/diyHue](https://github.com/diyhue/diyHue) - Main diyHue software repo
 - [chazzu/hass-animated-scenes](https://github.com/chazzu/hass-animated-scenes) - Custom component for Home Assistant which allows you to create animated color and brightness scenes with many options.
 - [aws-samples/aws-cdk-managed-elkk](https://github.com/aws-samples/aws-cdk-managed-elkk) - Managed ELKK stack implemented with the AWS CDK
