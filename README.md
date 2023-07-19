@@ -80,7 +80,7 @@
 - [matthiasbock/canon-pixma-printer-driver](https://github.com/matthiasbock/canon-pixma-printer-driver) - IJ Printer Driver Ver. 3.80 for Linux
 - [adamdoupe/adamd-pocs](https://github.com/adamdoupe/adamd-pocs) - 
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time! https://www.netdata.cloud
+- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) - GameStream client for Android
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
@@ -211,6 +211,7 @@
 - [vulhub/vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
 - [bertbaron/hassio-addons](https://github.com/bertbaron/hassio-addons) - My Home Assistant addons
 - [nolte/vscode-devcontainers](https://github.com/nolte/vscode-devcontainers) - 
+- [solidnerd/docker-bookstack](https://github.com/solidnerd/docker-bookstack) - BookStack in a container
 
 ## EJS 
 
@@ -659,6 +660,7 @@
 
 ## Jinja 
 
+- [neuroforgede/promswarm](https://github.com/neuroforgede/promswarm) - Modernized swarmprom
 - [lento234/homelab](https://github.com/lento234/homelab) - Personal homelab setup
 - [whalecoiner/home](https://github.com/whalecoiner/home) - Configuration for my home network/lab/playground.
 - [Freekers/ansible-adguard](https://github.com/Freekers/ansible-adguard) - Ansible playbook to setup AdGuard Home with Unbound, including DoH, DoT & Let's Encrypt, based on Docker
@@ -758,6 +760,7 @@
 
 ## Others 
 
+- [eximo84/homeassistant-config-v2](https://github.com/eximo84/homeassistant-config-v2) - Home Assistant Configuration including Lovelace YAML
 - [awsdocs/aws-cdk-guide](https://github.com/awsdocs/aws-cdk-guide) - User guide for the AWS Cloud Development Kit (CDK).
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 - [TechGeek01/Homelab-Ansible](https://github.com/TechGeek01/Homelab-Ansible) - A collection of my Ansible stuffs
@@ -1106,7 +1109,7 @@
 - [sbrunner/scan-to-paperless](https://github.com/sbrunner/scan-to-paperless) - 
 - [davidusb-geek/emhass](https://github.com/davidusb-geek/emhass) - emhass: Energy Management for Home Assistant, is a Python module designed to optimize your home energy interfacing with Home Assistant.
 - [chiahsing/nest_hub](https://github.com/chiahsing/nest_hub) - Home Assistant pyscript for using Nest Hub as a dashboard
-- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - Advanced Github OSINT Framework
+- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An all-in-one GitHub open-source intelligence framework.
 - [AzeemIdrisi/PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro) - An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.
 - [Datalux/Osintgram](https://github.com/Datalux/Osintgram) - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
 - [NiklasReiche/ad-spotify-mood-lights-sync](https://github.com/NiklasReiche/ad-spotify-mood-lights-sync) - AppDaemon app that synchronizes rgb lights to the mood of the currently playing spotify song in Home Assistant.
@@ -1524,7 +1527,6 @@
 - [jayhardee9/docker-compose-infra](https://github.com/jayhardee9/docker-compose-infra) - Ansible playbooks for the Deploying Docker Compose Applications article.
 - [andrewjfreyer/monitor](https://github.com/andrewjfreyer/monitor) - Distributed advertisement-based BTLE presence detection reported via mqtt
 - [ScaleCity/docker-bookstack](https://github.com/ScaleCity/docker-bookstack) - BookStack in a container
-- [solidnerd/docker-bookstack](https://github.com/solidnerd/docker-bookstack) - BookStack in a container
 - [tektoncd/catalog](https://github.com/tektoncd/catalog) - Catalog of shared Tasks and Pipelines.
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
