@@ -191,6 +191,7 @@
 
 ## ai 
 
+- [F33RNI/GPT-Telegramus](https://github.com/F33RNI/GPT-Telegramus) - The best Telegram bot for ChatGPT, EdgeGPT, DALL-E and Bard with stream writing, multiple languages, admin control, automatic proxy searcher, data logging and more!
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalA
 - [fiatrete/OpenDAN-Personal-AI-OS](https://github.com/fiatrete/OpenDAN-Personal-AI-OS) - OpenDAN is an open source Personal AI OS , which consolidates various AI modules in one place for your personal use.
 - [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Neurite: Fractal mind-mapping interface. In-browser Ai via WebLLM, OpenAi API with long-term memory, AutoGPT, Wolfram, Wikipedia, Google Search, webpage/PDF extraction, HTML/Python rendering.
@@ -238,6 +239,7 @@
 
 ## android 
 
+- [dessalines/jerboa](https://github.com/dessalines/jerboa) - A native android app for Lemmy
 - [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight virtual keyboard for developers.
 - [bauerj/paperless_app](https://github.com/bauerj/paperless_app) - An Android/iOS app for Paperless
 - [skydoves/chatgpt-android](https://github.com/skydoves/chatgpt-android) - 📲 ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.
@@ -312,6 +314,7 @@
 
 ## api 
 
+- [F33RNI/GPT-Telegramus](https://github.com/F33RNI/GPT-Telegramus) - The best Telegram bot for ChatGPT, EdgeGPT, DALL-E and Bard with stream writing, multiple languages, admin control, automatic proxy searcher, data logging and more!
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalA
 - [Aerilym/photoprism-helper](https://github.com/Aerilym/photoprism-helper) - An unofficial companion tool created for use alongside PhotoPrism to enable API endpoints and automation.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -345,6 +348,7 @@
 
 ## automation 
 
+- [artem-sedykh/mini-climate-card](https://github.com/artem-sedykh/mini-climate-card) - Minimalistic climate card for Home Assistant Lovelace UI
 - [nickjg1/homeserver-ansible](https://github.com/nickjg1/homeserver-ansible) - Quickly setup your own HomeServer/NAS with these playbooks
 - [rishavnandi/ansible_homelab](https://github.com/rishavnandi/ansible_homelab) - Ansible playbooks to quickly setup a homelab.  The playbook will update the system, install Docker, and then deploy the Docker containers.
 - [Josh-XT/AGiXT](https://github.com/Josh-XT/AGiXT) - AGiXT is a dynamic AI Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, and a v
@@ -699,6 +703,8 @@
 
 ## bot 
 
+- [F33RNI/GPT-Telegramus](https://github.com/F33RNI/GPT-Telegramus) - The best Telegram bot for ChatGPT, EdgeGPT, DALL-E and Bard with stream writing, multiple languages, admin control, automatic proxy searcher, data logging and more!
+- [ciuzaak/Claude-Telegram-Bot](https://github.com/ciuzaak/Claude-Telegram-Bot) - Anthropic Claude & Google Bard Bot for Telegram.
 - [InstaPy/InstaPy](https://github.com/InstaPy/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
 - [gunthercox/ChatterBot](https://github.com/gunthercox/ChatterBot) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots
 - [DonDebonair/slack-machine](https://github.com/DonDebonair/slack-machine) - A simple, yet powerful and extendable Slack bot
@@ -721,6 +727,8 @@
 
 ## chatgpt 
 
+- [F33RNI/GPT-Telegramus](https://github.com/F33RNI/GPT-Telegramus) - The best Telegram bot for ChatGPT, EdgeGPT, DALL-E and Bard with stream writing, multiple languages, admin control, automatic proxy searcher, data logging and more!
+- [kharvd/gpt-cli](https://github.com/kharvd/gpt-cli) - Command-line interface for ChatGPT, Claude and Bard
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [deiucanta/chatpad](https://github.com/deiucanta/chatpad) - Not just another ChatGPT user-interface!
 - [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠
@@ -766,6 +774,8 @@
 
 ## cli 
 
+- [klaudiosinani/signale](https://github.com/klaudiosinani/signale) - Highly configurable logging utility
+- [kharvd/gpt-cli](https://github.com/kharvd/gpt-cli) - Command-line interface for ChatGPT, Claude and Bard
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [freedmand/semantra](https://github.com/freedmand/semantra) - Multi-tool for semantic search
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
@@ -1224,12 +1234,12 @@
 
 ## es6 
 
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2023)
 - [acquia/waterwheel.js](https://github.com/acquia/waterwheel.js) - A generic JavaScript helper library to query and manipulate Drupal 8 via core REST and JSON API
 
 ## eslint 
 
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2023)
 
 ## ethereum 
 
@@ -1237,7 +1247,7 @@
 
 ## express 
 
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2023)
 
 ## finance 
 
@@ -1452,6 +1462,8 @@
 
 ## google 
 
+- [F33RNI/GPT-Telegramus](https://github.com/F33RNI/GPT-Telegramus) - The best Telegram bot for ChatGPT, EdgeGPT, DALL-E and Bard with stream writing, multiple languages, admin control, automatic proxy searcher, data logging and more!
+- [dsdanielpark/amazing-bard-prompts](https://github.com/dsdanielpark/amazing-bard-prompts) - This repo includes Google Bard prompt curation to use Bard better.
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 - [marcobiedermann/search-engine-optimization](https://github.com/marcobiedermann/search-engine-optimization) - :mag: A helpful checklist/collection of Search Engine Optimization (SEO) tips and techniques.
 - [madawei2699/awesome-seo](https://github.com/madawei2699/awesome-seo) - Google SEO Research and Web Traffic Monetization
@@ -1499,6 +1511,7 @@
 
 ## hacktoberfest 
 
+- [artem-sedykh/mini-climate-card](https://github.com/artem-sedykh/mini-climate-card) - Minimalistic climate card for Home Assistant Lovelace UI
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs.
 - [vinteo/hass-opensprinkler](https://github.com/vinteo/hass-opensprinkler) - OpenSprinkler Integration for Home Assistant
 - [kubealex/k8s-mediaserver-operator](https://github.com/kubealex/k8s-mediaserver-operator) - Repository for k8s Mediaserver Operator project
@@ -1632,6 +1645,8 @@
 
 ## home-assistant 
 
+- [hassio-addons/addon-log-viewer](https://github.com/hassio-addons/addon-log-viewer) - Log Viewer - Home Assistant Community Add-ons
+- [artem-sedykh/mini-climate-card](https://github.com/artem-sedykh/mini-climate-card) - Minimalistic climate card for Home Assistant Lovelace UI
 - [chazzu/hass-animated-scenes](https://github.com/chazzu/hass-animated-scenes) - Custom component for Home Assistant which allows you to create animated color and brightness scenes with many options.
 - [vinteo/hass-opensprinkler](https://github.com/vinteo/hass-opensprinkler) - OpenSprinkler Integration for Home Assistant
 - [hassio-addons/addon-airsonos](https://github.com/hassio-addons/addon-airsonos) - AirSonos - Home Assistant Community Add-ons
@@ -1886,7 +1901,7 @@
 - [daredoes/linked-lovelace-ui](https://github.com/daredoes/linked-lovelace-ui) - Create cards that can be re-used, updated, and handle templated data.
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2023)
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [MarcoMnrq/rocket-dokku](https://github.com/MarcoMnrq/rocket-dokku) - 🚀 Fully Featured Open Source Admin Dashboard for Dokku
 - [Shreyas-R/lovelace-wallpanel-screensaver](https://github.com/Shreyas-R/lovelace-wallpanel-screensaver) - Wall panel mode for your Home Assistant Lovelace dashboard with more focus on screensaver. Configurable extension which features a fullscreen kiosk mode, image and weather-clock screensaver, screen wa
@@ -2063,6 +2078,8 @@
 
 ## linux 
 
+- [F33RNI/GPT-Telegramus](https://github.com/F33RNI/GPT-Telegramus) - The best Telegram bot for ChatGPT, EdgeGPT, DALL-E and Bard with stream writing, multiple languages, admin control, automatic proxy searcher, data logging and more!
+- [containers/toolbox](https://github.com/containers/toolbox) - Tool for interactive command line environments on Linux
 - [nickjg1/homeserver-ansible](https://github.com/nickjg1/homeserver-ansible) - Quickly setup your own HomeServer/NAS with these playbooks
 - [pijarr/pijarr](https://github.com/pijarr/pijarr) - A shell script to automate the installation and configuration of Jackett, Sonarr, Radarr, Lidarr, Readarr, Prowlarr, and Bazarr on Debian based distros.
 - [v1s1t0r1sh3r3/airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) - This is a multi-use bash script for Linux systems to audit wireless networks.
@@ -2291,6 +2308,7 @@
 
 ## nlp 
 
+- [dsdanielpark/amazing-bard-prompts](https://github.com/dsdanielpark/amazing-bard-prompts) - This repo includes Google Bard prompt curation to use Bard better.
 - [NISH1001/tag-generator](https://github.com/NISH1001/tag-generator) - A simple tool to generate tags for the given text (document) using TF-IDF.
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
@@ -2315,6 +2333,7 @@
 
 ## nodejs 
 
+- [klaudiosinani/signale](https://github.com/klaudiosinani/signale) - Highly configurable logging utility
 - [ixahmedxi/noodle](https://github.com/ixahmedxi/noodle) - Open Source Education Platform
 - [sam-goodwin/punchcard](https://github.com/sam-goodwin/punchcard) - Type-safe AWS infrastructure.
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
@@ -2327,7 +2346,7 @@
 - [SudhanPlayz/Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot) - An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!
 - [buttercup/buttercup-core](https://github.com/buttercup/buttercup-core) - :tophat: The mighty NodeJS password vault
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2023)
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
@@ -2358,7 +2377,7 @@
 
 ## npm 
 
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2023)
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips
 
@@ -2412,6 +2431,11 @@
 
 ## others 
 
+- [a16z-infra/companion-app](https://github.com/a16z-infra/companion-app) - AI companions with memory: a lightweight stack to create and host your own AI companions
+- [ofekashery/vertical-stack-in-card](https://github.com/ofekashery/vertical-stack-in-card) - 📐 Home Assistant Card: Group multiple cards into a single sleek card.
+- [thomasloven/lovelace-fold-entity-row](https://github.com/thomasloven/lovelace-fold-entity-row) - 🔹 A foldable row for entities card, containing other rows
+- [MrHacker-X/BruteX](https://github.com/MrHacker-X/BruteX) - This is a BruteForce Attacking tool for Termux
+- [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
 - [neuroforgede/promswarm](https://github.com/neuroforgede/promswarm) - Modernized swarmprom
 - [eximo84/homeassistant-config-v2](https://github.com/eximo84/homeassistant-config-v2) - Home Assistant Configuration including Lovelace YAML
 - [RanzQ/hyperion-audio-effects](https://github.com/RanzQ/hyperion-audio-effects) - Hyperion audio effects dev kit using Gstreamer
@@ -3126,6 +3150,8 @@
 
 ## python 
 
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
+- [F33RNI/GPT-Telegramus](https://github.com/F33RNI/GPT-Telegramus) - The best Telegram bot for ChatGPT, EdgeGPT, DALL-E and Bard with stream writing, multiple languages, admin control, automatic proxy searcher, data logging and more!
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [kodi1/tracker_merge](https://github.com/kodi1/tracker_merge) - merge master/slave device trackers
@@ -3517,6 +3543,7 @@
 
 ## shell 
 
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [nickjg1/homeserver-ansible](https://github.com/nickjg1/homeserver-ansible) - Quickly setup your own HomeServer/NAS with these playbooks
 - [pijarr/pijarr](https://github.com/pijarr/pijarr) - A shell script to automate the installation and configuration of Jackett, Sonarr, Radarr, Lidarr, Readarr, Prowlarr, and Bazarr on Debian based distros.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
@@ -3581,6 +3608,8 @@
 
 ## telegram 
 
+- [F33RNI/GPT-Telegramus](https://github.com/F33RNI/GPT-Telegramus) - The best Telegram bot for ChatGPT, EdgeGPT, DALL-E and Bard with stream writing, multiple languages, admin control, automatic proxy searcher, data logging and more!
+- [ciuzaak/Claude-Telegram-Bot](https://github.com/ciuzaak/Claude-Telegram-Bot) - Anthropic Claude & Google Bard Bot for Telegram.
 - [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
 - [dipu-bd/lightnovel-crawler](https://github.com/dipu-bd/lightnovel-crawler) - Generate and download e-books from online sources.
 - [ebertti/awesome-telegram](https://github.com/ebertti/awesome-telegram) - Collection great groups, channels, bots and libraries for Telegram
@@ -3692,7 +3721,7 @@
 
 ## testing 
 
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2023)
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [legovaer/jsonnunit](https://github.com/legovaer/jsonnunit) - 🚦 a BDD assertion style unit testing framework for JSONNET through an 'expect' interface
