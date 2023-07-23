@@ -1042,6 +1042,7 @@
 
 ## Python 
 
+- [dannytsang/homeassistant-config](https://github.com/dannytsang/homeassistant-config) - 🏡 My Home Assistant Configs.
 - [F33RNI/GPT-Telegramus](https://github.com/F33RNI/GPT-Telegramus) - The best Telegram bot for ChatGPT, EdgeGPT, DALL-E and Bard with stream writing, multiple languages, admin control, automatic proxy searcher, data logging and more!
 - [ciuzaak/Claude-Telegram-Bot](https://github.com/ciuzaak/Claude-Telegram-Bot) - Anthropic Claude & Google Bard Bot for Telegram.
 - [kharvd/gpt-cli](https://github.com/kharvd/gpt-cli) - Command-line interface for ChatGPT, Claude and Bard
@@ -1093,7 +1094,7 @@
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
 - [robertbullen/dakboard](https://github.com/robertbullen/dakboard) - 
 - [JarvyJ/HomeIntent](https://github.com/JarvyJ/HomeIntent) - an offline voice assistant with tight integration with Home Assistant
-- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and FastChat-T5.
+- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 - [b0mbays/continuously_casting_dashboards](https://github.com/b0mbays/continuously_casting_dashboards) - HACS Integration for continuously casting a Home Assistant dashboard to your Google Chromecast Displays
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [b0mbays/ha-pi-continuously-cast](https://github.com/b0mbays/ha-pi-continuously-cast) - Python system service to continuously cast Home Assistant to a Google Chromecast device
