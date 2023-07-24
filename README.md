@@ -194,6 +194,7 @@
 
 ## Dockerfile 
 
+- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, WireGuard, Automation, Ho
 - [adamoutler/mqtt-explorer](https://github.com/adamoutler/mqtt-explorer) - A home assistant repository for MQTT Explorer
 - [ethibox/awesome-stacks](https://github.com/ethibox/awesome-stacks) - Deploy 90+ open-source web apps with one Docker command
@@ -460,6 +461,7 @@
 
 ## JavaScript 
 
+- [Petro31/home-assistant-config](https://github.com/Petro31/home-assistant-config) - Home Assistant Configuration
 - [ofekashery/vertical-stack-in-card](https://github.com/ofekashery/vertical-stack-in-card) - 📐 Home Assistant Card: Group multiple cards into a single sleek card.
 - [klaudiosinani/signale](https://github.com/klaudiosinani/signale) - Highly configurable logging utility
 - [artem-sedykh/mini-climate-card](https://github.com/artem-sedykh/mini-climate-card) - Minimalistic climate card for Home Assistant Lovelace UI
@@ -664,6 +666,7 @@
 
 ## Jinja 
 
+- [techno-tim/k3s-ansible](https://github.com/techno-tim/k3s-ansible) - The easiest way to bootstrap a self-hosted High Availability Kubernetes cluster.  A fully automated HA k3s etcd install with kube-vip, MetalLB, and more
 - [hassio-addons/addon-log-viewer](https://github.com/hassio-addons/addon-log-viewer) - Log Viewer - Home Assistant Community Add-ons
 - [neuroforgede/promswarm](https://github.com/neuroforgede/promswarm) - Modernized swarmprom
 - [lento234/homelab](https://github.com/lento234/homelab) - Personal homelab setup
@@ -766,6 +769,7 @@
 
 ## Others 
 
+- [bramkragten/weather-card](https://github.com/bramkragten/weather-card) - Weather Card with animated icons for Home Assistant Lovelace
 - [eximo84/homeassistant-config-v2](https://github.com/eximo84/homeassistant-config-v2) - Home Assistant Configuration including Lovelace YAML
 - [awsdocs/aws-cdk-guide](https://github.com/awsdocs/aws-cdk-guide) - User guide for the AWS Cloud Development Kit (CDK).
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
@@ -1042,6 +1046,7 @@
 
 ## Python 
 
+- [NabuCasa/hass-nabucasa](https://github.com/NabuCasa/hass-nabucasa) - Issues related to the cloud integration in Nabu Casa
 - [dannytsang/homeassistant-config](https://github.com/dannytsang/homeassistant-config) - 🏡 My Home Assistant Configs.
 - [F33RNI/GPT-Telegramus](https://github.com/F33RNI/GPT-Telegramus) - The best Telegram bot for ChatGPT, EdgeGPT, DALL-E and Bard with stream writing, multiple languages, admin control, automatic proxy searcher, data logging and more!
 - [ciuzaak/Claude-Telegram-Bot](https://github.com/ciuzaak/Claude-Telegram-Bot) - Anthropic Claude & Google Bard Bot for Telegram.
@@ -1235,7 +1240,7 @@
 - [Checkmk/checkmk](https://github.com/Checkmk/checkmk) - Checkmk - Best-in-class infrastructure & application monitoring
 - [Checkmk/checkmk_kube_agent](https://github.com/Checkmk/checkmk_kube_agent) - 
 - [mozilla/kitsune](https://github.com/mozilla/kitsune) - Platform for Mozilla Support
-- [almibarss/build-alfred-workflow](https://github.com/almibarss/build-alfred-workflow) - A GitHub Action to package Alfred workflows
+- [mikybars/build-alfred-workflow](https://github.com/mikybars/build-alfred-workflow) - A GitHub Action to package Alfred workflows
 - [Netflix/hubcommander](https://github.com/Netflix/hubcommander) - A Slack bot for GitHub organization management -- and other things too
 - [Bhasfe/babur](https://github.com/Bhasfe/babur) - Babur is an open-source ML-Based Slack Bot application.
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
@@ -1568,6 +1573,8 @@
 
 ## TypeScript 
 
+- [custom-cards/stack-in-card](https://github.com/custom-cards/stack-in-card) - 🛠 group multiple cards into one card without the borders
+- [decompil3d/lovelace-hourly-weather](https://github.com/decompil3d/lovelace-hourly-weather) - Hourly weather card for Home Assistant. Visualize upcoming weather conditions as a colored horizontal bar.
 - [a16z-infra/companion-app](https://github.com/a16z-infra/companion-app) - AI companions with memory: a lightweight stack to create and host your own AI companions
 - [thomasloven/lovelace-fold-entity-row](https://github.com/thomasloven/lovelace-fold-entity-row) - 🔹 A foldable row for entities card, containing other rows
 - [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host.
