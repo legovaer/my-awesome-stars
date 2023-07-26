@@ -786,6 +786,7 @@
 - [stboch/homeassistant-blueprints](https://github.com/stboch/homeassistant-blueprints) - My collection of home-assistant.io blueprints
 - [SirGoodenough/HA_Blueprints](https://github.com/SirGoodenough/HA_Blueprints) - 🧯 My Collection of Automation and Script Blueprints for Home Assistant 🧯
 - [Clooos/Home-Assistant-Mobile-First](https://github.com/Clooos/Home-Assistant-Mobile-First) - A minimalist and user-friendly design, combined with an mobile first approach for the Home Assistant dashboard.
+- [shortbloke/home_assistant_config](https://github.com/shortbloke/home_assistant_config) - HomeAssistant.io Configuration Files
 - [seazon/FeedMe](https://github.com/seazon/FeedMe) - The documents of FeedMe
 - [techiescamp/kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path) - A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
@@ -1120,7 +1121,6 @@
 - [commixproject/commix](https://github.com/commixproject/commix) - Automated All-in-One OS Command Injection Exploitation Tool.
 - [maxi1134/Home-Assistant-Config](https://github.com/maxi1134/Home-Assistant-Config) - This is my Smart-home Installation repository
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites ha
-- [shortbloke/home_assistant_config](https://github.com/shortbloke/home_assistant_config) - HomeAssistant.io Configuration Files
 - [sbrunner/scan-to-paperless](https://github.com/sbrunner/scan-to-paperless) - 
 - [davidusb-geek/emhass](https://github.com/davidusb-geek/emhass) - emhass: Energy Management for Home Assistant, is a Python module designed to optimize your home energy interfacing with Home Assistant.
 - [chiahsing/nest_hub](https://github.com/chiahsing/nest_hub) - Home Assistant pyscript for using Nest Hub as a dashboard
