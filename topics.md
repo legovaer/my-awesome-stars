@@ -174,6 +174,7 @@
 - [telegram](#telegram)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
+- [termux](#termux)
 - [terraform](#terraform)
 - [testing](#testing)
 - [twitter](#twitter)
@@ -1983,6 +1984,7 @@
 
 ## kubernetes 
 
+- [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [filipweilid/k3s-homelab](https://github.com/filipweilid/k3s-homelab) - Mono repository for my home infrastructure and Kubernetes cluster
 - [techno-tim/k3s-ansible](https://github.com/techno-tim/k3s-ansible) - The easiest way to bootstrap a self-hosted High Availability Kubernetes cluster.  A fully automated HA k3s etcd install with kube-vip, MetalLB, and more
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - A brand-new shell connection hub and remote file manager
@@ -2437,6 +2439,7 @@
 
 ## others 
 
+- [neilimixamo/Home-Assistant-Quick-Look-Mobile](https://github.com/neilimixamo/Home-Assistant-Quick-Look-Mobile) - 
 - [custom-cards/stack-in-card](https://github.com/custom-cards/stack-in-card) - 🛠 group multiple cards into one card without the borders
 - [bramkragten/weather-card](https://github.com/bramkragten/weather-card) - Weather Card with animated icons for Home Assistant Lovelace
 - [Petro31/home-assistant-config](https://github.com/Petro31/home-assistant-config) - Home Assistant Configuration
@@ -3657,6 +3660,16 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
+
+## termux 
+
+- [CharlesChiuGit/Logseq-Git-Sync-101](https://github.com/CharlesChiuGit/Logseq-Git-Sync-101) - This repo aims to help Logseq users to sync their data with Git and GitHub.
+- [zingmars/termux-scripts](https://github.com/zingmars/termux-scripts) - Collection of small scripts I wrote for use with Termux.
+- [schnatterer/termux-scripts](https://github.com/schnatterer/termux-scripts) - Collection of shell scripts to automate everything on your android phone using termux app. Including incremental encrypted app backup to the cloud
+- [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
+- [dipu-bd/lightnovel-crawler](https://github.com/dipu-bd/lightnovel-crawler) - Generate and download e-books from online sources.
+- [htr-tech/nexphisher](https://github.com/htr-tech/nexphisher) - Advanced Phishing tool
+- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 
 ## terraform 
 
