@@ -2822,7 +2822,7 @@
 - [devent/redmine_oauth2_login](https://github.com/devent/redmine_oauth2_login) - This plugin is used to authenticate Redmine users using OAuth2 provider such as GitHub
 - [gpstogis/redmine_oauth2_login](https://github.com/gpstogis/redmine_oauth2_login) - This plugin is used to authenticate Redmine users using OAuth2 provider such as GitHub
 - [mikybars/build-alfred-workflow](https://github.com/mikybars/build-alfred-workflow) - A GitHub Action to package Alfred workflows
-- [TTNomi/awpark](https://github.com/TTNomi/awpark) - Alfred Workflow Store
+- [sipt/awpark](https://github.com/sipt/awpark) - Alfred Workflow Store
 - [sciyoshi/redmine-slack](https://github.com/sciyoshi/redmine-slack) - Slack notification plugin for Redmine
 - [ansible/ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applica
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
