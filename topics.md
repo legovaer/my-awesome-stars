@@ -2443,6 +2443,10 @@
 
 ## others 
 
+- [MilanBarande/ticketswoop](https://github.com/MilanBarande/ticketswoop) - Ticketswoop is a basic puppeteer bot to purchase tickets on ticketswap
+- [BabsB/TicketBot](https://github.com/BabsB/TicketBot) - Simple script that adds reserves tickets on ticketswap
+- [coolsarne/TicketswapBot](https://github.com/coolsarne/TicketswapBot) - Bot that checks and reserves tickets. Written in python and selenium.
+- [ljmerza/light-entity-card](https://github.com/ljmerza/light-entity-card) - Control any light or switch entity
 - [vhqtvn/VHEditor-Android](https://github.com/vhqtvn/VHEditor-Android) - Run Code-server on Android
 - [0xPugazh/One-Liners](https://github.com/0xPugazh/One-Liners) - A collection of awesome one-liners for bug bounty hunting.
 - [dwoosnam/HomeAssistant](https://github.com/dwoosnam/HomeAssistant) - This is a selection of my Home Assistant configuration examples to share around.
@@ -3167,7 +3171,7 @@
 
 ## pwa 
 
-- [aeharding/voyager](https://github.com/aeharding/voyager) - Voyager — a mobile-first Lemmy web client (formerly wefwef)
+- [aeharding/voyager](https://github.com/aeharding/voyager) - Voyager — a mobile-first Lemmy client
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 
 ## python 
