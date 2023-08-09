@@ -285,7 +285,7 @@
 - [sipt/awpark](https://github.com/sipt/awpark) - Alfred Workflow Store
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [ahoy-cli/ahoy](https://github.com/ahoy-cli/ahoy) - Create self-documenting cli programs from YAML files. Easily wrap bash, grunt, npm, docker, (anything) to standardize your processes and make the lives of the people working on your project better.
-- [submariner-io/submariner](https://github.com/submariner-io/submariner) - Connect all your Kubernetes clusters, no matter where they are in the world.
+- [submariner-io/submariner](https://github.com/submariner-io/submariner) - Networking component for interconnecting Pods and Services across Kubernetes clusters.
 - [hktalent/scan4all](https://github.com/hktalent/scan4all) - Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [flannel-io/flannel](https://github.com/flannel-io/flannel) - flannel is a network fabric for containers, designed for Kubernetes
@@ -670,6 +670,7 @@
 
 ## Jinja 
 
+- [einschmidt/hassio-addons](https://github.com/einschmidt/hassio-addons) - Home Assistant addons
 - [neilimixamo/Home-Assistant-Quick-Look-Mobile](https://github.com/neilimixamo/Home-Assistant-Quick-Look-Mobile) - 
 - [techno-tim/k3s-ansible](https://github.com/techno-tim/k3s-ansible) - The easiest way to bootstrap a self-hosted High Availability Kubernetes cluster.  A fully automated HA k3s etcd install with kube-vip, MetalLB, and more
 - [hassio-addons/addon-log-viewer](https://github.com/hassio-addons/addon-log-viewer) - Log Viewer - Home Assistant Community Add-ons
@@ -1057,6 +1058,7 @@
 
 ## Python 
 
+- [hass-emulated-hue/core](https://github.com/hass-emulated-hue/core) - Hue Emulation for Home Assistant
 - [namacha/python-magichue](https://github.com/namacha/python-magichue) - Control Magic Hue(Magichome) in Python.
 - [BabsB/TicketBot](https://github.com/BabsB/TicketBot) - Simple script that adds reserves tickets on ticketswap
 - [coolsarne/TicketswapBot](https://github.com/coolsarne/TicketswapBot) - Bot that checks and reserves tickets. Written in python and selenium.
@@ -1643,7 +1645,7 @@
 - [yoyurec/logseq-sticky-headers](https://github.com/yoyurec/logseq-sticky-headers) - 📌 H1-H5 headers stick on content scroll. Logseq  pligin
 - [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT
 - [briansunter/logseq-plugin-gpt3-openai](https://github.com/briansunter/logseq-plugin-gpt3-openai) - A plugin for GPT-3 AI assisted note taking in Logseq
-- [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - A browser extension that enhance search engines with ChatGPT
+- [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - This project is deprecated. Check my new project ChatHub:
 - [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
 - [daredoes/linked-lovelace-ui](https://github.com/daredoes/linked-lovelace-ui) - Create cards that can be re-used, updated, and handle templated data.
 - [Aerilym/photoprism-helper](https://github.com/Aerilym/photoprism-helper) - An unofficial companion tool created for use alongside PhotoPrism to enable API endpoints and automation.
