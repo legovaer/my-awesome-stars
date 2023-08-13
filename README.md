@@ -1061,6 +1061,7 @@
 
 ## Python 
 
+- [hishizuka/pizero_bikecomputer](https://github.com/hishizuka/pizero_bikecomputer) - An open source bike computer based on  Raspberry Pi Zero (W, WH, 2W) with GPS and ANT+. Including offline map and navigation.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI personal assistant for your digital brain
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸 Web apps in pure Python 🐍
 - [hass-emulated-hue/core](https://github.com/hass-emulated-hue/core) - Hue Emulation for Home Assistant
@@ -1288,7 +1289,7 @@
 - [stamparm/DSSS](https://github.com/stamparm/DSSS) - Damn Small SQLi Scanner
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
-- [unifyai/ivy](https://github.com/unifyai/ivy) - Unified AI
+- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
 - [bacco007/HomeAssistantConfig](https://github.com/bacco007/HomeAssistantConfig) - My Home Assistant Configuration
 - [izebit/slack-notify-app-daemon](https://github.com/izebit/slack-notify-app-daemon) - daemon for notify slack application
 - [bieniu/home-assistant-config](https://github.com/bieniu/home-assistant-config) - Home Assistant Config
