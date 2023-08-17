@@ -1123,7 +1123,7 @@
 - [legovaer/ad-automoli](https://github.com/legovaer/ad-automoli) - 💡 Fully automatic light management based on conditions like motion, illuminance, humidity, and other clever features
 - [xaviml/controllerx](https://github.com/xaviml/controllerx) - Create controller-based automations with ease to control your home devices and scenes.
 - [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) - Let ChatGPT teach your own chatbot in hours with a single GPU!
-- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Monorepo for E2B - Operating System for AI Agents
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Monorepo for E2B - Cloud Operating System for AI Agents
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
 - [sanderdw/hassio-addons](https://github.com/sanderdw/hassio-addons) - DSMR Reader Datalogger and Metabase Home Assistant Add-ons
 - [loganmarchione/homelab-svg-assets](https://github.com/loganmarchione/homelab-svg-assets) - Full-color SVG icons of homelab-related software, products, and brands
@@ -1443,6 +1443,7 @@
 
 ## Shell 
 
+- [8layer8/swarm-public](https://github.com/8layer8/swarm-public) - Code for public docker swarm build
 - [Security-Onion-Solutions/securityonion](https://github.com/Security-Onion-Solutions/securityonion) - Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, and case mana
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 - [containers/toolbox](https://github.com/containers/toolbox) - Tool for interactive command line environments on Linux
@@ -1608,6 +1609,7 @@
 
 ## TypeScript 
 
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source automation tool ✨ Workflow automation tool / Enterprise automation tool / Business automation tool / Zapier Alternative
 - [headlamp-k8s/headlamp](https://github.com/headlamp-k8s/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [Sian-Lee-SA/Home-Assistant-Switch-Manager](https://github.com/Sian-Lee-SA/Home-Assistant-Switch-Manager) - Switch manager is a centralised component to handle button pushes for your wireless switches. This includes anything passed through the event bus. The component relies on switch blueprints which is ea
 - [custom-cards/stack-in-card](https://github.com/custom-cards/stack-in-card) - 🛠 group multiple cards into one card without the borders
@@ -1642,7 +1644,7 @@
 - [deiucanta/chatpad](https://github.com/deiucanta/chatpad) - Not just another ChatGPT user-interface!
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [lesleyxyz/node-tile](https://github.com/lesleyxyz/node-tile) - Package to talk & ring to your Tile device
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your Second Brain powered by Generative AI 🧠 Dump all your files and chat with it  ( GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...) & Embeddings
 - [greeny/SatisfactoryTools](https://github.com/greeny/SatisfactoryTools) - Satisfactory Tools for planning and building the perfect base.
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
