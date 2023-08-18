@@ -3355,6 +3355,7 @@
 
 ## raspberry-pi 
 
+- [rayui/scooby](https://github.com/rayui/scooby) - Pretty fast, pretty simple K3S clusters for Raspberry Pi
 - [hishizuka/pizero_bikecomputer](https://github.com/hishizuka/pizero_bikecomputer) - An open source bike computer based on  Raspberry Pi Zero (W, WH, 2W) with GPS and ANT+. Including offline map and navigation.
 - [lento234/homelab](https://github.com/lento234/homelab) - Personal homelab setup
 - [clayshek/homelab-monorepo](https://github.com/clayshek/homelab-monorepo) - Home lab infrastructure as code repo.
@@ -3849,6 +3850,7 @@
 
 ## vagrant 
 
+- [rayui/scooby](https://github.com/rayui/scooby) - Pretty fast, pretty simple K3S clusters for Raspberry Pi
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
 - [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.
 - [thomvaill/tads-boilerplate](https://github.com/thomvaill/tads-boilerplate) - Terraform + Ansible + Docker Swarm boilerplate = DevOps on :fire::fire::fire: | Infrastructure as Code
