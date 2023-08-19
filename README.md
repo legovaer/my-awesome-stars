@@ -111,6 +111,7 @@
 
 ## C++ 
 
+- [diyhue/ReadTheDocs](https://github.com/diyhue/ReadTheDocs) - Documentation for diyHue
 - [Yogui79/IntexPureSpa](https://github.com/Yogui79/IntexPureSpa) - Intex® PureSpa remote control for Home Automation
 - [visualapproach/WiFi-remote-for-Bestway-Lay-Z-SPA](https://github.com/visualapproach/WiFi-remote-for-Bestway-Lay-Z-SPA) - Hack - ESP8266 as WiFi remote control for Bestway Lay-Z spa Helsinki
 - [formatBCE/ESP32_BLE_presense](https://github.com/formatBCE/ESP32_BLE_presense) - ESP32 firmware for Home Assistant Format BLE Tracker integration https://github.com/formatBCE/Format-BLE-Tracker.
