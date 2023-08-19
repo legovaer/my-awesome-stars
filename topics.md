@@ -2468,6 +2468,7 @@
 
 ## others 
 
+- [diyhue/ReadTheDocs](https://github.com/diyhue/ReadTheDocs) - Documentation for diyHue
 - [8layer8/swarm-public](https://github.com/8layer8/swarm-public) - Code for public docker swarm build
 - [Yogui79/IntexPureSpa](https://github.com/Yogui79/IntexPureSpa) - Intex® PureSpa remote control for Home Automation
 - [visualapproach/WiFi-remote-for-Bestway-Lay-Z-SPA](https://github.com/visualapproach/WiFi-remote-for-Bestway-Lay-Z-SPA) - Hack - ESP8266 as WiFi remote control for Bestway Lay-Z spa Helsinki
