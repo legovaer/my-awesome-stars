@@ -152,6 +152,7 @@
 - [rails](#rails)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
+- [react-native](#react-native)
 - [reactjs](#reactjs)
 - [rest-api](#rest-api)
 - [reverse-engineering](#reverse-engineering)
@@ -243,6 +244,7 @@
 
 ## android 
 
+- [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [dessalines/jerboa](https://github.com/dessalines/jerboa) - A native android app for Lemmy
 - [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight virtual keyboard for developers.
 - [bauerj/paperless_app](https://github.com/bauerj/paperless_app) - An Android/iOS app for Paperless
@@ -354,6 +356,7 @@
 
 ## automation 
 
+- [ntalekt/homeassistant](https://github.com/ntalekt/homeassistant) - Example Home Assistant Configs
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source automation tool ✨ Workflow automation tool / Enterprise automation tool / Business automation tool / Zapier Alternative
 - [dannytsang/homeassistant-config](https://github.com/dannytsang/homeassistant-config) - 🏡 My Home Assistant Configs.
 - [artem-sedykh/mini-climate-card](https://github.com/artem-sedykh/mini-climate-card) - Minimalistic climate card for Home Assistant Lovelace UI
@@ -523,7 +526,6 @@
 - [mikeroyal/Grafana-Guide](https://github.com/mikeroyal/Grafana-Guide) - Grafana Guide
 - [mikeroyal/Jupyter-Guide](https://github.com/mikeroyal/Jupyter-Guide) - Jupyter Guide
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, WireGuard, Automation, Ho
 - [madawei2699/awesome-seo](https://github.com/madawei2699/awesome-seo) - Google SEO Research and Web Traffic Monetization
 - [timofurrer/awesome-asyncio](https://github.com/timofurrer/awesome-asyncio) - A curated list of awesome Python asyncio frameworks, libraries, software and resources
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
@@ -1298,6 +1300,7 @@
 
 ## framework 
 
+- [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸 Web apps in pure Python 🐍
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 - [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An all-in-one GitHub open-source intelligence framework.
@@ -1310,6 +1313,7 @@
 
 ## frontend 
 
+- [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [Clooos/Home-Assistant-Mobile-First](https://github.com/Clooos/Home-Assistant-Mobile-First) - A minimalist and user-friendly design, combined with an mobile first approach for the Home Assistant dashboard.
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 - [markusschanta/awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) - A curated list of awesome Jupyter projects, libraries and resources
@@ -1666,6 +1670,7 @@
 
 ## home-assistant 
 
+- [ntalekt/homeassistant](https://github.com/ntalekt/homeassistant) - Example Home Assistant Configs
 - [cgarwood/homeassistant-config](https://github.com/cgarwood/homeassistant-config) - Home Assistant Configuration
 - [formatBCE/ESP32_BLE_presense](https://github.com/formatBCE/ESP32_BLE_presense) - ESP32 firmware for Home Assistant Format BLE Tracker integration https://github.com/formatBCE/Format-BLE-Tracker.
 - [mlamberts78/weather-chart-card](https://github.com/mlamberts78/weather-chart-card) - Custom weather card with charts.
@@ -1854,6 +1859,7 @@
 
 ## ios 
 
+- [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [bauerj/paperless_app](https://github.com/bauerj/paperless_app) - An Android/iOS app for Paperless
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
@@ -1864,6 +1870,7 @@
 
 ## iot 
 
+- [ntalekt/homeassistant](https://github.com/ntalekt/homeassistant) - Example Home Assistant Configs
 - [home-assistant/addons](https://github.com/home-assistant/addons) - :heavy_plus_sign: Docker add-ons for Home Assistant
 - [openremote/openremote](https://github.com/openremote/openremote) - 100% open-source IoT Platform - Integrate your devices, create rules, and analyse and visualise your data
 - [seangreen2/home_assistant](https://github.com/seangreen2/home_assistant) - My personal Home Assistant setup - Running on a HassOS VM.
@@ -1918,6 +1925,7 @@
 
 ## javascript 
 
+- [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
 - [sam-goodwin/punchcard](https://github.com/sam-goodwin/punchcard) - Type-safe AWS infrastructure.
 - [deiucanta/chatpad](https://github.com/deiucanta/chatpad) - Not just another ChatGPT user-interface!
@@ -2252,6 +2260,7 @@
 
 ## mobile 
 
+- [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -2469,6 +2478,7 @@
 
 ## others 
 
+- [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon) - Package Appdaemon Notifier for Home Assistant
 - [diyhue/ReadTheDocs](https://github.com/diyhue/ReadTheDocs) - Documentation for diyHue
 - [8layer8/swarm-public](https://github.com/8layer8/swarm-public) - Code for public docker swarm build
 - [Yogui79/IntexPureSpa](https://github.com/Yogui79/IntexPureSpa) - Intex® PureSpa remote control for Home Automation
@@ -3357,6 +3367,7 @@
 
 ## raspberry-pi 
 
+- [ntalekt/homeassistant](https://github.com/ntalekt/homeassistant) - Example Home Assistant Configs
 - [rayui/scooby](https://github.com/rayui/scooby) - Pretty fast, pretty simple K3S clusters for Raspberry Pi
 - [hishizuka/pizero_bikecomputer](https://github.com/hishizuka/pizero_bikecomputer) - An open source bike computer based on  Raspberry Pi Zero (W, WH, 2W) with GPS and ANT+. Including offline map and navigation.
 - [lento234/homelab](https://github.com/lento234/homelab) - Personal homelab setup
@@ -3390,6 +3401,7 @@
 
 ## react 
 
+- [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [ixahmedxi/noodle](https://github.com/ixahmedxi/noodle) - Open Source Education Platform
 - [deiucanta/chatpad](https://github.com/deiucanta/chatpad) - Not just another ChatGPT user-interface!
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
@@ -3412,6 +3424,10 @@
 - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
+
+## react-native 
+
+- [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 
 ## reactjs 
 
@@ -3812,6 +3828,7 @@
 
 ## typescript 
 
+- [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source automation tool ✨ Workflow automation tool / Enterprise automation tool / Business automation tool / Zapier Alternative
 - [fogfish/aws-cdk-pure](https://github.com/fogfish/aws-cdk-pure) - Purely Functional and high-order cloud components with AWS CDK
 - [sam-goodwin/punchcard](https://github.com/sam-goodwin/punchcard) - Type-safe AWS infrastructure.
@@ -3883,6 +3900,7 @@
 
 ## web 
 
+- [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [ixahmedxi/noodle](https://github.com/ixahmedxi/noodle) - Open Source Education Platform
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 - [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity, support for English,中文,Español,العربية. 让生产力加倍的ChatGPT快捷指令，无需熟悉提示词，就能轻松搜索、优化和管理Prompts，适应多语言及各种生产效率场景。
