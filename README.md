@@ -111,6 +111,7 @@
 
 ## C++ 
 
+- [sairon/esphome-nspanel-lovelace-ui](https://github.com/sairon/esphome-nspanel-lovelace-ui) - ESPHome component for NSPanel Lovelace UI
 - [diyhue/ReadTheDocs](https://github.com/diyhue/ReadTheDocs) - Documentation for diyHue
 - [Yogui79/IntexPureSpa](https://github.com/Yogui79/IntexPureSpa) - Intex® PureSpa remote control for Home Automation
 - [visualapproach/WiFi-remote-for-Bestway-Lay-Z-SPA](https://github.com/visualapproach/WiFi-remote-for-Bestway-Lay-Z-SPA) - Hack - ESP8266 as WiFi remote control for Bestway Lay-Z spa Helsinki
@@ -1416,6 +1417,7 @@
 
 ## Rust 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [sebglazebrook/aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic aliases for the bash shell
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS and MySQL bastion that needs no client-side software
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
