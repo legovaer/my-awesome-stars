@@ -673,6 +673,7 @@
 
 ## bash 
 
+- [husixu1/bdm](https://github.com/husixu1/bdm) - BDM -- Bash Dotfile Manager
 - [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
 - [basherpm/basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
@@ -1107,6 +1108,7 @@
 
 ## docker 
 
+- [NSPManager/NSPanelManager](https://github.com/NSPManager/NSPanelManager) - Sonoff NSPanel custom firmware for responsive and intuitive use
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - A brand-new shell connection hub and remote file manager
 - [atosatto/ansible-dockerswarm](https://github.com/atosatto/ansible-dockerswarm) - Docker Engine clustering using "Swarm Mode" and Ansible
 - [Freekers/ansible-adguard](https://github.com/Freekers/ansible-adguard) - Ansible playbook to setup AdGuard Home with Unbound, including DoH, DoT & Let's Encrypt, based on Docker
@@ -2486,6 +2488,8 @@
 
 ## others 
 
+- [gcobb321/icloud3_v3](https://github.com/gcobb321/icloud3_v3) - iCloud3 v3, Development Version - This Repo/Version is used for development and testing of new and updated features. It is not the official release of iCloud3 v3, .
+- [jlpouffier/home-assistant-config](https://github.com/jlpouffier/home-assistant-config) - Open source configuration of my connected apartment
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [Nyceane/vehicle-rear-vision](https://github.com/Nyceane/vehicle-rear-vision) - open source vehicle rear vision using Intel Joule, connected with RealSense Camera and Walabot
 - [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon) - Package Appdaemon Notifier for Home Assistant
@@ -3640,6 +3644,7 @@
 
 ## shell 
 
+- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
 - [basherpm/basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
