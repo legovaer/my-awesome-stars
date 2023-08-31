@@ -195,7 +195,7 @@
 
 ## ai 
 
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI personal assistant for your digital brain. Khoj provides you with an easy way to setup the infrastructure to search and chat with your personal knowledge base, be it markdown, org, image, or PDF
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI copilot for your second brain. Search and chat with your personal knowledge base, online or offline
 - [F33RNI/GPT-Telegramus](https://github.com/F33RNI/GPT-Telegramus) - The best Telegram bot for ChatGPT, EdgeGPT, DALL-E and Bard with stream writing, multiple languages, admin control, automatic proxy searcher, data logging and more!
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. Runs g
 - [fiatrete/OpenDAN-Personal-AI-OS](https://github.com/fiatrete/OpenDAN-Personal-AI-OS) - OpenDAN is an open source Personal AI OS , which consolidates various AI modules in one place for your personal use.
@@ -744,7 +744,7 @@
 
 ## chatgpt 
 
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI personal assistant for your digital brain. Khoj provides you with an easy way to setup the infrastructure to search and chat with your personal knowledge base, be it markdown, org, image, or PDF
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI copilot for your second brain. Search and chat with your personal knowledge base, online or offline
 - [F33RNI/GPT-Telegramus](https://github.com/F33RNI/GPT-Telegramus) - The best Telegram bot for ChatGPT, EdgeGPT, DALL-E and Bard with stream writing, multiple languages, admin control, automatic proxy searcher, data logging and more!
 - [kharvd/gpt-cli](https://github.com/kharvd/gpt-cli) - Command-line interface for ChatGPT, Claude and Bard
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
@@ -1255,7 +1255,7 @@
 
 ## emacs 
 
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI personal assistant for your digital brain. Khoj provides you with an easy way to setup the infrastructure to search and chat with your personal knowledge base, be it markdown, org, image, or PDF
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI copilot for your second brain. Search and chat with your personal knowledge base, online or offline
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 
 ## ember 
@@ -2262,7 +2262,7 @@
 
 ## markdown 
 
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI personal assistant for your digital brain. Khoj provides you with an easy way to setup the infrastructure to search and chat with your personal knowledge base, be it markdown, org, image, or PDF
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI copilot for your second brain. Search and chat with your personal knowledge base, online or offline
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
