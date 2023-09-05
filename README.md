@@ -1730,7 +1730,7 @@
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
-- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [spotify/web-scripts](https://github.com/spotify/web-scripts) - A collection of base configs and CLI wrappers used to speed up development @ Spotify.
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
 - [royto/logbook-card](https://github.com/royto/logbook-card) - Logbook card for Home Assistant UI Lovelace
@@ -1775,7 +1775,7 @@
 - [DBuit/sidebar-card](https://github.com/DBuit/sidebar-card) - 
 - [DBuit/Homekit-panel-card](https://github.com/DBuit/Homekit-panel-card) - Homekit panel card for home assistant
 - [emqx/MQTTX](https://github.com/emqx/MQTTX) - A Powerful and All-in-One MQTT 5.0 client toolbox for Desktop, CLI and WebSocket.
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [SvanBoxel/organization-workflows](https://github.com/SvanBoxel/organization-workflows) - Need to centrally manage and run Actions workflows across multiple repositories? This app does it for you.
 - [dangreco/home-assistant-nextjs-starter](https://github.com/dangreco/home-assistant-nextjs-starter) - Starter template for Next.js-based Home Assistant frontends.
