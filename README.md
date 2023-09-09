@@ -569,7 +569,7 @@
 - [haltu/muuri](https://github.com/haltu/muuri) - Infinite responsive, sortable, filterable and draggable layouts
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2022
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [philipp089/Home-Assistant-Config](https://github.com/philipp089/Home-Assistant-Config) - HA Config and UI
 - [gordlea/remarkable-raindrop](https://github.com/gordlea/remarkable-raindrop) - 
 - [dynobo/noteto](https://github.com/dynobo/noteto) - Template Tool for the reMarkable tablet (and maybe others?)
@@ -621,7 +621,7 @@
 - [pottava/docker-webui](https://github.com/pottava/docker-webui) - Dockerized docker-webui -&gt;
 - [piitaya/lovelace-mushroom-themes](https://github.com/piitaya/lovelace-mushroom-themes) - Additional themes for Lovelace Mushroom Cards 🍄
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
-- [Mariusthvdb/custom-ui](https://github.com/Mariusthvdb/custom-ui) - Adapted Custom-ui for HA 110+ / HA 2021.6
+- [Mariusthvdb/custom-ui](https://github.com/Mariusthvdb/custom-ui) - Add templates and icon_color to Home Assistant UI
 - [alexarch21/history-explorer-card](https://github.com/alexarch21/history-explorer-card) - A card for Home Assistant Lovelace for exploring the history of your entities interactively and in real time.
 - [outsideris/citizen](https://github.com/outsideris/citizen) - A Private Terraform Module/Provider Registry
 - [tecfu/tty-table](https://github.com/tecfu/tty-table) - Terminal table for Windows, Linux, and MacOS. Written in nodejs. Also works in browser console. Word wrap, padding, alignment, colors, Asian character support, per-column callbacks, and you can pass r
