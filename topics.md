@@ -2690,7 +2690,7 @@
 - [certsocietegenerale/FIR](https://github.com/certsocietegenerale/FIR) - Fast Incident Response
 - [adamdoupe/adamd-pocs](https://github.com/adamdoupe/adamd-pocs) - 
 - [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - articles
-- [ESPresense/ESPresense-companion](https://github.com/ESPresense/ESPresense-companion) - HA Addon / Container that solves indoor positions with mqtt data received from multiple ESPresense stations
+- [ESPresense/ESPresense-companion](https://github.com/ESPresense/ESPresense-companion) - HA Add-on / Docker container that solves indoor positions with mqtt data received from multiple ESPresense stations
 - [seaky/nspanel_pro_tools_apk](https://github.com/seaky/nspanel_pro_tools_apk) - 
 - [Hapyr/trans-cat](https://github.com/Hapyr/trans-cat) - Categorize your bank transactions automatically by dessiontree classification
 - [DormyMo/SpiderKeeper](https://github.com/DormyMo/SpiderKeeper) - admin ui for scrapy/open source scrapinghub
