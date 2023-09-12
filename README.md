@@ -195,7 +195,6 @@
 
 - [bauerj/paperless_app](https://github.com/bauerj/paperless_app) - An Android/iOS app for Paperless
 - [qcasey/paperless_share](https://github.com/qcasey/paperless_share) - Android App to share your documents with your Paperless server
-- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [zbejas/portarius](https://github.com/zbejas/portarius) - Portarius is a free, open-source, cross-platform mobile app that allows you to manage your Portainer sessions.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
@@ -390,6 +389,7 @@
 - [cloudposse/terraform-aws-components](https://github.com/cloudposse/terraform-aws-components) - Opinionated, self-contained Terraform root modules that each solve one, specific problem
 - [clouddrove/terraform-aws-labels](https://github.com/clouddrove/terraform-aws-labels) - This terraform module is designed to generate consistent label names and tags for resources. You can use terraform-labels to implement a strict naming convention.
 - [clouddrove/terraform-aws-lightsail](https://github.com/clouddrove/terraform-aws-lightsail) - Terraform module to create Lightsail instance, Lightsail Key Pair (Optional), Lightsail Static IP (Optional), Metric alarm (Optional).
+- [aws-ia/terraform-aws-eks-blueprints](https://github.com/aws-ia/terraform-aws-eks-blueprints) - Configure and deploy complete EKS clusters.
 - [cogini/multi-env-deploy](https://github.com/cogini/multi-env-deploy) - Complete example of deploying complex web apps to AWS using Terraform, Ansible, and Packer
 - [cloudposse/terraform-aws-config](https://github.com/cloudposse/terraform-aws-config) - This module configures AWS Config, a service that enables you to assess, audit, and evaluate the configurations of your AWS resources.
 - [trussworks/terraform-aws-bootstrap](https://github.com/trussworks/terraform-aws-bootstrap) - 🐓 🥚 Terraform for your Terraform remote state configuration
@@ -968,7 +968,6 @@
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
-- [aws-ia/terraform-aws-eks-blueprints](https://github.com/aws-ia/terraform-aws-eks-blueprints) - Configure and deploy complete EKS clusters.
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
 - [nagyrobi/home-assistant-configuration-examples](https://github.com/nagyrobi/home-assistant-configuration-examples) - Some of my Home Assistant configurations shared to the community
@@ -1097,7 +1096,7 @@
 - [AppDaemon/appdaemon](https://github.com/AppDaemon/appdaemon) - :page_facing_up: Python Apps for Home Automation
 - [NabuCasa/hass-nabucasa](https://github.com/NabuCasa/hass-nabucasa) - Issues related to the cloud integration in Nabu Casa
 - [dannytsang/homeassistant-config](https://github.com/dannytsang/homeassistant-config) - 🏡 My Home Assistant Configs.
-- [F33RNI/GPT-Telegramus](https://github.com/F33RNI/GPT-Telegramus) - The best Telegram bot for ChatGPT, EdgeGPT, DALL-E and Bard with stream writing, multiple languages, admin control, automatic proxy searcher, data logging and more!
+- [F33RNI/GPT-Telegramus](https://github.com/F33RNI/GPT-Telegramus) - The best Telegram bot for ChatGPT, EdgeGPT, DALL-E, Bing Image generator and Bard with stream writing, multiple languages, admin control, automatic proxy searcher, data logging and more!
 - [ciuzaak/Claude-Telegram-Bot](https://github.com/ciuzaak/Claude-Telegram-Bot) - Anthropic Claude & Google Bard Bot for Telegram.
 - [kharvd/gpt-cli](https://github.com/kharvd/gpt-cli) - Command-line interface for ChatGPT, Claude and Bard
 - [RanzQ/hyperion-audio-effects](https://github.com/RanzQ/hyperion-audio-effects) - Hyperion audio effects dev kit using Gstreamer
@@ -1690,6 +1689,7 @@
 - [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity, support for English,中文,Español,العربية. 让生产力加倍的ChatGPT快捷指令，无需熟悉提示词，就能轻松搜索、优化和管理Prompts，适应多语言及各种生产效率场景。
 - [stdword/logseq13-full-house-plugin](https://github.com/stdword/logseq13-full-house-plugin) - Logseq Templates you will really love ❤️
 - [Anonyfox/rake-js](https://github.com/Anonyfox/rake-js) - A pure JS implementation of the Rapid Automated Keyword Extraction (RAKE) algorithm.
+- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code/low-code platform to build internal tools.
 - [yoyurec/logseq-sticky-headers](https://github.com/yoyurec/logseq-sticky-headers) - 📌 H1-H5 headers stick on content scroll. Logseq  pligin
 - [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT
