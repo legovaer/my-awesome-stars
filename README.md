@@ -691,6 +691,7 @@
 
 - [einschmidt/hassio-addons](https://github.com/einschmidt/hassio-addons) - Home Assistant addons
 - [neilimixamo/Home-Assistant-Quick-Look-Mobile](https://github.com/neilimixamo/Home-Assistant-Quick-Look-Mobile) - 
+- [filipweilid/k3s-homelab](https://github.com/filipweilid/k3s-homelab) - Mono repository for my home infrastructure and Kubernetes cluster
 - [techno-tim/k3s-ansible](https://github.com/techno-tim/k3s-ansible) - The easiest way to bootstrap a self-hosted High Availability Kubernetes cluster.  A fully automated HA k3s etcd install with kube-vip, MetalLB, and more
 - [hassio-addons/addon-log-viewer](https://github.com/hassio-addons/addon-log-viewer) - Log Viewer - Home Assistant Community Add-ons
 - [neuroforgede/promswarm](https://github.com/neuroforgede/promswarm) - Modernized swarmprom
@@ -724,7 +725,6 @@
 ## Jupyter Notebook 
 
 - [langestefan/auto-sun-blind](https://github.com/langestefan/auto-sun-blind) - Automatically control your sun blinds via home assistant based on the position of the sun.
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [BARarch/contacts-scraper](https://github.com/BARarch/contacts-scraper) - Headless Python web scraping google app output
 - [craigbarratt/hass-pyscript-jupyter](https://github.com/craigbarratt/hass-pyscript-jupyter) - Jupyter kernel shim to connect to HASS pyscript
@@ -801,7 +801,6 @@
 - [fssecur3/fuzzlists](https://github.com/fssecur3/fuzzlists) - A collection of useful lists for Penetration Testing & Bug Bounty - Content Discovery, Payloads, Variables, Sandbox Escaping, etc
 - [0xPugazh/One-Liners](https://github.com/0xPugazh/One-Liners) - A collection of awesome one-liners for bug bounty hunting.
 - [dwoosnam/HomeAssistant](https://github.com/dwoosnam/HomeAssistant) - This is a selection of my Home Assistant configuration examples to share around.
-- [filipweilid/k3s-homelab](https://github.com/filipweilid/k3s-homelab) - Mono repository for my home infrastructure and Kubernetes cluster
 - [bramkragten/weather-card](https://github.com/bramkragten/weather-card) - Weather Card with animated icons for Home Assistant Lovelace
 - [eximo84/homeassistant-config-v2](https://github.com/eximo84/homeassistant-config-v2) - Home Assistant Configuration including Lovelace YAML
 - [awsdocs/aws-cdk-guide](https://github.com/awsdocs/aws-cdk-guide) - User guide for the AWS Cloud Development Kit (CDK).
@@ -1148,6 +1147,7 @@
 - [JarvyJ/HomeIntent](https://github.com/JarvyJ/HomeIntent) - an offline voice assistant with tight integration with Home Assistant
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 - [b0mbays/continuously_casting_dashboards](https://github.com/b0mbays/continuously_casting_dashboards) - HACS Integration for continuously casting a Home Assistant dashboard to your Google Chromecast Displays
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [b0mbays/ha-pi-continuously-cast](https://github.com/b0mbays/ha-pi-continuously-cast) - Python system service to continuously cast Home Assistant to a Google Chromecast device
 - [ustayready/golddigger](https://github.com/ustayready/golddigger) - 
 - [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered enterprise search engine 🔎
