@@ -1697,6 +1697,7 @@
 ## home-assistant 
 
 - [langestefan/auto-sun-blind](https://github.com/langestefan/auto-sun-blind) - Automatically control your sun blinds via home assistant based on the position of the sun.
+- [Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card) - Bubble Card is a minimalist card collection for Home Assistant with a nice pop-up touch.
 - [sairon/esphome-nspanel-lovelace-ui](https://github.com/sairon/esphome-nspanel-lovelace-ui) - ESPHome component for NSPanel Lovelace UI
 - [ntalekt/homeassistant](https://github.com/ntalekt/homeassistant) - Example Home Assistant Configs
 - [cgarwood/homeassistant-config](https://github.com/cgarwood/homeassistant-config) - Home Assistant Configuration
