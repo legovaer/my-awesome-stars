@@ -76,6 +76,7 @@
 
 ## C 
 
+- [eCrowneEng/ESP-SimHub](https://github.com/eCrowneEng/ESP-SimHub) - SimHub firwmare for ESP8266 and ESP32
 - [id-Software/quake2-rerelease-dll](https://github.com/id-Software/quake2-rerelease-dll) - 
 - [philippe44/AirConnect](https://github.com/philippe44/AirConnect) - Use AirPlay to stream to UPnP/Sonos & Chromecast devices
 - [hugobloem/esp-ha-speech](https://github.com/hugobloem/esp-ha-speech) - Local speech recognition on an ESP32 for Home Assistant
