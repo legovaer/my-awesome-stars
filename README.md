@@ -238,7 +238,7 @@
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
-- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. Runs g
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [marcus-crane/october](https://github.com/marcus-crane/october) - A small Wails GUI for retrieving Kobo highlights and syncing them with Readwise
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -766,7 +766,6 @@
 
 ## Lua 
 
-- [chrisgrieser/.config](https://github.com/chrisgrieser/.config) - pseudometa's dotfiles
 - [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public) - My personal dotfiles
 
 ## MDX 
@@ -1093,6 +1092,7 @@
 
 ## Python 
 
+- [Daanoz/ha-google-photos](https://github.com/Daanoz/ha-google-photos) - Home Assistant Google Photos integration
 - [swagkarna/fb_friend_list_scraper](https://github.com/swagkarna/fb_friend_list_scraper) - OSINT tool to scrape names and usernames from large friend lists on Facebook, without being rate limited.
 - [Ankesh054-official/LittleBrother-GUI-](https://github.com/Ankesh054-official/LittleBrother-GUI-) - LittleBrother is an information collection tool (OSINT), It is basically a CLI based tool which aims to carry out research on a French, Swiss,Luxembourgish or Belgian person.It provides various module
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
@@ -1695,7 +1695,7 @@
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [smartcontractkit/smart-contract-examples](https://github.com/smartcontractkit/smart-contract-examples) - Example and sample projects
-- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Cloud OS for AI Agents
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Sandboxed cloud environments for AI agents & apps with a single line of code
 - [Gh61/lovelace-hue-like-light-card](https://github.com/Gh61/lovelace-hue-like-light-card) - This card provides a Hue-like way to control your lights in Home Assistant.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [jcwillox/lovelace-paper-buttons-row](https://github.com/jcwillox/lovelace-paper-buttons-row) - Adds highly configurable buttons that use actions and per-state styling.
