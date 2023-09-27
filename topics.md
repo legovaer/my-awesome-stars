@@ -1445,7 +1445,7 @@
 - [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [coder/coder](https://github.com/coder/coder) - A tool that provisions remote development environments via Terraform
+- [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [flannel-io/flannel](https://github.com/flannel-io/flannel) - flannel is a network fabric for containers, designed for Kubernetes
@@ -1495,7 +1495,7 @@
 - [jitsucom/jitsu](https://github.com/jitsucom/jitsu) - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [coder/coder](https://github.com/coder/coder) - A tool that provisions remote development environments via Terraform
+- [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [hktalent/scan4all](https://github.com/hktalent/scan4all) - Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
 - [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud.
@@ -3872,7 +3872,7 @@
 - [nsriram/lambda-the-terraform-way](https://github.com/nsriram/lambda-the-terraform-way) - AWS Lambda using Terraform., an Introductory Cookbook
 - [ozbillwang/terraform-best-practices](https://github.com/ozbillwang/terraform-best-practices) - Terraform Best Practices for AWS users
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including
-- [coder/coder](https://github.com/coder/coder) - A tool that provisions remote development environments via Terraform
+- [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
 - [Pluralith/pluralith-cli](https://github.com/Pluralith/pluralith-cli) - A tool for Terraform state visualisation and automated generation of infrastructure documentation
 - [run-x/opta](https://github.com/run-x/opta) - The next generation of Infrastructure-as-Code. Work with high-level constructs instead of getting lost in low-level cloud configuration.
 - [waveaccounting/terraform-aws-chatbot-slack-configuration](https://github.com/waveaccounting/terraform-aws-chatbot-slack-configuration) - Module to enable Chatbot Slack channel configuration in Terraform
