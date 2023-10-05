@@ -1452,7 +1452,7 @@
 
 ## Rust 
 
-- [jaytaph/gosub-browser](https://github.com/jaytaph/gosub-browser) - A html5 tokenizer / parser that hopefully grow up to be a browser. Discussions at https://github.com/jaytaph/gosub-browser/discussions
+- [gosub-browser/gosub-engine](https://github.com/gosub-browser/gosub-engine) - A html5 tokenizer / parser that hopefully grow up to be a browser. Discussions at https://github.com/gosub-browser/gosub-engine/discussions
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [sebglazebrook/aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic aliases for the bash shell
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS and MySQL bastion that needs no client-side software
@@ -1691,7 +1691,7 @@
 - [apoorvmote/cdk-examples](https://github.com/apoorvmote/cdk-examples) - These are CDK template/patterns that I came across my journey with AWS CDK.
 - [aws/aws-pdk](https://github.com/aws/aws-pdk) - The AWS PDK provides building blocks for common patterns together with development tools to manage and build your projects.
 - [aws-samples/aws-cdk-pipelines-eks-cluster](https://github.com/aws-samples/aws-cdk-pipelines-eks-cluster) - This project uses CDK Pipelines to define a self mutating pipeline to deploy EKS Cluster(s). It uses CDK for cluster, node, infrastructure and app configuration.
-- [aws-samples/cdk-eks-blueprints-patterns](https://github.com/aws-samples/cdk-eks-blueprints-patterns) - Sample patterns repository for the Amazon EKS Bluepints for CDK
+- [aws-samples/cdk-eks-blueprints-patterns](https://github.com/aws-samples/cdk-eks-blueprints-patterns) - Patterns repository for the Amazon EKS Bluepints for CDK
 - [tecracer/cdk-templates](https://github.com/tecracer/cdk-templates) - Templates for aws cdk
 - [kolomied/cdk-stepfunctions-patterns](https://github.com/kolomied/cdk-stepfunctions-patterns) - A set of Step Functions high-level resiliency patterns.
 - [sam-goodwin/punchcard](https://github.com/sam-goodwin/punchcard) - Type-safe AWS infrastructure.
