@@ -141,7 +141,7 @@
 - [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [smrtnt/Open-Home-Automation](https://github.com/smrtnt/Open-Home-Automation) - Open Home Automation with Home Assistant, ESP8266/ESP32 and MQTT
-- [igiannakas/mmwave-d1mini](https://github.com/igiannakas/mmwave-d1mini) - Room presence detection using mmWave radar (DFRobot SEN0395), D1 Mini ESP-8266 and ESPHome for HomeAssistant
+- [igiannakas/mmWave-Presense-Sensor-D1-Mini-DFRobot-](https://github.com/igiannakas/mmWave-Presense-Sensor-D1-Mini-DFRobot-) - Room presence detection using mmWave radar (DFRobot SEN0395), D1 Mini ESP-8266 and ESPHome for HomeAssistant
 - [alvr-org/ALVR](https://github.com/alvr-org/ALVR) - Stream VR games from your PC to your headset via Wi-Fi
 - [jnsbyr/esp8266-intexsbh20](https://github.com/jnsbyr/esp8266-intexsbh20) - MQTT WiFi remote control for the Intex PureSpa SB-H20 and SJB-HS whirlpools
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
@@ -258,7 +258,7 @@
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [mikeroyal/Grafana-Guide](https://github.com/mikeroyal/Grafana-Guide) - Grafana Guide
 - [mikeroyal/Open-Source-Security-Guide](https://github.com/mikeroyal/Open-Source-Security-Guide) - Open Source Security Guide. Learn all about Security Standards (FIPS, CIS, FedRAMP, FISMA, etc.), Frameworks, Threat Models, Encryption, and Benchmarks.
-- [gimlet-io/gimlet](https://github.com/gimlet-io/gimlet) - A gitops based developer platform that gives you the best of open-source out of the box.
+- [gimlet-io/gimlet](https://github.com/gimlet-io/gimlet) - The Flux based internal developer platform
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [hashicorp/nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and sc
 - [thezedwards/Pitraix](https://github.com/thezedwards/Pitraix) - Modern Self-Modifying Cross-Platform Peer-to-Peer Botnet over TOR
@@ -330,6 +330,7 @@
 - [tokozedg/sman](https://github.com/tokozedg/sman) - :bug: Command-line snippet manager
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
 - [dagger/dagger](https://github.com/dagger/dagger) - A programmable CI/CD engine that runs your pipelines in containers
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [terramate-io/terramate](https://github.com/terramate-io/terramate) - Terramate adds powerful capabilities such as code generation, stacks, orchestration, change detection, data sharing and more to Terraform.
@@ -492,7 +493,6 @@
 - [rishabhp/bideo.js](https://github.com/rishabhp/bideo.js) - Fullscreen HTML5 Background Video for the Web.
 - [ntalekt/homeassistant](https://github.com/ntalekt/homeassistant) - Example Home Assistant Configs
 - [mlamberts78/weather-chart-card](https://github.com/mlamberts78/weather-chart-card) - Custom weather card with charts.
-- [Olen/lovelace-flower-card](https://github.com/Olen/lovelace-flower-card) - Lovelace Flower Card to match the custom plant integration
 - [MilanBarande/ticketswoop](https://github.com/MilanBarande/ticketswoop) - Ticketswoop is a basic puppeteer bot to purchase tickets on ticketswap
 - [ljmerza/light-entity-card](https://github.com/ljmerza/light-entity-card) - Control any light or switch entity
 - [Petro31/home-assistant-config](https://github.com/Petro31/home-assistant-config) - Home Assistant Configuration
@@ -1095,6 +1095,7 @@
 
 ## Python 
 
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic
 - [Daanoz/ha-google-photos](https://github.com/Daanoz/ha-google-photos) - Home Assistant Google Photos integration
 - [swagkarna/fb_friend_list_scraper](https://github.com/swagkarna/fb_friend_list_scraper) - OSINT tool to scrape names and usernames from large friend lists on Facebook, without being rate limited.
@@ -1346,7 +1347,7 @@
 - [angadsingh/argos](https://github.com/angadsingh/argos) - a spacial-temporal pattern detection system for home automation
 - [apollocreed/ansible-autodoc](https://github.com/apollocreed/ansible-autodoc) - ansible-autodoc generates documentation from annotated Ansible Playbooks and Roles.
 - [andresbott/ansible-autodoc](https://github.com/andresbott/ansible-autodoc) - ansible-autodoc generates documentation from annotated Ansible Playbooks and Roles.
-- [thedavidwhiteside/ansible-docgen](https://github.com/thedavidwhiteside/ansible-docgen) - Generate documentation from annotated Ansible Playbooks and Roles
+- [outbit/ansible-docgen](https://github.com/outbit/ansible-docgen) - Generate documentation from annotated Ansible Playbooks and Roles
 - [murphypetercl/ansible-mdgen](https://github.com/murphypetercl/ansible-mdgen) - Python package to automate documentation generation for Ansible
 - [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
 - [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
@@ -1664,6 +1665,7 @@
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool  / ChatBot  / Zapier Alternative
 - [headlamp-k8s/headlamp](https://github.com/headlamp-k8s/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
+- [Olen/lovelace-flower-card](https://github.com/Olen/lovelace-flower-card) - Lovelace Flower Card to match the custom plant integration
 - [Sian-Lee-SA/Home-Assistant-Switch-Manager](https://github.com/Sian-Lee-SA/Home-Assistant-Switch-Manager) - Switch manager is a centralised component to handle button pushes for your wireless switches. This includes anything passed through the event bus. The component relies on switch blueprints which is ea
 - [custom-cards/stack-in-card](https://github.com/custom-cards/stack-in-card) - 🛠 group multiple cards into one card without the borders
 - [decompil3d/lovelace-hourly-weather](https://github.com/decompil3d/lovelace-hourly-weather) - Hourly weather card for Home Assistant. Visualize upcoming weather conditions as a colored horizontal bar.
