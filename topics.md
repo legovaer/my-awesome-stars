@@ -197,6 +197,7 @@
 
 ## ai 
 
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI copilot for your second brain. Search and chat with your personal knowledge base, online or offline
 - [F33RNI/GPT-Telegramus](https://github.com/F33RNI/GPT-Telegramus) - The best Telegram bot for ChatGPT, EdgeGPT (aka Bing AI), DALL-E, Bing Image generator and Bard with stream writing, requests with images (for Bard only), multiple languages, admin control, automatic 
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
@@ -307,7 +308,7 @@
 - [nginxinc/ansible-role-nginx-config](https://github.com/nginxinc/ansible-role-nginx-config) - Ansible role for configuring NGINX
 - [wluisaraujo/ansible-role-nginx](https://github.com/wluisaraujo/ansible-role-nginx) - Infrastructure as Code (IaC) with Ansible for NGINX
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
-- [thedavidwhiteside/ansible-docgen](https://github.com/thedavidwhiteside/ansible-docgen) - Generate documentation from annotated Ansible Playbooks and Roles
+- [outbit/ansible-docgen](https://github.com/outbit/ansible-docgen) - Generate documentation from annotated Ansible Playbooks and Roles
 - [geerlingguy/ansible-role-php](https://github.com/geerlingguy/ansible-role-php) - Ansible Role - PHP
 - [geerlingguy/ansible-role-apache-php-fpm](https://github.com/geerlingguy/ansible-role-apache-php-fpm) - Apache FastCGI support for PHP-FPM
 - [jr0dd/home-ops](https://github.com/jr0dd/home-ops) - One repo to rule them all. This mono repo serves my home infrastructure and Kubernetes cluster which utilizes Infrastructure as Code (IaC)
@@ -850,6 +851,7 @@
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
 - [nessjs/ness](https://github.com/nessjs/ness) - Deploy web sites and apps to your own cloud account effortlessly.
 - [emqx/MQTTX](https://github.com/emqx/MQTTX) - A Powerful and All-in-One MQTT 5.0 client toolbox for Desktop, CLI and WebSocket.
@@ -1057,6 +1059,7 @@
 
 ## design 
 
+- [Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card) - Bubble Card is a minimalist card collection for Home Assistant with a nice pop-up touch.
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 
@@ -1072,7 +1075,7 @@
 - [AcalephStorage/awesome-devops](https://github.com/AcalephStorage/awesome-devops) - A curated list of resources for Devops
 - [mikeroyal/Grafana-Guide](https://github.com/mikeroyal/Grafana-Guide) - Grafana Guide
 - [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
-- [gimlet-io/gimlet](https://github.com/gimlet-io/gimlet) - A gitops based developer platform that gives you the best of open-source out of the box.
+- [gimlet-io/gimlet](https://github.com/gimlet-io/gimlet) - The Flux based internal developer platform
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [portainer/awesome-portainer](https://github.com/portainer/awesome-portainer) - A curated list of Portainer resources, tutorials, videos
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
@@ -1166,7 +1169,6 @@
 - [point-4ward/Home-Assistant](https://github.com/point-4ward/Home-Assistant) - Home-Assistant-Config
 - [home-assistant/builder](https://github.com/home-assistant/builder) - Home Assistant builder script
 - [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) - Nextcloud AIO stands for Nextcloud All-in-One and provides easy deployment and maintenance with most features included in this one Nextcloud instance.
-- [gimlet-io/gimlet](https://github.com/gimlet-io/gimlet) - A gitops based developer platform that gives you the best of open-source out of the box.
 - [portainer/awesome-portainer](https://github.com/portainer/awesome-portainer) - A curated list of Portainer resources, tutorials, videos
 - [mpascu/docker-home-infra](https://github.com/mpascu/docker-home-infra) - A docker-compose setup ready to spin up a bunch of useful media, file-sharing, programming, web tools, databases...
 - [jmb12686/raspi-docker-stacks](https://github.com/jmb12686/raspi-docker-stacks) - Collection of Docker Stacks for usage on a multi-architecture Docker Swarm cluster (arm, amd64)
@@ -1255,7 +1257,7 @@
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [matheusfelipeog/beautiful-docs](https://github.com/matheusfelipeog/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
-- [thedavidwhiteside/ansible-docgen](https://github.com/thedavidwhiteside/ansible-docgen) - Generate documentation from annotated Ansible Playbooks and Roles
+- [outbit/ansible-docgen](https://github.com/outbit/ansible-docgen) - Generate documentation from annotated Ansible Playbooks and Roles
 - [thegeeklab/ansible-doctor](https://github.com/thegeeklab/ansible-doctor) - Annotation based documentation for your Ansible roles
 - [terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs) - Generate documentation from Terraform modules in various output formats
 - [AmoebeLabs/swiss-army-knife-card-manual](https://github.com/AmoebeLabs/swiss-army-knife-card-manual) - The documentation repository for the Swiss Army Knife custom card for Home Assistant.
@@ -1495,7 +1497,6 @@
 - [gwen001/github-subdomains](https://github.com/gwen001/github-subdomains) - Find subdomains on GitHub.
 - [orsinium-labs/generated-awesomeness](https://github.com/orsinium-labs/generated-awesomeness) - List of autogenerated awesome lists.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
-- [gimlet-io/gimlet](https://github.com/gimlet-io/gimlet) - A gitops based developer platform that gives you the best of open-source out of the box.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [vogo/logtail](https://github.com/vogo/logtail) - logtail is a log tailing utility, support tailing multiple commands output stream, transferring matching content to file/webhook(like dingtalk)
@@ -1584,6 +1585,7 @@
 
 ## hacktoberfest 
 
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [hslatman/awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) - A curated list of Awesome Threat Intelligence resources
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
 - [sinedied/dmx-hue](https://github.com/sinedied/dmx-hue) - :traffic_light: Art-Net node to control Philips Hue lights with DMX
@@ -1607,7 +1609,6 @@
 - [AzeemIdrisi/PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro) - An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [Gallopsled/pwntools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
-- [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
 - [VIDA-NYU/ache](https://github.com/VIDA-NYU/ache) - ACHE is a web crawler for domain-specific search.
 - [puzzle/ansible-rancher](https://github.com/puzzle/ansible-rancher) - Some Ansible plays & roles to install Rancher and Kubernetes Cluster
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
@@ -1623,7 +1624,7 @@
 - [edm00se/awesome-board-games](https://github.com/edm00se/awesome-board-games) - A curated list of awesome and exceptional board games. Please contribute!
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
-- [gimlet-io/gimlet](https://github.com/gimlet-io/gimlet) - A gitops based developer platform that gives you the best of open-source out of the box.
+- [gimlet-io/gimlet](https://github.com/gimlet-io/gimlet) - The Flux based internal developer platform
 - [tadhglewis/issue-status](https://github.com/tadhglewis/issue-status) - Simple, modern and flexible status page
 - [KTibow/lovelace-soft-theme](https://github.com/KTibow/lovelace-soft-theme) - 🎨 A new, simple soft theme for Home Assistant.
 - [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
@@ -2072,6 +2073,7 @@
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [TylerBrock/saw](https://github.com/TylerBrock/saw) - Fast, multi-purpose tool for AWS CloudWatch Logs
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 
 ## jupyter-notebook 
 
@@ -2110,7 +2112,7 @@
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
 - [mikeroyal/Grafana-Guide](https://github.com/mikeroyal/Grafana-Guide) - Grafana Guide
 - [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
-- [gimlet-io/gimlet](https://github.com/gimlet-io/gimlet) - A gitops based developer platform that gives you the best of open-source out of the box.
+- [gimlet-io/gimlet](https://github.com/gimlet-io/gimlet) - The Flux based internal developer platform
 - [portainer/awesome-portainer](https://github.com/portainer/awesome-portainer) - A curated list of Portainer resources, tutorials, videos
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
 - [jonico/awesome-runners](https://github.com/jonico/awesome-runners) - A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix
@@ -2840,7 +2842,7 @@
 - [ChristianLempa/cheat-sheets](https://github.com/ChristianLempa/cheat-sheets) - This is my personal knowledge-base. Here you'll find code-snippets, technical documentation, and command reference for various tools, and technologies.
 - [hashicorp/nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and sc
 - [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and 
-- [igiannakas/mmwave-d1mini](https://github.com/igiannakas/mmwave-d1mini) - Room presence detection using mmWave radar (DFRobot SEN0395), D1 Mini ESP-8266 and ESPHome for HomeAssistant
+- [igiannakas/mmWave-Presense-Sensor-D1-Mini-DFRobot-](https://github.com/igiannakas/mmWave-Presense-Sensor-D1-Mini-DFRobot-) - Room presence detection using mmWave radar (DFRobot SEN0395), D1 Mini ESP-8266 and ESPHome for HomeAssistant
 - [thezedwards/Pitraix](https://github.com/thezedwards/Pitraix) - Modern Self-Modifying Cross-Platform Peer-to-Peer Botnet over TOR
 - [legovaer/room-assistant2](https://github.com/legovaer/room-assistant2) - A fork of room-assistant
 - [sholiday/espresense-admin](https://github.com/sholiday/espresense-admin) - Viewer and Admin intercase for https://espresense.com/
@@ -3327,6 +3329,7 @@
 
 ## python 
 
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [NoDataFound/hackGPT](https://github.com/NoDataFound/hackGPT) - I leverage OpenAI and ChatGPT to do hackerish things
 - [Daanoz/ha-google-photos](https://github.com/Daanoz/ha-google-photos) - Home Assistant Google Photos integration
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
@@ -3519,6 +3522,7 @@
 
 ## react 
 
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [shannonhochkins/ha-component-kit](https://github.com/shannonhochkins/ha-component-kit) - A Home Assistant React component library to generate dashboards with ease, This utilizises a massive list of Components / cards to use out of the box, a large range of hooks to build your own custom f
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [ixahmedxi/noodle](https://github.com/ixahmedxi/noodle) - Open Source Education Platform
