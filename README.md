@@ -737,7 +737,6 @@
 
 - [NoDataFound/hackGPT](https://github.com/NoDataFound/hackGPT) - I leverage OpenAI and ChatGPT to do hackerish things
 - [langestefan/auto-sun-blind](https://github.com/langestefan/auto-sun-blind) - Automatically control your sun blinds via home assistant based on the position of the sun.
-- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [BARarch/contacts-scraper](https://github.com/BARarch/contacts-scraper) - Headless Python web scraping google app output
 - [craigbarratt/hass-pyscript-jupyter](https://github.com/craigbarratt/hass-pyscript-jupyter) - Jupyter kernel shim to connect to HASS pyscript
 - [mikeroyal/Jupyter-Guide](https://github.com/mikeroyal/Jupyter-Guide) - Jupyter Guide
@@ -828,6 +827,7 @@
 - [0xd4y/Notes](https://github.com/0xd4y/Notes) - Cybersecurity Notes
 - [seaky/nspanel_pro_roottool_apk](https://github.com/seaky/nspanel_pro_roottool_apk) - 
 - [OpenMindClub/awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt) - ⚡ Everything about ChatGPT
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [stboch/homeassistant-blueprints](https://github.com/stboch/homeassistant-blueprints) - My collection of home-assistant.io blueprints
 - [SirGoodenough/HA_Blueprints](https://github.com/SirGoodenough/HA_Blueprints) - 🧯 My Collection of Automation and Script Blueprints for Home Assistant 🧯
 - [Clooos/Home-Assistant-Mobile-First](https://github.com/Clooos/Home-Assistant-Mobile-First) - A minimalist and user-friendly design, combined with an mobile first approach for the Home Assistant dashboard.
