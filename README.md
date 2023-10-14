@@ -41,7 +41,6 @@
 - [Open Policy Agent](#open-policy-agent)
 - [Others](#others)
 - [PHP](#php)
-- [PowerShell](#powershell)
 - [Python](#python)
 - [Roff](#roff)
 - [Ruby](#ruby)
@@ -258,7 +257,7 @@
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [mikeroyal/Grafana-Guide](https://github.com/mikeroyal/Grafana-Guide) - Grafana Guide
 - [mikeroyal/Open-Source-Security-Guide](https://github.com/mikeroyal/Open-Source-Security-Guide) - Open Source Security Guide. Learn all about Security Standards (FIPS, CIS, FedRAMP, FISMA, etc.), Frameworks, Threat Models, Encryption, and Benchmarks.
-- [gimlet-io/gimlet](https://github.com/gimlet-io/gimlet) - The Flux based internal developer platform
+- [gimlet-io/gimlet](https://github.com/gimlet-io/gimlet) - The Flux-based Internal Developer Platform
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [hashicorp/nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and sc
 - [thezedwards/Pitraix](https://github.com/thezedwards/Pitraix) - Modern Self-Modifying Cross-Platform Peer-to-Peer Botnet over TOR
@@ -1089,10 +1088,6 @@
 - [vijaycs85/PHP-CS-Fixer](https://github.com/vijaycs85/PHP-CS-Fixer) - Analyzes some PHP source code and tries to fix coding standards issues (PSR-1 and PSR-2 compatible)
 - [Behat/MinkExtension](https://github.com/Behat/MinkExtension) - Mink extension (tight integration and configuration) for Behat
 
-## PowerShell 
-
-- [r1cksec/cheatsheets](https://github.com/r1cksec/cheatsheets) - Collection of knowledge about information security
-
 ## Python 
 
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
@@ -1198,6 +1193,7 @@
 - [Datalux/Osintgram](https://github.com/Datalux/Osintgram) - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
 - [NiklasReiche/ad-spotify-mood-lights-sync](https://github.com/NiklasReiche/ad-spotify-mood-lights-sync) - AppDaemon app that synchronizes rgb lights to the mood of the currently playing spotify song in Home Assistant.
 - [daveshap/raven](https://github.com/daveshap/raven) - RAVEN (Realtime Assistant Voice Enabled Network) Open Source Software (OSS) community repo
+- [r1cksec/cheatsheets](https://github.com/r1cksec/cheatsheets) - Collection of knowledge about information security
 - [Mostafa-Elguerdawi/Automation_Bug_Hunting](https://github.com/Mostafa-Elguerdawi/Automation_Bug_Hunting) - 
 - [certsocietegenerale/FIR](https://github.com/certsocietegenerale/FIR) - Fast Incident Response
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
