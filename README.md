@@ -806,6 +806,7 @@
 
 ## Others 
 
+- [keatontaylor/home-assistant-config](https://github.com/keatontaylor/home-assistant-config) - Home Assistant config for my apartment
 - [htpcBeginner/auto-traefik](https://github.com/htpcBeginner/auto-traefik) - Support files to automatically setup Socket Proxy, Traefik, and fetch LE SSL certificates.
 - [hslatman/awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) - A curated list of Awesome Threat Intelligence resources
 - [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) - 🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻
@@ -1091,6 +1092,8 @@
 
 ## Python 
 
+- [custom-components/alexa_media_player](https://github.com/custom-components/alexa_media_player) - This is a custom component to allow control of Amazon Alexa devices in Home Assistant using the unofficial Alexa API.
+- [keatontaylor/alexa-actions](https://github.com/keatontaylor/alexa-actions) - A README and associated code to get actionable notifications setup for Alexa devices.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic
 - [Daanoz/ha-google-photos](https://github.com/Daanoz/ha-google-photos) - Home Assistant Google Photos integration
