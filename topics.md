@@ -424,6 +424,8 @@
 
 ## awesome 
 
+- [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
+- [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
 - [hslatman/awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) - A curated list of Awesome Threat Intelligence resources
 - [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) - 🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
@@ -514,6 +516,8 @@
 
 ## awesome-list 
 
+- [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
+- [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
 - [hslatman/awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) - A curated list of Awesome Threat Intelligence resources
 - [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) - 🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
@@ -1066,6 +1070,7 @@
 
 ## devops 
 
+- [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
 - [headlamp-k8s/headlamp](https://github.com/headlamp-k8s/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [cloudcomponents/cdk-constructs](https://github.com/cloudcomponents/cdk-constructs) - A collection of higher-level reusable cdk constructs
 - [opsdroid/opsdroid](https://github.com/opsdroid/opsdroid) - 🤖 An open source chat-ops bot framework
@@ -1155,7 +1160,7 @@
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
-- [kroese/virtual-dsm](https://github.com/kroese/virtual-dsm) - Virtual DSM in a docker container.
+- [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm) - Virtual DSM in a docker container.
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 - [home-assistant/addons](https://github.com/home-assistant/addons) - :heavy_plus_sign: Docker add-ons for Home Assistant
 - [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
@@ -1593,6 +1598,7 @@
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
 - [sinedied/dmx-hue](https://github.com/sinedied/dmx-hue) - :traffic_light: Art-Net node to control Philips Hue lights with DMX
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool  / ChatBot  / Zapier Alternative
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸 Web apps in pure Python 🐍
 - [hass-emulated-hue/core](https://github.com/hass-emulated-hue/core) - Hue Emulation for Home Assistant
 - [BeardedTinker/Home-Assistant_Config](https://github.com/BeardedTinker/Home-Assistant_Config) - BeardedTinker Home Assistant configuration. Feel free to browse, edit, tweak, improve, criticize and suggest.
@@ -1625,6 +1631,7 @@
 - [jonleibowitz/awesome-digitalocean](https://github.com/jonleibowitz/awesome-digitalocean) - A curated list of amazingly awesome DigitalOcean resources inspired by Awesome Sysadmin
 - [edm00se/awesome-board-games](https://github.com/edm00se/awesome-board-games) - A curated list of awesome and exceptional board games. Please contribute!
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [gimlet-io/gimlet](https://github.com/gimlet-io/gimlet) - The Flux-based Internal Developer Platform
 - [tadhglewis/issue-status](https://github.com/tadhglewis/issue-status) - Simple, modern and flexible status page
@@ -1743,6 +1750,7 @@
 
 ## home-assistant 
 
+- [hassio-addons/addon-example](https://github.com/hassio-addons/addon-example) - Example - Home Assistant Community Add-ons
 - [custom-components/alexa_media_player](https://github.com/custom-components/alexa_media_player) - This is a custom component to allow control of Amazon Alexa devices in Home Assistant using the unofficial Alexa API.
 - [Daanoz/ha-google-photos](https://github.com/Daanoz/ha-google-photos) - Home Assistant Google Photos integration
 - [shannonhochkins/ha-component-kit](https://github.com/shannonhochkins/ha-component-kit) - A Home Assistant React component library to generate dashboards with ease, This utilizises a massive list of Components / cards to use out of the box, a large range of hooks to build your own custom f
@@ -2575,6 +2583,13 @@
 
 ## others 
 
+- [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) - Here you will find Guides mainly for the Starr Apps (Sonarr/Radarr) and everything related to it.
+- [fredrikpersson92/minihass](https://github.com/fredrikpersson92/minihass) - MiniHass UI Dashboard for Home Assistant
+- [synesthesiam/homeassistant-satellite](https://github.com/synesthesiam/homeassistant-satellite) - Streaming audio satellite for Home Assistant
+- [Anashost/MY-HA-DASH](https://github.com/Anashost/MY-HA-DASH) - 
+- [fwartner/homeassistant-config](https://github.com/fwartner/homeassistant-config) - My personal home assistant configuation files
+- [fwartner/home-assistant-wakewords-collection](https://github.com/fwartner/home-assistant-wakewords-collection) - Community Collection of Wakewords for Home Assistant
+- [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr
 - [keatontaylor/home-assistant-config](https://github.com/keatontaylor/home-assistant-config) - Home Assistant config for my apartment
 - [keatontaylor/alexa-actions](https://github.com/keatontaylor/alexa-actions) - A README and associated code to get actionable notifications setup for Alexa devices.
 - [htpcBeginner/auto-traefik](https://github.com/htpcBeginner/auto-traefik) - Support files to automatically setup Socket Proxy, Traefik, and fetch LE SSL certificates.
@@ -3605,6 +3620,7 @@
 
 ## rust 
 
+- [purton-tech/bionicgpt](https://github.com/purton-tech/bionicgpt) - BionicGPT is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality
 - [gosub-browser/gosub-engine](https://github.com/gosub-browser/gosub-engine) - A html5 tokenizer / parser that hopefully grow up to be a browser. Discussions at https://github.com/gosub-browser/gosub-engine/discussions
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS and MySQL bastion that needs no client-side software
@@ -3791,6 +3807,7 @@
 
 ## software 
 
+- [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
 - [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Sandboxed cloud environments for AI agents & apps with a single line of code
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
