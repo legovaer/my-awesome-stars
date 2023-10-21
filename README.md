@@ -230,6 +230,7 @@
 
 ## Go 
 
+- [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [kudrykv/latex-yearly-planner](https://github.com/kudrykv/latex-yearly-planner) - Digital planner for Supernote and ReMarkable // Support Ukraine 🇺🇦 https://savelife.in.ua/en
 - [seekr-osint/seekr](https://github.com/seekr-osint/seekr) - A multi-purpose OSINT toolkit with a neat web-interface.
@@ -806,6 +807,11 @@
 
 ## Others 
 
+- [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
+- [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
+- [fredrikpersson92/minihass](https://github.com/fredrikpersson92/minihass) - MiniHass UI Dashboard for Home Assistant
+- [Anashost/MY-HA-DASH](https://github.com/Anashost/MY-HA-DASH) - 
+- [fwartner/home-assistant-wakewords-collection](https://github.com/fwartner/home-assistant-wakewords-collection) - Community Collection of Wakewords for Home Assistant
 - [keatontaylor/home-assistant-config](https://github.com/keatontaylor/home-assistant-config) - Home Assistant config for my apartment
 - [htpcBeginner/auto-traefik](https://github.com/htpcBeginner/auto-traefik) - Support files to automatically setup Socket Proxy, Traefik, and fetch LE SSL certificates.
 - [hslatman/awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) - A curated list of Awesome Threat Intelligence resources
@@ -1092,6 +1098,8 @@
 
 ## Python 
 
+- [synesthesiam/homeassistant-satellite](https://github.com/synesthesiam/homeassistant-satellite) - Streaming audio satellite for Home Assistant
+- [fwartner/homeassistant-config](https://github.com/fwartner/homeassistant-config) - My personal home assistant configuation files
 - [custom-components/alexa_media_player](https://github.com/custom-components/alexa_media_player) - This is a custom component to allow control of Amazon Alexa devices in Home Assistant using the unofficial Alexa API.
 - [keatontaylor/alexa-actions](https://github.com/keatontaylor/alexa-actions) - A README and associated code to get actionable notifications setup for Alexa devices.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
@@ -1452,6 +1460,7 @@
 
 ## Rust 
 
+- [purton-tech/bionicgpt](https://github.com/purton-tech/bionicgpt) - BionicGPT is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality
 - [gosub-browser/gosub-engine](https://github.com/gosub-browser/gosub-engine) - A html5 tokenizer / parser that hopefully grow up to be a browser. Discussions at https://github.com/gosub-browser/gosub-engine/discussions
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [sebglazebrook/aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic aliases for the bash shell
@@ -1486,6 +1495,8 @@
 
 ## Shell 
 
+- [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) - Here you will find Guides mainly for the Starr Apps (Sonarr/Radarr) and everything related to it.
+- [hassio-addons/addon-example](https://github.com/hassio-addons/addon-example) - Example - Home Assistant Community Add-ons
 - [htpcBeginner/docker-traefik](https://github.com/htpcBeginner/docker-traefik) - Docker media and home server stack with Docker Compose, Traefik, Swarm Mode, Google OAuth2/Authelia, and LetsEncrypt
 - [jnider/hp-scan-monitor](https://github.com/jnider/hp-scan-monitor) - Listens for scan requests from the console of an HP scanner. Meant to run on a headless NAS server (or similar) to save incoming scanned files in a shared directory on the network.
 - [acouvreur/docker-swarm-pi-powered](https://github.com/acouvreur/docker-swarm-pi-powered) - Traefik, Radarr, Sonarr, Transmission, TIG on a Raspberry Pi Cluster under Docker Swarm
@@ -1519,7 +1530,7 @@
 - [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - bspwm + polybar + eww rices. 12 themes with a rice selector to change on the fly.
 - [hestiacp/hestiacp](https://github.com/hestiacp/hestiacp) - Hestia Control Panel | A lightweight and powerful control panel for the modern web.
 - [GameServerManagers/LinuxGSM](https://github.com/GameServerManagers/LinuxGSM) - The command-line tool for quick, simple deployment and management of Linux dedicated game servers.
-- [kroese/virtual-dsm](https://github.com/kroese/virtual-dsm) - Virtual DSM in a docker container.
+- [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm) - Virtual DSM in a docker container.
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 - [home-assistant/addons](https://github.com/home-assistant/addons) - :heavy_plus_sign: Docker add-ons for Home Assistant
 - [1N3/Findsploit](https://github.com/1N3/Findsploit) - Find exploits in local and online databases instantly
