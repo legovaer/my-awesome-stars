@@ -1200,7 +1200,7 @@
 - [sbrunner/scan-to-paperless](https://github.com/sbrunner/scan-to-paperless) - 
 - [davidusb-geek/emhass](https://github.com/davidusb-geek/emhass) - emhass: Energy Management for Home Assistant, is a Python module designed to optimize your home energy interfacing with Home Assistant.
 - [chiahsing/nest_hub](https://github.com/chiahsing/nest_hub) - Home Assistant pyscript for using Nest Hub as a dashboard
-- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An all-in-one GitHub open-source intelligence framework.
+- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An All-In-One framework for gathering Open-Source Intelligence on GitHub entities.
 - [AzeemIdrisi/PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro) - An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.
 - [Datalux/Osintgram](https://github.com/Datalux/Osintgram) - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
 - [NiklasReiche/ad-spotify-mood-lights-sync](https://github.com/NiklasReiche/ad-spotify-mood-lights-sync) - AppDaemon app that synchronizes rgb lights to the mood of the currently playing spotify song in Home Assistant.
@@ -1495,6 +1495,7 @@
 
 ## Shell 
 
+- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper Scripts
 - [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) - Here you will find Guides mainly for the Starr Apps (Sonarr/Radarr) and everything related to it.
 - [hassio-addons/addon-example](https://github.com/hassio-addons/addon-example) - Example - Home Assistant Community Add-ons
 - [htpcBeginner/docker-traefik](https://github.com/htpcBeginner/docker-traefik) - Docker media and home server stack with Docker Compose, Traefik, Swarm Mode, Google OAuth2/Authelia, and LetsEncrypt
