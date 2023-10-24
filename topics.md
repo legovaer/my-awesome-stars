@@ -1353,13 +1353,13 @@
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸 Web apps in pure Python 🐍
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
-- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An all-in-one GitHub open-source intelligence framework.
+- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An All-In-One framework for gathering Open-Source Intelligence on GitHub entities.
 - [gluon-framework/gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS
 - [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - 💬 🤖  The most reliable tool for chatbots with advanced features. Be sure to 🌟 this repository for updates!
 
 ## frameworks 
 
-- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An all-in-one GitHub open-source intelligence framework.
+- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An All-In-One framework for gathering Open-Source Intelligence on GitHub entities.
 
 ## frontend 
 
@@ -1408,7 +1408,7 @@
 
 - [cloudcomponents/cdk-constructs](https://github.com/cloudcomponents/cdk-constructs) - A collection of higher-level reusable cdk constructs
 - [CharlesChiuGit/Logseq-Git-Sync-101](https://github.com/CharlesChiuGit/Logseq-Git-Sync-101) - This repo aims to help Logseq users to sync their data with Git and GitHub.
-- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An all-in-one GitHub open-source intelligence framework.
+- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An All-In-One framework for gathering Open-Source Intelligence on GitHub entities.
 - [gwen001/github-subdomains](https://github.com/gwen001/github-subdomains) - Find subdomains on GitHub.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [nikolas/github-drama](https://github.com/nikolas/github-drama) - "This conversation has been locked and limited to collaborators."
@@ -1436,7 +1436,7 @@
 
 ## github-api 
 
-- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An all-in-one GitHub open-source intelligence framework.
+- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An All-In-One framework for gathering Open-Source Intelligence on GitHub entities.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
@@ -1751,6 +1751,7 @@
 
 ## home-assistant 
 
+- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper Scripts
 - [hassio-addons/addon-example](https://github.com/hassio-addons/addon-example) - Example - Home Assistant Community Add-ons
 - [custom-components/alexa_media_player](https://github.com/custom-components/alexa_media_player) - This is a custom component to allow control of Amazon Alexa devices in Home Assistant using the unofficial Alexa API.
 - [Daanoz/ha-google-photos](https://github.com/Daanoz/ha-google-photos) - Home Assistant Google Photos integration
@@ -2229,7 +2230,7 @@
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 - [1N3/PrivEsc](https://github.com/1N3/PrivEsc) - A collection of Windows, Linux and MySQL privilege escalation scripts and exploits.
 - [jpylypiw/easywall](https://github.com/jpylypiw/easywall) - Web interface for easy use of the IPTables firewall on Linux systems written in Python3.
-- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An all-in-one GitHub open-source intelligence framework.
+- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An All-In-One framework for gathering Open-Source Intelligence on GitHub entities.
 - [r1cksec/cheatsheets](https://github.com/r1cksec/cheatsheets) - Collection of knowledge about information security
 - [Gallopsled/pwntools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
 - [A-poc/RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools) - Tools and Techniques for Red Team / Penetration Testing
@@ -2565,7 +2566,7 @@
 - [twelvesec/gasmask](https://github.com/twelvesec/gasmask) - Information gathering tool - OSINT
 - [seekr-osint/seekr](https://github.com/seekr-osint/seekr) - A multi-purpose OSINT toolkit with a neat web-interface.
 - [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
-- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An all-in-one GitHub open-source intelligence framework.
+- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An All-In-One framework for gathering Open-Source Intelligence on GitHub entities.
 - [Datalux/Osintgram](https://github.com/Datalux/Osintgram) - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
@@ -3376,7 +3377,7 @@
 - [dala318/python_poollab](https://github.com/dala318/python_poollab) - Python API for Pool Lab 1.0
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [commixproject/commix](https://github.com/commixproject/commix) - Automated All-in-One OS Command Injection Exploitation Tool.
-- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An all-in-one GitHub open-source intelligence framework.
+- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An All-In-One framework for gathering Open-Source Intelligence on GitHub entities.
 - [AzeemIdrisi/PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro) - An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.
 - [Datalux/Osintgram](https://github.com/Datalux/Osintgram) - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
@@ -3717,6 +3718,7 @@
 
 ## self-hosted 
 
+- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper Scripts
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool  / ChatBot  / Zapier Alternative
 - [Phalcode/gamevault-docs](https://github.com/Phalcode/gamevault-docs) - Documentation for the self-hosted gaming platform for drm-free games
 - [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
