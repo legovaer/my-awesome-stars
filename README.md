@@ -807,6 +807,7 @@
 
 ## Others 
 
+- [maartenpaauw/home-assistant-community-themes](https://github.com/maartenpaauw/home-assistant-community-themes) - All community themes in one repository
 - [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
 - [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
 - [fredrikpersson92/minihass](https://github.com/fredrikpersson92/minihass) - MiniHass UI Dashboard for Home Assistant
