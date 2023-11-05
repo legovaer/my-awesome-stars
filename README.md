@@ -1105,6 +1105,7 @@
 
 ## Python 
 
+- [meichthys/uptime_kuma](https://github.com/meichthys/uptime_kuma) - Uptime Kuma HACS integration
 - [Siege-Wizard/buttplug-py](https://github.com/Siege-Wizard/buttplug-py) - Python client implementation of the Buttplug Intimate Hardware Control Protocol.
 - [AlexxIT/PythonScriptsPro](https://github.com/AlexxIT/PythonScriptsPro) - Advanced version of python scripts for Home Assistant without limits
 - [AlexxIT/StreamAssist](https://github.com/AlexxIT/StreamAssist) - Home Assistant custom component that allows you to turn almost any camera and almost any speaker into a local voice assistant
