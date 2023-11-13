@@ -1378,6 +1378,7 @@
 
 ## frontend 
 
+- [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant
 - [Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card) - Bubble Card is a minimalist card collection for Home Assistant with a nice pop-up touch.
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [Clooos/Home-Assistant-Mobile-First](https://github.com/Clooos/Home-Assistant-Mobile-First) - A minimalist and user-friendly design, combined with an mobile first approach for the Home Assistant dashboard.
@@ -1608,6 +1609,7 @@
 
 ## hacktoberfest 
 
+- [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant
 - [isabellaalstrom/lovelace-grocy-chores-card](https://github.com/isabellaalstrom/lovelace-grocy-chores-card) - A card to track chores and tasks in Grocy.
 - [custom-components/grocy](https://github.com/custom-components/grocy) - Custom Grocy integration for Home Assistant
 - [custom-components/alexa_media_player](https://github.com/custom-components/alexa_media_player) - This is a custom component to allow control of Amazon Alexa devices in Home Assistant using the unofficial Alexa API.
@@ -1660,7 +1662,6 @@
 - [jonico/awesome-runners](https://github.com/jonico/awesome-runners) - A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix
 - [Poeschl/Hassio-Addons](https://github.com/Poeschl/Hassio-Addons) - The repository for my Home Assistant Supervisor Add-ons.
 - [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense) - An ESP32 based node for gathering indoor positioning and transmitting to mqtt
-- [dipu-bd/lightnovel-crawler](https://github.com/dipu-bd/lightnovel-crawler) - Generate and download e-books from online sources.
 - [buttercup/buttercup-core](https://github.com/buttercup/buttercup-core) - :tophat: The mighty NodeJS password vault
 - [home-assistant/android](https://github.com/home-assistant/android) - :iphone: Home Assistant Companion for Android
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
@@ -1765,6 +1766,7 @@
 
 ## home-assistant 
 
+- [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant
 - [dale3h/homeassistant-config](https://github.com/dale3h/homeassistant-config) - 
 - [nilsreiter/home-assistant-scenes](https://github.com/nilsreiter/home-assistant-scenes) - Nice, Hue-inspired scenes for Home Assistant
 - [Yevgenium/weather-chart-card](https://github.com/Yevgenium/weather-chart-card) - Custom weather card with charts
@@ -2394,7 +2396,7 @@
 - [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative. Cloud version available here -&gt; https://app.coolify.io
 - [ledokku/ledokku](https://github.com/ledokku/ledokku) - Beautiful web UI for all things Dokku
-- [Icesofty/Digital-Currency](https://github.com/Icesofty/Digital-Currency) - Create your own Digital Currency with this self-hosted Web App. Check out the Demo website
+- [florianjs/Digital-Currency](https://github.com/florianjs/Digital-Currency) - Create your own Digital Currency with this self-hosted Web App. Check out the Demo website
 
 ## monitoring 
 
@@ -2537,7 +2539,7 @@
 - [tecfu/tty-table](https://github.com/tecfu/tty-table) - Terminal table for Windows, Linux, and MacOS. Written in nodejs. Also works in browser console. Word wrap, padding, alignment, colors, Asian character support, per-column callbacks, and you can pass r
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [amplication/amplication](https://github.com/amplication/amplication) - 🇮🇱 Stand with Israel 🇮🇱   Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
-- [Icesofty/Digital-Currency](https://github.com/Icesofty/Digital-Currency) - Create your own Digital Currency with this self-hosted Web App. Check out the Demo website
+- [florianjs/Digital-Currency](https://github.com/florianjs/Digital-Currency) - Create your own Digital Currency with this self-hosted Web App. Check out the Demo website
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [mKeRix/room-assistant](https://github.com/mKeRix/room-assistant) - Presence tracking and more for automation on the room-level
@@ -3814,7 +3816,7 @@
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
-- [Icesofty/Digital-Currency](https://github.com/Icesofty/Digital-Currency) - Create your own Digital Currency with this self-hosted Web App. Check out the Demo website
+- [florianjs/Digital-Currency](https://github.com/florianjs/Digital-Currency) - Create your own Digital Currency with this self-hosted Web App. Check out the Demo website
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
