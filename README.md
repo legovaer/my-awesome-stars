@@ -103,6 +103,7 @@
 
 ## C# # 
 
+- [isabellaalstrom/home-assistant-config](https://github.com/isabellaalstrom/home-assistant-config) - My configuration for Home Assistant on Hass.io
 - [micah686/SatisfactoryServerGUI](https://github.com/micah686/SatisfactoryServerGUI) - GUI for managing Satisfactory Dedicated servers
 - [beyluta/WinWidgets](https://github.com/beyluta/WinWidgets) - WinWidgets is a platform for Windows 10/11 Desktop Widget development using HTML, CSS, and JavaScript. Create your own widgets using frontend technologies based on the Chromium project.
 - [PiotrMachowski/Home-Assistant-Taskbar-Menu](https://github.com/PiotrMachowski/Home-Assistant-Taskbar-Menu) - This application is a simple Home Assistant client for Windows. It can display Lovelace views, control entities and show persistent notifications.
@@ -490,6 +491,7 @@
 
 ## JavaScript 
 
+- [CM000n/homeassistant](https://github.com/CM000n/homeassistant) - 
 - [isabellaalstrom/lovelace-grocy-chores-card](https://github.com/isabellaalstrom/lovelace-grocy-chores-card) - A card to track chores and tasks in Grocy.
 - [espruino/EspruinoHub](https://github.com/espruino/EspruinoHub) - A BLE -&gt; MQTT bridge for Raspberry Pi and other Embedded devices
 - [Yevgenium/weather-chart-card](https://github.com/Yevgenium/weather-chart-card) - Custom weather card with charts
@@ -812,6 +814,8 @@
 
 ## Others 
 
+- [herveaurel/HomeAssistant](https://github.com/herveaurel/HomeAssistant) - Mad-Geek : My Custom Dashboard
+- [panhans/HomeAssistant](https://github.com/panhans/HomeAssistant) - Home Asisstant related stuff like blueprints for automations and scripts.
 - [Full-Monitoring/oluas_proxmox](https://github.com/Full-Monitoring/oluas_proxmox) - Consumindo a API do Proxmox com HTTP Agent
 - [AgentOps-AI/BestGPTs](https://github.com/AgentOps-AI/BestGPTs) - Top ranked OpenAI GPTs
 - [nilsreiter/home-assistant-scenes](https://github.com/nilsreiter/home-assistant-scenes) - Nice, Hue-inspired scenes for Home Assistant
@@ -1110,6 +1114,7 @@
 
 ## Python 
 
+- [VigoKrumins/hass-config](https://github.com/VigoKrumins/hass-config) - A minimalist Home Assistant configuration with a clean UI. Enjoy a comprehensive set of configurations and a thoughtfully designed dashboard. Minimize reliance on external plugins while maximizing sim
 - [geerlingguy/documentation](https://github.com/geerlingguy/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
 - [tyiannak/pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) - Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications
 - [synesthesiam/openwakeword-satellite](https://github.com/synesthesiam/openwakeword-satellite) - Basic satellite for Home Assistant running openWakeWord locally
