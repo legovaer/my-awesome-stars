@@ -2617,6 +2617,7 @@
 
 ## others 
 
+- [ghostsec420/SCPA](https://github.com/ghostsec420/SCPA) - Sophisticated cyber penetration attacks is a series of advanced techniques, notes and guidance that will help you to prepare as a hacker on your journey.
 - [VigoKrumins/hass-config](https://github.com/VigoKrumins/hass-config) - A minimalist Home Assistant configuration with a clean UI. Enjoy a comprehensive set of configurations and a thoughtfully designed dashboard. Minimize reliance on external plugins while maximizing sim
 - [isabellaalstrom/home-assistant-config](https://github.com/isabellaalstrom/home-assistant-config) - My configuration for Home Assistant on Hass.io
 - [herveaurel/HomeAssistant](https://github.com/herveaurel/HomeAssistant) - Mad-Geek : My Custom Dashboard
@@ -3431,6 +3432,7 @@
 
 ## python 
 
+- [morningrise84/Fetscrape](https://github.com/morningrise84/Fetscrape) - Scraper
 - [tyiannak/pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) - Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [NoDataFound/hackGPT](https://github.com/NoDataFound/hackGPT) - I leverage OpenAI and ChatGPT to do hackerish things
@@ -3546,6 +3548,7 @@
 
 ## python3 
 
+- [morningrise84/Fetscrape](https://github.com/morningrise84/Fetscrape) - Scraper
 - [Ankesh054-official/LittleBrother-GUI-](https://github.com/Ankesh054-official/LittleBrother-GUI-) - LittleBrother is an information collection tool (OSINT), It is basically a CLI based tool which aims to carry out research on a French, Swiss,Luxembourgish or Belgian person.It provides various module
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [opsdroid/opsdroid](https://github.com/opsdroid/opsdroid) - 🤖 An open source chat-ops bot framework
