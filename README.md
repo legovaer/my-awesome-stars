@@ -1113,6 +1113,8 @@
 
 ## Python 
 
+- [ghostsec420/SCPA](https://github.com/ghostsec420/SCPA) - Sophisticated cyber penetration attacks is a series of advanced techniques, notes and guidance that will help you to prepare as a hacker on your journey.
+- [morningrise84/Fetscrape](https://github.com/morningrise84/Fetscrape) - Scraper
 - [VigoKrumins/hass-config](https://github.com/VigoKrumins/hass-config) - A minimalist Home Assistant configuration with a clean UI. Enjoy a comprehensive set of configurations and a thoughtfully designed dashboard. Minimize reliance on external plugins while maximizing sim
 - [geerlingguy/documentation](https://github.com/geerlingguy/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
 - [tyiannak/pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) - Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications
