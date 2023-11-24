@@ -113,6 +113,7 @@
 
 ## C++ 
 
+- [ChrTopf/wled-audioreact](https://github.com/ChrTopf/wled-audioreact) - This application generates cool light effects for your WLED driven strips based on the music currently playing on your computer.
 - [papan01/LiveStreamer](https://github.com/papan01/LiveStreamer) - Android Screen Streaming - Live555 + MediaProject
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
 - [NSPManager/NSPanelManager](https://github.com/NSPManager/NSPanelManager) - Sonoff NSPanel custom firmware for responsive and intuitive use
@@ -207,6 +208,7 @@
 ## Dockerfile 
 
 - [hassio-addons/addon-grafana](https://github.com/hassio-addons/addon-grafana) - Grafana - Home Assistant Community Add-ons
+- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [adamoutler/mqtt-explorer](https://github.com/adamoutler/mqtt-explorer) - A home assistant repository for MQTT Explorer
 - [ethibox/awesome-stacks](https://github.com/ethibox/awesome-stacks) - Deploy 90+ open-source web apps with one Docker command
@@ -490,6 +492,9 @@
 
 ## JavaScript 
 
+- [edward-shen/MMM-pages](https://github.com/edward-shen/MMM-pages) - Add pages to your MagicMirror²!
+- [MarcLandis/MMM-OpenWeatherMapForecast](https://github.com/MarcLandis/MMM-OpenWeatherMapForecast) - Magic Mirror module to display weather information using the OpenWeatherMap One Call API
+- [Jopyth/MMM-Remote-Control](https://github.com/Jopyth/MMM-Remote-Control) - Magic Mirror Module to shutdown or configure your mirror
 - [CM000n/homeassistant](https://github.com/CM000n/homeassistant) - 
 - [isabellaalstrom/lovelace-grocy-chores-card](https://github.com/isabellaalstrom/lovelace-grocy-chores-card) - A card to track chores and tasks in Grocy.
 - [espruino/EspruinoHub](https://github.com/espruino/EspruinoHub) - A BLE -&gt; MQTT bridge for Raspberry Pi and other Embedded devices
@@ -523,7 +528,7 @@
 - [thecookingsenpai/autogpt-gui](https://github.com/thecookingsenpai/autogpt-gui) - A graphical user interface for AutoGPT
 - [Kibibit/hass-kibibit-theme](https://github.com/Kibibit/hass-kibibit-theme) - A milky glass theme for Home Assistant
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
-- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [custom-cards/flex-table-card](https://github.com/custom-cards/flex-table-card) - Highly Flexible Lovelace Card - arbitrary contents/columns/rows, regex matched, perfect to show appdaemon created content and anything breaking out of the entity_id + attributes concept
 - [thomasloven/lovelace-card-tools](https://github.com/thomasloven/lovelace-card-tools) - 🔹A collection of tools for other lovelace plugins to use
 - [71/logseq-snippets](https://github.com/71/logseq-snippets) - Snippets I'm using with logseq.com.
@@ -641,6 +646,7 @@
 - [tecfu/tty-table](https://github.com/tecfu/tty-table) - Terminal table for Windows, Linux, and MacOS. Written in nodejs. Also works in browser console. Word wrap, padding, alignment, colors, Asian character support, per-column callbacks, and you can pass r
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [brandonweiss/discharge](https://github.com/brandonweiss/discharge) - ⚡️ A simple, easy way to deploy static websites to Amazon S3.
+- [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [ml5js/ml5-library](https://github.com/ml5js/ml5-library) - Friendly machine learning for the web! 🤖
 - [hmsdao/bootstrap-rsyslog-ui](https://github.com/hmsdao/bootstrap-rsyslog-ui) - Syslog web frontend using php, json, and bootstrap
@@ -1004,7 +1010,6 @@
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
 - [nagyrobi/home-assistant-configuration-examples](https://github.com/nagyrobi/home-assistant-configuration-examples) - Some of my Home Assistant configurations shared to the community
-- [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) - Awesome Logseq resources created by the community &lt;3
@@ -1529,7 +1534,7 @@
 - [dale3h/homeassistant-config](https://github.com/dale3h/homeassistant-config) - 
 - [extremeshok/xshok-proxmox](https://github.com/extremeshok/xshok-proxmox) - proxmox (pve) post installation optimizing and helper scripts
 - [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way!
-- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper Scripts
+- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts
 - [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) - Here you will find Guides mainly for the Starr Apps (Sonarr/Radarr) and everything related to it.
 - [hassio-addons/addon-example](https://github.com/hassio-addons/addon-example) - Example - Home Assistant Community Add-ons
 - [htpcBeginner/docker-traefik](https://github.com/htpcBeginner/docker-traefik) - Docker media and home server stack with Docker Compose, Traefik, Swarm Mode, Google OAuth2/Authelia, and LetsEncrypt
@@ -1545,7 +1550,6 @@
 - [8layer8/swarm-public](https://github.com/8layer8/swarm-public) - Code for public docker swarm build
 - [Security-Onion-Solutions/securityonion](https://github.com/Security-Onion-Solutions/securityonion) - Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, and case mana
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
-- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [containers/toolbox](https://github.com/containers/toolbox) - Tool for interactive command line environments on Linux
 - [MrHacker-X/BruteX](https://github.com/MrHacker-X/BruteX) - This is a BruteForce Attacking tool for Termux
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
