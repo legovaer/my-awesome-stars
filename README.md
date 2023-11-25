@@ -145,7 +145,6 @@
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [smrtnt/Open-Home-Automation](https://github.com/smrtnt/Open-Home-Automation) - Open Home Automation with Home Assistant, ESP8266/ESP32 and MQTT
 - [igiannakas/mmWave-Presense-Sensor-D1-Mini-DFRobot-](https://github.com/igiannakas/mmWave-Presense-Sensor-D1-Mini-DFRobot-) - Room presence detection using mmWave radar (DFRobot SEN0395), D1 Mini ESP-8266 and ESPHome for HomeAssistant
-- [alvr-org/ALVR](https://github.com/alvr-org/ALVR) - Stream VR games from your PC to your headset via Wi-Fi
 - [jnsbyr/esp8266-intexsbh20](https://github.com/jnsbyr/esp8266-intexsbh20) - MQTT WiFi remote control for the Intex PureSpa SB-H20 and SJB-HS whirlpools
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [corlysis/scripts](https://github.com/corlysis/scripts) - 
@@ -159,6 +158,7 @@
 
 ## CSS 
 
+- [PJTewkesbury/MMM-WebHookAlerts](https://github.com/PJTewkesbury/MMM-WebHookAlerts) - A Magic Mirror module to show alerts triggered by Web hook calls.
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [yoyurec/logseq-awesome-content](https://github.com/yoyurec/logseq-awesome-content) - 📝 Enhanced content blocks (tasks, quotes, flashcards, headers, queries, diagrams, etc...) plugin for Logseq
 - [joelchrono12/freshrss-nord-theme](https://github.com/joelchrono12/freshrss-nord-theme) - A simple, basic theme you can work on top of to have the Nord color scheme in your FreshRSS instance
@@ -208,7 +208,6 @@
 ## Dockerfile 
 
 - [hassio-addons/addon-grafana](https://github.com/hassio-addons/addon-grafana) - Grafana - Home Assistant Community Add-ons
-- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [adamoutler/mqtt-explorer](https://github.com/adamoutler/mqtt-explorer) - A home assistant repository for MQTT Explorer
 - [ethibox/awesome-stacks](https://github.com/ethibox/awesome-stacks) - Deploy 90+ open-source web apps with one Docker command
@@ -492,6 +491,7 @@
 
 ## JavaScript 
 
+- [foundations-design/WhiteLight](https://github.com/foundations-design/WhiteLight) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
 - [edward-shen/MMM-pages](https://github.com/edward-shen/MMM-pages) - Add pages to your MagicMirror²!
 - [MarcLandis/MMM-OpenWeatherMapForecast](https://github.com/MarcLandis/MMM-OpenWeatherMapForecast) - Magic Mirror module to display weather information using the OpenWeatherMap One Call API
 - [Jopyth/MMM-Remote-Control](https://github.com/Jopyth/MMM-Remote-Control) - Magic Mirror Module to shutdown or configure your mirror
@@ -1508,6 +1508,7 @@
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [alvr-org/ALVR](https://github.com/alvr-org/ALVR) - Stream VR games from your PC to your headset via Wi-Fi
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [LinusCDE/chessmarkable](https://github.com/LinusCDE/chessmarkable) - Chess for the reMarkable using the rust pleco lib
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
@@ -1550,6 +1551,7 @@
 - [8layer8/swarm-public](https://github.com/8layer8/swarm-public) - Code for public docker swarm build
 - [Security-Onion-Solutions/securityonion](https://github.com/Security-Onion-Solutions/securityonion) - Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, and case mana
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
+- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [containers/toolbox](https://github.com/containers/toolbox) - Tool for interactive command line environments on Linux
 - [MrHacker-X/BruteX](https://github.com/MrHacker-X/BruteX) - This is a BruteForce Attacking tool for Termux
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
@@ -1715,7 +1717,7 @@
 
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant
 - [DurgNomis-drol/custom-sonos-card](https://github.com/DurgNomis-drol/custom-sonos-card) - Home Assistant custom lovelace sonos card
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.run
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.run  https://sealos.io
 - [buttplugio/buttplug-js](https://github.com/buttplugio/buttplug-js) - Buttplug Typescript/Javascript Client Implementation
 - [t1gr0u/rain-gauge-card](https://github.com/t1gr0u/rain-gauge-card) - A Lovelace card that shows the rain gauge for Home Assistant
 - [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 6 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/o
