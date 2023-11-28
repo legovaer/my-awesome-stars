@@ -41,6 +41,7 @@
 - [Open Policy Agent](#open-policy-agent)
 - [Others](#others)
 - [PHP](#php)
+- [Perl](#perl)
 - [Python](#python)
 - [Roff](#roff)
 - [Ruby](#ruby)
@@ -1115,8 +1116,13 @@
 - [vijaycs85/PHP-CS-Fixer](https://github.com/vijaycs85/PHP-CS-Fixer) - Analyzes some PHP source code and tries to fix coding standards issues (PSR-1 and PSR-2 compatible)
 - [Behat/MinkExtension](https://github.com/Behat/MinkExtension) - Mink extension (tight integration and configuration) for Behat
 
+## Perl 
+
+- [revmischa/rtsp-server](https://github.com/revmischa/rtsp-server) - Lightweight RTSP/RTP streaming media server
+
 ## Python 
 
+- [home-assistant/hassil](https://github.com/home-assistant/hassil) - Intent parsing for Home Assistant
 - [jekalmin/extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation) - Home Assistant custom component of conversation agent. It uses OpenAI to control your devices.
 - [ghostsec420/SCPA](https://github.com/ghostsec420/SCPA) - Sophisticated cyber penetration attacks is a series of advanced techniques, notes and guidance that will help you to prepare as a hacker on your journey.
 - [morningrise84/Fetscrape](https://github.com/morningrise84/Fetscrape) - Scraper
