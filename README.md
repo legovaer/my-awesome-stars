@@ -114,6 +114,7 @@
 
 ## C++ 
 
+- [balloob/esphome-configs](https://github.com/balloob/esphome-configs) - Configurations I use on my various ESPHome devices
 - [ChrTopf/wled-audioreact](https://github.com/ChrTopf/wled-audioreact) - This application generates cool light effects for your WLED driven strips based on the music currently playing on your computer.
 - [papan01/LiveStreamer](https://github.com/papan01/LiveStreamer) - Android Screen Streaming - Live555 + MediaProject
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
@@ -820,6 +821,7 @@
 
 ## Others 
 
+- [zygiss/snmp-exporter-unifi](https://github.com/zygiss/snmp-exporter-unifi) - Prometheus SNMP exporter generator & SNMP configs for UniFi access points
 - [herveaurel/HomeAssistant](https://github.com/herveaurel/HomeAssistant) - Mad-Geek : My Custom Dashboard
 - [panhans/HomeAssistant](https://github.com/panhans/HomeAssistant) - Home Asisstant related stuff like blueprints for automations and scripts.
 - [Full-Monitoring/oluas_proxmox](https://github.com/Full-Monitoring/oluas_proxmox) - Consumindo a API do Proxmox com HTTP Agent
@@ -1626,7 +1628,7 @@
 - [morph027/pve-lxc-scripts](https://github.com/morph027/pve-lxc-scripts) - some useful scripts fpr Proxmox VE (PVE) LXC containers
 - [whiskerz007/proxmox_portainer_lxc](https://github.com/whiskerz007/proxmox_portainer_lxc) - 
 - [mancobian/homelab](https://github.com/mancobian/homelab) - Automate the creation of a multi-node Kubernetes cluster in a Proxmox Virtual Environment.
-- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - My home infrastructure and Kubernetes clusters driven by IaC and GitOps
+- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
 - [ravindrajob/Observability-Monitoring](https://github.com/ravindrajob/Observability-Monitoring) - Monitoring - Observability  with thanos + docker + Grafana stack
 - [huntabyte/tig-stack](https://github.com/huntabyte/tig-stack) - The Telegraf, InfluxDB, & Grafana stack (TIG) powered by Docker & Docker Compose.
 - [sonnyyu/docker-prometheus-haproxy-stack](https://github.com/sonnyyu/docker-prometheus-haproxy-stack) - Prometheus, Grafana, cAdvisor, NodeExporter, Telegraf and alerting with AlertManager.
