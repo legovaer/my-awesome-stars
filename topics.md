@@ -304,7 +304,7 @@
 - [nickjj/ansigenome](https://github.com/nickjj/ansigenome) - A tool to help you gather information and manage your Ansible roles.
 - [robertdebock/ansible-role-maintenance](https://github.com/robertdebock/ansible-role-maintenance) - Maintain your system by cleaning up.
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
-- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - My home infrastructure and Kubernetes clusters driven by IaC and GitOps
+- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
 - [debops/debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [antonputra/tutorials](https://github.com/antonputra/tutorials) - DevOps Tutorials
@@ -2163,7 +2163,7 @@
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
 - [khuedoan/horus](https://github.com/khuedoan/horus) - Free cloud native platform for service hosting
 - [nirops/yakiapp](https://github.com/nirops/yakiapp) - Open Source, Cross platform, Native Kubernetes IDE
-- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - My home infrastructure and Kubernetes clusters driven by IaC and GitOps
+- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
 - [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
 - [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
@@ -2615,6 +2615,8 @@
 
 ## others 
 
+- [zygiss/snmp-exporter-unifi](https://github.com/zygiss/snmp-exporter-unifi) - Prometheus SNMP exporter generator & SNMP configs for UniFi access points
+- [balloob/esphome-configs](https://github.com/balloob/esphome-configs) - Configurations I use on my various ESPHome devices
 - [jake92918/Homeassistant-WLED-Card](https://github.com/jake92918/Homeassistant-WLED-Card) - Home Assistant Lovelace Card to control https://github.com/Aircoookie/WLED solution to "controlling WS2812B RGB LEDs with an ESP8266 over WiFi"
 - [Shaegi/Homeassistant-WLED-Card](https://github.com/Shaegi/Homeassistant-WLED-Card) - Home Assistant Lovelace Card to control https://github.com/Aircoookie/WLED solution to "controlling WS2812B RGB LEDs with an ESP8266 over WiFi"
 - [rhasspy/wyoming-satellite](https://github.com/rhasspy/wyoming-satellite) - Remote voice satellite using Wyoming protocol
@@ -4014,7 +4016,7 @@
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
 - [khuedoan/horus](https://github.com/khuedoan/horus) - Free cloud native platform for service hosting
-- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - My home infrastructure and Kubernetes clusters driven by IaC and GitOps
+- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
 - [a-patel/terraform-aws-eks-workshop](https://github.com/a-patel/terraform-aws-eks-workshop) - Amazon EKS Terraform Workshop: Provision EKS Cluster in AWS using Terraform.
 - [antonputra/tutorials](https://github.com/antonputra/tutorials) - DevOps Tutorials
 - [aaronstillwell/terraform-provider-dokku](https://github.com/aaronstillwell/terraform-provider-dokku) - A terraform provider for provisioning applications on the Dokku PaaS
