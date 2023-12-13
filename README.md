@@ -806,7 +806,6 @@
 ## Mustache 
 
 - [bambash/helm-cronjobs](https://github.com/bambash/helm-cronjobs) - a helm chart for cronjobs in kubernetes
-- [wunderio/charts](https://github.com/wunderio/charts) - A repository for Wunder public helm charts.
 
 ## Nix 
 
@@ -1709,6 +1708,7 @@
 ## Smarty 
 
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) - ⚠️ Deprecated : Helm charts for applications you run at home
+- [wunderio/charts](https://github.com/wunderio/charts) - A repository for Wunder public helm charts.
 
 ## Svelte 
 
