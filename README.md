@@ -237,6 +237,7 @@
 
 ## Go 
 
+- [xm1k3/cent](https://github.com/xm1k3/cent) - Community edition nuclei templates, a simple tool that allows you to organize all the Nuclei templates offered by the community in one place
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find and verify credentials
 - [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
@@ -1214,7 +1215,6 @@
 - [legovaer/ad-automoli](https://github.com/legovaer/ad-automoli) - 💡 Fully automatic light management based on conditions like motion, illuminance, humidity, and other clever features
 - [xaviml/controllerx](https://github.com/xaviml/controllerx) - Create controller-based automations with ease to control your home devices and scenes.
 - [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) - Let ChatGPT teach your own chatbot in hours with a single GPU!
-- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Cloud Runtime for AI Agents
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
 - [sanderdw/hassio-addons](https://github.com/sanderdw/hassio-addons) - DSMR Reader Datalogger and Metabase Home Assistant Add-ons
 - [loganmarchione/homelab-svg-assets](https://github.com/loganmarchione/homelab-svg-assets) - Full-color SVG icons of homelab-related software, products, and brands
@@ -1779,6 +1779,7 @@
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [smartcontractkit/smart-contract-examples](https://github.com/smartcontractkit/smart-contract-examples) - Example and sample projects
+- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Cloud Runtime for AI Agents
 - [Gh61/lovelace-hue-like-light-card](https://github.com/Gh61/lovelace-hue-like-light-card) - This card provides a Hue-like way to control your lights in Home Assistant.
 - [jcwillox/lovelace-paper-buttons-row](https://github.com/jcwillox/lovelace-paper-buttons-row) - Adds highly configurable buttons that use actions and per-state styling.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
@@ -1885,7 +1886,7 @@
 - [SvanBoxel/organization-workflows](https://github.com/SvanBoxel/organization-workflows) - Need to centrally manage and run Actions workflows across multiple repositories? This app does it for you.
 - [dangreco/home-assistant-nextjs-starter](https://github.com/dangreco/home-assistant-nextjs-starter) - Starter template for Next.js-based Home Assistant frontends.
 - [mKeRix/room-assistant](https://github.com/mKeRix/room-assistant) - Presence tracking and more for automation on the room-level
-- [zachowj/node-red-contrib-home-assistant-websocket](https://github.com/zachowj/node-red-contrib-home-assistant-websocket) - Node-RED integration with Home Assistant Core
+- [zachowj/node-red-contrib-home-assistant-websocket](https://github.com/zachowj/node-red-contrib-home-assistant-websocket) - Node-RED integration with Home Assistant
 - [atlassian/github-for-jira](https://github.com/atlassian/github-for-jira) - Connect your code with your project management in Jira
 - [NarrativeScience-old/log.io](https://github.com/NarrativeScience-old/log.io) - Real-time log monitoring in your browser
 - [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
