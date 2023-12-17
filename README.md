@@ -822,6 +822,7 @@
 
 ## Others 
 
+- [trickest/wordlists](https://github.com/trickest/wordlists) - Real-world infosec wordlists, updated regularly
 - [Nerivec/SmartHomeEnhanced](https://github.com/Nerivec/SmartHomeEnhanced) - Tips, tricks, scripts to enhance your smart home.
 - [zygiss/snmp-exporter-unifi](https://github.com/zygiss/snmp-exporter-unifi) - Prometheus SNMP exporter generator & SNMP configs for UniFi access points
 - [herveaurel/HomeAssistant](https://github.com/herveaurel/HomeAssistant) - Mad-Geek : My Custom Dashboard
@@ -1128,6 +1129,11 @@
 
 ## Python 
 
+- [GhostManager/Ghostwriter](https://github.com/GhostManager/Ghostwriter) - The SpecterOps project management and reporting engine
+- [cliffe/SecGen](https://github.com/cliffe/SecGen) - Create randomly insecure VMs
+- [Ostorlab/ostorlab](https://github.com/Ostorlab/ostorlab) - Ostorlab is a security scanning orchestrator for the modern age.
+- [carlospolop/hacktricks](https://github.com/carlospolop/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
+- [bbhunter/h1domains](https://github.com/bbhunter/h1domains) - HackerOne "in scope" domains for all your fuzzing needs
 - [rhasspy/wyoming-satellite](https://github.com/rhasspy/wyoming-satellite) - Remote voice satellite using Wyoming protocol
 - [home-assistant/hassil](https://github.com/home-assistant/hassil) - Intent parsing for Home Assistant
 - [jekalmin/extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation) - Home Assistant custom component of conversation agent. It uses OpenAI to control your devices.
@@ -1545,6 +1551,8 @@
 
 ## Shell 
 
+- [edoardottt/secfiles](https://github.com/edoardottt/secfiles) - My files for security assessments, bug bounty and other security related stuff
+- [chvancooten/BugBountyScanner](https://github.com/chvancooten/BugBountyScanner) - A Bash script and Docker image for Bug Bounty reconnaissance. Intended for headless use.
 - [DoTheEvo/selfhosted-apps-docker](https://github.com/DoTheEvo/selfhosted-apps-docker) - Guide by Example
 - [dale3h/homeassistant-config](https://github.com/dale3h/homeassistant-config) - 
 - [extremeshok/xshok-proxmox](https://github.com/extremeshok/xshok-proxmox) - proxmox (pve) post installation optimizing and helper scripts
