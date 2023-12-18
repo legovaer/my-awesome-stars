@@ -931,6 +931,7 @@
 - [robertdebock/ansible-role-maintenance](https://github.com/robertdebock/ansible-role-maintenance) - Maintain your system by cleaning up.
 - [GoVanguard/list-infosec-encyclopedia](https://github.com/GoVanguard/list-infosec-encyclopedia) - A list of information security related awesome lists and other resources.
 - [portainer/awesome-portainer](https://github.com/portainer/awesome-portainer) - A curated list of Portainer resources, tutorials, videos
+- [mpascu/docker-home-infra](https://github.com/mpascu/docker-home-infra) - A docker-compose setup ready to spin up a bunch of useful media, file-sharing, programming, web tools, databases...
 - [timoknapp/rpi-nas](https://github.com/timoknapp/rpi-nas) - 🌐👨‍💻💻 Setup your own NAS on a Raspberry Pi
 - [andreasjacobsen93/awesome-nextcloud](https://github.com/andreasjacobsen93/awesome-nextcloud) - List of awesome tools for NextCloud and OwnCloud
 - [digiblur/unraid-docker-templates](https://github.com/digiblur/unraid-docker-templates) - Template files for various Docker Containers for use with unRaid
@@ -1632,7 +1633,6 @@
 - [christoomey/dotfiles](https://github.com/christoomey/dotfiles) - My vim, zsh, git, tmux, and other config files and utility scripts.
 - [PhasecoreX/docker-red-discordbot](https://github.com/PhasecoreX/docker-red-discordbot) - The newest Red-Discordbot in a convenient container
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
-- [mpascu/docker-home-infra](https://github.com/mpascu/docker-home-infra) - A docker-compose setup ready to spin up a bunch of useful media, file-sharing, programming, web tools, databases...
 - [jmb12686/raspi-docker-stacks](https://github.com/jmb12686/raspi-docker-stacks) - Collection of Docker Stacks for usage on a multi-architecture Docker Swarm cluster (arm, amd64)
 - [billimek/k8s-gitops](https://github.com/billimek/k8s-gitops) - GitOps principles to define kubernetes cluster state via code
 - [billimek/homelab-infrastructure](https://github.com/billimek/homelab-infrastructure) - Infrastructure info and setup for homelab
