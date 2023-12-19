@@ -237,6 +237,7 @@
 
 ## Go 
 
+- [lupinelab/kproximate](https://github.com/lupinelab/kproximate) - A Kubernetes node autoscaler for Proxmox
 - [xm1k3/cent](https://github.com/xm1k3/cent) - Community edition nuclei templates, a simple tool that allows you to organize all the Nuclei templates offered by the community in one place
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find and verify credentials
 - [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr
@@ -373,6 +374,7 @@
 
 ## HCL 
 
+- [khanh-ph/proxmox-kubernetes](https://github.com/khanh-ph/proxmox-kubernetes) - Enables you to create a Kubernetes cluster on Proxmox VE with Terraform & Kubespray in a declarative manner
 - [clayshek/homelab-monorepo](https://github.com/clayshek/homelab-monorepo) - Home lab infrastructure as code repo.
 - [natelandau/ansible-homelab-config](https://github.com/natelandau/ansible-homelab-config) - Ansible scripts to configure my homelab using Consul, Nomad, Docker, Traefik, and more...
 - [rishavnandi/ansible_homelab](https://github.com/rishavnandi/ansible_homelab) - Ansible playbooks to quickly setup a homelab.  The playbook will update the system, install Docker, and then deploy the Docker containers.
@@ -508,7 +510,6 @@
 - [Yevgenium/weather-chart-card](https://github.com/Yevgenium/weather-chart-card) - Custom weather card with charts
 - [Interstellar0verdrive/frontail_AEM](https://github.com/Interstellar0verdrive/frontail_AEM) - 📝 streaming logs to the browser
 - [sinedied/dmx-hue](https://github.com/sinedied/dmx-hue) - :traffic_light: Art-Net node to control Philips Hue lights with DMX
-- [Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card) - Bubble Card is a minimalist card collection for Home Assistant with a nice pop-up touch.
 - [rishabhp/bideo.js](https://github.com/rishabhp/bideo.js) - Fullscreen HTML5 Background Video for the Web.
 - [ntalekt/homeassistant](https://github.com/ntalekt/homeassistant) - Example Home Assistant Configs
 - [mlamberts78/weather-chart-card](https://github.com/mlamberts78/weather-chart-card) - Custom weather card with charts.
@@ -1130,6 +1131,8 @@
 
 ## Python 
 
+- [rpenziol/proxmox-kubernetes-bootstrap](https://github.com/rpenziol/proxmox-kubernetes-bootstrap) - This is a collection of resources to get a Kubernetes cluster up and running in a Proxmox Virtual Environment. These tools and commands assume the user is executing in a Linux or Linux-like environmen
+- [drndos/hass-openai-custom-conversation](https://github.com/drndos/hass-openai-custom-conversation) - Conversation support for home assistant using vicuna local llm
 - [GhostManager/Ghostwriter](https://github.com/GhostManager/Ghostwriter) - The SpecterOps project management and reporting engine
 - [cliffe/SecGen](https://github.com/cliffe/SecGen) - Create randomly insecure VMs
 - [Ostorlab/ostorlab](https://github.com/Ostorlab/ostorlab) - Ostorlab is a security scanning orchestrator for the modern age.
@@ -1746,6 +1749,7 @@
 - [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 6 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/o
 - [shannonhochkins/ha-component-kit](https://github.com/shannonhochkins/ha-component-kit) - A Home Assistant React component library to generate dashboards with ease, This utilizises a massive list of Components / cards to use out of the box, a large range of hooks to build your own custom f
 - [onubo/react-native-logs](https://github.com/onubo/react-native-logs) - Performance-aware simple logger for React-Native and Expo with namespaces, custom levels and custom transports (colored console, file writing, etc.)
+- [Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card) - Bubble Card is a minimalist card collection for Home Assistant with a nice pop-up touch.
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool  / ChatBot  / Zapier Alternative
 - [headlamp-k8s/headlamp](https://github.com/headlamp-k8s/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
