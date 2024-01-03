@@ -2640,6 +2640,10 @@
 
 ## others 
 
+- [custom-cards/canvas-gauge-card](https://github.com/custom-cards/canvas-gauge-card) - The card makes it possible to use gauges from https://canvas-gauges.com/
+- [ecosyste-ms/awesome](https://github.com/ecosyste-ms/awesome) - An open API service indexing awesome lists of open source software.
+- [pfsensible/core](https://github.com/pfsensible/core) - Core modules for managing pfSense firewalls with ansible
+- [hassio-addons/addon-base-nodejs](https://github.com/hassio-addons/addon-base-nodejs) - Docker NodeJS base images (Alpine) - Home Assistant Community Add-ons
 - [SecureAI-Tools/SecureAI-Tools](https://github.com/SecureAI-Tools/SecureAI-Tools) - Private and secure AI tools for everyone's productivity.
 - [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.
 - [martijnpoppen/ledcollection](https://github.com/martijnpoppen/ledcollection) - LED Ring patterns for Homey
