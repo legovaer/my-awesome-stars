@@ -161,6 +161,7 @@
 
 ## CSS 
 
+- [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 - [PJTewkesbury/MMM-WebHookAlerts](https://github.com/PJTewkesbury/MMM-WebHookAlerts) - A Magic Mirror module to show alerts triggered by Web hook calls.
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [yoyurec/logseq-awesome-content](https://github.com/yoyurec/logseq-awesome-content) - 📝 Enhanced content blocks (tasks, quotes, flashcards, headers, queries, diagrams, etc...) plugin for Logseq
@@ -238,6 +239,7 @@
 
 ## Go 
 
+- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL.
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [lupinelab/kproximate](https://github.com/lupinelab/kproximate) - A Kubernetes node autoscaler for Proxmox
@@ -826,6 +828,7 @@
 
 ## Others 
 
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [trickest/wordlists](https://github.com/trickest/wordlists) - Real-world infosec wordlists, updated regularly
 - [Nerivec/SmartHomeEnhanced](https://github.com/Nerivec/SmartHomeEnhanced) - Tips, tricks, scripts to enhance your smart home.
 - [zygiss/snmp-exporter-unifi](https://github.com/zygiss/snmp-exporter-unifi) - Prometheus SNMP exporter generator & SNMP configs for UniFi access points
@@ -1134,6 +1137,10 @@
 
 ## Python 
 
+- [ej52/hass-ollama-conversation](https://github.com/ej52/hass-ollama-conversation) - Ollama conversation integration for Home Assistant
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
+- [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI) - 
+- [joaomdmoura/crewAI-examples](https://github.com/joaomdmoura/crewAI-examples) - 
 - [pfsensible/core](https://github.com/pfsensible/core) - Core modules for managing pfSense firewalls with ansible
 - [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.
 - [slackr31337/PorcupinePipeline](https://github.com/slackr31337/PorcupinePipeline) - Use Porcupine wake word to trigger a voice assistant pipeline in Home-Assistant
@@ -1525,6 +1532,7 @@
 
 ## Rust 
 
+- [music-assistant/music-assistant-desktop](https://github.com/music-assistant/music-assistant-desktop) - Music assistant desktop app
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [bionic-gpt/bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) - BionicGPT is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality
 - [gosub-browser/gosub-engine](https://github.com/gosub-browser/gosub-engine) - A html5 tokenizer / parser that hopefully grow up to be a browser. Discussions at https://github.com/gosub-browser/gosub-engine/discussions
@@ -1748,6 +1756,8 @@
 
 ## TypeScript 
 
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [custom-cards/canvas-gauge-card](https://github.com/custom-cards/canvas-gauge-card) - The card makes it possible to use gauges from https://canvas-gauges.com/
 - [SecureAI-Tools/SecureAI-Tools](https://github.com/SecureAI-Tools/SecureAI-Tools) - Private and secure AI tools for everyone's productivity.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your priv
