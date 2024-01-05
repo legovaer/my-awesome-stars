@@ -921,6 +921,7 @@
 
 ## config 
 
+- [masasam/dotfiles](https://github.com/masasam/dotfiles) - My dotfiles based on Makefile
 - [UbhiTS/ha-config-ataraxis](https://github.com/UbhiTS/ha-config-ataraxis) - My Home Assistant Configs. If you like what you see, please ⭐️my repo. It would encourage me a lot 🤘
 - [google/jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language
 - [cloudposse/terraform-yaml-config](https://github.com/cloudposse/terraform-yaml-config) - Terraform module to convert local and remote YAML configuration templates into Terraform lists and maps
@@ -1326,6 +1327,7 @@
 
 ## emacs 
 
+- [masasam/dotfiles](https://github.com/masasam/dotfiles) - My dotfiles based on Makefile
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI copilot for your second brain. Search and chat with your personal knowledge base, online or offline
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 
