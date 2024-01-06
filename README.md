@@ -21,6 +21,7 @@
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [EJS](#ejs)
+- [Emacs Lisp](#emacs-lisp)
 - [Go](#go)
 - [Groovy](#groovy)
 - [HCL](#hcl)
@@ -76,6 +77,7 @@
 
 ## C 
 
+- [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [eCrowneEng/ESP-SimHub](https://github.com/eCrowneEng/ESP-SimHub) - SimHub firwmare for ESP8266 and ESP32
 - [id-Software/quake2-rerelease-dll](https://github.com/id-Software/quake2-rerelease-dll) - 
 - [philippe44/AirConnect](https://github.com/philippe44/AirConnect) - Use AirPlay to stream to UPnP/Sonos & Chromecast devices
@@ -236,6 +238,10 @@
 
 - [Th30neAnd0nly/TrackDown](https://github.com/Th30neAnd0nly/TrackDown) - Track Down people by just using a link.
 - [florianjs/Digital-Currency](https://github.com/florianjs/Digital-Currency) - Create your own Digital Currency with this self-hosted Web App. Check out the Demo website
+
+## Emacs Lisp 
+
+- [masasam/dotfiles](https://github.com/masasam/dotfiles) - My dotfiles based on Makefile
 
 ## Go 
 
@@ -1137,9 +1143,12 @@
 
 ## Python 
 
+- [AlexandreSajus/JARVIS](https://github.com/AlexandreSajus/JARVIS) - Your own personal voice assistant: Voice to Text to LLM to Speech, displayed in a web interface
+- [carleeno/elevenlabs_tts](https://github.com/carleeno/elevenlabs_tts) - Custom TTS Integration using ElevenLabs API
+- [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
 - [ej52/hass-ollama-conversation](https://github.com/ej52/hass-ollama-conversation) - Ollama conversation integration for Home Assistant
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
-- [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI) - 
+- [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [joaomdmoura/crewAI-examples](https://github.com/joaomdmoura/crewAI-examples) - 
 - [pfsensible/core](https://github.com/pfsensible/core) - Core modules for managing pfSense firewalls with ansible
 - [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.
@@ -1506,6 +1515,7 @@
 
 ## Ruby 
 
+- [skwp/dotfiles](https://github.com/skwp/dotfiles) - YADR - The best vim,git,zsh plugins and the cleanest vimrc you've ever seen
 - [ecosyste-ms/awesome](https://github.com/ecosyste-ms/awesome) - An open API service indexing awesome lists of open source software.
 - [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
 - [havenweb/haven](https://github.com/havenweb/haven) - Self-hostable private blogging
@@ -1571,6 +1581,11 @@
 
 ## Shell 
 
+- [twpayne/dotfiles](https://github.com/twpayne/dotfiles) - My dotfiles, managed with https://chezmoi.io.
+- [narze/dotfiles](https://github.com/narze/dotfiles) - macOS / Linux / Codespaces compatible dotfiles with 1-line setup script. Tested on Apple Silicon Macs. Supports both zsh and fish. Managed with Chezmoi
+- [felipecrs/dotfiles](https://github.com/felipecrs/dotfiles) - Bootstrap your Ubuntu in a single command!
+- [alrra/dotfiles](https://github.com/alrra/dotfiles) - 💻 macOS / Ubuntu dotfiles
+- [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 - [edoardottt/secfiles](https://github.com/edoardottt/secfiles) - My files for security assessments, bug bounty and other security related stuff
 - [chvancooten/BugBountyScanner](https://github.com/chvancooten/BugBountyScanner) - A Bash script and Docker image for Bug Bounty reconnaissance. Intended for headless use.
 - [DoTheEvo/selfhosted-apps-docker](https://github.com/DoTheEvo/selfhosted-apps-docker) - Guide by Example
