@@ -1348,6 +1348,7 @@
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [fO-000/bluing](https://github.com/fO-000/bluing) - An intelligence gathering tool for hacking Bluetooth
 - [Durishn/Durnry-Assistant](https://github.com/Durishn/Durnry-Assistant) - Home automation system - integrations, dashboards, and automations for home IoT devices 🏠 🤖
+- [PhasecoreX/docker-red-discordbot](https://github.com/PhasecoreX/docker-red-discordbot) - The newest Red-Discordbot in a convenient container
 - [AeX03/eLys](https://github.com/AeX03/eLys) - 👾- An open-source post-exploitation framework, researchers and developers.
 - [CookiesServices/ISO](https://github.com/CookiesServices/ISO) - Highly reliable botnet created in 100% python for Educational Purposes Only
 - [jm33-m0/mec](https://github.com/jm33-m0/mec) - for mass exploiting
@@ -1665,7 +1666,6 @@
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [NicNull/BTphone](https://github.com/NicNull/BTphone) - Bluetooth RSSI phone monitor script to activate screen saver
 - [christoomey/dotfiles](https://github.com/christoomey/dotfiles) - My vim, zsh, git, tmux, and other config files and utility scripts.
-- [PhasecoreX/docker-red-discordbot](https://github.com/PhasecoreX/docker-red-discordbot) - The newest Red-Discordbot in a convenient container
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
 - [jmb12686/raspi-docker-stacks](https://github.com/jmb12686/raspi-docker-stacks) - Collection of Docker Stacks for usage on a multi-architecture Docker Swarm cluster (arm, amd64)
 - [billimek/k8s-gitops](https://github.com/billimek/k8s-gitops) - GitOps principles to define kubernetes cluster state via code
