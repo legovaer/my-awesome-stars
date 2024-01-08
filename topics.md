@@ -2664,6 +2664,7 @@
 
 ## others 
 
+- [inovector/mixpost](https://github.com/inovector/mixpost) - Self-hosted social media management. Schedule and organize your social content. Built with Laravel Framework.
 - [twpayne/dotfiles](https://github.com/twpayne/dotfiles) - My dotfiles, managed with https://chezmoi.io.
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [skwp/dotfiles](https://github.com/skwp/dotfiles) - YADR - The best vim,git,zsh plugins and the cleanest vimrc you've ever seen
