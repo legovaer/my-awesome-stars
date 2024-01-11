@@ -250,11 +250,12 @@
 
 ## Go 
 
+- [josephwoodward/twitter_exporter](https://github.com/josephwoodward/twitter_exporter) - A Prometheus Exporter to monitor Twitter profile activity
 - [maxcleme/instagram-exporter](https://github.com/maxcleme/instagram-exporter) - Prometheus Instagram Exporter
 - [skius/rm-pdf-tools](https://github.com/skius/rm-pdf-tools) - PDF tools for reMarkable tablets
 - [Eeems/rmfakecloud](https://github.com/Eeems/rmfakecloud) - fake cloud api
 - [ddvk/rmfakecloud](https://github.com/ddvk/rmfakecloud) - host your own cloud for the remarkable
-- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally
+- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL.
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [lupinelab/kproximate](https://github.com/lupinelab/kproximate) - A Kubernetes node autoscaler for Proxmox
@@ -517,6 +518,7 @@
 
 ## JavaScript 
 
+- [FrancescoXX/social-dashboard](https://github.com/FrancescoXX/social-dashboard) - 
 - [martijnpoppen/ledcollection](https://github.com/martijnpoppen/ledcollection) - LED Ring patterns for Homey
 - [jake92918/Homeassistant-WLED-Card](https://github.com/jake92918/Homeassistant-WLED-Card) - Home Assistant Lovelace Card to control https://github.com/Aircoookie/WLED solution to "controlling WS2812B RGB LEDs with an ESP8266 over WiFi"
 - [Shaegi/Homeassistant-WLED-Card](https://github.com/Shaegi/Homeassistant-WLED-Card) - Home Assistant Lovelace Card to control https://github.com/Aircoookie/WLED solution to "controlling WS2812B RGB LEDs with an ESP8266 over WiFi"
@@ -1158,6 +1160,8 @@
 
 ## Python 
 
+- [pilotak/homeassistant-attributes](https://github.com/pilotak/homeassistant-attributes) - Breaks out specified attribute from other entities to a sensor
+- [techgnosis/loki-twitter](https://github.com/techgnosis/loki-twitter) - 
 - [kramcat/CharacterAI](https://github.com/kramcat/CharacterAI) - An unofficial API for character.ai for Python
 - [nannook206/surprise](https://github.com/nannook206/surprise) - This program/service provides a randomized e-stim device activation experience.
 - [nannook206/buttshock-py](https://github.com/nannook206/buttshock-py) - Python Implementation of the Erostek ET312 Serial Protocol
@@ -1504,7 +1508,7 @@
 - [GrandMoff100/HomeAssistantAPI](https://github.com/GrandMoff100/HomeAssistantAPI) - Python Wrapper for Homeassistant's REST API
 - [dwainscheeren/dwains-lovelace-dashboard](https://github.com/dwainscheeren/dwains-lovelace-dashboard) - An fully auto generating Home Assistant UI dashboard for desktop, tablet and mobile by Dwains for desktop, tablet, mobile
 - [ysde/grafana-backup-tool](https://github.com/ysde/grafana-backup-tool) - A Python-based application to backup Grafana settings by using the Grafana API
-- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Data integration platform for ELT pipelines from APIs, databases & files to warehouses & lakes.
+- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [eifinger/appdaemon-scripts](https://github.com/eifinger/appdaemon-scripts) - Scripts running in Appdaemon for Homeassistant Automations
