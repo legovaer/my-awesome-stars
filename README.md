@@ -520,6 +520,7 @@
 
 ## JavaScript 
 
+- [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [vaughngx4/OpenSMM](https://github.com/vaughngx4/OpenSMM) - Self-hosted open source social media marketing
 - [FrancescoXX/social-dashboard](https://github.com/FrancescoXX/social-dashboard) - 
 - [martijnpoppen/ledcollection](https://github.com/martijnpoppen/ledcollection) - LED Ring patterns for Homey
@@ -1164,6 +1165,8 @@
 
 ## Python 
 
+- [pman07/Immich_Notify](https://github.com/pman07/Immich_Notify) - 
+- [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [alexal1/Insomniac](https://github.com/alexal1/Insomniac) - Instagram bot for automated Instagram interaction using Android device via ADB
 - [jaguar754/instabot.py](https://github.com/jaguar754/instabot.py) - Instagram bot. It works without instagram api, need only login and password. Write on python.
 - [pilotak/homeassistant-attributes](https://github.com/pilotak/homeassistant-attributes) - Breaks out specified attribute from other entities to a sensor
@@ -1613,6 +1616,8 @@
 
 ## Shell 
 
+- [G33kzD3n/Catalogue](https://github.com/G33kzD3n/Catalogue) - 
+- [JamesTurland/JimsGarage](https://github.com/JamesTurland/JimsGarage) - Homelab Goodies
 - [ddvk/remarkable-autoinstall](https://github.com/ddvk/remarkable-autoinstall) - 
 - [mb1986/remarkable-templates](https://github.com/mb1986/remarkable-templates) - 
 - [mb1986/rm-hacks](https://github.com/mb1986/rm-hacks) - Small improvements and tweaks for rM devices, covering both rM1 and rM2.
@@ -1806,6 +1811,7 @@
 
 ## TypeScript 
 
+- [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [sourcegraph/cody](https://github.com/sourcegraph/cody) - AI that knows your entire codebase
 - [NotTobi/soundcloud-dl](https://github.com/NotTobi/soundcloud-dl) - Extension for downloading SoundCloud tracks
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
