@@ -2733,7 +2733,7 @@
 - [twpayne/dotfiles](https://github.com/twpayne/dotfiles) - My dotfiles, managed with https://chezmoi.io.
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [skwp/dotfiles](https://github.com/skwp/dotfiles) - YADR - The best vim,git,zsh plugins and the cleanest vimrc you've ever seen
-- [music-assistant/music-assistant-desktop](https://github.com/music-assistant/music-assistant-desktop) - Music assistant desktop app
+- [music-assistant/companion](https://github.com/music-assistant/companion) - Music assistant desktop app
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [joaomdmoura/crewAI-examples](https://github.com/joaomdmoura/crewAI-examples) - 
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
