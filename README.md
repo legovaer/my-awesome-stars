@@ -175,7 +175,6 @@
 - [joelchrono12/freshrss-nord-theme](https://github.com/joelchrono12/freshrss-nord-theme) - A simple, basic theme you can work on top of to have the Nord color scheme in your FreshRSS instance
 - [DmitryBorodiy/PowerWidgets](https://github.com/DmitryBorodiy/PowerWidgets) - Power Widgets is new way to customize your at-a-glance info. With new widgets and mini-apps you can explore info and get fast access to important things.
 - [mehulkar/github-hall-of-fame](https://github.com/mehulkar/github-hall-of-fame) - Hall of Fame for spectacular things on Github
-- [juliocesarfort/public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) - A list of public penetration test reports published by several consulting firms and academic security groups.
 - [Madelena/hass-config-public](https://github.com/Madelena/hass-config-public) - My Dashboards for Home Assistant - Advanced data visualizations, responsive design, a neat maximalist Metro Live Tile layout, and an ultraminimal tablet layout!
 - [Madelena/Metrology-for-Hass](https://github.com/Madelena/Metrology-for-Hass) - 🎨 Give your Home Assistant a modern and clean facelift. 🟥🟧🟩🟦🟪 24 Variations with 2 Styles + 6 Colors (Magenta Red / Orange / Green / Blue / Purple) + 🌞 Light and 🌚 Dark modes included. Based on Metro 
 - [dracula/logseq](https://github.com/dracula/logseq) - 🧛🏻‍♂️ Dark theme for Logseq
@@ -257,7 +256,7 @@
 - [skius/rm-pdf-tools](https://github.com/skius/rm-pdf-tools) - PDF tools for reMarkable tablets
 - [Eeems/rmfakecloud](https://github.com/Eeems/rmfakecloud) - fake cloud api
 - [ddvk/rmfakecloud](https://github.com/ddvk/rmfakecloud) - host your own cloud for the remarkable
-- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL.
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [lupinelab/kproximate](https://github.com/lupinelab/kproximate) - A Kubernetes node autoscaler for Proxmox
@@ -476,6 +475,7 @@
 - [juriansluiman/groceri.es](https://github.com/juriansluiman/groceri.es) - groceri.es is a recipe manager and meal planning tool
 - [Patrowl/PatrowlManager](https://github.com/Patrowl/PatrowlManager) - PatrOwl - Open Source, Smart and Scalable Security Operations Orchestration Platform
 - [htr-tech/zphisher](https://github.com/htr-tech/zphisher) - An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !
+- [juliocesarfort/public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) - A list of public penetration test reports published by several consulting firms and academic security groups.
 - [home-assistant/alerts.home-assistant.io](https://github.com/home-assistant/alerts.home-assistant.io) - Home Assistant Alerts
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [fastender/blob](https://github.com/fastender/blob) - The Blob - Documentation
