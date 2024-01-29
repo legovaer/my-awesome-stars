@@ -1236,7 +1236,6 @@
 - [coolsarne/TicketswapBot](https://github.com/coolsarne/TicketswapBot) - Bot that checks and reserves tickets. Written in python and selenium.
 - [BeardedTinker/Home-Assistant_Config](https://github.com/BeardedTinker/Home-Assistant_Config) - BeardedTinker Home Assistant configuration. Feel free to browse, edit, tweak, improve, criticize and suggest.
 - [AppDaemon/appdaemon](https://github.com/AppDaemon/appdaemon) - :page_facing_up: Python Apps for Home Automation
-- [filipweilid/k3s-homelab](https://github.com/filipweilid/k3s-homelab) - Mono repository for my home infrastructure and Kubernetes cluster
 - [NabuCasa/hass-nabucasa](https://github.com/NabuCasa/hass-nabucasa) - Issues related to the cloud integration in Nabu Casa
 - [dannytsang/homeassistant-config](https://github.com/dannytsang/homeassistant-config) - 🏡 My Home Assistant Configs.
 - [F33RNI/GPT-Telegramus](https://github.com/F33RNI/GPT-Telegramus) - The best free Telegram bot for ChatGPT, EdgeGPT (aka Bing AI), DALL-E, Bing Image generator, Bard and Gemini with stream writing, requests with images (for Bard and Gemini), multiple languages, admin 
@@ -1481,7 +1480,6 @@
 - [skalavala/mysmarthome](https://github.com/skalavala/mysmarthome) - :star: ALIVE Again! :star: SmartHome - Nothing but smarthome stuff here! Have fun browsing through my home automation setup... ping me on Discord with any questions! :thumbsup:
 - [davisnando/ticketswap_bot](https://github.com/davisnando/ticketswap_bot) - Ticketswap bot
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
-- [onedr0p/flux-cluster-template](https://github.com/onedr0p/flux-cluster-template) - A community opinionated template for deploying a Kubernetes cluster backed by Flux, SOPS, GitHub Actions, Renovate, Cilium and more!
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensi
 - [finity69x2/nws_alerts](https://github.com/finity69x2/nws_alerts) - An updated version of the nws_alerts custom integration for Home Assistant
 - [octodns/octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
@@ -1652,6 +1650,7 @@
 - [8layer8/swarm-public](https://github.com/8layer8/swarm-public) - Code for public docker swarm build
 - [Security-Onion-Solutions/securityonion](https://github.com/Security-Onion-Solutions/securityonion) - Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, and case mana
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
+- [filipweilid/k3s-homelab](https://github.com/filipweilid/k3s-homelab) - Mono repository for my home infrastructure and Kubernetes cluster
 - [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [containers/toolbox](https://github.com/containers/toolbox) - Tool for interactive command line environments on Linux
 - [MrHacker-X/BruteX](https://github.com/MrHacker-X/BruteX) - This is a BruteForce Attacking tool for Termux
@@ -1767,6 +1766,7 @@
 - [tmknom/template-terraform-module](https://github.com/tmknom/template-terraform-module) - Terraform module template following Standard Module Structure.
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [InfluxCommunity/InfluxDBv2_Telegraf_Docker](https://github.com/InfluxCommunity/InfluxDBv2_Telegraf_Docker) - Run InfluxDB 2.0 and Telegraf in containers
+- [onedr0p/flux-cluster-template](https://github.com/onedr0p/flux-cluster-template) - A community opinionated template for deploying a Kubernetes cluster backed by Flux, SOPS, GitHub Actions, Renovate, Cilium and more!
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [unifi-utilities/unifios-utilities](https://github.com/unifi-utilities/unifios-utilities) - A collection of  enhancements for UnifiOS based devices
 - [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - NOTE: Most of the contents of this repository have been migrated to the new devcontainers GitHub org (https://github.com/devcontainers). See https://github.com/devcontainers/template-starter and https
