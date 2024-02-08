@@ -78,6 +78,7 @@
 
 ## C 
 
+- [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [ddvk/remarkable-touchgestures](https://github.com/ddvk/remarkable-touchgestures) - touch gestures for reMarkable
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [eCrowneEng/ESP-SimHub](https://github.com/eCrowneEng/ESP-SimHub) - SimHub firwmare for ESP8266 and ESP32
@@ -227,7 +228,7 @@
 - [Poeschl/Hassio-Addons](https://github.com/Poeschl/Hassio-Addons) - The repository for my Home Assistant Supervisor Add-ons.
 - [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) - Documentation and Examples of base container modifications
 - [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag) - Nginx webserver and reverse proxy with php support and a built-in Certbot (Let's Encrypt) client. It also contains fail2ban for intrusion prevention.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2024)
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [astir13/bugzilla-docker](https://github.com/astir13/bugzilla-docker) - Dockerfiles for generating a bugzilla docker based on Ubuntu 20.04 & Apache2, configurable Mysql/MariaDb database
@@ -338,7 +339,6 @@
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
 - [admiraltyio/admiralty](https://github.com/admiraltyio/admiralty) - A system of Kubernetes controllers that intelligently schedules workloads across clusters.
 - [kubernetes-sigs/aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller) - A Kubernetes controller for Elastic Load Balancers
-- [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud.
 - [aws/eks-anywhere](https://github.com/aws/eks-anywhere) - Run Amazon EKS on your own infrastructure 🚀
 - [TylerBrock/saw](https://github.com/TylerBrock/saw) - Fast, multi-purpose tool for AWS CloudWatch Logs
 - [sa7mon/S3Scanner](https://github.com/sa7mon/S3Scanner) - Scan for misconfigured S3 buckets across S3-compatible APIs!
@@ -556,7 +556,7 @@
 - [jonasschmedtmann/ultimate-react-course](https://github.com/jonasschmedtmann/ultimate-react-course) - Starter files, final projects, and FAQ for my Ultimate React course
 - [pistazie/cdk-dia](https://github.com/pistazie/cdk-dia) - Automated diagrams of CDK provisioned infrastructure
 - [p6m7g8/awesome-projen](https://github.com/p6m7g8/awesome-projen) - P6M7G8's Awesome Projen
-- [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Neurite: Fractal Graph Desktop for Ai-Agents, Web-Browsing, Note-Taking,  and Code.
+- [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Neurite: Fractal Graph Desktop for Ai-Agents, Web-Browsing, Note-Taking, and Code.
 - [rogerquake/home_automation](https://github.com/rogerquake/home_automation) - 
 - [DJWoodZ/Satisfactory-Discord-Bot](https://github.com/DJWoodZ/Satisfactory-Discord-Bot) - A Discord bot that posts Satisfactory Dedicated Server status information such as online players.
 - [AmoebeLabs/swiss-army-knife-card](https://github.com/AmoebeLabs/swiss-army-knife-card) - The versatile custom Swiss Army Knife card for Home Assistant allows you to create your unique visualization using several graphical tools, styling options and animations.
@@ -855,6 +855,7 @@
 
 ## Others 
 
+- [PiotrMachowski/lovelace-html-card](https://github.com/PiotrMachowski/lovelace-html-card) - This card displays provided data as an HTML content of a card.
 - [ludeeus/nothing](https://github.com/ludeeus/nothing) - Custom integration for Home Assistant that do nothing
 - [andrew/ultimate-awesome](https://github.com/andrew/ultimate-awesome) - Every awesome list on every topic, including awesome lists of awesome lists, updated daily.
 - [ddvk/remarkable2-recovery](https://github.com/ddvk/remarkable2-recovery) - recovery tools for reMarkable 2
@@ -1168,6 +1169,7 @@
 
 ## Python 
 
+- [Olen/home-assistant-openplantbook](https://github.com/Olen/home-assistant-openplantbook) - Integration to search and fetch data from Openplantbook.io
 - [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) - A Home Assistant integration to provide battery notes of devices
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
 - [assafelovic/gpt-newspaper](https://github.com/assafelovic/gpt-newspaper) - 
@@ -1625,6 +1627,8 @@
 
 ## Shell 
 
+- [lxc/lxc-ci](https://github.com/lxc/lxc-ci) - LXC continuous integration and build scripts
+- [g0tmi1k/lxc-ci](https://github.com/g0tmi1k/lxc-ci) - LXC continuous integration and build scripts
 - [G33kzD3n/Catalogue](https://github.com/G33kzD3n/Catalogue) - 
 - [JamesTurland/JimsGarage](https://github.com/JamesTurland/JimsGarage) - Homelab Goodies
 - [ddvk/remarkable-autoinstall](https://github.com/ddvk/remarkable-autoinstall) - 
@@ -1805,6 +1809,7 @@
 
 ## Svelte 
 
+- [ollama-webui/ollama-webui](https://github.com/ollama-webui/ollama-webui) - ChatGPT-Style Web UI Client for Ollama 🦙
 - [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr
 
 ## Swift 
@@ -1821,6 +1826,7 @@
 
 ## TypeScript 
 
+- [folke/lovelace-styler](https://github.com/folke/lovelace-styler) - Custom styling for lovelace cards
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [sourcegraph/cody](https://github.com/sourcegraph/cody) - AI that knows your entire codebase
@@ -1877,7 +1883,7 @@
 - [deiucanta/chatpad](https://github.com/deiucanta/chatpad) - Not just another ChatGPT user-interface!
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [lesleyxyz/node-tile](https://github.com/lesleyxyz/node-tile) - Package to talk & ring to your Tile device
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
 - [greeny/SatisfactoryTools](https://github.com/greeny/SatisfactoryTools) - Satisfactory Tools for planning and building the perfect base.
 - [AalianKhan/mushroom-strategy](https://github.com/AalianKhan/mushroom-strategy) - A strategy to automatically generate a dashboard using mushroom cards
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
@@ -1947,6 +1953,7 @@
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs) - 💬 🤖  The most reliable tool for chatbots with advanced features. Be sure to 🌟 this repository for updates!
 - [prymitive/karma](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager
