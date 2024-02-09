@@ -538,10 +538,10 @@
 - [isabellaalstrom/lovelace-grocy-chores-card](https://github.com/isabellaalstrom/lovelace-grocy-chores-card) - A card to track chores and tasks in Grocy.
 - [espruino/EspruinoHub](https://github.com/espruino/EspruinoHub) - A BLE -&gt; MQTT bridge for Raspberry Pi and other Embedded devices
 - [Yevgenium/weather-chart-card](https://github.com/Yevgenium/weather-chart-card) - Custom weather card with charts
+- [fwartner/homeassistant-config](https://github.com/fwartner/homeassistant-config) - My personal home assistant configuation files
 - [Interstellar0verdrive/frontail_AEM](https://github.com/Interstellar0verdrive/frontail_AEM) - 📝 streaming logs to the browser
 - [sinedied/dmx-hue](https://github.com/sinedied/dmx-hue) - :traffic_light: Art-Net node to control Philips Hue lights with DMX
 - [rishabhp/bideo.js](https://github.com/rishabhp/bideo.js) - Fullscreen HTML5 Background Video for the Web.
-- [ntalekt/homeassistant](https://github.com/ntalekt/homeassistant) - Example Home Assistant Configs
 - [mlamberts78/weather-chart-card](https://github.com/mlamberts78/weather-chart-card) - Custom weather card with charts.
 - [MilanBarande/ticketswoop](https://github.com/MilanBarande/ticketswoop) - Ticketswoop is a basic puppeteer bot to purchase tickets on ticketswap
 - [ljmerza/light-entity-card](https://github.com/ljmerza/light-entity-card) - Control any light or switch entity
@@ -1221,7 +1221,6 @@
 - [AlexxIT/PythonScriptsPro](https://github.com/AlexxIT/PythonScriptsPro) - Advanced version of python scripts for Home Assistant without limits
 - [AlexxIT/StreamAssist](https://github.com/AlexxIT/StreamAssist) - Home Assistant custom component that allows you to turn almost any camera and almost any speaker into a local voice assistant
 - [synesthesiam/homeassistant-satellite](https://github.com/synesthesiam/homeassistant-satellite) - Streaming audio satellite for Home Assistant
-- [fwartner/homeassistant-config](https://github.com/fwartner/homeassistant-config) - My personal home assistant configuation files
 - [alandtse/alexa_media_player](https://github.com/alandtse/alexa_media_player) - This is a custom component to allow control of Amazon Alexa devices in Home Assistant using the unofficial Alexa API.
 - [keatontaylor/alexa-actions](https://github.com/keatontaylor/alexa-actions) - A README and associated code to get actionable notifications setup for Alexa devices.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
@@ -1235,6 +1234,7 @@
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 - [twelvesec/gasmask](https://github.com/twelvesec/gasmask) - Information gathering tool - OSINT
 - [gcobb321/icloud3_v3](https://github.com/gcobb321/icloud3_v3) - iCloud3 v3, Development Version - This Repo/Version is used for development and testing of new and updated features. It is not the official release of iCloud3 v3, .
+- [ntalekt/homeassistant](https://github.com/ntalekt/homeassistant) - Example Home Assistant Configs
 - [cgarwood/homeassistant-config](https://github.com/cgarwood/homeassistant-config) - Home Assistant Configuration
 - [hishizuka/pizero_bikecomputer](https://github.com/hishizuka/pizero_bikecomputer) - An open source bike computer based on  Raspberry Pi Zero (W, WH, 2W) with GPS and ANT+. Including offline map and navigation.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to search and chat (using RAG) with your knowledge base (pdf, markdown, org). Use powerful, online (e.g gpt4) or private, offline (e.g mistral) LLMs. Self-host locally 
