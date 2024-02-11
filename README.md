@@ -962,7 +962,6 @@
 - [pop3ret/AWSome-Pentesting](https://github.com/pop3ret/AWSome-Pentesting) - My cheatsheet notes to pentest AWS infrastructure
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 - [ChristianLempa/cheat-sheets](https://github.com/ChristianLempa/cheat-sheets) - This is my personal knowledge-base. Here you'll find code-snippets, technical documentation, and command reference for various tools, and technologies.
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
 - [Blackymas/NSPanel_HA_Blueprint](https://github.com/Blackymas/NSPanel_HA_Blueprint) - This allows you to configure your complete NSPanel via Blueprint with UI and without changing anything in the code
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
 - [shubhamgrg04/awesome-diagramming](https://github.com/shubhamgrg04/awesome-diagramming) - A curated collection of diagramming tools used by leading software engineering teams
@@ -1245,6 +1244,7 @@
 - [coolsarne/TicketswapBot](https://github.com/coolsarne/TicketswapBot) - Bot that checks and reserves tickets. Written in python and selenium.
 - [BeardedTinker/Home-Assistant_Config](https://github.com/BeardedTinker/Home-Assistant_Config) - BeardedTinker Home Assistant configuration. Feel free to browse, edit, tweak, improve, criticize and suggest.
 - [AppDaemon/appdaemon](https://github.com/AppDaemon/appdaemon) - :page_facing_up: Python Apps for Home Automation
+- [filipweilid/k3s-homelab](https://github.com/filipweilid/k3s-homelab) - Mono repository for my home infrastructure and Kubernetes cluster
 - [NabuCasa/hass-nabucasa](https://github.com/NabuCasa/hass-nabucasa) - Issues related to the cloud integration in Nabu Casa
 - [dannytsang/homeassistant-config](https://github.com/dannytsang/homeassistant-config) - 🏡 My Home Assistant Configs.
 - [F33RNI/GPT-Telegramus](https://github.com/F33RNI/GPT-Telegramus) - The best free Telegram bot for ChatGPT, EdgeGPT (aka Bing AI), DALL-E, Bing Image generator, Bard and Gemini with stream writing, requests with images (for Bard and Gemini), multiple languages, admin 
@@ -1424,7 +1424,7 @@
 - [TCM-Course-Resources/Practical-Ethical-Hacking-Resources](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources) - Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course
 - [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma) - Main Sigma Rule Repository
 - [AdminTurnedDevOps/DevOps-The-Hard-Way-AWS](https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS) - This repository contains free labs for setting up an entire workflow and DevOps environment from a real-world perspective in AWS
-- [ForensicArtifacts/artifacts](https://github.com/ForensicArtifacts/artifacts) - Digital Forensics Artifact Repository
+- [ForensicArtifacts/artifacts](https://github.com/ForensicArtifacts/artifacts) - Digital Forensics artifact repository
 - [thomasloven/hass-config](https://github.com/thomasloven/hass-config) - My Home Assistant configuration
 - [thecowan/ha-config](https://github.com/thecowan/ha-config) - My home assistant (https://www.home-assistant.io/) configuration
 - [skorokithakis/catt](https://github.com/skorokithakis/catt) - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.
@@ -1662,7 +1662,6 @@
 - [8layer8/swarm-public](https://github.com/8layer8/swarm-public) - Code for public docker swarm build
 - [Security-Onion-Solutions/securityonion](https://github.com/Security-Onion-Solutions/securityonion) - Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, and case mana
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
-- [filipweilid/k3s-homelab](https://github.com/filipweilid/k3s-homelab) - Mono repository for my home infrastructure and Kubernetes cluster
 - [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [containers/toolbox](https://github.com/containers/toolbox) - Tool for interactive command line environments on Linux
 - [MrHacker-X/BruteX](https://github.com/MrHacker-X/BruteX) - This is a BruteForce Attacking tool for Termux
@@ -1915,6 +1914,7 @@
 - [iantrich/restriction-card](https://github.com/iantrich/restriction-card) - 🔒 Apply restrictions to Lovelace cards
 - [maxwroc/battery-state-card](https://github.com/maxwroc/battery-state-card) - Battery state card for Home Assistant
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The React library to build dashboards fast.
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [legovaer/room-assistant2](https://github.com/legovaer/room-assistant2) - A fork of room-assistant
 - [custom-cards/decluttering-card](https://github.com/custom-cards/decluttering-card) - 🧹 Declutter your lovelace configuration with the help of this card
 - [carlrygart/portainer-stack-deploy](https://github.com/carlrygart/portainer-stack-deploy) - Portainer-stack-deploy is a GitHub Action for deploying a newly updated stack to a Portainer v2 instance.
