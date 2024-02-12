@@ -1387,7 +1387,7 @@
 - [DonDebonair/slack-machine](https://github.com/DonDebonair/slack-machine) - A simple, yet powerful and extendable Slack bot
 - [fondberg/spotcast](https://github.com/fondberg/spotcast) - Home assistant custom component to start Spotify playback on an idle chromecast device as well as control spotify connect devices
 - [jonathanadams/Home-Assistant-Configuration](https://github.com/jonathanadams/Home-Assistant-Configuration) - Home Assistant Configuration and Documentation
-- [mkotler/ad-automoli](https://github.com/mkotler/ad-automoli) - 💡 Fully automatic light management based on conditions like motion, illuminance, humidity, and other clever features
+- [mkotler/ad-automoli](https://github.com/mkotler/ad-automoli) - 💡 Fully automatic light management based on conditions like motion, humidity, and other clever features
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [fO-000/bluing](https://github.com/fO-000/bluing) - An intelligence gathering tool for hacking Bluetooth
 - [Durishn/Durnry-Assistant](https://github.com/Durishn/Durnry-Assistant) - Home automation system - integrations, dashboards, and automations for home IoT devices 🏠 🤖
