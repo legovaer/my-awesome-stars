@@ -692,7 +692,6 @@
 - [home-assistant/data.home-assistant](https://github.com/home-assistant/data.home-assistant) - Data Science Portal for Home Assistant.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
-- [klaasnicolaas/Student-homeassistant-config](https://github.com/klaasnicolaas/Student-homeassistant-config) - 🎓 Student Home configuration. Stay informed by 🌟 this repository for updates!
 - [pinkywafer/Home-Assistant_Config](https://github.com/pinkywafer/Home-Assistant_Config) - 
 - [pdonald/realtime-stats](https://github.com/pdonald/realtime-stats) - 
 - [guigrpa/storyboard](https://github.com/guigrpa/storyboard) - End-to-end, hierarchical, real-time, colorful logs and stories
@@ -1505,6 +1504,7 @@
 - [P0cL4bs/wifipumpkin3](https://github.com/P0cL4bs/wifipumpkin3) - Powerful framework for rogue access point attack.
 - [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher) - The Rogue Access Point Framework
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [klaasnicolaas/Student-homeassistant-config](https://github.com/klaasnicolaas/Student-homeassistant-config) - 🎓 Student Home configuration. Stay informed by 🌟 this repository for updates!
 - [arsaboo/homeassistant-config](https://github.com/arsaboo/homeassistant-config) - 🏡 My Home Assistant Configs. Be sure to :star2: my repo to follow the updates!
 - [dchesterton/amcrest2mqtt](https://github.com/dchesterton/amcrest2mqtt) - Expose all events from an Amcrest device to an MQTT broker
 - [lwestenberg/bold_smart_lock](https://github.com/lwestenberg/bold_smart_lock) - This package implements the Bold Smart Lock API to authenticate and unlock a Bold smart lock. Usage of this API requires a Bold Connect.
