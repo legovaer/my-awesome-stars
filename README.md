@@ -258,7 +258,7 @@
 - [skius/rm-pdf-tools](https://github.com/skius/rm-pdf-tools) - PDF tools for reMarkable tablets
 - [Eeems/rmfakecloud](https://github.com/Eeems/rmfakecloud) - fake cloud api
 - [ddvk/rmfakecloud](https://github.com/ddvk/rmfakecloud) - host your own cloud for the remarkable
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models.
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL.
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [lupinelab/kproximate](https://github.com/lupinelab/kproximate) - A Kubernetes node autoscaler for Proxmox
