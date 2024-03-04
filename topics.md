@@ -209,6 +209,7 @@
 
 ## ai 
 
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
 - [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
 - [sourcegraph/cody](https://github.com/sourcegraph/cody) - AI that knows your entire codebase
@@ -313,7 +314,6 @@
 - [khanh-ph/proxmox-kubernetes](https://github.com/khanh-ph/proxmox-kubernetes) - Enables you to create a Kubernetes cluster on Proxmox VE with Terraform & Kubespray in a declarative manner
 - [rpenziol/proxmox-kubernetes-bootstrap](https://github.com/rpenziol/proxmox-kubernetes-bootstrap) - This is a collection of resources to get a Kubernetes cluster up and running in a Proxmox Virtual Environment. These tools and commands assume the user is executing in a Linux or Linux-like environmen
 - [veerendra2/raspberrypi-homeserver](https://github.com/veerendra2/raspberrypi-homeserver) - A collection of applications and tools to make awesome Raspberry Pi homerserver
-- [filipweilid/k3s-homelab](https://github.com/filipweilid/k3s-homelab) - Mono repository for my home infrastructure and Kubernetes cluster
 - [atosatto/ansible-dockerswarm](https://github.com/atosatto/ansible-dockerswarm) - Docker Engine clustering using "Swarm Mode" and Ansible
 - [nmarus/docker-swarm-ansible](https://github.com/nmarus/docker-swarm-ansible) - Ansible Playbook that deploys 3 node Docker Swarm with GlusterFS, Traefik, and Portainer Services
 - [lento234/homelab](https://github.com/lento234/homelab) - Personal homelab setup
@@ -2231,7 +2231,6 @@
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.io
 - [headlamp-k8s/headlamp](https://github.com/headlamp-k8s/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
-- [filipweilid/k3s-homelab](https://github.com/filipweilid/k3s-homelab) - Mono repository for my home infrastructure and Kubernetes cluster
 - [techno-tim/k3s-ansible](https://github.com/techno-tim/k3s-ansible) - The easiest way to bootstrap a self-hosted High Availability Kubernetes cluster.  A fully automated HA k3s etcd install with kube-vip, MetalLB, and more.  Build. Destroy. Repeat.
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips
 - [whalecoiner/home](https://github.com/whalecoiner/home) - Configuration for my home network/lab/playground.
@@ -4239,7 +4238,6 @@
 ## terraform 
 
 - [khanh-ph/proxmox-kubernetes](https://github.com/khanh-ph/proxmox-kubernetes) - Enables you to create a Kubernetes cluster on Proxmox VE with Terraform & Kubespray in a declarative manner
-- [filipweilid/k3s-homelab](https://github.com/filipweilid/k3s-homelab) - Mono repository for my home infrastructure and Kubernetes cluster
 - [clayshek/homelab-monorepo](https://github.com/clayshek/homelab-monorepo) - Home lab infrastructure as code repo.
 - [mr-karan/homelab](https://github.com/mr-karan/homelab) - Infra-as-code for my personal home server setup
 - [rishavnandi/ansible_homelab](https://github.com/rishavnandi/ansible_homelab) - Ansible playbooks to quickly setup a homelab.  The playbook will update the system, install Docker, and then deploy the Docker containers.
