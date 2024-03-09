@@ -12,7 +12,6 @@
 - [angular](#angular)
 - [ansible](#ansible)
 - [api](#api)
-- [archlinux](#archlinux)
 - [arduino](#arduino)
 - [artificial-intelligence](#artificial-intelligence)
 - [automation](#automation)
@@ -378,11 +377,6 @@
 - [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
 - [GrandMoff100/HomeAssistantAPI](https://github.com/GrandMoff100/HomeAssistantAPI) - Python Wrapper for Homeassistant's REST API
 - [GitLabPHP/Client](https://github.com/GitLabPHP/Client) - GitLab API v4 client for PHP
-
-## archlinux 
-
-- [masasam/dotfiles](https://github.com/masasam/dotfiles) - My dotfiles based on Makefile
-- [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - bspwm + polybar + eww rices. 12 themes with a rice selector to change on the fly.
 
 ## arduino 
 
@@ -1826,7 +1820,6 @@
 - [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [aquasecurity/kube-hunter](https://github.com/aquasecurity/kube-hunter) - Hunt for security weaknesses in Kubernetes clusters
 - [tektoncd/cli](https://github.com/tektoncd/cli) - A CLI for interacting with Tekton!
-- [Homebrew/linuxbrew-core](https://github.com/Homebrew/linuxbrew-core) - 💀Formerly the core formulae for the Homebrew package manager on Linux
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [jx3-gitops-repositories/jx3-gke-gsm-gitea](https://github.com/jx3-gitops-repositories/jx3-gke-gsm-gitea) - Jenkins X 3.x Cluster Git Template for managing Kubernetes resources in a cluster using Google Secret Manager and using Gitea as the git provider
@@ -2018,7 +2011,6 @@
 
 - [narze/dotfiles](https://github.com/narze/dotfiles) - macOS / Linux / Codespaces compatible dotfiles with 1-line setup script. Tested on Apple Silicon Macs. Supports both zsh and fish. Managed with Chezmoi
 - [whalebrew/whalebrew](https://github.com/whalebrew/whalebrew) - Homebrew, but with Docker images
-- [Homebrew/linuxbrew-core](https://github.com/Homebrew/linuxbrew-core) - 💀Formerly the core formulae for the Homebrew package manager on Linux
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 
@@ -3919,7 +3911,6 @@
 - [MarioRuiz/slack-smart-bot](https://github.com/MarioRuiz/slack-smart-bot) - Create a Slack bot that is smart and so easy to expand, create new bots on demand, run ruby code on chat, create shortcuts...    The main scope of this gem is to be used internally in the company so t
 - [litaio/lita](https://github.com/litaio/lita) - ChatOps for Ruby.
 - [coinbase/terraform-landscape](https://github.com/coinbase/terraform-landscape) - Improve Terraform's plan output to be easier to read and understand
-- [Homebrew/linuxbrew-core](https://github.com/Homebrew/linuxbrew-core) - 💀Formerly the core formulae for the Homebrew package manager on Linux
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
