@@ -1578,7 +1578,6 @@
 - [mirakui/ec2ssh](https://github.com/mirakui/ec2ssh) - A ssh_config manager for AWS EC2
 - [coinbase/terraform-landscape](https://github.com/coinbase/terraform-landscape) - Improve Terraform's plan output to be easier to read and understand
 - [discourse/logster](https://github.com/discourse/logster) - Log viewer UI and framework for rack
-- [Homebrew/linuxbrew-core](https://github.com/Homebrew/linuxbrew-core) - 💀Formerly the core formulae for the Homebrew package manager on Linux
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [railsware/capistrano-multiconfig](https://github.com/railsware/capistrano-multiconfig) - Capistrano extension that allows to use multiple configurations
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
