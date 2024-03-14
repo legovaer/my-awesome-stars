@@ -382,7 +382,7 @@
 ## archlinux 
 
 - [masasam/dotfiles](https://github.com/masasam/dotfiles) - My dotfiles based on Makefile
-- [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - bspwm + polybar + eww rices. 12 themes with a rice selector to change on the fly.
+- [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 15 themes. Polybar. eww widgets, with a rice selector to change on the fly.
 
 ## arduino 
 
@@ -1839,6 +1839,7 @@
 
 ## home-assistant 
 
+- [Pythm/ad-Lightwand](https://github.com/Pythm/ad-Lightwand) - Extensive control of lights based on time of day with mode event in addition to motion, presence, lux, rain, and media player sensors
 - [Olen/home-assistant-openplantbook](https://github.com/Olen/home-assistant-openplantbook) - Integration to search and fetch data from Openplantbook.io
 - [PiotrMachowski/lovelace-html-card](https://github.com/PiotrMachowski/lovelace-html-card) - This card displays provided data as an HTML content of a card.
 - [folke/lovelace-styler](https://github.com/folke/lovelace-styler) - Custom styling for lovelace cards
@@ -2340,7 +2341,7 @@
 - [pijarr/pijarr](https://github.com/pijarr/pijarr) - A shell script to automate the installation and configuration of Jackett, Sonarr, Radarr, Lidarr, Readarr, Prowlarr, and Bazarr on Debian based distros.
 - [v1s1t0r1sh3r3/airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) - This is a multi-use bash script for Linux systems to audit wireless networks.
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
-- [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - bspwm + polybar + eww rices. 12 themes with a rice selector to change on the fly.
+- [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 15 themes. Polybar. eww widgets, with a rice selector to change on the fly.
 - [GameServerManagers/LinuxGSM](https://github.com/GameServerManagers/LinuxGSM) - The command-line tool for quick, simple deployment and management of Linux dedicated game servers.
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 - [1N3/PrivEsc](https://github.com/1N3/PrivEsc) - A collection of Windows, Linux and MySQL privilege escalation scripts and exploits.
@@ -3646,6 +3647,7 @@
 
 ## python 
 
+- [Pythm/ad-Lightwand](https://github.com/Pythm/ad-Lightwand) - Extensive control of lights based on time of day with mode event in addition to motion, presence, lux, rain, and media player sensors
 - [lxc/lxc-ci](https://github.com/lxc/lxc-ci) - LXC continuous integration and build scripts
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [alexal1/Insomniac](https://github.com/alexal1/Insomniac) - Instagram bot for automated Instagram interaction using Android device via ADB
