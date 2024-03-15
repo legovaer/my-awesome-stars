@@ -491,7 +491,7 @@
 - [facyber/awesome-networking](https://github.com/facyber/awesome-networking) - A collection of awesome networking courses, books, tutorials and other resources
 - [edm00se/awesome-board-games](https://github.com/edm00se/awesome-board-games) - A curated list of awesome and exceptional board games. Please contribute!
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
-- [marcobiedermann/search-engine-optimization](https://github.com/marcobiedermann/search-engine-optimization) - :mag: A helpful checklist/collection of Search Engine Optimization (SEO) tips and techniques.
+- [marcobiedermann/search-engine-optimization](https://github.com/marcobiedermann/search-engine-optimization) - 🔍 A helpful checklist/collection of Search Engine Optimization (SEO) tips and techniques.
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [t3chnoboy/awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome) - :octocat: A a curated list of curated lists of awesome lists.
 - [mikeroyal/Grafana-Guide](https://github.com/mikeroyal/Grafana-Guide) - Grafana Guide
@@ -585,7 +585,7 @@
 - [facyber/awesome-networking](https://github.com/facyber/awesome-networking) - A collection of awesome networking courses, books, tutorials and other resources
 - [edm00se/awesome-board-games](https://github.com/edm00se/awesome-board-games) - A curated list of awesome and exceptional board games. Please contribute!
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
-- [marcobiedermann/search-engine-optimization](https://github.com/marcobiedermann/search-engine-optimization) - :mag: A helpful checklist/collection of Search Engine Optimization (SEO) tips and techniques.
+- [marcobiedermann/search-engine-optimization](https://github.com/marcobiedermann/search-engine-optimization) - 🔍 A helpful checklist/collection of Search Engine Optimization (SEO) tips and techniques.
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [t3chnoboy/awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome) - :octocat: A a curated list of curated lists of awesome lists.
 - [mikeroyal/Grafana-Guide](https://github.com/mikeroyal/Grafana-Guide) - Grafana Guide
@@ -1150,7 +1150,7 @@
 - [gimlet-io/gimlet](https://github.com/gimlet-io/gimlet) - The Flux-based Internal Developer Platform
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [portainer/awesome-portainer](https://github.com/portainer/awesome-portainer) - A curated list of Portainer resources, tutorials, videos
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Ultra Easy to Set Up and Maintain.
+- [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
 - [vivekagate/yakiapp](https://github.com/vivekagate/yakiapp) - Open Source, Cross platform, Native Kubernetes IDE
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
@@ -1469,7 +1469,7 @@
 - [arthaud/git-dumper](https://github.com/arthaud/git-dumper) - A tool to dump a git repository from a website
 - [CompSciLauren/awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Ultra Easy to Set Up and Maintain.
+- [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [Poeschl/Hassio-Addons](https://github.com/Poeschl/Hassio-Addons) - The repository for my Home Assistant Supervisor Add-ons.
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
@@ -1628,7 +1628,7 @@
 - [F33RNI/GPT-Telegramus](https://github.com/F33RNI/GPT-Telegramus) - The best free Telegram bot for ChatGPT, Microsoft Copilot (aka Bing AI, aka Sidney, aka EdgeGPT), Microsoft Copilot Designer (aka BingImageCreator) and Gemini with stream writing, requests with images
 - [dsdanielpark/amazing-bard-prompts](https://github.com/dsdanielpark/amazing-bard-prompts) - This repo includes Google Bard prompt curation to use Bard better.
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
-- [marcobiedermann/search-engine-optimization](https://github.com/marcobiedermann/search-engine-optimization) - :mag: A helpful checklist/collection of Search Engine Optimization (SEO) tips and techniques.
+- [marcobiedermann/search-engine-optimization](https://github.com/marcobiedermann/search-engine-optimization) - 🔍 A helpful checklist/collection of Search Engine Optimization (SEO) tips and techniques.
 - [madawei2699/awesome-seo](https://github.com/madawei2699/awesome-seo) - Google SEO Research and Web Traffic Monetization
 
 ## google-cloud 
@@ -4052,7 +4052,7 @@
 - [Aerilym/photoprism-helper](https://github.com/Aerilym/photoprism-helper) - An unofficial companion tool created for use alongside PhotoPrism to enable API endpoints and automation.
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Ultra Easy to Set Up and Maintain.
+- [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
 - [jonico/awesome-runners](https://github.com/jonico/awesome-runners) - A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
