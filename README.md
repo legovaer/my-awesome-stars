@@ -128,6 +128,7 @@
 - [subsurface/subsurface](https://github.com/subsurface/subsurface) - This is the official upstream of the Subsurface divelog program
 - [night-howler/protogasm](https://github.com/night-howler/protogasm) - Software and hardware for Arduino-based orgasm prediction / detection ... on protoboard!
 - [revelationnow/PlannerPDF](https://github.com/revelationnow/PlannerPDF) - Generate a PDF Planner for the Remarkable Platform
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 - [balloob/esphome-configs](https://github.com/balloob/esphome-configs) - Configurations I use on my various ESPHome devices
 - [ChrTopf/wled-audioreact](https://github.com/ChrTopf/wled-audioreact) - This application generates cool light effects for your WLED driven strips based on the music currently playing on your computer.
 - [papan01/LiveStreamer](https://github.com/papan01/LiveStreamer) - Android Screen Streaming - Live555 + MediaProject
@@ -264,7 +265,6 @@
 - [skius/rm-pdf-tools](https://github.com/skius/rm-pdf-tools) - PDF tools for reMarkable tablets
 - [Eeems/rmfakecloud](https://github.com/Eeems/rmfakecloud) - fake cloud api
 - [ddvk/rmfakecloud](https://github.com/ddvk/rmfakecloud) - host your own cloud for the remarkable
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL.
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [lupinelab/kproximate](https://github.com/lupinelab/kproximate) - A Kubernetes node autoscaler for Proxmox
@@ -1183,7 +1183,7 @@
 - [jaguar754/instabot.py](https://github.com/jaguar754/instabot.py) - Instagram bot. It works without instagram api, need only login and password. Write on python.
 - [pilotak/homeassistant-attributes](https://github.com/pilotak/homeassistant-attributes) - Breaks out specified attribute from other entities to a sensor
 - [techgnosis/loki-twitter](https://github.com/techgnosis/loki-twitter) - 
-- [kramcat/CharacterAI](https://github.com/kramcat/CharacterAI) - An unofficial API for character.ai for Python
+- [kramcat/CharacterAI](https://github.com/kramcat/CharacterAI) - Unofficial Python API for character.ai
 - [nannook206/surprise](https://github.com/nannook206/surprise) - This program/service provides a randomized e-stim device activation experience.
 - [nannook206/buttshock-py](https://github.com/nannook206/buttshock-py) - Python Implementation of the Erostek ET312 Serial Protocol
 - [PiaBianca/PyMaster](https://github.com/PiaBianca/PyMaster) - Virtual master/mistress program for D/s play.
@@ -1326,7 +1326,6 @@
 - [AzeemIdrisi/PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro) - An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.
 - [Datalux/Osintgram](https://github.com/Datalux/Osintgram) - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
 - [NiklasReiche/ad-spotify-mood-lights-sync](https://github.com/NiklasReiche/ad-spotify-mood-lights-sync) - AppDaemon app that synchronizes rgb lights to the mood of the currently playing spotify song in Home Assistant.
-- [daveshap/raven](https://github.com/daveshap/raven) - RAVEN (Realtime Assistant Voice Enabled Network) Open Source Software (OSS) community repo
 - [r1cksec/cheatsheets](https://github.com/r1cksec/cheatsheets) - Collection of knowledge about information security
 - [Mostafa-Elguerdawi/Automation_Bug_Hunting](https://github.com/Mostafa-Elguerdawi/Automation_Bug_Hunting) - 
 - [certsocietegenerale/FIR](https://github.com/certsocietegenerale/FIR) - Fast Incident Response
@@ -1598,7 +1597,7 @@
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) - A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [scottlamb/moonfire-nvr](https://github.com/scottlamb/moonfire-nvr) - Moonfire NVR, a security camera network video recorder
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
