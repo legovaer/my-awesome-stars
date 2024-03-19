@@ -657,7 +657,7 @@
 
 - [cloudcomponents/cdk-constructs](https://github.com/cloudcomponents/cdk-constructs) - A collection of higher-level reusable cdk constructs
 - [aws-samples/cdk-eks-karpenter](https://github.com/aws-samples/cdk-eks-karpenter) - CDK construct for installing and configuring Karpenter on EKS clusters
-- [dannysteenman/aws-cdk-examples](https://github.com/dannysteenman/aws-cdk-examples) - A repository that contains AWS CDK code examples from my blog
+- [dannysteenman/aws-cdk-examples](https://github.com/dannysteenman/aws-cdk-examples) - A repository that contains AWS CDK code examples
 - [fogfish/aws-cdk-pure](https://github.com/fogfish/aws-cdk-pure) - Purely Functional and high-order cloud components with AWS CDK
 - [aws/aws-pdk](https://github.com/aws/aws-pdk) - The AWS PDK provides building blocks for common patterns together with development tools to manage and build your projects.
 - [miztiik/my-first-cdk-project](https://github.com/miztiik/my-first-cdk-project) - A hands on repo with multiple demonstrations on CDK: Used by Udemy Course🎓
@@ -2832,7 +2832,6 @@
 - [fredrikpersson92/minihass](https://github.com/fredrikpersson92/minihass) - MiniHass UI Dashboard for Home Assistant
 - [synesthesiam/homeassistant-satellite](https://github.com/synesthesiam/homeassistant-satellite) - Streaming audio satellite for Home Assistant
 - [Anashost/MY-HA-DASH](https://github.com/Anashost/MY-HA-DASH) - 
-- [fwartner/homeassistant-config](https://github.com/fwartner/homeassistant-config) - My personal home assistant configuation files
 - [fwartner/home-assistant-wakewords-collection](https://github.com/fwartner/home-assistant-wakewords-collection) - Community Collection of Wake-Words for Home Assistant
 - [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Sabnzbd, Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr
 - [keatontaylor/home-assistant-config](https://github.com/keatontaylor/home-assistant-config) - Home Assistant config for my apartment
@@ -4326,7 +4325,7 @@
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Open Source Education Platform
-- [dannysteenman/aws-cdk-examples](https://github.com/dannysteenman/aws-cdk-examples) - A repository that contains AWS CDK code examples from my blog
+- [dannysteenman/aws-cdk-examples](https://github.com/dannysteenman/aws-cdk-examples) - A repository that contains AWS CDK code examples
 - [fogfish/aws-cdk-pure](https://github.com/fogfish/aws-cdk-pure) - Purely Functional and high-order cloud components with AWS CDK
 - [sam-goodwin/punchcard](https://github.com/sam-goodwin/punchcard) - Type-safe AWS infrastructure.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
