@@ -1194,13 +1194,13 @@
 - [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [joaomdmoura/crewAI-examples](https://github.com/joaomdmoura/crewAI-examples) - 
 - [pfsensible/core](https://github.com/pfsensible/core) - Core modules for managing pfSense firewalls with ansible
-- [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.
+- [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 - [slackr31337/PorcupinePipeline](https://github.com/slackr31337/PorcupinePipeline) - Use Porcupine wake word to trigger a voice assistant pipeline in Home-Assistant
 - [rpenziol/proxmox-kubernetes-bootstrap](https://github.com/rpenziol/proxmox-kubernetes-bootstrap) - This is a collection of resources to get a Kubernetes cluster up and running in a Proxmox Virtual Environment. These tools and commands assume the user is executing in a Linux or Linux-like environmen
 - [drndos/hass-openai-custom-conversation](https://github.com/drndos/hass-openai-custom-conversation) - Conversation support for home assistant using vicuna local llm
 - [GhostManager/Ghostwriter](https://github.com/GhostManager/Ghostwriter) - The SpecterOps project management and reporting engine
 - [cliffe/SecGen](https://github.com/cliffe/SecGen) - Create randomly insecure VMs
-- [Ostorlab/ostorlab](https://github.com/Ostorlab/ostorlab) - Ostorlab is a security scanning orchestrator for the modern age.
+- [Ostorlab/oxo](https://github.com/Ostorlab/oxo) - OXO is a security scanning orchestrator for the modern age.
 - [carlospolop/hacktricks](https://github.com/carlospolop/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 - [bbhunter/h1domains](https://github.com/bbhunter/h1domains) - HackerOne "in scope" domains for all your fuzzing needs
 - [rhasspy/wyoming-satellite](https://github.com/rhasspy/wyoming-satellite) - Remote voice satellite using Wyoming protocol
@@ -1238,7 +1238,7 @@
 - [cgarwood/homeassistant-config](https://github.com/cgarwood/homeassistant-config) - Home Assistant Configuration
 - [hishizuka/pizero_bikecomputer](https://github.com/hishizuka/pizero_bikecomputer) - An open source bike computer based on  Raspberry Pi Zero (W, WH, 2W) with GPS and ANT+. Including offline map and navigation.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to search and chat (using RAG) with your knowledge base (pdf, markdown, org). Use powerful, online (e.g gpt4) or private, offline (e.g mistral) LLMs. Self-host locally 
-- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸 Web apps in pure Python 🐍
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - Web apps in pure Python. 🐍
 - [hass-emulated-hue/core](https://github.com/hass-emulated-hue/core) - Hue Emulation for Home Assistant
 - [namacha/python-magichue](https://github.com/namacha/python-magichue) - Control Magic Hue(Magichome) in Python.
 - [BabsB/TicketBot](https://github.com/BabsB/TicketBot) - Simple script that adds reserves tickets on ticketswap
