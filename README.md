@@ -133,6 +133,7 @@
 - [ChrTopf/wled-audioreact](https://github.com/ChrTopf/wled-audioreact) - This application generates cool light effects for your WLED driven strips based on the music currently playing on your computer.
 - [papan01/LiveStreamer](https://github.com/papan01/LiveStreamer) - Android Screen Streaming - Live555 + MediaProject
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
+- [jlpouffier/home-assistant-config](https://github.com/jlpouffier/home-assistant-config) - Open source configuration of my connected apartment
 - [NSPManager/NSPanelManager](https://github.com/NSPManager/NSPanelManager) - Sonoff NSPanel custom firmware for responsive and intuitive use
 - [sairon/esphome-nspanel-lovelace-ui](https://github.com/sairon/esphome-nspanel-lovelace-ui) - ESPHome component for NSPanel Lovelace UI
 - [diyhue/ReadTheDocs](https://github.com/diyhue/ReadTheDocs) - Documentation for diyHue
@@ -711,6 +712,7 @@
 - [atomic7777/atomic_calendar](https://github.com/atomic7777/atomic_calendar) - Custom calendar card for Home Assistant with Lovelace
 - [daspn/private-actions-checkout](https://github.com/daspn/private-actions-checkout) - GitHub Action to make custom private actions easily available to any workflow
 - [jayz28/Slashbot](https://github.com/jayz28/Slashbot) - The game bot.
+- [dwainscheeren/dwains-lovelace-dashboard](https://github.com/dwainscheeren/dwains-lovelace-dashboard) - An fully auto generating Home Assistant UI dashboard for desktop, tablet and mobile by Dwains for desktop, tablet, mobile
 - [iann0036/former2](https://github.com/iann0036/former2) - Generate CloudFormation / Terraform / Troposphere templates from your existing AWS resources.
 - [28mm/blast-radius](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs using d3.js
 - [supermamon/scriptable-scripts](https://github.com/supermamon/scriptable-scripts) - My scripts for the Scriptable app. https://scriptable.app/
@@ -883,7 +885,6 @@
 - [keatontaylor/home-assistant-config](https://github.com/keatontaylor/home-assistant-config) - Home Assistant config for my apartment
 - [hslatman/awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) - A curated list of Awesome Threat Intelligence resources
 - [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) - 🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻
-- [jlpouffier/home-assistant-config](https://github.com/jlpouffier/home-assistant-config) - Open source configuration of my connected apartment
 - [caiosweet/Package-Notification-HUB-AppDaemon](https://github.com/caiosweet/Package-Notification-HUB-AppDaemon) - Package Appdaemon Notifier for Home Assistant
 - [nu11pointer/fuzzlists](https://github.com/nu11pointer/fuzzlists) - A collection of useful lists for Penetration Testing & Bug Bounty - Content Discovery, Payloads, Variables, Sandbox Escaping, etc
 - [0xPugazh/One-Liners](https://github.com/0xPugazh/One-Liners) - A collection of awesome one-liners for bug bounty hunting.
@@ -1529,7 +1530,6 @@
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [custom-components/remote_homeassistant](https://github.com/custom-components/remote_homeassistant) - Links multiple home-assistant instances together
 - [GrandMoff100/HomeAssistantAPI](https://github.com/GrandMoff100/HomeAssistantAPI) - Python Wrapper for Homeassistant's REST API
-- [dwainscheeren/dwains-lovelace-dashboard](https://github.com/dwainscheeren/dwains-lovelace-dashboard) - An fully auto generating Home Assistant UI dashboard for desktop, tablet and mobile by Dwains for desktop, tablet, mobile
 - [ysde/grafana-backup-tool](https://github.com/ysde/grafana-backup-tool) - A Python-based application to backup Grafana settings by using the Grafana API
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
