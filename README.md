@@ -1251,7 +1251,7 @@
 - [AppDaemon/appdaemon](https://github.com/AppDaemon/appdaemon) - :page_facing_up: Python Apps for Home Automation
 - [NabuCasa/hass-nabucasa](https://github.com/NabuCasa/hass-nabucasa) - Issues related to the cloud integration in Nabu Casa
 - [dannytsang/homeassistant-config](https://github.com/dannytsang/homeassistant-config) - 🏡 My Home Assistant Configs.
-- [F33RNI/GPT-Telegramus](https://github.com/F33RNI/GPT-Telegramus) - The best free Telegram bot for ChatGPT, Microsoft Copilot (aka Bing AI, aka Sidney, aka EdgeGPT), Microsoft Copilot Designer (aka BingImageCreator) and Gemini with stream writing, requests with images
+- [F33RNI/GPT-Telegramus](https://github.com/F33RNI/GPT-Telegramus) - The best free Telegram bot for ChatGPT, Microsoft Copilot (aka Bing AI, aka Sidney, aka EdgeGPT), Copilot Designer (aka BingImageCreator) and Gemini with stream writing, requests with images, suggesti
 - [ciuzaak/Claude-Telegram-Bot](https://github.com/ciuzaak/Claude-Telegram-Bot) - Anthropic Claude & Google Bard Bot for Telegram.
 - [kharvd/gpt-cli](https://github.com/kharvd/gpt-cli) - Command-line interface for ChatGPT, Claude and Bard
 - [RanzQ/hyperion-audio-effects](https://github.com/RanzQ/hyperion-audio-effects) - Hyperion audio effects dev kit using Gstreamer
@@ -1295,7 +1295,7 @@
 - [legovaer/ad-automoli](https://github.com/legovaer/ad-automoli) - 💡 Fully automatic light management based on conditions like motion, illuminance, humidity, and other clever features
 - [xaviml/controllerx](https://github.com/xaviml/controllerx) - Create controller-based automations with ease to control your home devices and scenes.
 - [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) - Let ChatGPT teach your own chatbot in hours with a single GPU!
-- [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
+- [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 Build, run, and manage data pipelines for integrating and transforming data.
 - [sanderdw/hassio-addons](https://github.com/sanderdw/hassio-addons) - DSMR Reader Datalogger and Metabase Home Assistant Add-ons
 - [loganmarchione/homelab-svg-assets](https://github.com/loganmarchione/homelab-svg-assets) - Full-color SVG icons of homelab-related software, products, and brands
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
