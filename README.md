@@ -798,7 +798,7 @@
 ## Kotlin 
 
 - [vhqtvn/VHEditor-Android](https://github.com/vhqtvn/VHEditor-Android) - Run Code-server on Android
-- [dessalines/jerboa](https://github.com/dessalines/jerboa) - A native android app for Lemmy
+- [LemmyNet/jerboa](https://github.com/LemmyNet/jerboa) - A native android app for Lemmy
 - [CypherpunkArmory/UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) - Main UserLAnd Repository
 - [blurayne/TaskerWgTunner](https://github.com/blurayne/TaskerWgTunner) - WireGuard Automation for Tasker
 - [skydoves/chatgpt-android](https://github.com/skydoves/chatgpt-android) - 📲 ChatGPT Android demonstrates a Chatbot application using OpenAI's chat API on Android with Stream Chat SDK for Compose.
@@ -1204,7 +1204,7 @@
 - [GhostManager/Ghostwriter](https://github.com/GhostManager/Ghostwriter) - The SpecterOps project management and reporting engine
 - [cliffe/SecGen](https://github.com/cliffe/SecGen) - Create randomly insecure VMs
 - [Ostorlab/oxo](https://github.com/Ostorlab/oxo) - OXO is a security scanning orchestrator for the modern age.
-- [carlospolop/hacktricks](https://github.com/carlospolop/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
+- [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 - [bbhunter/h1domains](https://github.com/bbhunter/h1domains) - HackerOne "in scope" domains for all your fuzzing needs
 - [rhasspy/wyoming-satellite](https://github.com/rhasspy/wyoming-satellite) - Remote voice satellite using Wyoming protocol
 - [home-assistant/hassil](https://github.com/home-assistant/hassil) - Intent parsing for Home Assistant
