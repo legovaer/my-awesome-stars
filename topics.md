@@ -278,7 +278,7 @@
 - [Th30neAnd0nly/Ohm](https://github.com/Th30neAnd0nly/Ohm) - Android RAT with web panel and undetectable App
 - [swagkarna/Rafel-Rat](https://github.com/swagkarna/Rafel-Rat) - -------&gt; RAFEL&lt;------  Android Rat  Written in Java With WebPanel For Controlling Victims...Hack Android Devices
 - [mowispace/react-native-logs](https://github.com/mowispace/react-native-logs) - Performance-aware simple logger for React-Native and Expo with namespaces, custom levels and custom transports (colored console, file writing, etc.)
-- [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
+- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [LemmyNet/jerboa](https://github.com/LemmyNet/jerboa) - A native android app for Lemmy
 - [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight virtual keyboard for developers.
 - [bauerj/paperless_app](https://github.com/bauerj/paperless_app) - An Android/iOS app for Paperless
@@ -1436,7 +1436,7 @@
 
 ## framework 
 
-- [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
+- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 - [gluon-framework/gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS
@@ -1446,7 +1446,7 @@
 
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant
 - [Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card) - Bubble Card is a minimalist card collection for Home Assistant with a nice pop-up touch.
-- [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
+- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
 - [Clooos/Home-Assistant-Mobile-First](https://github.com/Clooos/Home-Assistant-Mobile-First) - A minimalist and user-friendly design, combined with an mobile first approach for the Home Assistant dashboard.
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
@@ -1528,7 +1528,7 @@
 
 ## go 
 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
 - [fishy/url2epub](https://github.com/fishy/url2epub) - Create ePub files from URLs
 - [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, epub, etc) using a simple React frontend.
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
@@ -1576,7 +1576,7 @@
 
 ## golang 
 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [xm1k3/cent](https://github.com/xm1k3/cent) - Community edition nuclei templates, a simple tool that allows you to organize all the Nuclei templates offered by the community in one place
@@ -2073,7 +2073,7 @@
 ## ios 
 
 - [mowispace/react-native-logs](https://github.com/mowispace/react-native-logs) - Performance-aware simple logger for React-Native and Expo with namespaces, custom levels and custom transports (colored console, file writing, etc.)
-- [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
+- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [bauerj/paperless_app](https://github.com/bauerj/paperless_app) - An Android/iOS app for Paperless
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
@@ -2147,7 +2147,7 @@
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [swagkarna/Nivistealer](https://github.com/swagkarna/Nivistealer) - steal victim images  exact location device info and much more
 - [mowispace/react-native-logs](https://github.com/mowispace/react-native-logs) - Performance-aware simple logger for React-Native and Expo with namespaces, custom levels and custom transports (colored console, file writing, etc.)
-- [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
+- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Open Source Education Platform
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible
 - [sam-goodwin/punchcard](https://github.com/sam-goodwin/punchcard) - Type-safe AWS infrastructure.
@@ -2515,7 +2515,7 @@
 ## mobile 
 
 - [alexal1/Insomniac](https://github.com/alexal1/Insomniac) - Instagram bot for automated Instagram interaction using Android device via ADB
-- [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
+- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -3870,7 +3870,7 @@
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [shannonhochkins/ha-component-kit](https://github.com/shannonhochkins/ha-component-kit) - A Home Assistant React component library to generate dashboards with ease, This utilizises a massive list of Components / cards to use out of the box, a large range of hooks to build your own custom f
-- [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
+- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Open Source Education Platform
 - [deiucanta/chatpad](https://github.com/deiucanta/chatpad) - Not just another ChatGPT user-interface!
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
@@ -3899,7 +3899,7 @@
 ## react-native 
 
 - [mowispace/react-native-logs](https://github.com/mowispace/react-native-logs) - Performance-aware simple logger for React-Native and Expo with namespaces, custom levels and custom transports (colored console, file writing, etc.)
-- [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
+- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 
 ## reactjs 
 
@@ -4344,7 +4344,7 @@
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
 - [shannonhochkins/ha-component-kit](https://github.com/shannonhochkins/ha-component-kit) - A Home Assistant React component library to generate dashboards with ease, This utilizises a massive list of Components / cards to use out of the box, a large range of hooks to build your own custom f
 - [seekr-osint/seekr](https://github.com/seekr-osint/seekr) - A multi-purpose OSINT toolkit with a neat web-interface.
-- [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
+- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Open Source Education Platform
 - [dannysteenman/aws-cdk-examples](https://github.com/dannysteenman/aws-cdk-examples) - A repository that contains AWS CDK code examples
@@ -4428,7 +4428,7 @@
 
 ## web 
 
-- [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
+- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 - [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity, support for English,中文,Español,العربية. 让生产力加倍的AI快捷指令。更有效地定制、保存和分享自己的提示词。在提示词分享社区中，轻松找到适用于不同场景的指令。
