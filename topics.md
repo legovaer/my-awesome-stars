@@ -227,7 +227,6 @@
 - [F33RNI/GPT-Telegramus](https://github.com/F33RNI/GPT-Telegramus) - 💜 The best free Telegram bot for ChatGPT, Microsoft Copilot (aka Bing AI / Sidney / EdgeGPT), Microsoft Copilot Designer (aka BingImageCreator), Gemini and Groq with stream writing, requests with imag
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
 - [fiatrete/OpenDAN-Personal-AI-OS](https://github.com/fiatrete/OpenDAN-Personal-AI-OS) - OpenDAN is an open source Personal AI OS , which consolidates various AI modules in one place for your personal use.
-- [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Fractal Graph Desktop for Ai-Agents, Web-Browsing, Note-Taking, and Code.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
 - [Josh-XT/AGiXT](https://github.com/Josh-XT/AGiXT) - AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, a
 - [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, epub, etc) using a simple React frontend.
@@ -347,7 +346,6 @@
 - [geerlingguy/ansible-role-php](https://github.com/geerlingguy/ansible-role-php) - Ansible Role - PHP
 - [geerlingguy/ansible-role-apache-php-fpm](https://github.com/geerlingguy/ansible-role-apache-php-fpm) - Apache FastCGI support for PHP-FPM
 - [jr0dd/home-ops](https://github.com/jr0dd/home-ops) - One repo to rule them all. This mono repo serves my home infrastructure and Kubernetes cluster which utilizes Infrastructure as Code (IaC)
-- [onedr0p/cluster-template](https://github.com/onedr0p/cluster-template) - A template for deploying a Kubernetes cluster with k3s or Talos
 - [cogini/multi-env-deploy](https://github.com/cogini/multi-env-deploy) - Complete example of deploying complex web apps to AWS using Terraform, Ansible, and Packer
 - [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
@@ -1108,7 +1106,7 @@
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(c
 - [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2022
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
-- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
+- [Transpile-AI/ivy](https://github.com/Transpile-AI/ivy) - The Unified AI Framework
 - [ml-tooling/best-of-jupyter](https://github.com/ml-tooling/best-of-jupyter) - 🏆 A ranked list of awesome Jupyter Notebook, Hub and Lab projects (extensions, kernels, tools). Updated weekly.
 - [chaos-genius/chaos_genius](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier detection and root cause analysis.
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
@@ -2337,7 +2335,7 @@
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [jr0dd/home-ops](https://github.com/jr0dd/home-ops) - One repo to rule them all. This mono repo serves my home infrastructure and Kubernetes cluster which utilizes Infrastructure as Code (IaC)
-- [onedr0p/cluster-template](https://github.com/onedr0p/cluster-template) - A template for deploying a Kubernetes cluster with k3s or Talos
+- [onedr0p/cluster-template](https://github.com/onedr0p/cluster-template) - A template for deploying a Talos Kubernetes cluster with Flux
 - [aws-ia/terraform-aws-eks-blueprints](https://github.com/aws-ia/terraform-aws-eks-blueprints) - Configure and deploy complete EKS clusters.
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
@@ -2503,7 +2501,7 @@
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [ThoughtfulDev/EagleEye](https://github.com/ThoughtfulDev/EagleEye) - Stalk your Friends. Find their Instagram, FB and Twitter Profiles using Image Recognition and Reverse Image Search.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
-- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
+- [Transpile-AI/ivy](https://github.com/Transpile-AI/ivy) - The Unified AI Framework
 - [ml-tooling/best-of-jupyter](https://github.com/ml-tooling/best-of-jupyter) - 🏆 A ranked list of awesome Jupyter Notebook, Hub and Lab projects (extensions, kernels, tools). Updated weekly.
 - [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
 - [chaos-genius/chaos_genius](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier detection and root cause analysis.
@@ -2659,7 +2657,7 @@
 
 - [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2022
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
-- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
+- [Transpile-AI/ivy](https://github.com/Transpile-AI/ivy) - The Unified AI Framework
 - [ml5js/ml5-library](https://github.com/ml5js/ml5-library) - Friendly machine learning for the web! 🤖
 
 ## nextjs 
@@ -2759,7 +2757,7 @@
 
 ## numpy 
 
-- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
+- [Transpile-AI/ivy](https://github.com/Transpile-AI/ivy) - The Unified AI Framework
 
 ## objective-c 
 
@@ -3000,6 +2998,7 @@
 - [jonasschmedtmann/ultimate-react-course](https://github.com/jonasschmedtmann/ultimate-react-course) - Starter files, final projects, and FAQ for my Ultimate React course
 - [kevinslin/open-cdk](https://github.com/kevinslin/open-cdk) - This guide is an opinionated set of tips and best practices for working with the AWS Cloud Development Kit
 - [pistazie/cdk-dia](https://github.com/pistazie/cdk-dia) - Automated diagrams of CDK provisioned infrastructure
+- [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Fractal Graph Desktop for Ai-Agents, Web-Browsing, Note-Taking, and Code.
 - [TechSquidTV/UltimateHomeServer](https://github.com/TechSquidTV/UltimateHomeServer) - Configure the ultimate home server with k3s and helm
 - [lesleyxyz/node-tile](https://github.com/lesleyxyz/node-tile) - Package to talk & ring to your Tile device
 - [philippe44/AirConnect](https://github.com/philippe44/AirConnect) - Use AirPlay to stream to UPnP/Sonos & Chromecast devices
@@ -3560,6 +3559,7 @@
 ## p2p 
 
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [husarnet/husarnet](https://github.com/husarnet/husarnet) - Husarnet is a Peer-to-Peer VPN to connect your laptops, servers and microcontrollers over the Internet with zero configuration.
 
@@ -3804,7 +3804,7 @@
 - [utkusen/leviathan](https://github.com/utkusen/leviathan) - wide range mass audit toolkit
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
-- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
+- [Transpile-AI/ivy](https://github.com/Transpile-AI/ivy) - The Unified AI Framework
 - [ml-tooling/best-of-jupyter](https://github.com/ml-tooling/best-of-jupyter) - 🏆 A ranked list of awesome Jupyter Notebook, Hub and Lab projects (extensions, kernels, tools). Updated weekly.
 - [markusschanta/awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) - A curated list of awesome Jupyter projects, libraries and resources
 - [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
@@ -3864,7 +3864,7 @@
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(c
-- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
+- [Transpile-AI/ivy](https://github.com/Transpile-AI/ivy) - The Unified AI Framework
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science.
 
@@ -4272,7 +4272,7 @@
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [roflcoopter/viseron](https://github.com/roflcoopter/viseron) - Self-hosted, local only NVR and AI Computer Vision software.  With features such as object detection, motion detection, face recognition and more, it gives you the power to keep an eye on your home, o
-- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
+- [Transpile-AI/ivy](https://github.com/Transpile-AI/ivy) - The Unified AI Framework
 - [skalavala/mysmarthome](https://github.com/skalavala/mysmarthome) - :star: ALIVE Again! :star: SmartHome - Nothing but smarthome stuff here! Have fun browsing through my home automation setup... ping me on Discord with any questions! :thumbsup:
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science.
