@@ -1466,7 +1466,7 @@
 - [stamparm/DSSS](https://github.com/stamparm/DSSS) - Damn Small SQLi Scanner
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
-- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
+- [Transpile-AI/ivy](https://github.com/Transpile-AI/ivy) - The Unified AI Framework
 - [bacco007/HomeAssistantConfig](https://github.com/bacco007/HomeAssistantConfig) - My Home Assistant Configuration
 - [izebit/slack-notify-app-daemon](https://github.com/izebit/slack-notify-app-daemon) - daemon for notify slack application
 - [bieniu/home-assistant-config](https://github.com/bieniu/home-assistant-config) - Home Assistant Config
@@ -1485,7 +1485,7 @@
 - [chaos-genius/chaos_genius](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier detection and root cause analysis.
 - [skalavala/mysmarthome](https://github.com/skalavala/mysmarthome) - :star: ALIVE Again! :star: SmartHome - Nothing but smarthome stuff here! Have fun browsing through my home automation setup... ping me on Discord with any questions! :thumbsup:
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
-- [onedr0p/cluster-template](https://github.com/onedr0p/cluster-template) - A template for deploying a Kubernetes cluster with k3s or Talos
+- [onedr0p/cluster-template](https://github.com/onedr0p/cluster-template) - A template for deploying a Talos Kubernetes cluster with Flux
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source Security tool for AWS, Azure, GCP and Kubernetes to do security assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. 
 - [finity69x2/nws_alerts](https://github.com/finity69x2/nws_alerts) - An updated version of the nws_alerts custom integration for Home Assistant
 - [octodns/octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
