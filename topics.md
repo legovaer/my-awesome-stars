@@ -687,7 +687,7 @@
 - [kubernetes-sigs/aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller) - A Kubernetes controller for Elastic Load Balancers
 - [run-x/opta](https://github.com/run-x/opta) - The next generation of Infrastructure-as-Code. Work with high-level constructs instead of getting lost in low-level cloud configuration.
 - [Sceptre/sceptre](https://github.com/Sceptre/sceptre) - Build better AWS infrastructure
-- [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud.
+- [porter-dev/porter-archive](https://github.com/porter-dev/porter-archive) - Kubernetes powered PaaS that runs in your own cloud.
 - [aws/eks-anywhere](https://github.com/aws/eks-anywhere) - Run Amazon EKS on your own infrastructure 🚀
 - [TylerBrock/saw](https://github.com/TylerBrock/saw) - Fast, multi-purpose tool for AWS CloudWatch Logs
 - [cloudkj/scar](https://github.com/cloudkj/scar) - Deploy static websites in seconds - with HTTPS, a global CDN, and custom domains.
@@ -912,7 +912,7 @@
 - [Pluralith/pluralith-cli](https://github.com/Pluralith/pluralith-cli) - A tool for Terraform state visualisation and automated generation of infrastructure documentation
 - [ahoy-cli/ahoy](https://github.com/ahoy-cli/ahoy) - Create self-documenting cli programs from YAML files. Easily wrap bash, grunt, npm, docker, (anything) to standardize your processes and make the lives of the people working on your project better.
 - [TylerBrock/saw](https://github.com/TylerBrock/saw) - Fast, multi-purpose tool for AWS CloudWatch Logs
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
@@ -1183,7 +1183,7 @@
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
 - [run-x/opta](https://github.com/run-x/opta) - The next generation of Infrastructure-as-Code. Work with high-level constructs instead of getting lost in low-level cloud configuration.
 - [Sceptre/sceptre](https://github.com/Sceptre/sceptre) - Build better AWS infrastructure
-- [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud.
+- [porter-dev/porter-archive](https://github.com/porter-dev/porter-archive) - Kubernetes powered PaaS that runs in your own cloud.
 - [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps) - Ultimate DevSecOps library
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [slanatech/swagger-stats](https://github.com/slanatech/swagger-stats) - API Observability. Trace API calls and Monitor API performance, health and usage statistics in Node.js Microservices.
@@ -1294,7 +1294,7 @@
 - [bitnami/containers](https://github.com/bitnami/containers) - Bitnami container images
 - [flannel-io/flannel](https://github.com/flannel-io/flannel) - flannel is a network fabric for containers, designed for Kubernetes
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
-- [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud.
+- [porter-dev/porter-archive](https://github.com/porter-dev/porter-archive) - Kubernetes powered PaaS that runs in your own cloud.
 - [aws/eks-anywhere](https://github.com/aws/eks-anywhere) - Run Amazon EKS on your own infrastructure 🚀
 - [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps) - Ultimate DevSecOps library
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
@@ -1635,7 +1635,7 @@
 - [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [GhostTroops/scan4all](https://github.com/GhostTroops/scan4all) - Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
-- [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud.
+- [porter-dev/porter-archive](https://github.com/porter-dev/porter-archive) - Kubernetes powered PaaS that runs in your own cloud.
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [sumup-oss/terraform-provider-vaulted](https://github.com/sumup-oss/terraform-provider-vaulted) - Encrypted HashiCorp Vault secrets via Terraform that can be stored in SCM such as Git
@@ -1828,7 +1828,7 @@
 - [HariSekhon/GitHub-Actions](https://github.com/HariSekhon/GitHub-Actions) - GitHub Actions master template and GitHub Actions Reusable Workflows
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [kalkih/mini-graph-card](https://github.com/kalkih/mini-graph-card) - Minimalistic graph card for Home Assistant Lovelace UI
 - [Smashing/smashing](https://github.com/Smashing/smashing) - The exceptionally handsome dashboard framework in Ruby and Coffeescript.
 - [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
@@ -2322,7 +2322,7 @@
 - [bambash/helm-cronjobs](https://github.com/bambash/helm-cronjobs) - a helm chart for cronjobs in kubernetes
 - [kubernetes-sigs/aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller) - A Kubernetes controller for Elastic Load Balancers
 - [run-x/opta](https://github.com/run-x/opta) - The next generation of Infrastructure-as-Code. Work with high-level constructs instead of getting lost in low-level cloud configuration.
-- [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud.
+- [porter-dev/porter-archive](https://github.com/porter-dev/porter-archive) - Kubernetes powered PaaS that runs in your own cloud.
 - [aws/eks-anywhere](https://github.com/aws/eks-anywhere) - Run Amazon EKS on your own infrastructure 🚀
 - [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps) - Ultimate DevSecOps library
 - [aws/containers-roadmap](https://github.com/aws/containers-roadmap) - This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).
@@ -2423,7 +2423,7 @@
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [draios/sysdig-inspect](https://github.com/draios/sysdig-inspect) - Sysdig Inspect - A powerful opensource interface for container troubleshooting and security investigation
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
@@ -2530,7 +2530,7 @@
 - [AeX03/eLys](https://github.com/AeX03/eLys) - 👾- An open-source post-exploitation framework, researchers and developers.
 - [LucasLarson/dotfiles](https://github.com/LucasLarson/dotfiles) - This is where the ♥️ is                                   at.
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
@@ -2805,7 +2805,7 @@
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - A recursive internet scanner for hackers.
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) - Open Cyber Threat Intelligence Platform
 - [curated-intel/Ukraine-Cyber-Operations](https://github.com/curated-intel/Ukraine-Cyber-Operations) - Curated Intelligence is working with analysts from around the world to provide useful information to organisations in Ukraine looking for additional free threat intelligence. Slava Ukraini. Glory to U
 
@@ -3800,7 +3800,7 @@
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [alexmercerind/youtube-search-python](https://github.com/alexmercerind/youtube-search-python) - 🔎 Search for YouTube videos, channels & playlists. Get 🎞 video &  📑 playlist info using link. Get search suggestions. WITHOUT YouTube Data API v3.
 - [GamehunterKaan/AutoPWN-Suite](https://github.com/GamehunterKaan/AutoPWN-Suite) - AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically.
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [utkusen/leviathan](https://github.com/utkusen/leviathan) - wide range mass audit toolkit
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
@@ -3852,7 +3852,7 @@
 - [mikeroyal/Jupyter-Guide](https://github.com/mikeroyal/Jupyter-Guide) - Jupyter Guide
 - [ThoughtfulDev/EagleEye](https://github.com/ThoughtfulDev/EagleEye) - Stalk your Friends. Find their Instagram, FB and Twitter Profiles using Image Recognition and Reverse Image Search.
 - [GamehunterKaan/AutoPWN-Suite](https://github.com/GamehunterKaan/AutoPWN-Suite) - AutoPWN Suite is a project for scanning vulnerabilities and exploiting systems automatically.
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [izebit/slack-notify-app-daemon](https://github.com/izebit/slack-notify-app-daemon) - daemon for notify slack application
 - [P0cL4bs/wifipumpkin3](https://github.com/P0cL4bs/wifipumpkin3) - Powerful framework for rogue access point attack.
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
@@ -3943,7 +3943,7 @@
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
-- [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud.
+- [porter-dev/porter-archive](https://github.com/porter-dev/porter-archive) - Kubernetes powered PaaS that runs in your own cloud.
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
@@ -4534,7 +4534,7 @@
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [AeX03/eLys](https://github.com/AeX03/eLys) - 👾- An open-source post-exploitation framework, researchers and developers.
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
