@@ -1947,7 +1947,7 @@
 - [to4ko/myconfig](https://github.com/to4ko/myconfig) - My Home Assistant config
 - [dala318/python_poollab](https://github.com/dala318/python_poollab) - Python API for Pool Lab 1.0
 - [GeorgeSG/lovelace-time-picker-card](https://github.com/GeorgeSG/lovelace-time-picker-card) - 🕰️ Time Picker Card for Home Assistant's Lovelace UI
-- [hankanman/Home-Assistant](https://github.com/hankanman/Home-Assistant) - 
+- [Hankanman/Home-Assistant](https://github.com/Hankanman/Home-Assistant) - 
 - [cgarwood/homeassistant-fullykiosk](https://github.com/cgarwood/homeassistant-fullykiosk) - Fully Kiosk Browser integration for Home Assistant
 - [SirGoodenough/HA_Blueprints](https://github.com/SirGoodenough/HA_Blueprints) - 🧯 My Collection of Automation and Script Blueprints for Home Assistant 🧯
 - [jazzyisj/home-assistant-config](https://github.com/jazzyisj/home-assistant-config) - My Home Assistant configuration.
