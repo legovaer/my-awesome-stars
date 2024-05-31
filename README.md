@@ -153,7 +153,7 @@
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [to4ko/myconfig](https://github.com/to4ko/myconfig) - My Home Assistant config
 - [rpatel3001/BleDistance](https://github.com/rpatel3001/BleDistance) - Distance tracking for BLE iBeacons in esphome
-- [hankanman/Home-Assistant](https://github.com/hankanman/Home-Assistant) - 
+- [Hankanman/Home-Assistant](https://github.com/Hankanman/Home-Assistant) - 
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [socnetv/app](https://github.com/socnetv/app) - Social Network Analysis and Visualization software application.
 - [rosmo/m5paper-homeassistant](https://github.com/rosmo/m5paper-homeassistant) - Home Assistant functionality with M5Paper
