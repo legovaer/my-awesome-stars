@@ -329,7 +329,7 @@
 - [mr-karan/homelab](https://github.com/mr-karan/homelab) - Infra-as-code for my personal home server setup
 - [rishavnandi/ansible_homelab](https://github.com/rishavnandi/ansible_homelab) - Ansible playbooks to quickly setup a homelab.  The playbook will update the system, install Docker, and then deploy the Docker containers.
 - [Cloudbox/Cloudbox](https://github.com/Cloudbox/Cloudbox) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi
 - [dy2k/proxmox-kubernetes](https://github.com/dy2k/proxmox-kubernetes) - Deploy Kubernetes on Proxmox Ubuntu LXCs and VMs
 - [nickjj/ansigenome](https://github.com/nickjj/ansigenome) - A tool to help you gather information and manage your Ansible roles.
 - [robertdebock/ansible-role-maintenance](https://github.com/robertdebock/ansible-role-maintenance) - Maintain your system by cleaning up.
@@ -1150,7 +1150,7 @@
 - [opsdroid/opsdroid](https://github.com/opsdroid/opsdroid) - 🤖 An open source chat-ops bot framework
 - [lento234/homelab](https://github.com/lento234/homelab) - Personal homelab setup
 - [mr-karan/homelab](https://github.com/mr-karan/homelab) - Infra-as-code for my personal home server setup
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [AcalephStorage/awesome-devops](https://github.com/AcalephStorage/awesome-devops) - A curated list of resources for Devops
 - [mikeroyal/Grafana-Guide](https://github.com/mikeroyal/Grafana-Guide) - Grafana Guide
@@ -1611,7 +1611,7 @@
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.io
 - [seekr-osint/seekr](https://github.com/seekr-osint/seekr) - A multi-purpose OSINT toolkit with a neat web-interface.
 - [fishy/url2epub](https://github.com/fishy/url2epub) - Create ePub files from URLs
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi
 - [marcus-crane/october](https://github.com/marcus-crane/october) - A simple GUI for retrieving Kobo highlights and syncing them with Readwise
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, epub, etc) using a simple React frontend.
@@ -2078,7 +2078,7 @@
 ## html 
 
 - [johnggli/linktree](https://github.com/johnggli/linktree) - Simple site to group all my profiles on social networks in one place. A free Linktree alternative.
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
@@ -2184,7 +2184,7 @@
 - [mowispace/react-native-logs](https://github.com/mowispace/react-native-logs) - Performance-aware simple logger for React-Native and Expo with namespaces, custom levels and custom transports (colored console, file writing, etc.)
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi
 - [sam-goodwin/punchcard](https://github.com/sam-goodwin/punchcard) - Type-safe AWS infrastructure.
 - [deiucanta/chatpad](https://github.com/deiucanta/chatpad) - Not just another ChatGPT user-interface!
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
