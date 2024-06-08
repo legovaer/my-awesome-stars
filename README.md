@@ -561,7 +561,7 @@
 - [jonasschmedtmann/ultimate-react-course](https://github.com/jonasschmedtmann/ultimate-react-course) - Starter files, final projects, and FAQ for my Ultimate React course
 - [pistazie/cdk-dia](https://github.com/pistazie/cdk-dia) - Automated diagrams of CDK provisioned infrastructure
 - [p6m7g8/awesome-projen](https://github.com/p6m7g8/awesome-projen) - P6M7G8's Awesome Projen
-- [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Fractal Graph Desktop for Ai-Agents, Web-Browsing, Note-Taking, and Code.
+- [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Fractal Graph-of-Thought. Experimental Mind-Map for Ai-Agents, Web-Links, Notes, and Code.
 - [rogerquake/home_automation](https://github.com/rogerquake/home_automation) - 
 - [DJWoodZ/Satisfactory-Discord-Bot](https://github.com/DJWoodZ/Satisfactory-Discord-Bot) - A Discord bot that posts Satisfactory Dedicated Server status information such as online players.
 - [AmoebeLabs/swiss-army-knife-card](https://github.com/AmoebeLabs/swiss-army-knife-card) - The versatile custom Swiss Army Knife card for Home Assistant allows you to create your unique visualization using several graphical tools, styling options and animations.
