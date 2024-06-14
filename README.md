@@ -1646,8 +1646,8 @@
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts
 - [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) - Here you will find Guides mainly for the Starr Apps (Sonarr/Radarr) and everything related to it.
 - [hassio-addons/addon-example](https://github.com/hassio-addons/addon-example) - Example - Home Assistant Community Add-ons
-- [htpcBeginner/auto-traefik](https://github.com/htpcBeginner/auto-traefik) - Support files to automatically setup Socket Proxy, Traefik, and fetch LE SSL certificates.
-- [htpcBeginner/docker-traefik](https://github.com/htpcBeginner/docker-traefik) - Docker media and home server stack with Docker Compose, Traefik, Swarm Mode, Google OAuth2/Authelia, and LetsEncrypt
+- [anandslab/auto-traefik](https://github.com/anandslab/auto-traefik) - Support files to automatically setup Socket Proxy, Traefik, and fetch LE SSL certificates.
+- [anandslab/docker-traefik](https://github.com/anandslab/docker-traefik) - Docker media and home server stack with Docker Compose, Traefik, Swarm Mode, Google OAuth2/Authelia, and LetsEncrypt
 - [jnider/hp-scan-monitor](https://github.com/jnider/hp-scan-monitor) - Listens for scan requests from the console of an HP scanner. Meant to run on a headless NAS server (or similar) to save incoming scanned files in a shared directory on the network.
 - [acouvreur/docker-swarm-pi-powered](https://github.com/acouvreur/docker-swarm-pi-powered) - Traefik, Radarr, Sonarr, Transmission, TIG on a Raspberry Pi Cluster under Docker Swarm
 - [veerendra2/raspberrypi-homeserver](https://github.com/veerendra2/raspberrypi-homeserver) - A collection of applications and tools to make awesome Raspberry Pi homerserver
