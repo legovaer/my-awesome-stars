@@ -330,7 +330,7 @@
 - [mr-karan/homelab](https://github.com/mr-karan/homelab) - Infra-as-code for my personal home server setup
 - [rishavnandi/ansible_homelab](https://github.com/rishavnandi/ansible_homelab) - Ansible playbooks to quickly setup a homelab.  The playbook will update the system, install Docker, and then deploy the Docker containers.
 - [Cloudbox/Cloudbox](https://github.com/Cloudbox/Cloudbox) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi.
 - [dy2k/proxmox-kubernetes](https://github.com/dy2k/proxmox-kubernetes) - Deploy Kubernetes on Proxmox Ubuntu LXCs and VMs
 - [nickjj/ansigenome](https://github.com/nickjj/ansigenome) - A tool to help you gather information and manage your Ansible roles.
 - [robertdebock/ansible-role-maintenance](https://github.com/robertdebock/ansible-role-maintenance) - Maintain your system by cleaning up.
@@ -1156,7 +1156,7 @@
 - [opsdroid/opsdroid](https://github.com/opsdroid/opsdroid) - 🤖 An open source chat-ops bot framework
 - [lento234/homelab](https://github.com/lento234/homelab) - Personal homelab setup
 - [mr-karan/homelab](https://github.com/mr-karan/homelab) - Infra-as-code for my personal home server setup
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [AcalephStorage/awesome-devops](https://github.com/AcalephStorage/awesome-devops) - A curated list of resources for Devops
 - [mikeroyal/Grafana-Guide](https://github.com/mikeroyal/Grafana-Guide) - Grafana Guide
@@ -4322,7 +4322,7 @@
 - [clayshek/homelab-monorepo](https://github.com/clayshek/homelab-monorepo) - Home lab infrastructure as code repo.
 - [mr-karan/homelab](https://github.com/mr-karan/homelab) - Infra-as-code for my personal home server setup
 - [rishavnandi/ansible_homelab](https://github.com/rishavnandi/ansible_homelab) - Ansible playbooks to quickly setup a homelab.  The playbook will update the system, install Docker, and then deploy the Docker containers.
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi.
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 - [dy2k/proxmox-kubernetes](https://github.com/dy2k/proxmox-kubernetes) - Deploy Kubernetes on Proxmox Ubuntu LXCs and VMs
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo
