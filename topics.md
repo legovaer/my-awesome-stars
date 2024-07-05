@@ -388,7 +388,7 @@
 ## archlinux 
 
 - [masasam/dotfiles](https://github.com/masasam/dotfiles) - My dotfiles based on Makefile
-- [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 15 themes. Polybar. eww widgets, with a rice selector to change on the fly.
+- [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 18 themes. With a theme selector to change on the fly.
 
 ## arduino 
 
@@ -1370,7 +1370,7 @@
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 - [masasam/dotfiles](https://github.com/masasam/dotfiles) - My dotfiles based on Makefile
 - [husixu1/bdm](https://github.com/husixu1/bdm) - BDM -- Bash Dotfile Manager
-- [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 15 themes. Polybar. eww widgets, with a rice selector to change on the fly.
+- [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 18 themes. With a theme selector to change on the fly.
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 - [chezmoi/dotfiles](https://github.com/chezmoi/dotfiles) - chezmoi dotfiles template repository.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
@@ -2399,7 +2399,7 @@
 - [pijarr/pijarr](https://github.com/pijarr/pijarr) - A shell script to automate the installation and configuration of Jackett, Sonarr, Radarr, Lidarr, Readarr, Prowlarr, and Bazarr on Debian based distros.
 - [v1s1t0r1sh3r3/airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) - This is a multi-use bash script for Linux systems to audit wireless networks.
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
-- [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 15 themes. Polybar. eww widgets, with a rice selector to change on the fly.
+- [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 18 themes. With a theme selector to change on the fly.
 - [GameServerManagers/LinuxGSM](https://github.com/GameServerManagers/LinuxGSM) - The command-line tool for quick, simple deployment and management of Linux dedicated game servers.
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 - [1N3/PrivEsc](https://github.com/1N3/PrivEsc) - A collection of Windows, Linux and MySQL privilege escalation scripts and exploits.
