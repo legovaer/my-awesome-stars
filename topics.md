@@ -7,6 +7,7 @@
 
 - [ai](#ai)
 - [algorithm](#algorithm)
+- [algorithmic-trading](#algorithmic-trading)
 - [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
@@ -25,6 +26,7 @@
 - [bitcoin](#bitcoin)
 - [bootstrap](#bootstrap)
 - [bot](#bot)
+- [bugbounty](#bugbounty)
 - [c](#c)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
@@ -261,6 +263,12 @@
 
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+
+## algorithmic-trading 
+
+- [CryptoSignal/Crypto-Signal](https://github.com/CryptoSignal/Crypto-Signal) - Github.com/CryptoSignal - Trading & Technical Analysis Bot - 4,100+ stars, 1,100+ forks
+- [AI4Finance-Foundation/FinRL](https://github.com/AI4Finance-Foundation/FinRL) - FinRL:  Financial Reinforcement Learning. 🔥
+- [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 
 ## analytics 
 
@@ -823,6 +831,36 @@
 - [MarioRuiz/slack-smart-bot](https://github.com/MarioRuiz/slack-smart-bot) - Create a Slack bot that is smart and so easy to expand, create new bots on demand, run ruby code on chat, create shortcuts...    The main scope of this gem is to be used internally in the company so t
 - [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) - vulnx 🕷️ an intelligent Bot, Shell can achieve automatic injection, and help researchers detect security vulnerabilities CMS system. It can perform a quick CMS security detection, information collecti
 - [RasaHQ/rasa](https://github.com/RasaHQ/rasa) - 💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
+
+## bugbounty 
+
+- [edoardottt/secfiles](https://github.com/edoardottt/secfiles) - My useful files for penetration tests, security assessments, bug bounty and other security related stuff
+- [trickest/wordlists](https://github.com/trickest/wordlists) - Real-world infosec wordlists, updated regularly
+- [chvancooten/BugBountyScanner](https://github.com/chvancooten/BugBountyScanner) - A Bash script and Docker image for Bug Bounty reconnaissance. Intended for headless use.
+- [xm1k3/cent](https://github.com/xm1k3/cent) - Community edition nuclei templates, a simple tool that allows you to organize all the Nuclei templates offered by the community in one place
+- [nu11pointer/fuzzlists](https://github.com/nu11pointer/fuzzlists) - A collection of useful lists for Penetration Testing & Bug Bounty - Content Discovery, Payloads, Variables, Sandbox Escaping, etc
+- [0xPugal/One-Liners](https://github.com/0xPugal/One-Liners) - A collection of one-liners for bug bounty hunting.
+- [1N3/PrivEsc](https://github.com/1N3/PrivEsc) - A collection of Windows, Linux and MySQL privilege escalation scripts and exploits.
+- [1N3/Findsploit](https://github.com/1N3/Findsploit) - Find exploits in local and online databases instantly
+- [1N3/IntruderPayloads](https://github.com/1N3/IntruderPayloads) - A collection of Burpsuite Intruder payloads, BurpBounty payloads, fuzz lists, malicious file uploads and web pentesting methodologies and checklists.
+- [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
+- [commixproject/commix](https://github.com/commixproject/commix) - Automated All-in-One OS Command Injection Exploitation Tool.
+- [hisxo/gitGraber](https://github.com/hisxo/gitGraber) - gitGraber: monitor GitHub to search and find sensitive data in real time for different online services such as: Google, Amazon, Paypal, Github, Mailgun, Facebook, Twitter, Heroku, Stripe...
+- [l4yton/RegHex](https://github.com/l4yton/RegHex) - A collection of regexes for every possbile use
+- [gwen001/github-subdomains](https://github.com/gwen001/github-subdomains) - Find subdomains on GitHub.
+- [lutfumertceylan/top25-parameter](https://github.com/lutfumertceylan/top25-parameter) - For basic researches, top 25 vulnerability parameters that can be used in automation tools or manual recon. 🛡️⚔️🧙
+- [d3mondev/puredns](https://github.com/d3mondev/puredns) - Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
+- [belane/CloudHunter](https://github.com/belane/CloudHunter) - AWS, Azure, Alibaba and Google bucket scanner
+- [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
+- [EdOverflow/bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet) - A list of interesting payloads, tips and tricks for bug bounty hunters.
+- [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool.
+- [0xmaximus/Galaxy-Bugbounty-Checklist](https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist) - Tips and Tutorials for Bug Bounty and also Penetration Tests.
+- [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - A recursive internet scanner for hackers.
+- [GhostTroops/scan4all](https://github.com/GhostTroops/scan4all) - Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
+- [sa7mon/S3Scanner](https://github.com/sa7mon/S3Scanner) - Scan for misconfigured S3 buckets across S3-compatible APIs!
+- [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
+- [payloadbox/sql-injection-payload-list](https://github.com/payloadbox/sql-injection-payload-list) - 🎯 SQL Injection Payload List
+- [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
 
 ## c 
 
@@ -1535,7 +1573,6 @@
 - [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - GitHub Data Analysis Framework.
 - [gwen001/github-subdomains](https://github.com/gwen001/github-subdomains) - Find subdomains on GitHub.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
-- [nikolas/github-drama](https://github.com/nikolas/github-drama) - "This conversation has been locked and limited to collaborators."
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
 - [tadhglewis/issue-status](https://github.com/tadhglewis/issue-status) - A flexible, modern and blazingly fast ☄️ status page
 - [jonico/awesome-runners](https://github.com/jonico/awesome-runners) - A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix
@@ -2950,7 +2987,6 @@
 - [coolsarne/TicketswapBot](https://github.com/coolsarne/TicketswapBot) - Bot that checks and reserves tickets. Written in python and selenium.
 - [ljmerza/light-entity-card](https://github.com/ljmerza/light-entity-card) - Control any light or switch entity
 - [vhqtvn/VHEditor-Android](https://github.com/vhqtvn/VHEditor-Android) - Run Code-server on Android
-- [0xPugal/One-Liners](https://github.com/0xPugal/One-Liners) - A collection of one-liners for bug bounty hunting.
 - [dwoosnam/HomeAssistant](https://github.com/dwoosnam/HomeAssistant) - This is a selection of my Home Assistant configuration examples to share around.
 - [neilimixamo/Home-Assistant-Quick-Look-Mobile](https://github.com/neilimixamo/Home-Assistant-Quick-Look-Mobile) - 
 - [custom-cards/stack-in-card](https://github.com/custom-cards/stack-in-card) - 🛠 group multiple cards into one card without the borders
@@ -3057,8 +3093,6 @@
 - [ustayready/golddigger](https://github.com/ustayready/golddigger) - 
 - [PortSwigger/autowasp](https://github.com/PortSwigger/autowasp) - BurpSuite Extension: A one-stop pen testing checklist and logger tool
 - [0xd4y/Notes](https://github.com/0xd4y/Notes) - Cybersecurity Notes
-- [1N3/Findsploit](https://github.com/1N3/Findsploit) - Find exploits in local and online databases instantly
-- [1N3/IntruderPayloads](https://github.com/1N3/IntruderPayloads) - A collection of Burpsuite Intruder payloads, BurpBounty payloads, fuzz lists, malicious file uploads and web pentesting methodologies and checklists.
 - [seaky/nspanel_pro_roottool_apk](https://github.com/seaky/nspanel_pro_roottool_apk) - 
 - [custom-cards/bar-card](https://github.com/custom-cards/bar-card) - Customizable Animated Bar card for Home Assistant Lovelace
 - [thomasloven/lovelace-card-tools](https://github.com/thomasloven/lovelace-card-tools) - 🔹A collection of tools for other lovelace plugins to use
@@ -3134,7 +3168,6 @@
 - [Adelittle/Mass_Git_Scanner](https://github.com/Adelittle/Mass_Git_Scanner) - 
 - [oxnr/awesome-analytics](https://github.com/oxnr/awesome-analytics) - A curated list of analytics frameworks, software and other tools.
 - [peterh/pyobd](https://github.com/peterh/pyobd) - Fixes to pyobd for modern hardware interfaces
-- [0xmaximus/Galaxy-Bugbounty-Checklist](https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist) - Tips and Tutorials for Bug Bounty and also Penetration Tests.
 - [rosmo/m5paper-homeassistant](https://github.com/rosmo/m5paper-homeassistant) - Home Assistant functionality with M5Paper
 - [Sian-Lee-SA/YouTube](https://github.com/Sian-Lee-SA/YouTube) - YouTube helper files and references
 - [score-spec/spec](https://github.com/score-spec/spec) - The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between 
