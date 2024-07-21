@@ -1886,7 +1886,7 @@
 - [AalianKhan/mushroom-strategy](https://github.com/AalianKhan/mushroom-strategy) - A strategy to automatically generate a dashboard using mushroom cards
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
-- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure cloud runtime for AI apps & AI agents. Fully open-source.
+- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
 - [Gh61/lovelace-hue-like-light-card](https://github.com/Gh61/lovelace-hue-like-light-card) - This card provides a Hue-like way to control your lights in Home Assistant.
 - [jcwillox/lovelace-paper-buttons-row](https://github.com/jcwillox/lovelace-paper-buttons-row) - Adds highly configurable buttons that use actions and per-state styling.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
