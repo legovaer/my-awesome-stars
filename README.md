@@ -779,6 +779,7 @@
 
 ## Jupyter Notebook 
 
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [NoDataFound/hackGPT](https://github.com/NoDataFound/hackGPT) - I leverage OpenAI and ChatGPT to do hackerish things
 - [langestefan/auto-sun-blind](https://github.com/langestefan/auto-sun-blind) - Automatically control your sun blinds via home assistant based on the position of the sun.
 - [BARarch/contacts-scraper](https://github.com/BARarch/contacts-scraper) - Headless Python web scraping google app output
@@ -1185,7 +1186,6 @@
 - [carleeno/elevenlabs_tts](https://github.com/carleeno/elevenlabs_tts) - Custom TTS Integration using ElevenLabs API
 - [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
 - [ej52/hass-ollama-conversation](https://github.com/ej52/hass-ollama-conversation) - Ollama conversation integration for Home Assistant
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [crewAIInc/crewAI-examples](https://github.com/crewAIInc/crewAI-examples) - 
 - [pfsensible/core](https://github.com/pfsensible/core) - Core modules for managing pfSense firewalls with ansible
