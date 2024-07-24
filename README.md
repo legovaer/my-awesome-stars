@@ -509,7 +509,7 @@
 - [cdklabs/aws-cdk-testing-examples](https://github.com/cdklabs/aws-cdk-testing-examples) - 
 - [borconi/obd2aa](https://github.com/borconi/obd2aa) - OBD2 data using Torque on Android Auto
 - [kbox4/source](https://github.com/kbox4/source) - The builds scripts and packages that build everything in the KBOX distribution
-- [aress31/burpgpt](https://github.com/aress31/burpgpt) - A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities, and enables running traffic-based analysis of any type.
+- [aress31/burpgpt](https://github.com/aress31/burpgpt) - A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities and enables running traffic-based analysis of any type.
 - [PortSwigger/autowasp](https://github.com/PortSwigger/autowasp) - BurpSuite Extension: A one-stop pen testing checklist and logger tool
 - [openremote/openremote](https://github.com/openremote/openremote) - 100% open-source IoT Platform - Integrate your devices, create rules, and analyse and visualise your data
 - [VIDA-NYU/ache](https://github.com/VIDA-NYU/ache) - ACHE is a web crawler for domain-specific search.
