@@ -265,7 +265,7 @@
 - [skius/rm-pdf-tools](https://github.com/skius/rm-pdf-tools) - PDF tools for reMarkable tablets
 - [Eeems/rmfakecloud](https://github.com/Eeems/rmfakecloud) - fake cloud api
 - [ddvk/rmfakecloud](https://github.com/ddvk/rmfakecloud) - host your own cloud for the remarkable
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL.
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [lupinelab/kproximate](https://github.com/lupinelab/kproximate) - A Kubernetes node autoscaler for Proxmox
@@ -1463,7 +1463,7 @@
 - [stamparm/DSSS](https://github.com/stamparm/DSSS) - Damn Small SQLi Scanner
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
-- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - Convert ML Code Between Frameworks
+- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - Convert Machine Learning Code Between Frameworks
 - [bacco007/HomeAssistantConfig](https://github.com/bacco007/HomeAssistantConfig) - My Home Assistant Configuration
 - [izebit/slack-notify-app-daemon](https://github.com/izebit/slack-notify-app-daemon) - daemon for notify slack application
 - [bieniu/home-assistant-config](https://github.com/bieniu/home-assistant-config) - Home Assistant Config
