@@ -59,6 +59,7 @@
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
+- [Visual Basic 6.0](#visual-basic-6.0)
 - [Vue](#vue)
 - [YARA](#yara)
 
@@ -1117,7 +1118,6 @@
 - [etsy/411](https://github.com/etsy/411) - An Alert Management Web Application
 - [pbertera/dockerfiles](https://github.com/pbertera/dockerfiles) - Docker containers
 - [deployphp/deployer](https://github.com/deployphp/deployer) - The PHP deployment tool with support for popular frameworks out of the box
-- [minhajul/laravel-grafana](https://github.com/minhajul/laravel-grafana) - Monitoring the performance of the Laravel app using Grafana, Prometheus, and Loki. Containerizing the project using Docker.
 - [IBM/drupal-nginx-php-kubernetes](https://github.com/IBM/drupal-nginx-php-kubernetes) - Demonstration of a set of NGINX and PHP-FPM containers running Drupal deployed to Kubernetes on the IBM Container Service.
 - [thereference/stomp](https://github.com/thereference/stomp) - Stomp module port to Drupal 8
 - [wunderio/drupal-project](https://github.com/wunderio/drupal-project) - Wunder's template for Drupal projects designed to work automatically with Lando, CircleCI and Helm.
@@ -2008,6 +2008,10 @@
 
 - [dominee/Termux-dotfiles](https://github.com/dominee/Termux-dotfiles) - .files for the Termux android terminal
 - [christoomey/vim-tmux-runner](https://github.com/christoomey/vim-tmux-runner) - Vim and tmux, sittin' in a tree...
+
+## Visual Basic 6.0 
+
+- [minhajul/laravel-grafana](https://github.com/minhajul/laravel-grafana) - Monitoring the performance of the Laravel app using Grafana, Prometheus, and Loki. Containerizing the project using Docker.
 
 ## Vue 
 
