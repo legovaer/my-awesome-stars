@@ -403,7 +403,7 @@
 
 ## HCL 
 
-- [khanh-ph/proxmox-kubernetes](https://github.com/khanh-ph/proxmox-kubernetes) - Enables you to create a Kubernetes cluster on Proxmox VE with Terraform & Kubespray in a declarative manner
+- [khanh-ph/proxmox-kubernetes](https://github.com/khanh-ph/proxmox-kubernetes) - Enables you to create a Kubernetes cluster on Proxmox VE with Terraform & Kubespray in a declarative manner.
 - [clayshek/homelab-monorepo](https://github.com/clayshek/homelab-monorepo) - Home lab infrastructure as code repo.
 - [natelandau/ansible-homelab-config](https://github.com/natelandau/ansible-homelab-config) - Ansible scripts to configure my homelab using Consul, Nomad, Docker, Traefik, and more...
 - [rishavnandi/ansible_homelab](https://github.com/rishavnandi/ansible_homelab) - Ansible playbooks to quickly setup a homelab.  The playbook will update the system, install Docker, and then deploy the Docker containers.
