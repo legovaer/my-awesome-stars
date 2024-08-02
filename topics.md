@@ -423,7 +423,7 @@
 - [dale3h/homeassistant-config](https://github.com/dale3h/homeassistant-config) - 
 - [langestefan/auto-sun-blind](https://github.com/langestefan/auto-sun-blind) - Automatically control your sun blinds via home assistant based on the position of the sun.
 - [ntalekt/homeassistant](https://github.com/ntalekt/homeassistant) - Example Home Assistant Configs
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
 - [dannytsang/homeassistant-config](https://github.com/dannytsang/homeassistant-config) - 🏡 My Home Assistant Configs.
 - [artem-sedykh/mini-climate-card](https://github.com/artem-sedykh/mini-climate-card) - Minimalistic climate card for Home Assistant Lovelace UI
 - [nickjg1/homeserver-ansible](https://github.com/nickjg1/homeserver-ansible) - Quickly setup your own HomeServer/NAS with these playbooks
@@ -1959,6 +1959,7 @@
 - [shannonhochkins/ha-component-kit](https://github.com/shannonhochkins/ha-component-kit) - A Home Assistant React component library to generate dashboards with ease, This utilizises a massive list of Components / cards to use out of the box, a large range of hooks to build your own custom f
 - [langestefan/auto-sun-blind](https://github.com/langestefan/auto-sun-blind) - Automatically control your sun blinds via home assistant based on the position of the sun.
 - [Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card) - Bubble Card is a minimalist card collection for Home Assistant with a nice pop-up touch.
+- [NSPManager/NSPanelManager](https://github.com/NSPManager/NSPanelManager) - Sonoff NSPanel custom firmware for responsive and intuitive use
 - [sairon/esphome-nspanel-lovelace-ui](https://github.com/sairon/esphome-nspanel-lovelace-ui) - ESPHome component for NSPanel Lovelace UI
 - [ntalekt/homeassistant](https://github.com/ntalekt/homeassistant) - Example Home Assistant Configs
 - [cgarwood/homeassistant-config](https://github.com/cgarwood/homeassistant-config) - Home Assistant Configuration
@@ -2488,7 +2489,7 @@
 - [AlexandreSajus/JARVIS](https://github.com/AlexandreSajus/JARVIS) - Your own personal voice assistant: Voice to Text to LLM to Speech, displayed in a web interface
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our clou
 - [kharvd/gpt-cli](https://github.com/kharvd/gpt-cli) - Command-line interface for ChatGPT, Claude and Bard
 - [THUDM/ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) - ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型
@@ -2505,7 +2506,7 @@
 ## low-code 
 
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
@@ -4157,7 +4158,7 @@
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)
 - [Casvt/MIND](https://github.com/Casvt/MIND) - A simple self hosted reminder application that can send push notifications to your device. Set the reminder and forget about it!
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our clou
 - [Phalcode/gamevault-docs](https://github.com/Phalcode/gamevault-docs) - Documentation for the self-hosted gaming platform for drm-free games
 - [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
@@ -4449,7 +4450,7 @@
 - [shannonhochkins/ha-component-kit](https://github.com/shannonhochkins/ha-component-kit) - A Home Assistant React component library to generate dashboards with ease, This utilizises a massive list of Components / cards to use out of the box, a large range of hooks to build your own custom f
 - [seekr-osint/seekr](https://github.com/seekr-osint/seekr) - A multi-purpose OSINT toolkit with a neat web-interface.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity
 - [dannysteenman/aws-cdk-examples](https://github.com/dannysteenman/aws-cdk-examples) - A repository that contains AWS CDK code examples
 - [fogfish/aws-cdk-pure](https://github.com/fogfish/aws-cdk-pure) - Purely Functional and high-order cloud components with AWS CDK
