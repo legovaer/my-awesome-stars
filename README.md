@@ -1845,7 +1845,7 @@
 - [mowispace/react-native-logs](https://github.com/mowispace/react-native-logs) - Performance-aware simple logger for React-Native and Expo with namespaces, custom levels and custom transports (colored console, file writing, etc.)
 - [Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card) - Bubble Card is a minimalist card collection for Home Assistant with a nice pop-up touch.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
 - [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr
 - [headlamp-k8s/headlamp](https://github.com/headlamp-k8s/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [Olen/lovelace-flower-card](https://github.com/Olen/lovelace-flower-card) - Lovelace Flower Card to match the custom plant integration
