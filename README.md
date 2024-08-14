@@ -298,7 +298,7 @@
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [mikeroyal/Grafana-Guide](https://github.com/mikeroyal/Grafana-Guide) - Grafana Guide
 - [mikeroyal/Open-Source-Security-Guide](https://github.com/mikeroyal/Open-Source-Security-Guide) - Open Source Security Guide. Learn all about Security Standards (FIPS, CIS, FedRAMP, FISMA, etc.), Frameworks, Threat Models, Encryption, and Benchmarks.
-- [gimlet-io/gimlet](https://github.com/gimlet-io/gimlet) - The Flux-based Internal Developer Platform
+- [gimlet-io/gimlet](https://github.com/gimlet-io/gimlet) - Deployment tool built on Kubernetes to make the deploy, preview and rollback workflows accessible to everyone.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [hashicorp/nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and sc
 - [thezedwards/Pitraix](https://github.com/thezedwards/Pitraix) - Modern Self-Modifying Cross-Platform Peer-to-Peer Botnet over TOR
@@ -1585,7 +1585,7 @@
 - [music-assistant/companion](https://github.com/music-assistant/companion) - Music Assistant Companion App
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [bionic-gpt/bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) - BionicGPT is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality
-- [gosub-browser/gosub-engine](https://github.com/gosub-browser/gosub-engine) - A web browser in the making. More info at https://gosub.io
+- [gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) - A web browser in the making. More info at https://gosub.io
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [sebglazebrook/aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic aliases for the bash shell
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
