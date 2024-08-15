@@ -824,7 +824,7 @@
 - [kubealex/k8s-mediaserver-operator](https://github.com/kubealex/k8s-mediaserver-operator) - Repository for k8s Mediaserver Operator project
 - [score-spec/spec](https://github.com/score-spec/spec) - The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between 
 - [dokku-community/dokku-supply-config](https://github.com/dokku-community/dokku-supply-config) - Put your Dokku configuration files in your app repository
-- [HariSekhon/GitHub-Actions](https://github.com/HariSekhon/GitHub-Actions) - GitHub Actions master template and GitHub Actions Reusable Workflows
+- [HariSekhon/GitHub-Actions](https://github.com/HariSekhon/GitHub-Actions) - GitHub Actions Reusable Workflows and Master Template
 - [waveaccounting/terraform-aws-chatbot-slack-configuration](https://github.com/waveaccounting/terraform-aws-chatbot-slack-configuration) - Module to enable Chatbot Slack channel configuration in Terraform
 - [cloudposse/build-harness](https://github.com/cloudposse/build-harness) - Collection of Makefiles to facilitate building Golang projects, Dockerfiles, Helm charts, and more
 - [MartinHeinz/tekton-kickstarter](https://github.com/MartinHeinz/tekton-kickstarter) - Templates, scripts and samples for quickly building CI/CD with Tekton.
