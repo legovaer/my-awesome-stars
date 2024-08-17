@@ -674,7 +674,6 @@
 - [SeLLeRoNe/HA-Config](https://github.com/SeLLeRoNe/HA-Config) - Home Assistant Configuration
 - [thomasloven/lovelace-flower-card](https://github.com/thomasloven/lovelace-flower-card) - 
 - [Smashing/smashing](https://github.com/Smashing/smashing) - The exceptionally handsome dashboard framework in Ruby and Coffeescript.
-- [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) - Open Cyber Threat Intelligence Platform
 - [espruino/TinyDash](https://github.com/espruino/TinyDash) - A Tiny IoT Dashboard, small enough to serve from embedded devices
 - [pottava/docker-webui](https://github.com/pottava/docker-webui) - Dockerized docker-webui -&gt;
 - [piitaya/lovelace-mushroom-themes](https://github.com/piitaya/lovelace-mushroom-themes) - Additional themes for Lovelace Mushroom Cards 🍄
@@ -1623,7 +1622,6 @@
 
 - [lxc/lxc-ci](https://github.com/lxc/lxc-ci) - LXC continuous integration and build scripts
 - [g0tmi1k/lxc-ci](https://github.com/g0tmi1k/lxc-ci) - LXC continuous integration and build scripts
-- [G33kzD3n/Catalogue](https://github.com/G33kzD3n/Catalogue) - 
 - [JamesTurland/JimsGarage](https://github.com/JamesTurland/JimsGarage) - Homelab Goodies
 - [ddvk/remarkable-autoinstall](https://github.com/ddvk/remarkable-autoinstall) - 
 - [mb1986/remarkable-templates](https://github.com/mb1986/remarkable-templates) - 
@@ -1964,6 +1962,7 @@
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
 - [PiotrMachowski/Home-Assistant-Lovelace-Local-Conditional-card](https://github.com/PiotrMachowski/Home-Assistant-Lovelace-Local-Conditional-card) - This card can show and hide a specific card on current device while not affecting other windows. It does not require any integration to run.
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
+- [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) - Open Cyber Threat Intelligence Platform
 - [asosnovsky/Shortumation](https://github.com/asosnovsky/Shortumation) - [Not Maintained] A better way to write automations in home-assistant without having to install and run a seperate automation engine!
 - [thomasloven/lovelace-template-entity-row](https://github.com/thomasloven/lovelace-template-entity-row) - 🔹 Display whatever you want in an entities card row.
 - [google/wireit](https://github.com/google/wireit) - Wireit upgrades your npm/pnpm/yarn scripts to make them smarter and more efficient.
