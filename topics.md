@@ -2871,7 +2871,6 @@
 - [I-am-PUID-0/pd_zurg](https://github.com/I-am-PUID-0/pd_zurg) - A combined docker image for the unified deployment of itsToggle's, yowmamasita's, and ncw's projects -- plex_debrid, zurg, and rclone
 - [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
 - [pman07/Immich_Notify](https://github.com/pman07/Immich_Notify) - 
-- [G33kzD3n/Catalogue](https://github.com/G33kzD3n/Catalogue) - 
 - [JamesTurland/JimsGarage](https://github.com/JamesTurland/JimsGarage) - Homelab Goodies
 - [vaughngx4/OpenSMM](https://github.com/vaughngx4/OpenSMM) - Self-hosted open source social media marketing
 - [jaguar754/instabot.py](https://github.com/jaguar754/instabot.py) - Instagram bot. It works without instagram api, need only login and password. Write on python.
