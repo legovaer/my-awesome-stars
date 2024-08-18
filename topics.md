@@ -104,6 +104,7 @@
 - [html](#html)
 - [html5](#html5)
 - [http](#http)
+- [https](#https)
 - [image-processing](#image-processing)
 - [ios](#ios)
 - [iot](#iot)
@@ -402,7 +403,7 @@
 ## arduino 
 
 - [eCrowneEng/ESP-SimHub](https://github.com/eCrowneEng/ESP-SimHub) - SimHub firwmare for ESP8266 and ESP32
-- [smrtnt/Open-Home-Automation](https://github.com/smrtnt/Open-Home-Automation) - Open Home Automation with Home Assistant, ESP8266/ESP32 and MQTT
+- [SamZorSec/Open-Home-Automation](https://github.com/SamZorSec/Open-Home-Automation) - Open Home Automation with Home Assistant, ESP8266/ESP32 and MQTT
 - [jnsbyr/esp8266-intexsbh20](https://github.com/jnsbyr/esp8266-intexsbh20) - MQTT WiFi remote control for the Intex PureSpa SB-H20 and SJB-HS whirlpools
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
 
@@ -2032,7 +2033,7 @@
 - [anotherjulien/MyHOME](https://github.com/anotherjulien/MyHOME) - MyHOME integration for Home-Assistant
 - [KTibow/lovelace-soft-theme](https://github.com/KTibow/lovelace-soft-theme) - 🎨 A new, simple soft theme for Home Assistant.
 - [jonathanadams/Home-Assistant-Configuration](https://github.com/jonathanadams/Home-Assistant-Configuration) - Home Assistant Configuration and Documentation
-- [smrtnt/Open-Home-Automation](https://github.com/smrtnt/Open-Home-Automation) - Open Home Automation with Home Assistant, ESP8266/ESP32 and MQTT
+- [SamZorSec/Open-Home-Automation](https://github.com/SamZorSec/Open-Home-Automation) - Open Home Automation with Home Assistant, ESP8266/ESP32 and MQTT
 - [Blackymas/NSPanel_HA_Blueprint](https://github.com/Blackymas/NSPanel_HA_Blueprint) - This allows you to configure your complete NSPanel via Blueprint with UI and without changing anything in the code
 - [mkotler/ad-automoli](https://github.com/mkotler/ad-automoli) - 💡 Fully automatic light management based on conditions like motion, humidity, and other clever features
 - [Durishn/Durnry-Assistant](https://github.com/Durishn/Durnry-Assistant) - Home automation system - integrations, dashboards, and automations for home IoT devices 🏠 🤖
@@ -2144,6 +2145,12 @@
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [nock/nock](https://github.com/nock/nock) - HTTP server mocking and expectations library for Node.js
+
+## https 
+
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
+- [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 
 ## image-processing 
 
