@@ -703,7 +703,6 @@
 - [ESPresense/Floorplan-Creator](https://github.com/ESPresense/Floorplan-Creator) - GUI web application to help in generating floorplan code for ESPresenseIPS
 - [basnijholt/home-assistant-config](https://github.com/basnijholt/home-assistant-config) - Home Assistant config files, rewritten to use the latest features, 100+ documented automations, automatically generated ToC :house: :robot:
 - [DavidFW1960/bom-weather-card](https://github.com/DavidFW1960/bom-weather-card) - Custom Animated Weather Card for any weather provider
-- [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [jampez77/Multiline-Entity-Card](https://github.com/jampez77/Multiline-Entity-Card) - A custom entity card for Home Assistant that allows text to span multiple lines.
 - [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection) - 
 - [atomic7777/atomic_calendar](https://github.com/atomic7777/atomic_calendar) - Custom calendar card for Home Assistant with Lovelace
@@ -823,7 +822,6 @@
 - [kubealex/k8s-mediaserver-operator](https://github.com/kubealex/k8s-mediaserver-operator) - Repository for k8s Mediaserver Operator project
 - [score-spec/spec](https://github.com/score-spec/spec) - The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between 
 - [dokku-community/dokku-supply-config](https://github.com/dokku-community/dokku-supply-config) - Put your Dokku configuration files in your app repository
-- [waveaccounting/terraform-aws-chatbot-slack-configuration](https://github.com/waveaccounting/terraform-aws-chatbot-slack-configuration) - Module to enable Chatbot Slack channel configuration in Terraform
 - [cloudposse/build-harness](https://github.com/cloudposse/build-harness) - Collection of Makefiles to facilitate building Golang projects, Dockerfiles, Helm charts, and more
 - [MartinHeinz/tekton-kickstarter](https://github.com/MartinHeinz/tekton-kickstarter) - Templates, scripts and samples for quickly building CI/CD with Tekton.
 
