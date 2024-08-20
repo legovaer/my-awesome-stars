@@ -77,7 +77,6 @@
 - [express](#express)
 - [finance](#finance)
 - [firebase](#firebase)
-- [firefox](#firefox)
 - [flask](#flask)
 - [flutter](#flutter)
 - [flutter-apps](#flutter-apps)
@@ -914,7 +913,6 @@
 ## chrome 
 
 - [DrakenWan/Yale3](https://github.com/DrakenWan/Yale3) - A simple LinkedIn profile scraper implemented as a chrome extension
-- [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [google/WebFundamentals](https://github.com/google/WebFundamentals) - Former git repo for WebFundamentals on developers.google.com
 
 ## chrome-extension 
@@ -925,7 +923,6 @@
 - [UseCrowdWise/crowdwise](https://github.com/UseCrowdWise/crowdwise) - Chrome extension that adds to your browsing experience by showing you relevant discussions about your current web page from Hacker News and Reddit.
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
-- [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 
 ## cli 
 
@@ -1484,10 +1481,6 @@
 
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
-
-## firefox 
-
-- [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 
 ## flask 
 
@@ -4398,7 +4391,6 @@
 - [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
 - [Pluralith/pluralith-cli](https://github.com/Pluralith/pluralith-cli) - A tool for Terraform state visualisation and automated generation of infrastructure documentation
 - [run-x/opta](https://github.com/run-x/opta) - The next generation of Infrastructure-as-Code. Work with high-level constructs instead of getting lost in low-level cloud configuration.
-- [waveaccounting/terraform-aws-chatbot-slack-configuration](https://github.com/waveaccounting/terraform-aws-chatbot-slack-configuration) - Module to enable Chatbot Slack channel configuration in Terraform
 - [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [cloudposse/geodesic](https://github.com/cloudposse/geodesic) - 🚀 Geodesic is a DevOps Linux Toolbox in Docker
 - [sumup-oss/terraform-provider-vaulted](https://github.com/sumup-oss/terraform-provider-vaulted) - Encrypted HashiCorp Vault secrets via Terraform that can be stored in SCM such as Git
