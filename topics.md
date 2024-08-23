@@ -228,7 +228,7 @@
 - [sourcegraph/cody](https://github.com/sourcegraph/cody) - Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code.
 - [ej52/hass-ollama-conversation](https://github.com/ej52/hass-ollama-conversation) - Ollama conversation integration for Home Assistant
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TT
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / DeepSeek),Knowledge Base(file upload / kno
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that does online comprehensive research on any given topic
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our clou
@@ -881,7 +881,7 @@
 
 ## chatgpt 
 
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TT
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / DeepSeek),Knowledge Base(file upload / kno
 - [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [NoDataFound/hackGPT](https://github.com/NoDataFound/hackGPT) - I leverage OpenAI and ChatGPT to do hackerish things
@@ -1214,6 +1214,7 @@
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
 - [vivekagate/yakiapp](https://github.com/vivekagate/yakiapp) - Open Source, Cross platform, Native Kubernetes IDE
+- [jersonmartinez/docker-compose-influxdb-telegraf-grafana](https://github.com/jersonmartinez/docker-compose-influxdb-telegraf-grafana) - This is a docker compose to create containers about InfluxDB, Telegraf and Grafana.
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
 - [antonputra/tutorials](https://github.com/antonputra/tutorials) - DevOps Tutorials
 - [crazy-canux/awesome-monitoring](https://github.com/crazy-canux/awesome-monitoring) - INFRASTRUCTURE、OPERATION SYSTEM and APPLICATION monitoring tools.
@@ -1325,6 +1326,7 @@
 - [ravindrajob/Observability-Monitoring](https://github.com/ravindrajob/Observability-Monitoring) - Monitoring - Observability  with thanos + docker + Grafana stack
 - [pedrolamas/docker-iot-stack](https://github.com/pedrolamas/docker-iot-stack) - :computer: My personal Docker IoT Stack
 - [bcremer/docker-telegraf-influx-grafana-stack](https://github.com/bcremer/docker-telegraf-influx-grafana-stack) - Docker Compose Setup for Telegraf / InfluxDB / Grafana (TIG)
+- [jersonmartinez/docker-compose-influxdb-telegraf-grafana](https://github.com/jersonmartinez/docker-compose-influxdb-telegraf-grafana) - This is a docker compose to create containers about InfluxDB, Telegraf and Grafana.
 - [sonnyyu/docker-prometheus-haproxy-stack](https://github.com/sonnyyu/docker-prometheus-haproxy-stack) - Prometheus, Grafana, cAdvisor, NodeExporter, Telegraf and alerting with AlertManager.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
@@ -2644,6 +2646,7 @@
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [ravindrajob/Observability-Monitoring](https://github.com/ravindrajob/Observability-Monitoring) - Monitoring - Observability  with thanos + docker + Grafana stack
 - [bcremer/docker-telegraf-influx-grafana-stack](https://github.com/bcremer/docker-telegraf-influx-grafana-stack) - Docker Compose Setup for Telegraf / InfluxDB / Grafana (TIG)
+- [jersonmartinez/docker-compose-influxdb-telegraf-grafana](https://github.com/jersonmartinez/docker-compose-influxdb-telegraf-grafana) - This is a docker compose to create containers about InfluxDB, Telegraf and Grafana.
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
@@ -2716,7 +2719,7 @@
 
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TT
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / DeepSeek),Knowledge Base(file upload / kno
 - [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 - [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host.
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
@@ -3263,7 +3266,6 @@
 - [mihai-dinculescu/home-automation-monitoring](https://github.com/mihai-dinculescu/home-automation-monitoring) - Raspberry Pi Docker Compose for MQTT, InfluxDB, Telegraf, Grafana
 - [huntabyte/tig-stack](https://github.com/huntabyte/tig-stack) - The Telegraf, InfluxDB, & Grafana stack (TIG) powered by Docker & Docker Compose.
 - [xiaopeng163/docker-compose-tpg](https://github.com/xiaopeng163/docker-compose-tpg) - Docker compose for Telegraf, Prometheus and Grafana
-- [jersonmartinez/docker-compose-influxdb-telegraf-grafana](https://github.com/jersonmartinez/docker-compose-influxdb-telegraf-grafana) - This is a docker compose to create containers about InfluxDB, Telegraf and Grafana.
 - [Nickyie/Cybersecurity-Resources](https://github.com/Nickyie/Cybersecurity-Resources) - A Library of various cybersecurity resources
 - [GAM-team/got-your-back](https://github.com/GAM-team/got-your-back) - Got Your Back (GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail's API over HTTPS.
 - [pqpxo/SWAKES_hassio](https://github.com/pqpxo/SWAKES_hassio) - Home Assistant
@@ -4601,6 +4603,7 @@
 - [zercurity/zercurity](https://github.com/zercurity/zercurity) - Manage, monitor and improve your cyber security posture.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [AeX03/eLys](https://github.com/AeX03/eLys) - 👾- An open-source post-exploitation framework, researchers and developers.
+- [jersonmartinez/docker-compose-influxdb-telegraf-grafana](https://github.com/jersonmartinez/docker-compose-influxdb-telegraf-grafana) - This is a docker compose to create containers about InfluxDB, Telegraf and Grafana.
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
