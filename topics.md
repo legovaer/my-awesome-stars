@@ -3253,7 +3253,6 @@
 - [christoomey/vim-tmux-runner](https://github.com/christoomey/vim-tmux-runner) - Vim and tmux, sittin' in a tree...
 - [PhasecoreX/docker-red-discordbot](https://github.com/PhasecoreX/docker-red-discordbot) - The newest Red-Discordbot in a convenient container
 - [CookiesServices/ISO](https://github.com/CookiesServices/ISO) - Highly reliable botnet created in 100% python for Educational Purposes Only
-- [GoVanguard/list-infosec-encyclopedia](https://github.com/GoVanguard/list-infosec-encyclopedia) - A list of information security related awesome lists and other resources.
 - [CammyLeone/devious-buttplug](https://github.com/CammyLeone/devious-buttplug) - 
 - [colddenial/lovense-lan-api](https://github.com/colddenial/lovense-lan-api) - Lovense Connect Library
 - [shannonhochkins/ha-dashboard](https://github.com/shannonhochkins/ha-dashboard) - A react dashboard interacting with home assistant
