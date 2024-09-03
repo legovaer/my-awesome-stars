@@ -2546,7 +2546,7 @@
 
 ## lua 
 
-- [bmachek/lrc-immich-plugin](https://github.com/bmachek/lrc-immich-plugin) - Export images from Lightroom Classic directly to Immich.
+- [bmachek/lrc-immich-plugin](https://github.com/bmachek/lrc-immich-plugin) - Upload images from Lightroom Classic to Immich.
 
 ## mac 
 
