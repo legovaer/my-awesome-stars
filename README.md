@@ -809,7 +809,7 @@
 ## Lua 
 
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
-- [bmachek/lrc-immich-plugin](https://github.com/bmachek/lrc-immich-plugin) - Export images from Lightroom Classic directly to Immich.
+- [bmachek/lrc-immich-plugin](https://github.com/bmachek/lrc-immich-plugin) - Upload images from Lightroom Classic to Immich.
 - [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public) - My personal dotfiles
 
 ## MDX 
