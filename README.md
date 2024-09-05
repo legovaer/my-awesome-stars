@@ -1135,7 +1135,7 @@
 - [WEBSOLUTIONSHR/drupal](https://github.com/WEBSOLUTIONSHR/drupal) - Historical releases of Drupal, made for presentation at DrupalCamp London
 - [l3l0/php-travis-client](https://github.com/l3l0/php-travis-client) - 
 - [ricardoamaro/drupalci_testbot](https://github.com/ricardoamaro/drupalci_testbot) - This is a testing version of Drupal testbot using docker containers. Please use:
-- [acquia/blt](https://github.com/acquia/blt) - Acquia's toolset for automating Drupal 10 development, testing, and deployment.
+- [acquia/blt](https://github.com/acquia/blt) - Acquia's toolset for automating Drupal 8 and 9 development, testing, and deployment.
 - [phan/phan](https://github.com/phan/phan) - Phan is a static analyzer for PHP. Phan prefers to avoid false-positives and attempts to prove incorrectness rather than correctness.
 - [sebastianbergmann/phpcov](https://github.com/sebastianbergmann/phpcov) - TextUI frontend for php-code-coverage
 - [sebastianbergmann/php-code-coverage](https://github.com/sebastianbergmann/php-code-coverage) - Library that provides collection, processing, and rendering functionality for PHP code coverage information.
