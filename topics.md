@@ -479,7 +479,7 @@
 - [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [GladysAssistant/Gladys](https://github.com/GladysAssistant/Gladys) - A privacy-first, open-source home assistant
-- [acquia/blt](https://github.com/acquia/blt) - Acquia's toolset for automating Drupal 10 development, testing, and deployment.
+- [acquia/blt](https://github.com/acquia/blt) - Acquia's toolset for automating Drupal 8 and 9 development, testing, and deployment.
 
 ## awesome 
 
