@@ -1976,7 +1976,7 @@
 - [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
 - [DBuit/media_player-popup-card](https://github.com/DBuit/media_player-popup-card) - 
 - [joBr99/nspanel-lovelace-ui](https://github.com/joBr99/nspanel-lovelace-ui) - Custom Firmware for NsPanel with the design of HomeAssistant's lovelace UI in mind, works with Tasmota.
 - [dangreco/ha-card-workbench](https://github.com/dangreco/ha-card-workbench) - Web IDE for testing during the development of Home Assistant custom cards.
