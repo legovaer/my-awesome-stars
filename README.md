@@ -230,6 +230,7 @@
 - [sickcodes/dock-droid](https://github.com/sickcodes/dock-droid) - Docker Android - Run QEMU Android in a Docker! X11 Forwarding! CI/CD for Android!
 - [hassio-addons/addon-base-nodejs](https://github.com/hassio-addons/addon-base-nodejs) - Docker NodeJS base images (Alpine) - Home Assistant Community Add-ons
 - [hassio-addons/addon-grafana](https://github.com/hassio-addons/addon-grafana) - Grafana - Home Assistant Community Add-ons
+- [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware) - Autoware - the world's leading open-source software project for autonomous driving
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [adamoutler/mqtt-explorer](https://github.com/adamoutler/mqtt-explorer) - A home assistant repository for MQTT Explorer
 - [ethibox/awesome-stacks](https://github.com/ethibox/awesome-stacks) - Deploy 110+ open-source web apps with one Docker command
@@ -1657,7 +1658,6 @@
 - [cdown/sshrc](https://github.com/cdown/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you ssh
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
 - [nmarus/docker-swarm-ansible](https://github.com/nmarus/docker-swarm-ansible) - Ansible Playbook that deploys 3 node Docker Swarm with GlusterFS, Traefik, and Portainer Services
-- [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware) - Autoware - the world's leading open-source software project for autonomous driving
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [pijarr/pijarr](https://github.com/pijarr/pijarr) - A shell script to automate the installation and configuration of Jackett, Sonarr, Radarr, Lidarr, Readarr, Prowlarr, and Bazarr on Debian based distros.
 - [Cloudbox/Cloudbox](https://github.com/Cloudbox/Cloudbox) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
