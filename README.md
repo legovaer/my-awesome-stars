@@ -18,7 +18,6 @@
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
 - [Crystal](#crystal)
-- [DIGITAL Command Language](#digital-command-language)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [EJS](#ejs)
@@ -209,10 +208,6 @@
 ## Crystal 
 
 - [DFabric/dppm](https://github.com/DFabric/dppm) - An easy way to install and manage server applications
-
-## DIGITAL Command Language 
-
-- [tontonsb/NGINX-snippets](https://github.com/tontonsb/NGINX-snippets) - Nginx snippets and examples
 
 ## Dart 
 
@@ -1020,6 +1015,7 @@
 - [Checkmk/kubernetes](https://github.com/Checkmk/kubernetes) - Deploy Checkmk in Kubernetes
 - [418sec/huntr](https://github.com/418sec/huntr) - Public Roadmap | huntr.dev
 - [legovaer/my-awesome-stars](https://github.com/legovaer/my-awesome-stars) - A curated list of my GitHub stars
+- [tontonsb/NGINX-snippets](https://github.com/tontonsb/NGINX-snippets) - Nginx snippets and examples
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [nathanpeck/awesome-ecs](https://github.com/nathanpeck/awesome-ecs) - A curated list of awesome ECS guides, development tools, and resources
 - [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps) - Ultimate DevSecOps library
