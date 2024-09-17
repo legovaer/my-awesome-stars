@@ -747,7 +747,7 @@
 - [hassio-addons/addon-log-viewer](https://github.com/hassio-addons/addon-log-viewer) - Log Viewer - Home Assistant Community Add-ons
 - [neuroforgede/promswarm](https://github.com/neuroforgede/promswarm) - Modernized swarmprom
 - [lento234/homelab](https://github.com/lento234/homelab) - Personal homelab setup
-- [awfulwoman/home](https://github.com/awfulwoman/home) - Configuration for my home network/lab/playground.
+- [awfulwoman/infra](https://github.com/awfulwoman/infra) - Configuration for my home network/lab/playground.
 - [Freekers/ansible-adguard](https://github.com/Freekers/ansible-adguard) - Ansible playbook to setup AdGuard Home with Unbound, including DoH, DoT & Let's Encrypt, based on Docker
 - [hassio-addons/addon-airsonos](https://github.com/hassio-addons/addon-airsonos) - AirSonos - Home Assistant Community Add-ons
 - [Petro31/easy-time-jinja](https://github.com/Petro31/easy-time-jinja) - Easy Time calculations for Home Assistant templates
