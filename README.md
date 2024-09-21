@@ -1828,7 +1828,7 @@
 - [RomRider/apexcharts-card](https://github.com/RomRider/apexcharts-card) - 📈 A Lovelace card to display advanced graphs and charts based on ApexChartsJS for Home Assistant
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant
 - [DurgNomis-drol/custom-sonos-card](https://github.com/DurgNomis-drol/custom-sonos-card) - Home Assistant custom lovelace sonos card
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. You can run any Docker image on sealos, start high availability databases like
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution. You can run any Docker image on sealos, start high availability databases like mysql/pgsql/redis/mongo, develop applications using any Programming
 - [buttplugio/buttplug-js](https://github.com/buttplugio/buttplug-js) - Buttplug Typescript/Javascript Client Implementation
 - [t1gr0u/rain-gauge-card](https://github.com/t1gr0u/rain-gauge-card) - A Lovelace card that shows the rain gauge for Home Assistant
 - [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 7 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/o
