@@ -862,7 +862,6 @@
 - [panhans/HomeAssistant](https://github.com/panhans/HomeAssistant) - Home Asisstant related stuff like blueprints for automations and scripts.
 - [Full-Monitoring/oluas_proxmox](https://github.com/Full-Monitoring/oluas_proxmox) - Consumindo a API do Proxmox com HTTP Agent
 - [AgentOps-AI/BestGPTs](https://github.com/AgentOps-AI/BestGPTs) - Top ranked OpenAI GPTs
-- [nilsreiter/home-assistant-scenes](https://github.com/nilsreiter/home-assistant-scenes) - Nice, Hue-inspired scenes for Home Assistant
 - [Corsinvest/awesome-proxmox-ve](https://github.com/Corsinvest/awesome-proxmox-ve) - A collection of awesome Proxmox VE documentation, tools, api, blogs, site
 - [DMunkov/customize_pve_lxc_template](https://github.com/DMunkov/customize_pve_lxc_template) - Ansible role to build a new customized CentOS 8 LXC template on Proxmox
 - [danbovey/awesome-home-media-center](https://github.com/danbovey/awesome-home-media-center) - 📺 A curated list of awesome tools and software for your Home Media Center and TV bingeing!
@@ -1205,6 +1204,7 @@
 - [custom-components/grocy](https://github.com/custom-components/grocy) - Custom Grocy integration for Home Assistant
 - [meichthys/uptime_kuma](https://github.com/meichthys/uptime_kuma) - Uptime Kuma HACS integration
 - [Siege-Wizard/buttplug-py](https://github.com/Siege-Wizard/buttplug-py) - Python client implementation of the Buttplug Intimate Hardware Control Protocol.
+- [nilsreiter/home-assistant-scenes](https://github.com/nilsreiter/home-assistant-scenes) - Nice, Hue-inspired scenes for Home Assistant
 - [AlexxIT/PythonScriptsPro](https://github.com/AlexxIT/PythonScriptsPro) - Advanced version of python scripts for Home Assistant without limits
 - [AlexxIT/StreamAssist](https://github.com/AlexxIT/StreamAssist) - Home Assistant custom component that allows you to turn almost any camera and almost any speaker into a local voice assistant
 - [synesthesiam/homeassistant-satellite](https://github.com/synesthesiam/homeassistant-satellite) - Streaming audio satellite for Home Assistant
