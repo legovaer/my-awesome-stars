@@ -1893,6 +1893,7 @@
 - [kalkih/mini-media-player](https://github.com/kalkih/mini-media-player) - Minimalistic media card for Home Assistant Lovelace UI
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
+- [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [Bhasfe/babur](https://github.com/Bhasfe/babur) - Babur is an open-source ML-Based Slack Bot application.
 - [IonicaBizau/parse-url](https://github.com/IonicaBizau/parse-url) - :rocket: An advanced url parser supporting git urls too.
@@ -3001,7 +3002,7 @@
 - [foundations-design/WhiteLight](https://github.com/foundations-design/WhiteLight) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
 - [ChrTopf/wled-audioreact](https://github.com/ChrTopf/wled-audioreact) - This application generates cool light effects for your WLED driven strips based on the music currently playing on your computer.
 - [edward-shen/MMM-pages](https://github.com/edward-shen/MMM-pages) - Add pages to your MagicMirror²!
-- [MarcLandis/MMM-OpenWeatherMapForecast](https://github.com/MarcLandis/MMM-OpenWeatherMapForecast) - Magic Mirror module to display weather information using the OpenWeatherMap One Call API
+- [MarcLandis/MMM-OpenWeatherMapForecast](https://github.com/MarcLandis/MMM-OpenWeatherMapForecast) - MagicMirror² module to display weather information using the OpenWeatherMap One Call API
 - [ghostsec420/SCPA](https://github.com/ghostsec420/SCPA) - Sophisticated cyber penetration attacks is a series of advanced techniques, notes and guidance that will help you to prepare as a hacker on your journey.
 - [VigoKrumins/hass-config](https://github.com/VigoKrumins/hass-config) - A minimalist Home Assistant configuration with a clean UI. Enjoy a comprehensive set of configurations and a thoughtfully designed dashboard. Minimize reliance on external plugins while maximizing sim
 - [isabellaalstrom/home-assistant-config](https://github.com/isabellaalstrom/home-assistant-config) - My configuration for Home Assistant on Hass.io
