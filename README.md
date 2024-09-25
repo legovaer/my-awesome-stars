@@ -535,7 +535,7 @@
 - [Shaegi/Homeassistant-WLED-Card](https://github.com/Shaegi/Homeassistant-WLED-Card) - Home Assistant Lovelace Card to control https://github.com/Aircoookie/WLED solution to "controlling WS2812B RGB LEDs with an ESP8266 over WiFi"
 - [foundations-design/WhiteLight](https://github.com/foundations-design/WhiteLight) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
 - [edward-shen/MMM-pages](https://github.com/edward-shen/MMM-pages) - Add pages to your MagicMirror²!
-- [MarcLandis/MMM-OpenWeatherMapForecast](https://github.com/MarcLandis/MMM-OpenWeatherMapForecast) - Magic Mirror module to display weather information using the OpenWeatherMap One Call API
+- [MarcLandis/MMM-OpenWeatherMapForecast](https://github.com/MarcLandis/MMM-OpenWeatherMapForecast) - MagicMirror² module to display weather information using the OpenWeatherMap One Call API
 - [Jopyth/MMM-Remote-Control](https://github.com/Jopyth/MMM-Remote-Control) - Magic Mirror Module to shutdown or configure your mirror
 - [CM000n/homeassistant](https://github.com/CM000n/homeassistant) - 
 - [isabellaalstrom/lovelace-grocy-chores-card](https://github.com/isabellaalstrom/lovelace-grocy-chores-card) - A card to track chores and tasks in Grocy.
