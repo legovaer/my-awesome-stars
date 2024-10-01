@@ -592,7 +592,7 @@
 - [stevenvachon/broken-link-checker](https://github.com/stevenvachon/broken-link-checker) - Find broken links, missing images, etc within your HTML.
 - [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
 - [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio) - My self coded personal website build with React.js
-- [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio) - 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer.
+- [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio) - 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer. (This is currently not being maintained)
 - [RyanFitzgerald/devfolio](https://github.com/RyanFitzgerald/devfolio) - A modern and production-ready personal portfolio + blog template built with GatsbyJs and TailwindCSS
 - [AlexxIT/WebRTC](https://github.com/AlexxIT/WebRTC) - Home Assistant custom component for real-time viewing of almost any camera stream using WebRTC and other technologies.
 - [lirantal/dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
