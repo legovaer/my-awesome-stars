@@ -1602,7 +1602,7 @@
 
 ## SCSS 
 
-- [philippspinnler/dakboard-ui](https://github.com/philippspinnler/dakboard-ui) - 
+- [philippspinnler/dashboard-ui](https://github.com/philippspinnler/dashboard-ui) - 
 - [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 - [jonico/awesome-runners](https://github.com/jonico/awesome-runners) - A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix
 - [UI-Lovelace-Minimalist/page](https://github.com/UI-Lovelace-Minimalist/page) - This is the repository for our wiki page
