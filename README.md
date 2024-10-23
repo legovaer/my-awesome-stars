@@ -455,7 +455,6 @@
 
 - [Madelena/home-assistant.io](https://github.com/Madelena/home-assistant.io) - :blue_book: Home Assistant User documentation
 - [zaneclaes/van-home-assistant-config](https://github.com/zaneclaes/van-home-assistant-config) - Home Assistant configuration for use in a car/van/vehicle
-- [Th30neAnd0nly/AIRAVAT](https://github.com/Th30neAnd0nly/AIRAVAT) - A multifunctional Android RAT with GUI based Web Panel without port forwarding.
 - [Th30neAnd0nly/Ohm](https://github.com/Th30neAnd0nly/Ohm) - Android RAT with web panel and undetectable App
 - [swagkarna/Ohm](https://github.com/swagkarna/Ohm) - Android RAT with web panel and undetectable App
 - [swagkarna/osint_social](https://github.com/swagkarna/osint_social) - A collection of several hundred online tools for OSINT
@@ -541,6 +540,7 @@
 - [isabellaalstrom/lovelace-grocy-chores-card](https://github.com/isabellaalstrom/lovelace-grocy-chores-card) - A card to track chores and tasks in Grocy.
 - [espruino/EspruinoHub](https://github.com/espruino/EspruinoHub) - A BLE -&gt; MQTT bridge for Raspberry Pi and other Embedded devices
 - [Yevgenium/weather-chart-card](https://github.com/Yevgenium/weather-chart-card) - Custom weather card with charts
+- [Th30neAnd0nly/AIRAVAT](https://github.com/Th30neAnd0nly/AIRAVAT) - A multifunctional Android RAT with GUI based Web Panel without port forwarding.
 - [Interstellar0verdrive/frontail_AEM](https://github.com/Interstellar0verdrive/frontail_AEM) - 📝 streaming logs to the browser
 - [sinedied/dmx-hue](https://github.com/sinedied/dmx-hue) - :traffic_light: Art-Net node to control Philips Hue lights with DMX
 - [mlamberts78/weather-chart-card](https://github.com/mlamberts78/weather-chart-card) - Custom weather card with charts.
@@ -1293,7 +1293,7 @@
 - [b0mbays/ha-pi-continuously-cast](https://github.com/b0mbays/ha-pi-continuously-cast) - Python system service to continuously cast Home Assistant to a Google Chromecast device
 - [ustayready/golddigger](https://github.com/ustayready/golddigger) - 
 - [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered enterprise search engine 🔎
-- [dala318/python_poollab](https://github.com/dala318/python_poollab) - Python API for Pool Lab 1.0
+- [dala318/python_poollab](https://github.com/dala318/python_poollab) - Python API for Pool Lab
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [skeetzo/onlysnarf](https://github.com/skeetzo/onlysnarf) - OnlyFans Automation Tool
 - [cgarwood/homeassistant-fullykiosk](https://github.com/cgarwood/homeassistant-fullykiosk) - Fully Kiosk Browser integration for Home Assistant
