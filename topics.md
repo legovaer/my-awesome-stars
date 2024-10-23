@@ -1810,6 +1810,7 @@
 
 ## hacktoberfest 
 
+- [andrew-codechimp/HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) - A Home Assistant integration to provide battery notes of devices
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [skius/rm-pdf-tools](https://github.com/skius/rm-pdf-tools) - PDF tools for reMarkable tablets
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the int
@@ -2027,7 +2028,7 @@
 - [jcwillox/lovelace-paper-buttons-row](https://github.com/jcwillox/lovelace-paper-buttons-row) - Adds highly configurable buttons that use actions and per-state styling.
 - [hugobloem/esp-ha-speech](https://github.com/hugobloem/esp-ha-speech) - Local speech recognition on an ESP32 for Home Assistant
 - [to4ko/myconfig](https://github.com/to4ko/myconfig) - My Home Assistant config
-- [dala318/python_poollab](https://github.com/dala318/python_poollab) - Python API for Pool Lab 1.0
+- [dala318/python_poollab](https://github.com/dala318/python_poollab) - Python API for Pool Lab
 - [GeorgeSG/lovelace-time-picker-card](https://github.com/GeorgeSG/lovelace-time-picker-card) - 🕰️ Time Picker Card for Home Assistant's Lovelace UI
 - [Hankanman/Home-Assistant](https://github.com/Hankanman/Home-Assistant) - 
 - [cgarwood/homeassistant-fullykiosk](https://github.com/cgarwood/homeassistant-fullykiosk) - Fully Kiosk Browser integration for Home Assistant
@@ -3872,7 +3873,7 @@
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 Build, run, and manage data pipelines for integrating and transforming data.
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-- [dala318/python_poollab](https://github.com/dala318/python_poollab) - Python API for Pool Lab 1.0
+- [dala318/python_poollab](https://github.com/dala318/python_poollab) - Python API for Pool Lab
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [commixproject/commix](https://github.com/commixproject/commix) - Automated All-in-One OS Command Injection Exploitation Tool.
 - [AzeemIdrisi/PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro) - An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.
