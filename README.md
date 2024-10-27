@@ -713,7 +713,6 @@
 - [jakowenko/double-take](https://github.com/jakowenko/double-take) - Unified UI and API for processing and training images for facial recognition.
 - [Burningstone91/smart-home-setup](https://github.com/Burningstone91/smart-home-setup) - Installation and Configuration of my Smart Home Setup
 - [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
-- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [matt-kruse/find-my-iphone](https://github.com/matt-kruse/find-my-iphone) - A Node module to trigger the "Find My iPhone" feature from iCloud, to play a sound on the phone
 - [legovaer/be.lgit.bayesian](https://github.com/legovaer/be.lgit.bayesian) - 
 - [Christian-Me/node-red-contrib-homie-convention](https://github.com/Christian-Me/node-red-contrib-homie-convention) - Node-RED node for MQTT communication according the Homie Convention
@@ -1212,7 +1211,7 @@
 - [alandtse/alexa_media_player](https://github.com/alandtse/alexa_media_player) - This is a custom component to allow control of Amazon Alexa devices in Home Assistant using the unofficial Alexa API.
 - [keatontaylor/alexa-actions](https://github.com/keatontaylor/alexa-actions) - A README and associated code to get actionable notifications setup for Alexa devices.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts in-depth web research on any given topic
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts in-depth local and web research on any given topic
 - [Daanoz/ha-google-photos](https://github.com/Daanoz/ha-google-photos) - Home Assistant Google Photos integration
 - [swagkarna/fb_friend_list_scraper](https://github.com/swagkarna/fb_friend_list_scraper) - OSINT tool to scrape names and usernames from large friend lists on Facebook, without being rate limited.
 - [Ankesh054-official/LittleBrother-GUI-](https://github.com/Ankesh054-official/LittleBrother-GUI-) - LittleBrother is an information collection tool (OSINT), It is basically a CLI based tool which aims to carry out research on a French, Swiss,Luxembourgish or Belgian person.It provides various module
@@ -1988,6 +1987,7 @@
 - [dangreco/home-assistant-nextjs-starter](https://github.com/dangreco/home-assistant-nextjs-starter) - Starter template for Next.js-based Home Assistant frontends.
 - [mKeRix/room-assistant](https://github.com/mKeRix/room-assistant) - Presence tracking and more for automation on the room-level
 - [zachowj/node-red-contrib-home-assistant-websocket](https://github.com/zachowj/node-red-contrib-home-assistant-websocket) - Node-RED integration with Home Assistant
+- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [atlassian/github-for-jira](https://github.com/atlassian/github-for-jira) - Connect your code with your project management in Jira
 - [NarrativeScience-old/log.io](https://github.com/NarrativeScience-old/log.io) - Real-time log monitoring in your browser
 - [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
