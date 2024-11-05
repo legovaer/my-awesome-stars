@@ -556,7 +556,7 @@
 - [Phalcode/gamevault-docs](https://github.com/Phalcode/gamevault-docs) - Documentation for the self-hosted gaming platform for drm-free games
 - [jonasschmedtmann/ultimate-react-course](https://github.com/jonasschmedtmann/ultimate-react-course) - Starter files, final projects, and FAQ for my Ultimate React course
 - [pistazie/cdk-dia](https://github.com/pistazie/cdk-dia) - Automated diagrams of CDK provisioned infrastructure
-- [p6m7g8/awesome-projen](https://github.com/p6m7g8/awesome-projen) - P6M7G8's Awesome Projen
+- [p6m7g8/awesome-projen](https://github.com/p6m7g8/awesome-projen) - P6M7G8: Awesome Projen
 - [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Fractal Graph-of-Thought. Rhizomatic Mind-Mapping for Ai-Agents, Web-Links, Notes, and Code.
 - [rogerquake/home_automation](https://github.com/rogerquake/home_automation) - 
 - [DJWoodZ/Satisfactory-Discord-Bot](https://github.com/DJWoodZ/Satisfactory-Discord-Bot) - A Discord bot that posts Satisfactory Dedicated Server status information such as online players.
