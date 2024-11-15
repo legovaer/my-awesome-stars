@@ -141,7 +141,6 @@
 - [sblantipodi/glow_worm_luciferin](https://github.com/sblantipodi/glow_worm_luciferin) - Bias Lighting and Ambient Light firmware, designed for Firefly Luciferin.
 - [badaix/snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
 - [Hagakurje/ESPHome_Gree_AC](https://github.com/Hagakurje/ESPHome_Gree_AC) - 
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [limengdu/MR24HPC1_HomeAssistant](https://github.com/limengdu/MR24HPC1_HomeAssistant) - 
 - [limengdu/Seeed_24GHz_Human_Static_Presence_Module_Lite](https://github.com/limengdu/Seeed_24GHz_Human_Static_Presence_Module_Lite) - 
 - [thefipster/esphome-mmwave-sensors](https://github.com/thefipster/esphome-mmwave-sensors) - ESPHome integration for mmWave Sensors from Seeed Studio
@@ -275,6 +274,7 @@
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [marcus-crane/october](https://github.com/marcus-crane/october) - A simple GUI for retrieving Kobo highlights and syncing them with Readwise
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -1850,7 +1850,7 @@
 - [aws-samples/amazon-eks-cicd-codebuild](https://github.com/aws-samples/amazon-eks-cicd-codebuild) - Amazon EKS CI/CD with CodeBuild in AWS CDK
 - [aws-quickstart/cdk-eks-blueprints](https://github.com/aws-quickstart/cdk-eks-blueprints) - AWS Quick Start Team
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity
-- [aeharding/voyager](https://github.com/aeharding/voyager) - Voyager — a mobile-first Lemmy client
+- [aeharding/voyager](https://github.com/aeharding/voyager) - Voyager — a beautiful app for Lemmy
 - [usernein/tailwindcss-template-card](https://github.com/usernein/tailwindcss-template-card) - Custom card for Home Assistant that renders html code with TailwindCSS styles into the dashboard
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [cdklabs/cdk-cloudformation](https://github.com/cdklabs/cdk-cloudformation) - 
