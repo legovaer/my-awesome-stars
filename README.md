@@ -240,7 +240,6 @@
 - [vulhub/vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
 - [bertbaron/hassio-addons](https://github.com/bertbaron/hassio-addons) - My Home Assistant addons
 - [nolte/vscode-devcontainers](https://github.com/nolte/vscode-devcontainers) - 
-- [solidnerd/docker-bookstack](https://github.com/solidnerd/docker-bookstack) - BookStack in a container
 
 ## EJS 
 
@@ -811,6 +810,7 @@
 
 ## MDX 
 
+- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 
@@ -1403,7 +1403,7 @@
 - [blacklanternsecurity/credshed](https://github.com/blacklanternsecurity/credshed) - credshed - a scalable database for credential leaks.  Written in Python, it can easily ingest poorly-formatted files or entire directories into a searchable database.  MongoDB is used in the backend.
 - [blacklanternsecurity/MANSPIDER](https://github.com/blacklanternsecurity/MANSPIDER) - Spider entire networks for juicy files sitting on SMB shares.  Search filenames or file content - regex supported!
 - [blacklanternsecurity/writehat](https://github.com/blacklanternsecurity/writehat) - A pentest reporting tool written in Python.  Free yourself from Microsoft Word.
-- [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - A recursive internet scanner for hackers. 🧡
+- [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
 - [pacjo/UTnotifier](https://github.com/pacjo/UTnotifier) - Python script providing UserTesting notifications
 - [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) - Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
@@ -1475,7 +1475,7 @@
 - [skalavala/mysmarthome](https://github.com/skalavala/mysmarthome) - :star: ALIVE Again! :star: SmartHome - Nothing but smarthome stuff here! Have fun browsing through my home automation setup... ping me on Discord with any questions! :thumbsup:
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [onedr0p/cluster-template](https://github.com/onedr0p/cluster-template) - A template for deploying a Talos Kubernetes cluster including Flux for GitOps
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source Security tool for AWS, Azure, GCP and Kubernetes to do security assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. 
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Cloud Security tool for AWS, Azure, GCP and Kubernetes. It helps for continuos monitoring, security assessments and audits, incident response, compliance, hardening and forensics re
 - [finity69x2/nws_alerts](https://github.com/finity69x2/nws_alerts) - An updated version of the nws_alerts custom integration for Home Assistant
 - [octodns/octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
@@ -1781,6 +1781,7 @@
 - [jayhardee9/docker-compose-infra](https://github.com/jayhardee9/docker-compose-infra) - Ansible playbooks for the Deploying Docker Compose Applications article.
 - [andrewjfreyer/monitor](https://github.com/andrewjfreyer/monitor) - Distributed advertisement-based BTLE presence detection reported via mqtt
 - [ScaleCity/docker-bookstack](https://github.com/ScaleCity/docker-bookstack) - BookStack in a container
+- [solidnerd/docker-bookstack](https://github.com/solidnerd/docker-bookstack) - BookStack in a container
 - [jx3-gitops-repositories/jx3-gke-gsm-gitea](https://github.com/jx3-gitops-repositories/jx3-gke-gsm-gitea) - Jenkins X 3.x Cluster Git Template for managing Kubernetes resources in a cluster using Google Secret Manager and using Gitea as the git provider
 - [tektoncd/catalog](https://github.com/tektoncd/catalog) - Catalog of shared Tasks and Pipelines.
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
@@ -1875,7 +1876,6 @@
 - [AalianKhan/mushroom-strategy](https://github.com/AalianKhan/mushroom-strategy) - A strategy to automatically generate a dashboard using mushroom cards
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
-- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
 - [Gh61/lovelace-hue-like-light-card](https://github.com/Gh61/lovelace-hue-like-light-card) - This card provides a Hue-like way to control your lights in Home Assistant.
 - [jcwillox/lovelace-paper-buttons-row](https://github.com/jcwillox/lovelace-paper-buttons-row) - Adds highly configurable buttons that use actions and per-state styling.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
