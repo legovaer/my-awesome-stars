@@ -461,6 +461,7 @@
 - [dsdanielpark/amazing-bard-prompts](https://github.com/dsdanielpark/amazing-bard-prompts) - This repo includes Google Bard prompt curation to use Bard better.
 - [mr-karan/homelab](https://github.com/mr-karan/homelab) - Infra-as-code for my personal home server setup
 - [balloob/homeassistant-config](https://github.com/balloob/homeassistant-config) - 🏡 My Home Assistant Configs. Be sure to :star2: my repo to follow the updates!
+- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
 - [teubert/DAKBoard-Alerts](https://github.com/teubert/DAKBoard-Alerts) - DAKBoard Widget that displays alerts
 - [IgnoranceAI/hugh](https://github.com/IgnoranceAI/hugh) - A voice-powered AI built with Whisper, ChatGPT, and ElevenLabs
 - [cisagov/decider](https://github.com/cisagov/decider) - A web application that assists network defenders, analysts, and researchers in the process of mapping adversary behaviors to the MITRE ATT&CK® framework.
@@ -810,7 +811,6 @@
 
 ## MDX 
 
-- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 
