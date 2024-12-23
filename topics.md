@@ -259,6 +259,7 @@
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
 - [jyguyomarch/awesome-conversational-ai](https://github.com/jyguyomarch/awesome-conversational-ai) - A curated list of delightful Conversational AI resources.
 - [DonDebonair/slack-machine](https://github.com/DonDebonair/slack-machine) - A simple, yet powerful and extendable Slack bot
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2022
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
