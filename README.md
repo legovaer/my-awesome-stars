@@ -451,6 +451,7 @@
 
 ## HTML 
 
+- [panhans/HomeAssistant](https://github.com/panhans/HomeAssistant) - Home Asisstant related stuff like blueprints for automations and scripts.
 - [Madelena/home-assistant.io](https://github.com/Madelena/home-assistant.io) - :blue_book: Home Assistant User documentation
 - [zaneclaes/van-home-assistant-config](https://github.com/zaneclaes/van-home-assistant-config) - Home Assistant configuration for use in a car/van/vehicle
 - [Th30neAnd0nly/Ohm](https://github.com/Th30neAnd0nly/Ohm) - Android RAT with web panel and undetectable App
@@ -860,7 +861,6 @@
 - [Nerivec/SmartHomeEnhanced](https://github.com/Nerivec/SmartHomeEnhanced) - Tips, tricks, scripts to enhance your smart home.
 - [zygiss/snmp-exporter-unifi](https://github.com/zygiss/snmp-exporter-unifi) - Prometheus SNMP exporter generator & SNMP configs for UniFi access points
 - [herveaurel/HomeAssistant](https://github.com/herveaurel/HomeAssistant) - Mad-Geek : My Custom Dashboard
-- [panhans/HomeAssistant](https://github.com/panhans/HomeAssistant) - Home Asisstant related stuff like blueprints for automations and scripts.
 - [Full-Monitoring/oluas_proxmox](https://github.com/Full-Monitoring/oluas_proxmox) - Consumindo a API do Proxmox com HTTP Agent
 - [AgentOps-AI/BestGPTs](https://github.com/AgentOps-AI/BestGPTs) - Top ranked OpenAI GPTs
 - [Corsinvest/awesome-proxmox-ve](https://github.com/Corsinvest/awesome-proxmox-ve) - A collection of awesome Proxmox VE documentation, tools, api, blogs, site
