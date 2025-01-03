@@ -531,6 +531,7 @@
 - [vaughngx4/OpenSMM](https://github.com/vaughngx4/OpenSMM) - Self-hosted open source social media marketing
 - [FrancescoXX/social-dashboard](https://github.com/FrancescoXX/social-dashboard) - 
 - [martijnpoppen/ledcollection](https://github.com/martijnpoppen/ledcollection) - LED Ring patterns for Homey
+- [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 - [jake92918/Homeassistant-WLED-Card](https://github.com/jake92918/Homeassistant-WLED-Card) - Home Assistant Lovelace Card to control https://github.com/Aircoookie/WLED solution to "controlling WS2812B RGB LEDs with an ESP8266 over WiFi"
 - [Shaegi/Homeassistant-WLED-Card](https://github.com/Shaegi/Homeassistant-WLED-Card) - Home Assistant Lovelace Card to control https://github.com/Aircoookie/WLED solution to "controlling WS2812B RGB LEDs with an ESP8266 over WiFi"
 - [foundations-design/WhiteLight](https://github.com/foundations-design/WhiteLight) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
@@ -575,7 +576,6 @@
 - [craigary/nobelium](https://github.com/craigary/nobelium) - A static blog build on top of Notion and NextJS, deployed on Vercel.
 - [DrakenWan/Yale3](https://github.com/DrakenWan/Yale3) - A simple LinkedIn profile scraper implemented as a chrome extension
 - [vdrmota/Social-Media-and-Contact-Info-Extractor](https://github.com/vdrmota/Social-Media-and-Contact-Info-Extractor) - Run this scraper for free: https://apify.com/vdrmota/contact-info-scraper
-- [EPMatt/awesome-ha-blueprints](https://github.com/EPMatt/awesome-ha-blueprints) - A curated collection of automation blueprints for Home Assistant.
 - [akhilrex/podgrab](https://github.com/akhilrex/podgrab) - A self-hosted podcast manager/downloader/archiver tool to download podcast episodes as soon as they become live with an integrated player.
 - [wonderslug/MMM-HomeAssistantDisplay](https://github.com/wonderslug/MMM-HomeAssistantDisplay) - A Magic Mirror Module to display information from Home Assistant.
 - [zuo000/MMM-HomeAssistant](https://github.com/zuo000/MMM-HomeAssistant) - HomeAssistant module for MagicMirror2
@@ -814,6 +814,7 @@
 
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
+- [EPMatt/awesome-ha-blueprints](https://github.com/EPMatt/awesome-ha-blueprints) - A curated collection of automation blueprints for Home Assistant.
 
 ## Makefile 
 
@@ -1188,7 +1189,6 @@
 - [GhostManager/Ghostwriter](https://github.com/GhostManager/Ghostwriter) - The SpecterOps project management and reporting engine
 - [cliffe/SecGen](https://github.com/cliffe/SecGen) - Create randomly insecure VMs
 - [Ostorlab/oxo](https://github.com/Ostorlab/oxo) - OXO is a security scanning orchestrator for the modern age.
-- [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 - [bbhunter/h1domains](https://github.com/bbhunter/h1domains) - HackerOne "in scope" domains for all your fuzzing needs
 - [rhasspy/wyoming-satellite](https://github.com/rhasspy/wyoming-satellite) - Remote voice satellite using Wyoming protocol
 - [home-assistant/hassil](https://github.com/home-assistant/hassil) - Intent parsing for Home Assistant
@@ -1817,7 +1817,7 @@
 - [sourcegraph/cody](https://github.com/sourcegraph/cody) - Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code.
 - [NotTobi/soundcloud-dl](https://github.com/NotTobi/soundcloud-dl) - Extension for downloading SoundCloud tracks
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
-- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)
+- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [custom-cards/canvas-gauge-card](https://github.com/custom-cards/canvas-gauge-card) - The card makes it possible to use gauges from https://canvas-gauges.com/
 - [SecureAI-Tools/SecureAI-Tools](https://github.com/SecureAI-Tools/SecureAI-Tools) - Private and secure AI tools for everyone's productivity.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management 
