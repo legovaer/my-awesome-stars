@@ -1720,7 +1720,6 @@
 - [kubernetes/examples](https://github.com/kubernetes/examples) - Kubernetes application example tutorials
 - [LucasLarson/dotfiles](https://github.com/LucasLarson/dotfiles) - This is where the ♥️ is                                   at.
 - [blacklanternsecurity/kali-setup-script](https://github.com/blacklanternsecurity/kali-setup-script) - Bash script which prepares Kali for a pentest by enabling session logging, installing tools, and making common configuration changes
-- [okelet/docker-graylog-demo](https://github.com/okelet/docker-graylog-demo) - 
 - [hassio-addons/addon-glances](https://github.com/hassio-addons/addon-glances) - Glances - Home Assistant Community Add-ons
 - [petersem/dockerholics](https://github.com/petersem/dockerholics) - Apps and examples from the Dockerholics group.
 - [asifbacchus/fail2banUFW](https://github.com/asifbacchus/fail2banUFW) - Fail2Ban setup that monitors UFW logs to detect and dynamically blacklist systems that are port-probing your server.  Also monitors SSH as normal.
