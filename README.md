@@ -412,7 +412,7 @@
 - [dhinus/dokku-terraform](https://github.com/dhinus/dokku-terraform) - Install Dokku using Terraform
 - [ozbillwang/terraform-best-practices](https://github.com/ozbillwang/terraform-best-practices) - Terraform Best Practices for AWS users
 - [PagerDuty-Samples/event-orchestration-with-terraform](https://github.com/PagerDuty-Samples/event-orchestration-with-terraform) - Sample code for configuring Event Orchestration with Terraform
-- [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
+- [github-aws-runners/terraform-aws-github-runner](https://github.com/github-aws-runners/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [rohullah-ayoub/awslightsail-wordpress-terraform-](https://github.com/rohullah-ayoub/awslightsail-wordpress-terraform-) - Terraform configuration needed to setup a Wordpress site in Amazon Web Services(AWS) Lightsail.
 - [ishajain140/terraform_ansible_integration](https://github.com/ishajain140/terraform_ansible_integration) - Demonstration on how to integrate Terraform with Ansible
 - [joatmon08/terraform-aws-listenerrule-nia](https://github.com/joatmon08/terraform-aws-listenerrule-nia) - Consul-Terraform-Sync Module for AWS Application Load Balancer Listener Rules
@@ -748,7 +748,7 @@
 - [hassio-addons/addon-log-viewer](https://github.com/hassio-addons/addon-log-viewer) - Log Viewer - Home Assistant Community Add-ons
 - [neuroforgede/promswarm](https://github.com/neuroforgede/promswarm) - Modernized swarmprom
 - [lento234/homelab](https://github.com/lento234/homelab) - Personal homelab setup
-- [awfulwoman/infra](https://github.com/awfulwoman/infra) - Configuration for my home network/lab/playground.
+- [awfulwoman/infra](https://github.com/awfulwoman/infra) - Configuration for my home infrastructure.
 - [Freekers/ansible-adguard](https://github.com/Freekers/ansible-adguard) - Ansible playbook to setup AdGuard Home with Unbound, including DoH, DoT & Let's Encrypt, based on Docker
 - [hassio-addons/addon-airsonos](https://github.com/hassio-addons/addon-airsonos) - AirSonos - Home Assistant Community Add-ons
 - [Petro31/easy-time-jinja](https://github.com/Petro31/easy-time-jinja) - Easy Time calculations for Home Assistant templates
@@ -776,7 +776,6 @@
 ## Jupyter Notebook 
 
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
-- [crewAIInc/crewAI-examples](https://github.com/crewAIInc/crewAI-examples) - A collection of examples that show how to use CrewAI framework to automate workflows.
 - [NoDataFound/hackGPT](https://github.com/NoDataFound/hackGPT) - I leverage OpenAI and ChatGPT to do hackerish things
 - [langestefan/auto-sun-blind](https://github.com/langestefan/auto-sun-blind) - Automatically control your sun blinds via home assistant based on the position of the sun.
 - [BARarch/contacts-scraper](https://github.com/BARarch/contacts-scraper) - Headless Python web scraping google app output
@@ -1181,6 +1180,7 @@
 - [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
 - [ej52/hass-ollama-conversation](https://github.com/ej52/hass-ollama-conversation) - Ollama conversation integration for Home Assistant
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
+- [crewAIInc/crewAI-examples](https://github.com/crewAIInc/crewAI-examples) - A collection of examples that show how to use CrewAI framework to automate workflows.
 - [pfsensible/core](https://github.com/pfsensible/core) - Core modules for managing pfSense firewalls with ansible
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 - [slackr31337/PorcupinePipeline](https://github.com/slackr31337/PorcupinePipeline) - Use Porcupine wake word to trigger a voice assistant pipeline in Home-Assistant
