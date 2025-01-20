@@ -8,6 +8,7 @@
 - [AppleScript](#applescript)
 - [Astro](#astro)
 - [Berry](#berry)
+- [Blade](#blade)
 - [BlitzBasic](#blitzbasic)
 - [C](#c)
 - [C#](#c#)
@@ -70,6 +71,10 @@
 ## Berry 
 
 - [blakadder/nspanel](https://github.com/blakadder/nspanel) - Sonoff NSPanel protocol and hacking information. Tasmota Berry driver for NSPanel
+
+## Blade 
+
+- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 
 ## BlitzBasic 
 
@@ -616,7 +621,6 @@
 - [pedrolamas/docker-iot-stack](https://github.com/pedrolamas/docker-iot-stack) - :computer: My personal Docker IoT Stack
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [nervetattoo/banner-card](https://github.com/nervetattoo/banner-card) - A fluffy banner card for Home Assistant 🥰
-- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 - [aysark/dashing-timeline](https://github.com/aysark/dashing-timeline) - Stylish timeline widget for Dashing.io
 - [resoai/TileBoard](https://github.com/resoai/TileBoard) - A simple yet highly configurable Dashboard for HomeAssistant
 - [simplefocus/FlowType.JS](https://github.com/simplefocus/FlowType.JS) - Web typography at its finest: font-size and line-height based on element width.
