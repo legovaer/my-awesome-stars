@@ -1965,7 +1965,6 @@
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [uselagoon/lagoon](https://github.com/uselagoon/lagoon) - Lagoon, the developer-focused application delivery platform
-- [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP
 - [phpro/grumphp](https://github.com/phpro/grumphp) - A PHP code-quality tool
 - [Behat/Behat](https://github.com/Behat/Behat) - BDD in PHP
 
