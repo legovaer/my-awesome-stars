@@ -1207,7 +1207,6 @@
 - [synesthesiam/homeassistant-satellite](https://github.com/synesthesiam/homeassistant-satellite) - Streaming audio satellite for Home Assistant
 - [alandtse/alexa_media_player](https://github.com/alandtse/alexa_media_player) - This is a custom component to allow control of Amazon Alexa devices in Home Assistant using the unofficial Alexa API.
 - [keatontaylor/alexa-actions](https://github.com/keatontaylor/alexa-actions) - A README and associated code to get actionable notifications setup for Alexa devices.
-- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts local and web research on any topic and generates a comprehensive report with citations.
 - [Daanoz/ha-google-photos](https://github.com/Daanoz/ha-google-photos) - Home Assistant Google Photos integration
 - [swagkarna/fb_friend_list_scraper](https://github.com/swagkarna/fb_friend_list_scraper) - OSINT tool to scrape names and usernames from large friend lists on Facebook, without being rate limited.
@@ -1824,6 +1823,7 @@
 - [buttplugio/buttplug-js](https://github.com/buttplugio/buttplug-js) - Buttplug Typescript/Javascript Client Implementation
 - [t1gr0u/rain-gauge-card](https://github.com/t1gr0u/rain-gauge-card) - A Lovelace card that shows the rain gauge for Home Assistant
 - [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 7 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/o
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
 - [shannonhochkins/ha-component-kit](https://github.com/shannonhochkins/ha-component-kit) - A Home Assistant React component library to generate dashboards with ease, This utilizises a massive list of Components / cards to use out of the box, a large range of hooks to build your own custom f
 - [mowispace/react-native-logs](https://github.com/mowispace/react-native-logs) - Performance-aware simple logger for React-Native and Expo with namespaces, custom levels and custom transports (colored console, file writing, etc.)
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
