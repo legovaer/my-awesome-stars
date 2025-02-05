@@ -451,7 +451,6 @@
 - [Th30neAnd0nly/Ohm](https://github.com/Th30neAnd0nly/Ohm) - Android RAT with web panel and undetectable App
 - [swagkarna/Ohm](https://github.com/swagkarna/Ohm) - Android RAT with web panel and undetectable App
 - [swagkarna/osint_social](https://github.com/swagkarna/osint_social) - A collection of several hundred online tools for OSINT
-- [swagkarna/youtube-phishing-page](https://github.com/swagkarna/youtube-phishing-page) - this is the youtube phishing html, use it to grab anyones google account info ! Link : https://pinkythegawd.github.io/youtube-phishing-page/
 - [swagkarna/Nivistealer](https://github.com/swagkarna/Nivistealer) - steal victim images  exact location device info and much more
 - [dsdanielpark/amazing-bard-prompts](https://github.com/dsdanielpark/amazing-bard-prompts) - This repo includes Google Bard prompt curation to use Bard better.
 - [mr-karan/homelab](https://github.com/mr-karan/homelab) - Infra-as-code for my personal home server setup
