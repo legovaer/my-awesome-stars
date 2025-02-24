@@ -89,7 +89,7 @@
 - [matthiasbock/canon-pixma-printer-driver](https://github.com/matthiasbock/canon-pixma-printer-driver) - IJ Printer Driver Ver. 3.80 for Linux
 - [adamdoupe/adamd-pocs](https://github.com/adamdoupe/adamd-pocs) - 
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
-- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
+- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
 - [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) - GameStream client for Android
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense) - An ESP32 based node for gathering indoor positioning and transmitting to mqtt
@@ -151,7 +151,7 @@
 - [rosmo/m5paper-homeassistant](https://github.com/rosmo/m5paper-homeassistant) - Home Assistant functionality with M5Paper
 - [convexvr/sims4-vr](https://github.com/convexvr/sims4-vr) - Sims 4 plugin that adds VR functionality
 - [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip) - Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards
-- [wled/WLED](https://github.com/wled/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
+- [wled/WLED](https://github.com/wled/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [SamZorSec/Open-Home-Automation](https://github.com/SamZorSec/Open-Home-Automation) - Open Home Automation with Home Assistant, ESP8266/ESP32 and MQTT
 - [igiannakas/mmWave-Presense-Sensor-D1-Mini-DFRobot-](https://github.com/igiannakas/mmWave-Presense-Sensor-D1-Mini-DFRobot-) - Room presence detection using mmWave radar (DFRobot SEN0395), D1 Mini ESP-8266 and ESPHome for HomeAssistant
