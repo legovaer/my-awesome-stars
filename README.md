@@ -253,7 +253,7 @@
 - [skius/rm-pdf-tools](https://github.com/skius/rm-pdf-tools) - PDF tools for reMarkable tablets
 - [Eeems/rmfakecloud](https://github.com/Eeems/rmfakecloud) - fake cloud api
 - [ddvk/rmfakecloud](https://github.com/ddvk/rmfakecloud) - host your own cloud for the remarkable
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the int
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [jedrw/kproximate](https://github.com/jedrw/kproximate) - A Kubernetes node autoscaler for Proxmox
@@ -496,7 +496,7 @@
 ## Java 
 
 - [Nyceane/vehicle-rear-vision](https://github.com/Nyceane/vehicle-rear-vision) - open source vehicle rear vision using Intel Joule, connected with RealSense Camera and Walabot
-- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips
+- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
 - [sblantipodi/firefly_luciferin](https://github.com/sblantipodi/firefly_luciferin) - Very fast Java screen capture PC software designed for the Glow Worm Luciferin firmware, the combination of these software create the perfect Bias Lighting and Ambient Light system for PC.
 - [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight virtual keyboard for developers.
 - [cdklabs/aws-cdk-testing-examples](https://github.com/cdklabs/aws-cdk-testing-examples) - 
@@ -1108,7 +1108,7 @@
 - [minhajul/laravel-grafana](https://github.com/minhajul/laravel-grafana) - Monitoring the performance of the Laravel app using Grafana, Prometheus, and Loki. Containerizing the project using Docker.
 - [IBM/drupal-nginx-php-kubernetes](https://github.com/IBM/drupal-nginx-php-kubernetes) - Demonstration of a set of NGINX and PHP-FPM containers running Drupal deployed to Kubernetes on the IBM Container Service.
 - [thereference/stomp](https://github.com/thereference/stomp) - Stomp module port to Drupal 8
-- [wunderio/drupal-project](https://github.com/wunderio/drupal-project) - Wunder's template for Drupal projects designed to work automatically with Lando, CircleCI and Helm.
+- [wunderio/drupal-project](https://github.com/wunderio/drupal-project) - Wunder's template for Drupal projects designed to work automatically with DDEV, Lando, CircleCI and Helm.
 - [GitLabPHP/Client](https://github.com/GitLabPHP/Client) - GitLab API v4 client for PHP
 - [contentacms/contenta_jsonapi](https://github.com/contentacms/contenta_jsonapi) - Contenta CMS, the decoupled Drupal
 - [thereference/drupal-security-audit](https://github.com/thereference/drupal-security-audit) - drupal-security-audit is a set of PHP_CodeSniffer rules that finds vulnerabilities and weaknesses related to security in your Drupal code.
